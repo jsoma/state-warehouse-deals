@@ -18,7 +18,7 @@ for product in products:
         price = int(variant['price'] / 100)
         type_ = product['type'].replace("|", "!")
         name = variant['name']
-        content += f"| {price:>6} | {type_:<15.15} | {name} |\n"
+        content += f"| ${price:>6} | {type_:<15.15} | {name} |\n"
 
 with open("README.md", "w") as fp:
     fp.write(content)
