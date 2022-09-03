@@ -58,6 +58,12 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
 |   $325 | Bicycles        | OPEN BOX ITEM: Delfin - Core-Line - Size Small (50cm) |
 |   $249 | Wheels          | Essor USA - v2 Bolt 31 Track Wheel Set |
+|   $185 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Small |
+|   $185 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Medium |
+|   $185 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Large |
+|   $185 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Small |
+|   $185 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Medium |
+|   $185 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Large |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $85 | closeout        | #607 - All Road Wheel 650b - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
@@ -135,6 +141,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Large |
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Large |
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - XX-Large |
-|    $27 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Black |
-|    $27 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - White |
-|    $27 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Tie-Dye |
