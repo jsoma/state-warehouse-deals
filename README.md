@@ -123,11 +123,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
-|    $48 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Red Bat" All-Road Jersey - Sustainable Clothing Collection - Small |
-|    $35 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Red Bat" All-Road Jersey - Sustainable Clothing Collection - Medium |
-|    $48 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Red Bat" All-Road Jersey - Sustainable Clothing Collection - Large |
-|    $48 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Red Bat" All-Road Jersey - Sustainable Clothing Collection - X-Large |
-|    $48 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Red Bat" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
 |    $35 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Small |
 |    $35 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Medium |
 |    $35 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Large |
@@ -143,3 +138,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $27 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - White |
 |    $27 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Tie-Dye |
 |    $25 | Misc. Parts     | Kenda - Small Block Eight CX Tire |
+|    $25 | Accessories     | State Bicycle Co.  x Ozzy Osbourne -  All-Road Bar Bag |
