@@ -48,7 +48,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
-|   $345 | closeout        | #PMCNA - Klunker - Corona - Like-New Condition (Photo Model / Media Sample) |
 |   $345 | Bicycles        | OPEN BOX ITEM: Wulf - Core-Line - Size Small (50cm) |
 |   $335 | Bicycles        | OPEN BOX ITEM: Rigby - Core-Line - Size Small (50cm) |
 |   $325 | Bicycles        | OPEN BOX ITEM: Delfin - Core-Line - Size X-Small (46cm) |
@@ -144,3 +143,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | Jerseys + Kits  | "Holiday Gift Rap" Jersey/Bib Combo - Large |
 |    $25 | Jerseys + Kits  | "Holiday Gift Rap" Jersey/Bib Combo - Extra Large |
 |    $25 | Jerseys + Kits  | "Holiday Gift Rap" Jersey/Bib Combo - XX-Large |
+|    $19 | Shirts          | State Bicycle Co. x Grateful Dead -  Dancing Bears T-Shirt - Small |
+|    $19 | Shirts          | State Bicycle Co. x Grateful Dead -  Dancing Bears T-Shirt - Medium |
+|    $19 | Shirts          | State Bicycle Co. x Grateful Dead -  Dancing Bears T-Shirt - Large |
+|    $19 | Shirts          | State Bicycle Co. x Grateful Dead -  Dancing Bears T-Shirt - Extra Large |
