@@ -103,7 +103,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | closeout        | #584 - State Bicycle Co. Lo-Pro Road Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
 |    $55 | closeout        | #583 - State Bicycle Co. Lo-Pro Road Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
 |    $55 | closeout        | #581 - State Bicycle Co. Lo-Pro Track Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
-|    $55 | closeout        | #580 - Black Label Series: Mid-Profile Track Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
 |    $45 | closeout        | #631 - State Bicycle Co. Lo-Pro Track Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Small |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Medium |
@@ -139,3 +138,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $27 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Tie-Dye |
 |    $25 | Misc. Parts     | Kenda - Small Block Eight CX Tire |
 |    $25 | Accessories     | State Bicycle Co.  x Ozzy Osbourne -  All-Road Bar Bag |
+|    $25 | Jerseys + Kits  | "Holiday Gift Rap" Jersey/Bib Combo - Extra Small |
+|    $25 | Jerseys + Kits  | "Holiday Gift Rap" Jersey/Bib Combo - Small |
+|    $25 | Jerseys + Kits  | "Holiday Gift Rap" Jersey/Bib Combo - Medium |
+|    $25 | Jerseys + Kits  | "Holiday Gift Rap" Jersey/Bib Combo - Large |
+|    $25 | Jerseys + Kits  | "Holiday Gift Rap" Jersey/Bib Combo - Extra Large |
+|    $25 | Jerseys + Kits  | "Holiday Gift Rap" Jersey/Bib Combo - XX-Large |
