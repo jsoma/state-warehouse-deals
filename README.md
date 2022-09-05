@@ -41,7 +41,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Riser Bars |
 |   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Drop Bars |
 |   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") - Estimated Shipping Mid-July / Bullhorn Bars |
-|   $385 | closeout        | #OBI - Klunker - State Bicycle Co. x Wu-Tang Clan - Excellent Condtion |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
@@ -153,3 +152,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Extra Large |
 |    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
 |    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
+|    $14 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
