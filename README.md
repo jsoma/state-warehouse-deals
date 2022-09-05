@@ -3,12 +3,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
-|  $1245 | closeout        | #PM - 6061 - eBike Commuter - Matte Black- Size Medium- Like-New Condition (Photo Model) |
 |  $1225 | closeout        | #PM - Undefeated Disc Road  - Pearl / Tie-Dye - 55cm - Like-New Condition (Photo Model / Media Sample) |
 |  $1199 | closeout        | #OBI - 6061 All-Road - Dark Woodland (650b) -  Medium - Like-New Condition |
 |  $1199 | closeout        | #OBI - 6061 All-Road - Deep Pacific (650b) -  Medium - Like-New Condition |
 |   $550 | closeout        | #OBI - 6061 All-Road - Dark Woodland- Framest - Size M (54cm) - Like-New Condition |
-|   $545 | closeout        | #591 - 6061 All-Road - Dark Woodland- Frameset - Size L (58cm) - Like-New Condition |
 |   $525 | 4130 Road       | State Bicycle Co. x National Park Foundation - 4130-Road - Glacier Edition - (8-Speed) - 49 cm (Riders 5'1"-5'4") |
 |   $525 | 4130 Road       | State Bicycle Co. x National Park Foundation - 4130-Road - Glacier Edition - (8-Speed) - 52 cm (Riders 5'4"-5'7") |
 |   $525 | 4130 Road       | State Bicycle Co. x National Park Foundation - 4130-Road - Glacier Edition - (8-Speed) - 55 cm (Riders 5'7"-5'11") |
@@ -147,3 +145,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Shirts          | State Bicycle Co. x Grateful Dead -  Dancing Bears T-Shirt - Medium |
 |    $19 | Shirts          | State Bicycle Co. x Grateful Dead -  Dancing Bears T-Shirt - Large |
 |    $19 | Shirts          | State Bicycle Co. x Grateful Dead -  Dancing Bears T-Shirt - Extra Large |
+|    $18 | Misc. Parts     | #CLEARANCEITEM - Michelin Dynamic Classic Tire - 700x28 |
+|    $14 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Small |
+|    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Medium |
+|    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Large |
+|    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Extra Large |
+|    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - 2xl |
