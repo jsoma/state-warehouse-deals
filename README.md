@@ -4,7 +4,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |price|type|name|
 |---|---|---|
 |  $1225 | closeout        | #PM - Undefeated Disc Road  - Pearl / Tie-Dye - 55cm - Like-New Condition (Photo Model / Media Sample) |
-|  $1199 | closeout        | #OBI - 6061 All-Road - Dark Woodland (650b) -  Medium - Like-New Condition |
 |  $1199 | closeout        | #OBI - 6061 All-Road - Deep Pacific (650b) -  Medium - Like-New Condition |
 |   $550 | closeout        | #OBI - 6061 All-Road - Dark Woodland- Framest - Size M (54cm) - Like-New Condition |
 |   $525 | 4130 Road       | State Bicycle Co. x National Park Foundation - 4130-Road - Glacier Edition - (8-Speed) - 49 cm (Riders 5'1"-5'4") |
@@ -62,7 +61,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $185 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Large |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
-|    $85 | closeout        | #607 - All Road Wheel 650b - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $85 | closeout        | #586- All Road Wheel 700c - Front only - with Rotor - Brand New Take-Offs |
 |    $69 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Small |
 |    $69 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Medium |
@@ -151,3 +149,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Large |
 |    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Extra Large |
 |    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - 2xl |
+|    $14 | Shirts          | State Bicycle Co. - "Riding High" - Premium T-Shirt (Tan) - Small |
+|    $14 | Shirts          | State Bicycle Co. - "Riding High" - Premium T-Shirt (Tan) - Medium |
+|    $14 | Shirts          | State Bicycle Co. - "Riding High" - Premium T-Shirt (Tan) - Large |
+|    $14 | Shirts          | State Bicycle Co. - "Riding High" - Premium T-Shirt (Tan) - Extra Large |
+|    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Small |
+|    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Medium |
+|    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Large |
+|    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Extra Large |
