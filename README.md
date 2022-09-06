@@ -135,10 +135,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Large |
 |    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Extra Large |
 |    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - 2xl |
-|    $14 | Shirts          | State Bicycle Co. - "Riding High" - Premium T-Shirt (Tan) - Small |
-|    $14 | Shirts          | State Bicycle Co. - "Riding High" - Premium T-Shirt (Tan) - Medium |
-|    $14 | Shirts          | State Bicycle Co. - "Riding High" - Premium T-Shirt (Tan) - Large |
-|    $14 | Shirts          | State Bicycle Co. - "Riding High" - Premium T-Shirt (Tan) - Extra Large |
 |    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Small |
 |    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Medium |
 |    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Large |
@@ -150,3 +146,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | State Bicycle Co. - "Crossing the T's" Beanie |
 |    $12 | Hats            | State Bicycle Co. - "Aero" - Runner's Hat (Black) |
 |     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
+|     $3 | Bottle          | The Simpsons X State Bicycle Co. - Color Block Bottle |
