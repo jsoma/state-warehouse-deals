@@ -43,7 +43,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
-|   $335 | Bicycles        | OPEN BOX ITEM: Rigby - Core-Line - Size Small (50cm) |
 |   $325 | Bicycles        | OPEN BOX ITEM: Delfin - Core-Line - Size X-Small (46cm) |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
@@ -147,3 +146,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $12 | Hats            | State Bicycle Co. - "Aero" - Runner's Hat (Black) |
 |     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
 |     $3 | Bottle          | The Simpsons X State Bicycle Co. - Color Block Bottle |
+|     $3 | Bottle          | The Simpsons X State Bicycle Co. - Springfield Character Bottle |
