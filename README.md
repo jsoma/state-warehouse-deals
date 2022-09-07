@@ -140,7 +140,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | Jerseys + Kits  | "Holiday Gift Rap" Jersey/Bib Combo - Large |
 |    $25 | Jerseys + Kits  | "Holiday Gift Rap" Jersey/Bib Combo - Extra Large |
 |    $25 | Jerseys + Kits  | "Holiday Gift Rap" Jersey/Bib Combo - XX-Large |
-|    $18 | Misc. Parts     | #CLEARANCEITEM - Michelin Dynamic Classic Tire - 700x28 |
 |    $14 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Small |
 |    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Medium |
 |    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Large |
@@ -158,3 +157,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $12 | Hats            | State Bicycle Co. - "Aero" - Runner's Hat (Black) |
 |     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
 |     $3 | Bottle          | The Simpsons X State Bicycle Co. - Color Block Bottle |
+|     $3 | Bottle          | The Simpsons X State Bicycle Co. - Springfield Character Bottle |
