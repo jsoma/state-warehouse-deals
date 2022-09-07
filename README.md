@@ -40,9 +40,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 49 cm (Riders 5'1"-5'4") / Bullhorn Bars |
 |   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 49 cm (Riders 5'1"-5'4") / Riser Bars |
 |   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 49 cm (Riders 5'1"-5'4") / Drop Bars |
-|   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 52 cm (Riders 5'4"-5'7") / Bullhorn Bars |
-|   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 52 cm (Riders 5'4"-5'7") / Riser Bars |
-|   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 52 cm (Riders 5'4"-5'7") / Drop Bars |
+|   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 52 cm (Riders 5'4"-5'7") - Estimated Shipping Mid-September / Bullhorn Bars |
+|   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 52 cm (Riders 5'4"-5'7") - Estimated Shipping Mid-September / Riser Bars |
+|   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 52 cm (Riders 5'4"-5'7") - Estimated Shipping Mid-September / Drop Bars |
 |   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 55 cm (Riders 5'7"-5'11") - Estimated Shipping Mid-September / Bullhorn Bars |
 |   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 55 cm (Riders 5'7"-5'11") - Estimated Shipping Mid-September / Riser Bars |
 |   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 55 cm (Riders 5'7"-5'11") - Estimated Shipping Mid-September / Drop Bars |
