@@ -3,7 +3,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
+|  $1245 | closeout        | #PM - 6061 - eBike Commuter - Matte Black- Size Medium- Like-New Condition (Photo Model) |
 |  $1195 | closeout        | #PM - Undefeated Disc Road  - Pearl / Tie-Dye - 55cm - Like-New Condition (Photo Model / Media Sample) |
+|   $750 | closeout        | #PM4130 - 4130 All-Road - Flat Bar - Cupertino Pearl (Large 650b) Like-New Condition (Photo Model) |
+|   $750 | closeout        | #PM4130 - 4130 All-Road - Flat Bar - Cupertino Pearl (Medium 650b) Like-New Condition (Photo Model) |
 |   $645 | 6061 Black Labe | 6061 Black Label v2 - Valley Edition - 49 cm (Riders 5'0" - 5'3") / Compact Drops |
 |   $645 | 6061 Black Labe | 6061 Black Label v2 - Valley Edition - 49 cm (Riders 5'0" - 5'3") / Wide Riser w/ Vans Grips |
 |   $645 | 6061 Black Labe | 6061 Black Label v2 - Valley Edition - 52 cm (Riders 5'3" - 5'6") / Compact Drops |
@@ -52,9 +55,12 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Riser Bars |
 |   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Drop Bars |
 |   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") - Estimated Shipping Mid-July / Bullhorn Bars |
+|   $395 | closeout        | #OpenBoxItem - State Bicycle Co. x Grateful Dead - Lightning Bolt Klunker (27.5")- Brand New |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
+|   $345 | closeout        | #PM - Klunker (Black & Metallic) - Like-New Condition (Photo Model / Media Sample) |
+|   $345 | closeout        | #PMCNA - Klunker - Corona - Like-New Condition (Photo Model / Media Sample) |
 |   $325 | Bicycles        | OPEN BOX ITEM: Delfin - Core-Line - Size X-Small (46cm) |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
@@ -152,9 +158,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
 |    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
 |    $14 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
-|    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
-|    $14 | Hats            | State Bicycle Co. - "Crossing the T's" Beanie |
-|    $12 | Hats            | State Bicycle Co. - "Aero" - Runner's Hat (Black) |
-|     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
-|     $3 | Bottle          | The Simpsons X State Bicycle Co. - Color Block Bottle |
-|     $3 | Bottle          | The Simpsons X State Bicycle Co. - Springfield Character Bottle |
