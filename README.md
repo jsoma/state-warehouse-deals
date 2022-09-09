@@ -101,7 +101,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Smiles For Miles Jersey  - Sustainable Clothing Collection (Mustard) - Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Smiles For Miles Jersey  - Sustainable Clothing Collection (Mustard) - X-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Smiles For Miles Jersey  - Sustainable Clothing Collection (Mustard) - XX-Large |
-|    $59 | closeout        | #587 - State Bicycle Co - Deep V Fixed-Gear (FRONT WHEEL ONLY) - Brand New Take-Offs |
 |    $55 | closeout        | #635- Klunker 27.5"  Front Wheel + Tire / Tube Only - Brand New Take-Offs |
 |    $55 | closeout        | #584 - State Bicycle Co. Lo-Pro Road Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
 |    $55 | closeout        | #583 - State Bicycle Co. Lo-Pro Road Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
@@ -158,3 +157,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
 |    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
 |    $14 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
+|    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
