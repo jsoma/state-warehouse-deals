@@ -81,11 +81,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $69 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Large |
 |    $69 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Extra Large |
 |    $69 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - XX-Large |
-|    $65 | Jerseys + Kits  | State Bicycle Co. - Astronaut Jersey  - Sustainable Clothing Collection (Black) - Small |
-|    $65 | Jerseys + Kits  | State Bicycle Co. - Astronaut Jersey  - Sustainable Clothing Collection (Black) - Medium |
-|    $65 | Jerseys + Kits  | State Bicycle Co. - Astronaut Jersey  - Sustainable Clothing Collection (Black) - Large |
-|    $65 | Jerseys + Kits  | State Bicycle Co. - Astronaut Jersey  - Sustainable Clothing Collection (Black) - X-Large |
-|    $65 | Jerseys + Kits  | State Bicycle Co. - Astronaut Jersey  - Sustainable Clothing Collection (Black) - XX-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Small |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Medium |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
@@ -158,3 +153,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
 |    $14 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
 |    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
+|    $14 | Hats            | State Bicycle Co. - "Crossing the T's" Beanie |
