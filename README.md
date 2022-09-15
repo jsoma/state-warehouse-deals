@@ -4,6 +4,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |price|type|name|
 |---|---|---|
 |  $1245 | closeout        | #PM - 6061 - eBike Commuter - Matte Black- Size Medium- Like-New Condition (Photo Model) |
+|  $1199 | closeout        | #OBI - 6061 All-Road - Dark Woodland (650b) -  Medium - Like-New Condition |
+|  $1199 | closeout        | #OBI - 6061 All-Road - Deep Pacific (650b) -  Medium - Like-New Condition |
 |  $1095 | closeout        | #PM - Undefeated Disc Road  - Pearl / Tie-Dye - 55cm - Like-New Condition (Photo Model / Media Sample) |
 |   $750 | closeout        | #PM4130 - 4130 All-Road - Flat Bar - Cupertino Pearl (Large 650b) Like-New Condition (Photo Model) |
 |   $750 | closeout        | #PM4130 - 4130 All-Road - Flat Bar - Cupertino Pearl (Medium 650b) Like-New Condition (Photo Model) |
@@ -148,5 +150,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
 |    $14 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
 |    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
-|    $14 | Hats            | State Bicycle Co. - "Crossing the T's" Beanie |
-|    $12 | Hats            | State Bicycle Co. - "Aero" - Runner's Hat (Black) |
