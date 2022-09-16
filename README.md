@@ -94,6 +94,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Sunset Jersey  - Sustainable Clothing Collection (Blue) - Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Sunset Jersey  - Sustainable Clothing Collection (Blue) - X-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Sunset Jersey  - Sustainable Clothing Collection (Blue) - XX-Large |
+|    $55 | closeout        | #647 - State Bicycle Co. Lo-Pro Track Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
 |    $55 | closeout        | #635- Klunker 27.5"  Front Wheel + Tire / Tube Only - Brand New Take-Offs |
 |    $55 | closeout        | #584 - State Bicycle Co. Lo-Pro Road Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
 |    $55 | closeout        | #583 - State Bicycle Co. Lo-Pro Road Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
@@ -149,4 +150,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Extra Large |
 |    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
 |    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
-|    $14 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
