@@ -66,7 +66,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
-|   $325 | Bicycles        | OPEN BOX ITEM: Delfin - Core-Line - Size Small (50cm) |
 |   $249 | Wheels          | Essor USA - v2 Bolt 31 Track Wheel Set |
 |   $185 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Small |
 |   $185 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Medium |
@@ -81,6 +80,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $69 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Large |
 |    $69 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Extra Large |
 |    $69 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - XX-Large |
+|    $65 | Misc. Accessori | #NewOpenBoxItem - Thousand Heritage Helmet - Carbon Black - Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Small |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Medium |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
