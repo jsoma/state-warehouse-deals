@@ -124,12 +124,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $27 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Tie-Dye |
 |    $25 | Misc. Parts     | Kenda - Small Block Eight CX Tire |
 |    $25 | Accessories     | State Bicycle Co.  x Ozzy Osbourne -  All-Road Bar Bag |
-|    $25 | Jerseys + Kits  | "Holiday Gift Rap" Jersey/Bib Combo - Extra Small |
-|    $25 | Jerseys + Kits  | "Holiday Gift Rap" Jersey/Bib Combo - Small |
-|    $25 | Jerseys + Kits  | "Holiday Gift Rap" Jersey/Bib Combo - Medium |
-|    $25 | Jerseys + Kits  | "Holiday Gift Rap" Jersey/Bib Combo - Large |
-|    $25 | Jerseys + Kits  | "Holiday Gift Rap" Jersey/Bib Combo - Extra Large |
-|    $25 | Jerseys + Kits  | "Holiday Gift Rap" Jersey/Bib Combo - XX-Large |
 |    $14 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Small |
 |    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Medium |
 |    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Large |
@@ -145,3 +139,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
 |    $14 | Hats            | State Bicycle Co. - "Crossing the T's" Beanie |
 |    $12 | Hats            | State Bicycle Co. - "Aero" - Runner's Hat (Black) |
+|     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
