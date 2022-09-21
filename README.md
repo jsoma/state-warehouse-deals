@@ -87,11 +87,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | closeout        | #584 - State Bicycle Co. Lo-Pro Road Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
 |    $55 | closeout        | #583 - State Bicycle Co. Lo-Pro Road Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
 |    $55 | closeout        | #581 - State Bicycle Co. Lo-Pro Track Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
-|    $65 | Jerseys + Kits  | State Bicycle Co. x Grateful Dead - Dancing Bears Bibs (Sustainable Clothing Collection) - Small |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Grateful Dead - Dancing Bears Bibs (Sustainable Clothing Collection) - Medium |
-|    $65 | Jerseys + Kits  | State Bicycle Co. x Grateful Dead - Dancing Bears Bibs (Sustainable Clothing Collection) - Large |
-|    $65 | Jerseys + Kits  | State Bicycle Co. x Grateful Dead - Dancing Bears Bibs (Sustainable Clothing Collection) - X-Large |
-|    $65 | Jerseys + Kits  | State Bicycle Co. x Grateful Dead - Dancing Bears Bibs (Sustainable Clothing Collection) - XX-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Small |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Medium |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Large |
@@ -131,3 +126,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Extra Large |
 |    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
 |    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
+|    $14 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
