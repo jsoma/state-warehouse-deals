@@ -10,6 +10,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $785 | closeout        | #659 - 4130 All-Road - Copper Brown w/ 650b wheels - Medium (51cm) - Excellent Condition |
 |   $750 | closeout        | #PM4130 - 4130 All-Road - Flat Bar - Cupertino Pearl (Large 650b) Like-New Condition (Photo Model) |
 |   $750 | closeout        | #PM4130 - 4130 All-Road - Flat Bar - Cupertino Pearl (Medium 650b) Like-New Condition (Photo Model) |
+|   $725 | closeout        | #662- 4130 All-Road - Pacific Gold w/ 700c wheels - Medium (51cm) - Good Condition |
 |   $645 | 6061 Black Labe | 6061 Black Label v2 - Valley Edition - 49 cm (Riders 5'0" - 5'3") / Compact Drops |
 |   $645 | 6061 Black Labe | 6061 Black Label v2 - Valley Edition - 49 cm (Riders 5'0" - 5'3") / Wide Riser w/ Vans Grips |
 |   $645 | 6061 Black Labe | 6061 Black Label v2 - Valley Edition - 52 cm (Riders 5'3" - 5'6") / Compact Drops |
@@ -42,6 +43,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $425 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $425 | City Bike       | City Bike - The Elliston (3 Speed) - Large (58 cm - Riders 6'0" - 6'4") |
 |   $395 | closeout        | #OpenBoxItem - State Bicycle Co. x Grateful Dead - Lightning Bolt Klunker (27.5")- Brand New |
+|   $385 | closeout        | #661- 4130 Road - Black & Metallic (8-speed) - 52cm - Very Good Condition |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
@@ -125,5 +127,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Extra Large |
 |    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
 |    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
-|    $14 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
-|    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
