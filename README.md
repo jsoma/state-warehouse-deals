@@ -7,7 +7,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1199 | closeout        | #OBI - 6061 All-Road - Dark Woodland (650b) -  Medium - Like-New Condition |
 |  $1199 | closeout        | #OBI - 6061 All-Road - Deep Pacific (650b) -  Medium - Like-New Condition |
 |  $1095 | closeout        | #PM - Undefeated Disc Road  - Pearl / Tie-Dye - 55cm - Like-New Condition (Photo Model / Media Sample) |
-|   $785 | closeout        | #659 - 4130 All-Road - Copper Brown w/ 650b wheels - Medium (51cm) - Excellent Condition |
 |   $750 | closeout        | #PM4130 - 4130 All-Road - Flat Bar - Cupertino Pearl (Large 650b) Like-New Condition (Photo Model) |
 |   $750 | closeout        | #PM4130 - 4130 All-Road - Flat Bar - Cupertino Pearl (Medium 650b) Like-New Condition (Photo Model) |
 |   $725 | closeout        | #662- 4130 All-Road - Pacific Gold w/ 700c wheels - Medium (51cm) - Good Condition |
@@ -127,3 +126,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
 |    $14 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
 |    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
+|    $14 | Hats            | State Bicycle Co. - "Crossing the T's" Beanie |
