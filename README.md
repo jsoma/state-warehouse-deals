@@ -50,7 +50,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
-|   $255 | closeout        | #649 - Core-Line - Wulf - Size X-Small (46cm) - Good Condition |
 |   $249 | Wheels          | Essor USA - v2 Bolt 31 Track Wheel Set |
 |   $185 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Small |
 |   $185 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Medium |
@@ -127,3 +126,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
 |    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
 |    $14 | Hats            | State Bicycle Co. - "Crossing the T's" Beanie |
+|     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
