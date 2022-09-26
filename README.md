@@ -111,6 +111,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $27 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Tie-Dye |
 |    $25 | Misc. Parts     | Kenda - Small Block Eight CX Tire |
 |    $25 | Accessories     | State Bicycle Co.  x Ozzy Osbourne -  All-Road Bar Bag |
+|    $16 | Misc. Accessori | #NewOpenBoxItem - State Bicycle Co. - Hardened-Steel U-Lock (Silicon Coated) |
 |    $14 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Small |
 |    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Medium |
 |    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Large |
@@ -126,4 +127,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
 |    $14 | Hats            | State Bicycle Co. - "Crossing the T's" Beanie |
 |     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
-|     $3 | Bottle          | The Simpsons X State Bicycle Co. - Color Block Bottle |
