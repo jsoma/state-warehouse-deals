@@ -82,7 +82,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | closeout        | #647 - State Bicycle Co. Lo-Pro Track Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
 |    $55 | closeout        | #584 - State Bicycle Co. Lo-Pro Road Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
 |    $55 | closeout        | #583 - State Bicycle Co. Lo-Pro Road Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
-|    $55 | closeout        | #581 - State Bicycle Co. Lo-Pro Track Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Small |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Medium |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Large |
@@ -127,3 +126,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
 |    $14 | Hats            | State Bicycle Co. - "Crossing the T's" Beanie |
 |     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
+|     $3 | Bottle          | The Simpsons X State Bicycle Co. - Color Block Bottle |
