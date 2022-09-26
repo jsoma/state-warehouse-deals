@@ -9,7 +9,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1095 | closeout        | #PM - Undefeated Disc Road  - Pearl / Tie-Dye - 55cm - Like-New Condition (Photo Model / Media Sample) |
 |   $750 | closeout        | #PM4130 - 4130 All-Road - Flat Bar - Cupertino Pearl (Large 650b) Like-New Condition (Photo Model) |
 |   $750 | closeout        | #PM4130 - 4130 All-Road - Flat Bar - Cupertino Pearl (Medium 650b) Like-New Condition (Photo Model) |
-|   $725 | closeout        | #662- 4130 All-Road - Pacific Gold w/ 700c wheels - Medium (51cm) - Good Condition |
 |   $645 | 6061 Black Labe | 6061 Black Label v2 - Valley Edition - 49 cm (Riders 5'0" - 5'3") / Compact Drops |
 |   $645 | 6061 Black Labe | 6061 Black Label v2 - Valley Edition - 49 cm (Riders 5'0" - 5'3") / Wide Riser w/ Vans Grips |
 |   $645 | 6061 Black Labe | 6061 Black Label v2 - Valley Edition - 52 cm (Riders 5'3" - 5'6") / Compact Drops |
@@ -127,3 +126,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
 |    $14 | Hats            | State Bicycle Co. - "Crossing the T's" Beanie |
 |     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
+|     $3 | Bottle          | The Simpsons X State Bicycle Co. - Color Block Bottle |
