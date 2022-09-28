@@ -80,6 +80,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | closeout        | #647 - State Bicycle Co. Lo-Pro Track Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
 |    $55 | closeout        | #584 - State Bicycle Co. Lo-Pro Road Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
 |    $55 | closeout        | #583 - State Bicycle Co. Lo-Pro Road Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x National Park Foundation - Enjoy The Parks Jersey (Redwood) - Sustainable Clothing Collection - Small |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x National Park Foundation - Enjoy The Parks Jersey (Redwood) - Sustainable Clothing Collection - Medium |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x National Park Foundation - Enjoy The Parks Jersey (Redwood) - Sustainable Clothing Collection - Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x National Park Foundation - Enjoy The Parks Jersey (Redwood) - Sustainable Clothing Collection - X-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x National Park Foundation - Enjoy The Parks Jersey (Redwood) - Sustainable Clothing Collection - XX-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Small |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Medium |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Large |
@@ -108,6 +113,16 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $27 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Tie-Dye |
 |    $25 | Misc. Parts     | Kenda - Small Block Eight CX Tire |
 |    $25 | Accessories     | State Bicycle Co.  x Ozzy Osbourne -  All-Road Bar Bag |
+|    $19 | Jackets         | State Bicycle Co. - "Black Label" - Zip-up Hoodie (Black) - Small |
+|    $19 | Jackets         | State Bicycle Co. - "Black Label" - Zip-up Hoodie (Black) - Medium |
+|    $29 | Jackets         | State Bicycle Co. - "Black Label" - Zip-up Hoodie (Black) - Large |
+|    $29 | Jackets         | State Bicycle Co. - "Black Label" - Zip-up Hoodie (Black) - Extra Large |
+|    $29 | Jackets         | State Bicycle Co. - "Black Label" - Zip-up Hoodie (Black) - 2XL |
+|    $18 | Shirts          | State Bicycle Co. - "Weekend Shorts" - Premium Cotton Shorts (Black) - Small |
+|    $18 | Shirts          | State Bicycle Co. - "Weekend Shorts" - Premium Cotton Shorts (Black) - Medium |
+|    $18 | Shirts          | State Bicycle Co. - "Weekend Shorts" - Premium Cotton Shorts (Black) - Large |
+|    $18 | Shirts          | State Bicycle Co. - "Weekend Shorts" - Premium Cotton Shorts (Black) - Extra Large |
+|    $18 | Shirts          | State Bicycle Co. - "Weekend Shorts" - Premium Cotton Shorts (Black) - XXL |
 |    $14 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Small |
 |    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Medium |
 |    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Large |
@@ -122,8 +137,5 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
 |    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
 |    $14 | Hats            | State Bicycle Co. - "Crossing the T's" Beanie |
+|     $9 | Clothing        | State Bicycle Co. - Black Label Cycling Socks (Blue) |
 |     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
-|     $3 | Bottle          | The Simpsons X State Bicycle Co. - Color Block Bottle |
-|     $3 | Bottle          | The Simpsons X State Bicycle Co. - Springfield Character Bottle |
-|     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
-|     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
