@@ -33,7 +33,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $475 | City Bike       | City Bike - The Elliston Deluxe (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $475 | City Bike       | City Bike - The Elliston Deluxe (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $475 | City Bike       | City Bike - The Elliston Deluxe (3 Speed) - Large (58 cm - Riders 6'0" - 6'4") |
-|   $425 | closeout        | #653- 4130 Road - Black & Metallic (8-speed) - 55cm - Very Good Condition |
 |   $425 | City Bike       | City Bike - The Azure (3 Speed) - Small (43 cm - Riders 4'9" - 5'5") |
 |   $425 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
 |   $425 | City Bike       | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
@@ -127,3 +126,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
 |     $3 | Bottle          | The Simpsons X State Bicycle Co. - Color Block Bottle |
 |     $3 | Bottle          | The Simpsons X State Bicycle Co. - Springfield Character Bottle |
+|     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
