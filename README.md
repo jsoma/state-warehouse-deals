@@ -62,7 +62,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $69 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Large |
 |    $69 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Extra Large |
 |    $69 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - XX-Large |
-|    $65 | Misc. Accessori | #NewOpenBoxItem - Thousand Heritage Helmet - Carbon Black - Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Small |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Medium |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
@@ -127,3 +126,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $3 | Bottle          | The Simpsons X State Bicycle Co. - Color Block Bottle |
 |     $3 | Bottle          | The Simpsons X State Bicycle Co. - Springfield Character Bottle |
 |     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
+|     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
