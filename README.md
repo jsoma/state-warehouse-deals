@@ -9,6 +9,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1095 | closeout        | #PM - Undefeated Disc Road  - Pearl / Tie-Dye - 55cm - Like-New Condition (Photo Model / Media Sample) |
 |   $750 | closeout        | #PM4130 - 4130 All-Road - Flat Bar - Cupertino Pearl (Large 650b) Like-New Condition (Photo Model) |
 |   $750 | closeout        | #PM4130 - 4130 All-Road - Flat Bar - Cupertino Pearl (Medium 650b) Like-New Condition (Photo Model) |
+|   $745 | closeout        | #666 - 4130 All-Road - Flat Bar - Pacific Gold (X-Small 650b) - Very Good Condition |
+|   $745 | closeout        | #665 - 4130 All-Road - Flat Bar - Fiesta Black (Large 700c) - Very Good Condition |
 |   $645 | 6061 Black Labe | 6061 Black Label v2 - Valley Edition - 49 cm (Riders 5'0" - 5'3") / Compact Drops |
 |   $645 | 6061 Black Labe | 6061 Black Label v2 - Valley Edition - 49 cm (Riders 5'0" - 5'3") / Wide Riser w/ Vans Grips |
 |   $645 | 6061 Black Labe | 6061 Black Label v2 - Valley Edition - 52 cm (Riders 5'3" - 5'6") / Compact Drops |
@@ -171,5 +173,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
 |    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
 |    $14 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
-|    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
-|    $14 | Hats            | State Bicycle Co. - "Crossing the T's" Beanie |
