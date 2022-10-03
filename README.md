@@ -39,6 +39,42 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $425 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $425 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $425 | City Bike       | City Bike - The Elliston (3 Speed) - Large (58 cm - Riders 6'0" - 6'4") |
+|   $399 | 4130 Core-Line  | 4130 - The Matte Black –  (Fixed Gear / Single-Speed) - 46 cm (Riders 4'10"-5'1") / Bullhorn Bars |
+|   $399 | 4130 Core-Line  | 4130 - The Matte Black –  (Fixed Gear / Single-Speed) - 46 cm (Riders 4'10"-5'1") / Riser Bars |
+|   $399 | 4130 Core-Line  | 4130 - The Matte Black –  (Fixed Gear / Single-Speed) - 46 cm (Riders 4'10"-5'1") / Drop Bars |
+|   $399 | 4130 Core-Line  | 4130 - The Matte Black –  (Fixed Gear / Single-Speed) - 49 cm (Riders 5'1"-5'4") / Bullhorn Bars |
+|   $399 | 4130 Core-Line  | 4130 - The Matte Black –  (Fixed Gear / Single-Speed) - 49 cm (Riders 5'1"-5'4") / Riser Bars |
+|   $399 | 4130 Core-Line  | 4130 - The Matte Black –  (Fixed Gear / Single-Speed) - 49 cm (Riders 5'1"-5'4") / Drop Bars |
+|   $399 | 4130 Core-Line  | 4130 - The Matte Black –  (Fixed Gear / Single-Speed) - 52 cm (Riders 5'4"-5'7") / Bullhorn Bars |
+|   $399 | 4130 Core-Line  | 4130 - The Matte Black –  (Fixed Gear / Single-Speed) - 52 cm (Riders 5'4"-5'7") / Riser Bars |
+|   $399 | 4130 Core-Line  | 4130 - The Matte Black –  (Fixed Gear / Single-Speed) - 52 cm (Riders 5'4"-5'7") / Drop Bars |
+|   $399 | 4130 Core-Line  | 4130 - The Matte Black –  (Fixed Gear / Single-Speed) - 55 cm (Riders 5'7"-5'11") / Bullhorn Bars |
+|   $399 | 4130 Core-Line  | 4130 - The Matte Black –  (Fixed Gear / Single-Speed) - 55 cm (Riders 5'7"-5'11") / Riser Bars |
+|   $399 | 4130 Core-Line  | 4130 - The Matte Black –  (Fixed Gear / Single-Speed) - 55 cm (Riders 5'7"-5'11") / Drop Bars |
+|   $399 | 4130 Core-Line  | 4130 - The Matte Black –  (Fixed Gear / Single-Speed) - 59 cm (Riders 5'11"-6'2") / Bullhorn Bars |
+|   $399 | 4130 Core-Line  | 4130 - The Matte Black –  (Fixed Gear / Single-Speed) - 59 cm (Riders 5'11"-6'2") / Riser Bars |
+|   $399 | 4130 Core-Line  | 4130 - The Matte Black –  (Fixed Gear / Single-Speed) - 59 cm (Riders 5'11"-6'2") / Drop Bars |
+|   $399 | 4130 Core-Line  | 4130 - The Matte Black –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Bullhorn Bars |
+|   $399 | 4130 Core-Line  | 4130 - The Matte Black –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Riser Bars |
+|   $399 | 4130 Core-Line  | 4130 - The Matte Black –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Drop Bars |
+|   $399 | 4130 Core-Line  | 4130 - Perplexing Purple –  (Fixed Gear / Single-Speed) - 46 cm (Riders 4'10"-5'1") / Bullhorn Bars |
+|   $399 | 4130 Core-Line  | 4130 - Perplexing Purple –  (Fixed Gear / Single-Speed) - 46 cm (Riders 4'10"-5'1") / Riser Bars |
+|   $399 | 4130 Core-Line  | 4130 - Perplexing Purple –  (Fixed Gear / Single-Speed) - 46 cm (Riders 4'10"-5'1") / Drop Bars |
+|   $399 | 4130 Core-Line  | 4130 - Perplexing Purple –  (Fixed Gear / Single-Speed) - 49 cm (Riders 5'1"-5'4") / Bullhorn Bars |
+|   $399 | 4130 Core-Line  | 4130 - Perplexing Purple –  (Fixed Gear / Single-Speed) - 49 cm (Riders 5'1"-5'4") / Riser Bars |
+|   $399 | 4130 Core-Line  | 4130 - Perplexing Purple –  (Fixed Gear / Single-Speed) - 49 cm (Riders 5'1"-5'4") / Drop Bars |
+|   $399 | 4130 Core-Line  | 4130 - Perplexing Purple –  (Fixed Gear / Single-Speed) - 52 cm (Riders 5'4"-5'7") / Bullhorn Bars |
+|   $399 | 4130 Core-Line  | 4130 - Perplexing Purple –  (Fixed Gear / Single-Speed) - 52 cm (Riders 5'4"-5'7") / Riser Bars |
+|   $399 | 4130 Core-Line  | 4130 - Perplexing Purple –  (Fixed Gear / Single-Speed) - 52 cm (Riders 5'4"-5'7") / Drop Bars |
+|   $399 | 4130 Core-Line  | 4130 - Perplexing Purple –  (Fixed Gear / Single-Speed) - 55 cm (Riders 5'7"-5'11") / Bullhorn Bars |
+|   $399 | 4130 Core-Line  | 4130 - Perplexing Purple –  (Fixed Gear / Single-Speed) - 55 cm (Riders 5'7"-5'11") / Riser Bars |
+|   $399 | 4130 Core-Line  | 4130 - Perplexing Purple –  (Fixed Gear / Single-Speed) - 55 cm (Riders 5'7"-5'11") / Drop Bars |
+|   $399 | 4130 Core-Line  | 4130 - Perplexing Purple –  (Fixed Gear / Single-Speed) - 59 cm (Riders 5'11"-6'2") / Bullhorn Bars |
+|   $399 | 4130 Core-Line  | 4130 - Perplexing Purple –  (Fixed Gear / Single-Speed) - 59 cm (Riders 5'11"-6'2") / Riser Bars |
+|   $399 | 4130 Core-Line  | 4130 - Perplexing Purple –  (Fixed Gear / Single-Speed) - 59 cm (Riders 5'11"-6'2") / Drop Bars |
+|   $399 | 4130 Core-Line  | 4130 - Perplexing Purple –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Bullhorn Bars |
+|   $399 | 4130 Core-Line  | 4130 - Perplexing Purple –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Riser Bars |
+|   $399 | 4130 Core-Line  | 4130 - Perplexing Purple –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Drop Bars |
 |   $395 | closeout        | #OpenBoxItem - State Bicycle Co. x Grateful Dead - Lightning Bolt Klunker (27.5")- Brand New |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
@@ -137,5 +173,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
 |    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
 |    $14 | Hats            | State Bicycle Co. - "Crossing the T's" Beanie |
-|     $9 | Clothing        | State Bicycle Co. - Black Label Cycling Socks (Blue) |
-|     $9 | Misc. Accessori | #NewOpenBoxItem -Gloves - Blackout Bolts by Handup Gloves - XX-Small |
