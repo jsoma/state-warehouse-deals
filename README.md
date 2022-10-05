@@ -9,18 +9,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $750 | closeout        | #PM4130 - 4130 All-Road - Flat Bar - Cupertino Pearl (Large 650b) Like-New Condition (Photo Model) |
 |   $745 | closeout        | #666 - 4130 All-Road - Flat Bar - Pacific Gold (X-Small 650b) - Very Good Condition |
 |   $745 | closeout        | #665 - 4130 All-Road - Flat Bar - Fiesta Black (Large 700c) - Very Good Condition |
-|   $645 | 6061 Black Labe | 6061 Black Label v2 - Valley Edition - 49 cm (Riders 5'0" - 5'3") / Compact Drops |
-|   $645 | 6061 Black Labe | 6061 Black Label v2 - Valley Edition - 49 cm (Riders 5'0" - 5'3") / Wide Riser w/ Vans Grips |
-|   $645 | 6061 Black Labe | 6061 Black Label v2 - Valley Edition - 52 cm (Riders 5'3" - 5'6") / Compact Drops |
-|   $645 | 6061 Black Labe | 6061 Black Label v2 - Valley Edition - 52 cm (Riders 5'3" - 5'6") / Wide Riser w/ Vans Grips |
-|   $645 | 6061 Black Labe | 6061 Black Label v2 - Valley Edition - 55 cm (Riders 5'6" - 5'9") / Compact Drops |
-|   $645 | 6061 Black Labe | 6061 Black Label v2 - Valley Edition - 55 cm (Riders 5'6" - 5'9") / Wide Riser w/ Vans Grips |
-|   $645 | 6061 Black Labe | 6061 Black Label v2 - Valley Edition - 57 cm (Riders 5'9"-6'0") / Compact Drops |
-|   $645 | 6061 Black Labe | 6061 Black Label v2 - Valley Edition - 57 cm (Riders 5'9"-6'0") / Wide Riser w/ Vans Grips |
-|   $645 | 6061 Black Labe | 6061 Black Label v2 - Valley Edition - 59 cm (Riders 6'0" - 6'3") / Compact Drops |
-|   $645 | 6061 Black Labe | 6061 Black Label v2 - Valley Edition - 59 cm (Riders 6'0" - 6'3") / Wide Riser w/ Vans Grips |
-|   $645 | 6061 Black Labe | 6061 Black Label v2 - Valley Edition - 62 cm (Riders 6'3"-6'6") / Compact Drops |
-|   $645 | 6061 Black Labe | 6061 Black Label v2 - Valley Edition - 62 cm (Riders 6'3"-6'6") / Wide Riser w/ Vans Grips |
 |   $550 | closeout        | #OBI - 6061 All-Road - Dark Woodland- Frameset - Size M (54cm) - Like-New Condition |
 |   $525 | 4130 Road       | State Bicycle Co. x National Park Foundation - 4130-Road - Glacier Edition - (8-Speed) - 49 cm (Riders 5'1"-5'4") |
 |   $525 | 4130 Road       | State Bicycle Co. x National Park Foundation - 4130-Road - Glacier Edition - (8-Speed) - 52 cm (Riders 5'4"-5'7") |
@@ -169,3 +157,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
 |    $14 | Hats            | State Bicycle Co. - "Crossing the T's" Beanie |
 |     $9 | Clothing        | State Bicycle Co. - Black Label Cycling Socks (Blue) |
+|     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
