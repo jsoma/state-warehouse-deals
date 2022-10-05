@@ -84,7 +84,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
-|   $249 | Wheels          | Essor USA - v2 Bolt 31 Track Wheel Set |
+|   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $185 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Small |
 |   $185 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Medium |
 |   $185 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Large |
