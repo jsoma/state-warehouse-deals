@@ -6,7 +6,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1199 | closeout        | #OBI - 6061 All-Road - Dark Woodland (650b) -  Medium - Like-New Condition |
 |  $1199 | closeout        | #OBI - 6061 All-Road - Deep Pacific (650b) -  Medium - Like-New Condition |
 |  $1095 | closeout        | #PM - Undefeated Disc Road  - Pearl / Tie-Dye - 55cm - Like-New Condition (Photo Model / Media Sample) |
-|   $845 | closeout        | #668- 4130 All-Road - Pigeon Grey (650b) -  Large - Like-New Condition |
+|   $845 | closeout        | #668- 4130 All-Road - Black Canyon (650b) -  Large - Like-New Condition |
+|   $785 | closeout        | #669- 4130 All-Road - Copper Brown (650b) -  Small - Very-Good Condition |
 |   $750 | closeout        | #PM4130 - 4130 All-Road - Flat Bar - Cupertino Pearl (Large 650b) Like-New Condition (Photo Model) |
 |   $745 | closeout        | #665 - 4130 All-Road - Flat Bar - Fiesta Black (Large 700c) - Very Good Condition |
 |   $550 | closeout        | #OBI - 6061 All-Road - Dark Woodland- Frameset - Size M (54cm) - Like-New Condition |
@@ -157,4 +158,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $9 | Clothing        | State Bicycle Co. - Black Label Cycling Socks (Blue) |
 |     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
 |     $3 | Bottle          | The Simpsons X State Bicycle Co. - Springfield Character Bottle |
-|     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
