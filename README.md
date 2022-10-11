@@ -78,6 +78,13 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Smiles For Miles Jersey  - Sustainable Clothing Collection (Mustard) - Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Smiles For Miles Jersey  - Sustainable Clothing Collection (Mustard) - X-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Smiles For Miles Jersey  - Sustainable Clothing Collection (Mustard) - XX-Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Small |
+|    $59 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Small |
+|    $59 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Medium |
+|    $59 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - XX-Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - 3X-Large |
 |    $55 | closeout        | #647 - State Bicycle Co. Lo-Pro Track Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
 |    $55 | closeout        | #584 - State Bicycle Co. Lo-Pro Road Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
 |    $55 | closeout        | #583 - State Bicycle Co. Lo-Pro Road Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
@@ -140,4 +147,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
 |    $14 | Hats            | State Bicycle Co. - "Crossing the T's" Beanie |
 |     $9 | Clothing        | State Bicycle Co. - Black Label Cycling Socks (Blue) |
-|     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
