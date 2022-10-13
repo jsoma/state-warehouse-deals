@@ -83,11 +83,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | closeout        | #584 - State Bicycle Co. Lo-Pro Road Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
 |    $55 | closeout        | #583 - State Bicycle Co. Lo-Pro Road Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
 |    $55 | closeout        | #580 - Black Label Series: Mid-Profile Track Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x National Park Foundation - Enjoy The Parks Jersey (Redwood) - Sustainable Clothing Collection - Small |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x National Park Foundation - Enjoy The Parks Jersey (Redwood) - Sustainable Clothing Collection - Medium |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x National Park Foundation - Enjoy The Parks Jersey (Redwood) - Sustainable Clothing Collection - Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x National Park Foundation - Enjoy The Parks Jersey (Redwood) - Sustainable Clothing Collection - X-Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x National Park Foundation - Enjoy The Parks Jersey (Redwood) - Sustainable Clothing Collection - XX-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Small |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Medium |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Large |
@@ -141,3 +136,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
 |    $14 | Hats            | State Bicycle Co. - "Crossing the T's" Beanie |
 |     $9 | Clothing        | State Bicycle Co. - Black Label Cycling Socks (Blue) |
+|     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
