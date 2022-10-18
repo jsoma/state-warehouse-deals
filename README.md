@@ -48,17 +48,17 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
 |   $345 | closeout        | #PMCNA - Klunker - Corona - Like-New Condition (Photo Model / Media Sample) |
-|   $325 | Bicycles        | OPEN BOX ITEM: Delfin - Core-Line - Size X-Small (46cm) |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
-|   $185 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Small |
-|   $185 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Medium |
-|   $185 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Large |
-|   $185 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Small |
-|   $185 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Medium |
-|   $185 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Large |
+|   $199 |                 | Saris - Mag+ Trainer |
+|   $169 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Small |
+|   $169 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Medium |
+|   $169 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Large |
+|   $169 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Small |
+|   $169 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Medium |
+|   $169 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Large |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $85 | closeout        | #607 - All Road Wheel 650b - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
