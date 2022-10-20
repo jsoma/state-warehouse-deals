@@ -52,6 +52,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
+|   $285 | closeout        | #676 - 4130 All-Road - Black Canyon - Framest - Size M (51cm) - Good Condition |
 |   $265 | closeout        | #671 - Core-Line - Ghoul - Size Large (58cm) - Good Condition |
 |   $265 | closeout        | #670 - Klunker - Black & Metallic - Fair Condition |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
@@ -136,4 +137,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
 |    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
 |    $14 | Hats            | State Bicycle Co. - "Crossing the T's" Beanie |
-|     $9 | Clothing        | State Bicycle Co. - Black Label Cycling Socks (Blue) |
