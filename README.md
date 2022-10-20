@@ -3,6 +3,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
+|  $1745 | closeout        | #672- 4130 All-Road XPLR AXS - Black Canyon (650b) - Small (47 cm) - Very Good Condition |
 |  $1245 | closeout        | #PM - 6061 - eBike Commuter - Matte Black- Size Medium- Like-New Condition (Photo Model) |
 |  $1199 | closeout        | #OBI - 6061 All-Road - Dark Woodland (650b) -  Medium - Like-New Condition |
 |  $1199 | closeout        | #OBI - 6061 All-Road - Deep Pacific (650b) -  Medium - Like-New Condition |
@@ -51,6 +52,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
+|   $265 | closeout        | #671 - Core-Line - Ghoul - Size Large (58cm) - Good Condition |
+|   $265 | closeout        | #670 - Klunker - Black & Metallic - Fair Condition |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $199 |                 | Saris - Mag+ Trainer |
 |   $169 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Small |
@@ -134,6 +137,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
 |    $14 | Hats            | State Bicycle Co. - "Crossing the T's" Beanie |
 |     $9 | Clothing        | State Bicycle Co. - Black Label Cycling Socks (Blue) |
-|     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
-|     $3 | Bottle          | The Simpsons X State Bicycle Co. - Springfield Character Bottle |
-|     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
