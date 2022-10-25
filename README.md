@@ -47,6 +47,18 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
+|   $349 | Core-Line       | State Bicycle Co. x National Park Foundation - Core-Line - Redwood Edition - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
+|   $374 | Core-Line       | State Bicycle Co. x National Park Foundation - Core-Line - Redwood Edition - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
+|   $374 | Core-Line       | State Bicycle Co. x National Park Foundation - Core-Line - Redwood Edition - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
+|   $349 | Core-Line       | State Bicycle Co. x National Park Foundation - Core-Line - Redwood Edition - Small (50 cm- Riders 5'4"-5'7") / Riser Bars |
+|   $374 | Core-Line       | State Bicycle Co. x National Park Foundation - Core-Line - Redwood Edition - Small (50 cm- Riders 5'4"-5'7") / Bullhorn Bars (Add $25) |
+|   $374 | Core-Line       | State Bicycle Co. x National Park Foundation - Core-Line - Redwood Edition - Small (50 cm- Riders 5'4"-5'7") / Drop Bars (Add $25) |
+|   $349 | Core-Line       | State Bicycle Co. x National Park Foundation - Core-Line - Redwood Edition - Medium (54 cm- Riders 5'7"-5'11") / Riser Bars |
+|   $374 | Core-Line       | State Bicycle Co. x National Park Foundation - Core-Line - Redwood Edition - Medium (54 cm- Riders 5'7"-5'11") / Bullhorn Bars (Add $25) |
+|   $374 | Core-Line       | State Bicycle Co. x National Park Foundation - Core-Line - Redwood Edition - Medium (54 cm- Riders 5'7"-5'11") / Drop Bars (Add $25) |
+|   $349 | Core-Line       | State Bicycle Co. x National Park Foundation - Core-Line - Redwood Edition - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
+|   $374 | Core-Line       | State Bicycle Co. x National Park Foundation - Core-Line - Redwood Edition - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
+|   $374 | Core-Line       | State Bicycle Co. x National Park Foundation - Core-Line - Redwood Edition - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $345 | closeout        | #PMCNA - Klunker - Corona - Like-New Condition (Photo Model / Media Sample) |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
@@ -136,4 +148,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $9 | Clothing        | State Bicycle Co. - Black Label Cycling Socks (Blue) |
 |     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
 |     $3 | Bottle          | The Simpsons X State Bicycle Co. - Springfield Character Bottle |
-|     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
