@@ -59,28 +59,26 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $169 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Medium |
 |   $169 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Large |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
-|   $129 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Small |
-|   $129 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Medium |
-|   $129 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Large |
-|   $129 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Tan / Small |
-|   $129 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Tan / Medium |
-|   $129 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Tan / Large |
-|   $129 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Small |
-|   $129 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Medium |
-|   $129 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Large |
+|    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - X-Small |
+|    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - Small |
+|    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - Medium |
+|    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - Large |
+|    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - X-Large |
+|    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - XX-Large |
+|    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - X-Small |
+|    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - Small |
+|    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - Medium |
+|    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - Large |
+|    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - X-Large |
+|    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - XX-Large |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $85 | closeout        | #607 - All Road Wheel 650b - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
-|    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Small |
-|    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Medium |
-|    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Large |
-|    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Small |
-|    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Medium |
-|    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Large |
 |    $69 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Small |
 |    $69 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Medium |
 |    $69 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Large |
 |    $69 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Extra Large |
 |    $69 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - XX-Large |
+|    $65 | Misc. Accessori | #NewOpenBoxItem - Thousand Heritage Helmet - Navy - Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Small |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Medium |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
@@ -147,6 +145,5 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
 |    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
 |    $14 | Hats            | State Bicycle Co. - "Crossing the T's" Beanie |
-|     $9 | Clothing        | State Bicycle Co. - Black Label Cycling Socks (Blue) |
-|     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
-|     $3 | Bottle          | The Simpsons X State Bicycle Co. - Springfield Character Bottle |
+|    $12 | Misc. Accessori | #NewOpenBoxItem - State Bicycle Co. -  State Bicycle Co. - Steel Chain Combo Lock |
+|     $9 | Misc. Accessori | #NewOpenBoxItem - Wolf Tooth Seatpost Clamp - purple - 28.6mm - return |
