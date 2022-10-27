@@ -71,6 +71,18 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - Large |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - X-Large |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - XX-Large |
+|    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - X-Small |
+|    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Small |
+|    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Medium |
+|    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Large |
+|    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - X-Large |
+|    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - XX-Large |
+|    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Club Bib Shorts - Extra Small |
+|    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Club Bib Shorts - Small |
+|    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Club Bib Shorts - Medium |
+|    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Club Bib Shorts - Large |
+|    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Club Bib Shorts - Extra Large |
+|    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Club Bib Shorts - XXL |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $85 | closeout        | #607 - All Road Wheel 650b - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $69 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Small |
@@ -126,11 +138,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Jackets         | State Bicycle Co. - "Black Label" - Zip-up Hoodie (Black) - Large |
 |    $29 | Jackets         | State Bicycle Co. - "Black Label" - Zip-up Hoodie (Black) - Extra Large |
 |    $29 | Jackets         | State Bicycle Co. - "Black Label" - Zip-up Hoodie (Black) - 2XL |
-|    $18 | Shirts          | State Bicycle Co. - "Weekend Shorts" - Premium Cotton Shorts (Black) - Small |
-|    $18 | Shirts          | State Bicycle Co. - "Weekend Shorts" - Premium Cotton Shorts (Black) - Medium |
-|    $18 | Shirts          | State Bicycle Co. - "Weekend Shorts" - Premium Cotton Shorts (Black) - Large |
-|    $18 | Shirts          | State Bicycle Co. - "Weekend Shorts" - Premium Cotton Shorts (Black) - Extra Large |
-|    $18 | Shirts          | State Bicycle Co. - "Weekend Shorts" - Premium Cotton Shorts (Black) - XXL |
 |    $14 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Small |
 |    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Medium |
 |    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Large |
@@ -145,5 +152,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
 |    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
 |    $14 | Hats            | State Bicycle Co. - "Crossing the T's" Beanie |
-|    $12 | Misc. Accessori | #NewOpenBoxItem - State Bicycle Co. -  State Bicycle Co. - Steel Chain Combo Lock |
-|     $9 | Misc. Accessori | #NewOpenBoxItem - Wolf Tooth Seatpost Clamp - purple - 28.6mm - return |
+|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Small |
+|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Medium |
+|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Large |
+|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - X-Large |
