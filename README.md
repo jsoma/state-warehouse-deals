@@ -59,6 +59,15 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $169 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Medium |
 |   $169 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Large |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
+|   $129 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Small |
+|   $129 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Medium |
+|   $129 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Large |
+|   $129 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Tan / Small |
+|   $129 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Tan / Medium |
+|   $129 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Tan / Large |
+|   $129 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Small |
+|   $129 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Medium |
+|   $129 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Large |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $85 | closeout        | #607 - All Road Wheel 650b - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $69 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Small |
@@ -136,4 +145,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
 |     $3 | Bottle          | The Simpsons X State Bicycle Co. - Springfield Character Bottle |
 |     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
-|     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
