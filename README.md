@@ -36,7 +36,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
-|   $325 | closeout        | #675 - 6061 Black Label v2 - Frameset - Cherry Red - 55cm - Photo Model-Like New |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
@@ -133,3 +132,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Jackets         | State Bicycle Co. - "Black Label" - Zip-up Hoodie (Black) - Large |
 |    $29 | Jackets         | State Bicycle Co. - "Black Label" - Zip-up Hoodie (Black) - Extra Large |
 |    $29 | Jackets         | State Bicycle Co. - "Black Label" - Zip-up Hoodie (Black) - 2XL |
+|    $14 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Small |
+|    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Medium |
+|    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Large |
+|    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Extra Large |
+|    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - 2xl |
