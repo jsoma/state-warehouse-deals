@@ -7,6 +7,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1245 | closeout        | #PM - 6061 - eBike Commuter - Matte Black- Size Medium- Like-New Condition (Photo Model) |
 |  $1199 | closeout        | #OBI - 6061 All-Road - Dark Woodland (650b) -  Medium - Like-New Condition |
 |  $1199 | closeout        | #OBI - 6061 All-Road - Deep Pacific (650b) -  Medium - Like-New Condition |
+|   $975 | closeout        | #678- 4130 All-Road - Matte Olive w/ 700c wheels - Medium (51cm) - Excellent Condition |
+|   $785 | closeout        | #677- 4130 All-Road - Pacific Gold w/ 650b wheels - X-Small (43cm) - Excellent Condition |
 |   $750 | closeout        | #PM4130 - 4130 All-Road - Flat Bar - Cupertino Pearl (Large 650b) Like-New Condition (Photo Model) |
 |   $525 | 4130 Road       | State Bicycle Co. x National Park Foundation - 4130-Road - Glacier Edition - (8-Speed) - 49 cm (Riders 5'1"-5'4") |
 |   $525 | 4130 Road       | State Bicycle Co. x National Park Foundation - 4130-Road - Glacier Edition - (8-Speed) - 52 cm (Riders 5'4"-5'7") |
@@ -134,11 +136,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
 |    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
 |    $14 | Hats            | State Bicycle Co. - "Crossing the T's" Beanie |
-|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Small |
-|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Medium |
-|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Large |
-|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - X-Large |
-|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - Small |
-|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - Medium |
-|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - Large |
-|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - X-Large |
