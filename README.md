@@ -4,12 +4,13 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |price|type|name|
 |---|---|---|
 |  $1745 | closeout        | #672- 4130 All-Road XPLR AXS - Black Canyon (650b) - Small (47 cm) - Very Good Condition |
-|  $1245 | closeout        | #PM - 6061 - eBike Commuter - Matte Black- Size Medium- Like-New Condition (Photo Model) |
-|  $1199 | closeout        | #OBI - 6061 All-Road - Dark Woodland (650b) -  Medium - Like-New Condition |
-|  $1199 | closeout        | #OBI - 6061 All-Road - Deep Pacific (650b) -  Medium - Like-New Condition |
+|  $1350 | closeout        | #PM - 6061 - eBike Commuter - Matte Black- Size Medium- Like-New Condition (Photo Model) |
+|  $1250 | closeout        | #OBI - 6061 All-Road - Dark Woodland (650b) -  Medium - Like-New Condition |
+|  $1250 | closeout        | #OBI - 6061 All-Road - Deep Pacific (650b) -  Medium - Like-New Condition |
 |   $975 | closeout        | #678- 4130 All-Road - Matte Olive w/ 700c wheels - Medium (51cm) - Excellent Condition |
+|   $850 | closeout        | #679 - Undefeated Track - Black Prism - 49cm - Team Rider Bicycle |
+|   $825 | closeout        | #PM4130 - 4130 All-Road - Flat Bar - Cupertino Pearl (Large 650b) Like-New Condition (Photo Model) |
 |   $785 | closeout        | #677- 4130 All-Road - Pacific Gold w/ 650b wheels - X-Small (43cm) - Excellent Condition |
-|   $750 | closeout        | #PM4130 - 4130 All-Road - Flat Bar - Cupertino Pearl (Large 650b) Like-New Condition (Photo Model) |
 |   $525 | 4130 Road       | State Bicycle Co. x National Park Foundation - 4130-Road - Glacier Edition - (8-Speed) - 49 cm (Riders 5'1"-5'4") |
 |   $525 | 4130 Road       | State Bicycle Co. x National Park Foundation - 4130-Road - Glacier Edition - (8-Speed) - 52 cm (Riders 5'4"-5'7") |
 |   $525 | 4130 Road       | State Bicycle Co. x National Park Foundation - 4130-Road - Glacier Edition - (8-Speed) - 55 cm (Riders 5'7"-5'11") |
@@ -27,10 +28,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $425 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $425 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $425 | City Bike       | City Bike - The Elliston (3 Speed) - Large (58 cm - Riders 6'0" - 6'4") |
+|   $420 | closeout        | #OpenBoxItem - State Bicycle Co. x Grateful Dead - Lightning Bolt Klunker (27.5")- Brand New |
+|   $385 | closeout        | #PMCNA - Klunker - Corona - Like-New Condition (Photo Model / Media Sample) |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
-|   $345 | closeout        | #PMCNA - Klunker - Corona - Like-New Condition (Photo Model / Media Sample) |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
@@ -134,5 +136,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
 |    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
 |    $14 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
-|    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
-|    $14 | Hats            | State Bicycle Co. - "Crossing the T's" Beanie |
