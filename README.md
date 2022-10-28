@@ -5,6 +5,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |---|---|---|
 |  $1745 | closeout        | #672- 4130 All-Road XPLR AXS - Black Canyon (650b) - Small (47 cm) - Very Good Condition |
 |  $1350 | closeout        | #PM - 6061 - eBike Commuter - Matte Black- Size Medium- Like-New Condition (Photo Model) |
+|  $1250 | closeout        | #OBI - 6061 All-Road - Deep Pacific (650b) -  Large - Like-New Condition |
+|  $1250 | closeout        | #OBI - 6061 All-Road - Dark Woodland (650b) -  Large - Like-New Condition |
 |  $1250 | closeout        | #OBI - 6061 All-Road - Dark Woodland (650b) -  Medium - Like-New Condition |
 |  $1250 | closeout        | #OBI - 6061 All-Road - Deep Pacific (650b) -  Medium - Like-New Condition |
 |   $975 | closeout        | #678- 4130 All-Road - Matte Olive w/ 700c wheels - Medium (51cm) - Excellent Condition |
@@ -31,7 +33,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $420 | closeout        | #OpenBoxItem - State Bicycle Co. x Grateful Dead - Lightning Bolt Klunker (27.5")- Brand New |
 |   $385 | closeout        | #PMCNA - Klunker - Corona - Like-New Condition (Photo Model / Media Sample) |
 |   $375 | closeout        | #574 - 4130 All-Road - Pacific Gold - Frameset - Size M (51cm) - Photo Model - Like New |
-|   $375 | closeout        | #573 - 4130 All-Road - Matte Olive - Frameset - Size M (51cm) - Photo Model - Like New |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
@@ -132,8 +133,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Jackets         | State Bicycle Co. - "Black Label" - Zip-up Hoodie (Black) - Large |
 |    $29 | Jackets         | State Bicycle Co. - "Black Label" - Zip-up Hoodie (Black) - Extra Large |
 |    $29 | Jackets         | State Bicycle Co. - "Black Label" - Zip-up Hoodie (Black) - 2XL |
-|    $14 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Small |
-|    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Medium |
-|    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Large |
-|    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Extra Large |
-|    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - 2xl |
