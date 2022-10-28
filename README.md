@@ -30,9 +30,12 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $425 | City Bike       | City Bike - The Elliston (3 Speed) - Large (58 cm - Riders 6'0" - 6'4") |
 |   $420 | closeout        | #OpenBoxItem - State Bicycle Co. x Grateful Dead - Lightning Bolt Klunker (27.5")- Brand New |
 |   $385 | closeout        | #PMCNA - Klunker - Corona - Like-New Condition (Photo Model / Media Sample) |
+|   $375 | closeout        | #574 - 4130 All-Road - Pacific Gold - Frameset - Size M (51cm) - Photo Model - Like New |
+|   $375 | closeout        | #573 - 4130 All-Road - Matte Olive - Frameset - Size M (51cm) - Photo Model - Like New |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
+|   $325 | closeout        | #675 - 6061 Black Label v2 - Frameset - Cherry Red - 55cm - Photo Model-Like New |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
@@ -119,6 +122,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $27 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Tie-Dye |
 |    $25 | Misc. Parts     | Kenda - Small Block Eight CX Tire |
 |    $25 | Accessories     | State Bicycle Co.  x Ozzy Osbourne -  All-Road Bar Bag |
+|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
+|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
+|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
+|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
+|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
 |    $19 | Jackets         | State Bicycle Co. - "Black Label" - Zip-up Hoodie (Black) - Small |
 |    $19 | Jackets         | State Bicycle Co. - "Black Label" - Zip-up Hoodie (Black) - Medium |
 |    $29 | Jackets         | State Bicycle Co. - "Black Label" - Zip-up Hoodie (Black) - Large |
@@ -129,10 +137,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Large |
 |    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Extra Large |
 |    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - 2xl |
-|    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Small |
-|    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Medium |
-|    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Large |
-|    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Extra Large |
-|    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
-|    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
-|    $14 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
