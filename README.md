@@ -3,7 +3,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
-|  $1745 | closeout        | #672- 4130 All-Road XPLR AXS - Black Canyon (650b) - Small (47 cm) - Very Good Condition |
 |  $1350 | closeout        | #PM - 6061 - eBike Commuter - Matte Black- Size Medium- Like-New Condition (Photo Model) |
 |  $1250 | closeout        | #OBI - 6061 All-Road - Deep Pacific (650b) -  Large - Like-New Condition |
 |  $1250 | closeout        | #OBI - 6061 All-Road - Dark Woodland (650b) -  Large - Like-New Condition |
@@ -137,3 +136,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Large |
 |    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Extra Large |
 |    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - 2xl |
+|    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Small |
+|    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Medium |
+|    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Large |
+|    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Extra Large |
