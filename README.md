@@ -114,6 +114,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Large |
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Large |
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - XX-Large |
+|    $29 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
+|    $29 | Accessories     | State Bicycle Co.  x The Grateful Dead - "Lightning Bolt"  All-Road Bar Bag |
+|    $29 | Accessories     | State Bicycle Co.  x The Grateful Dead - "Dancing Bears"  All-Road Bar Bag |
 |    $27 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Black |
 |    $27 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - White |
 |    $27 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Tie-Dye |
@@ -134,9 +137,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Large |
 |    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Extra Large |
 |    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - 2xl |
-|    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Small |
-|    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Medium |
-|    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Large |
-|    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Extra Large |
-|    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
-|    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
