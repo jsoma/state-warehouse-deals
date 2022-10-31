@@ -117,7 +117,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $27 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Black |
 |    $27 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - White |
 |    $27 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Tie-Dye |
-|    $25 | Misc. Parts     | Kenda - Small Block Eight CX Tire |
 |    $25 | Accessories     | State Bicycle Co.  x Ozzy Osbourne -  All-Road Bar Bag |
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
@@ -140,3 +139,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Extra Large |
 |    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
 |    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
+|    $14 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
