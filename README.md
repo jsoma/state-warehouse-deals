@@ -7,7 +7,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1250 | closeout        | #OBI - 6061 All-Road - Dark Woodland (650b) -  Large - Like-New Condition |
 |  $1250 | closeout        | #OBI - 6061 All-Road - Dark Woodland (650b) -  Medium - Like-New Condition |
 |  $1250 | closeout        | #OBI - 6061 All-Road - Deep Pacific (650b) -  Medium - Like-New Condition |
-|   $850 | closeout        | #679 - Undefeated Track - Black Prism - 49cm - Team Rider Bicycle |
 |   $825 | closeout        | #PM4130 - 4130 All-Road - Flat Bar - Cupertino Pearl (Large 650b) Like-New Condition (Photo Model) |
 |   $525 | 4130 Road       | State Bicycle Co. x National Park Foundation - 4130-Road - Glacier Edition - (8-Speed) - 49 cm (Riders 5'1"-5'4") |
 |   $525 | 4130 Road       | State Bicycle Co. x National Park Foundation - 4130-Road - Glacier Edition - (8-Speed) - 52 cm (Riders 5'4"-5'7") |
@@ -142,3 +141,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - Medium |
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - Large |
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - X-Large |
+|     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
