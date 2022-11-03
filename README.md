@@ -35,12 +35,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $199 |                 | Saris - Mag+ Trainer |
-|   $169 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Small |
-|   $169 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Medium |
-|   $169 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Large |
-|   $169 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Small |
-|   $169 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Medium |
-|   $169 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Large |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - X-Small |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - Small |
@@ -142,3 +136,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - Medium |
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - Large |
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - X-Large |
+|     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
