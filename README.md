@@ -77,7 +77,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Smiles For Miles Jersey  - Sustainable Clothing Collection (Mustard) - Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Smiles For Miles Jersey  - Sustainable Clothing Collection (Mustard) - X-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Smiles For Miles Jersey  - Sustainable Clothing Collection (Mustard) - XX-Large |
-|    $55 | closeout        | #647 - State Bicycle Co. Lo-Pro Track Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
 |    $55 | closeout        | #584 - State Bicycle Co. Lo-Pro Road Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
 |    $55 | closeout        | #583 - State Bicycle Co. Lo-Pro Road Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
 |    $55 | closeout        | #580 - Black Label Series: Mid-Profile Track Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
@@ -137,3 +136,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - Large |
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - X-Large |
 |     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
+|     $3 | Bottle          | The Simpsons X State Bicycle Co. - Springfield Character Bottle |
