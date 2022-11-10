@@ -12,11 +12,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $785 | closeout        | #682 - 4130 All-Road - Black Canyon (X-Small 650b) - Excellent Condition |
 |   $765 | closeout        | #683 - 4130 All-Road - Copper Brown w/ 700c wheels - Medium (51cm) - Very Good Condition |
 |   $625 | closeout        | #680- 4130 All-Road -  Sonoran Tan w/ 650b wheels - Large (54cm) - Used Condition |
-|   $525 | 4130 Road       | State Bicycle Co. x National Park Foundation - 4130-Road - Glacier Edition - (8-Speed) - 49 cm (Riders 5'1"-5'4") |
-|   $525 | 4130 Road       | State Bicycle Co. x National Park Foundation - 4130-Road - Glacier Edition - (8-Speed) - 52 cm (Riders 5'4"-5'7") |
-|   $525 | 4130 Road       | State Bicycle Co. x National Park Foundation - 4130-Road - Glacier Edition - (8-Speed) - 55 cm (Riders 5'7"-5'11") |
-|   $525 | 4130 Road       | State Bicycle Co. x National Park Foundation - 4130-Road - Glacier Edition - (8-Speed) - 59 cm (Riders 5'11"-6'2) |
-|   $525 | 4130 Road       | State Bicycle Co. x National Park Foundation - 4130-Road - Glacier Edition - (8-Speed) - 62 cm (Riders 6'2"-6'6") |
 |   $475 | City Bike       | City Bike - The Azure Deluxe (3 Speed) - Small (43 cm - Riders 4'9" - 5'5") |
 |   $475 | City Bike       | City Bike - The Azure Deluxe (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
 |   $475 | City Bike       | City Bike - The Azure Deluxe (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
@@ -131,3 +126,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
 |    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
 |    $14 | Hats            | State Bicycle Co. - "Crossing the T's" Beanie |
+|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Small |
+|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Medium |
+|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Large |
+|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - X-Large |
