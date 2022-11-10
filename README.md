@@ -112,11 +112,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
-|    $14 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Small |
-|    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Medium |
-|    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Large |
-|    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - Extra Large |
-|    $18 | Shirts          | State Bicycle Co. X  State Forty Eight T-Shirt - 2xl |
 |    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Small |
 |    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Medium |
 |    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Large |
@@ -130,3 +125,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Medium |
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Large |
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - X-Large |
+|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - Small |
+|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - Medium |
+|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - Large |
+|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - X-Large |
