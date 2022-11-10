@@ -11,7 +11,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $825 | closeout        | #PM4130 - 4130 All-Road - Flat Bar - Cupertino Pearl (Large 650b) Like-New Condition (Photo Model) |
 |   $785 | closeout        | #682 - 4130 All-Road - Black Canyon (X-Small 650b) - Excellent Condition |
 |   $765 | closeout        | #683 - 4130 All-Road - Copper Brown w/ 700c wheels - Medium (51cm) - Very Good Condition |
-|   $625 | closeout        | #680- 4130 All-Road -  Sonoran Tan w/ 650b wheels - Large (54cm) - Used Condition |
 |   $475 | City Bike       | City Bike - The Azure Deluxe (3 Speed) - Small (43 cm - Riders 4'9" - 5'5") |
 |   $475 | City Bike       | City Bike - The Azure Deluxe (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
 |   $475 | City Bike       | City Bike - The Azure Deluxe (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
@@ -129,3 +128,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - Medium |
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - Large |
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - X-Large |
+|     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
