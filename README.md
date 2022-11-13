@@ -9,7 +9,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1250 | closeout        | #OBI - 6061 All-Road - Deep Pacific (650b) -  Medium - Like-New Condition |
 |   $825 | closeout        | #681 - 4130 All-Road - Pacific Gold w/ 650b wheels - X-Small (43cm) -  Like-New Condition |
 |   $825 | closeout        | #PM4130 - 4130 All-Road - Flat Bar - Cupertino Pearl (Large 650b) Like-New Condition (Photo Model) |
-|   $785 | closeout        | #682 - 4130 All-Road - Black Canyon (X-Small 650b) - Excellent Condition |
 |   $765 | closeout        | #683 - 4130 All-Road - Copper Brown w/ 700c wheels - Medium (51cm) - Very Good Condition |
 |   $475 | City Bike       | City Bike - The Azure Deluxe (3 Speed) - Small (43 cm - Riders 4'9" - 5'5") |
 |   $475 | City Bike       | City Bike - The Azure Deluxe (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
@@ -129,3 +128,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
 |     $3 | Bottle          | The Simpsons X State Bicycle Co. - Springfield Character Bottle |
 |     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
+|     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
