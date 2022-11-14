@@ -27,6 +27,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
+|   $325 | closeout        | #685 - 4130 - Windbreaker - 55cm - Fair Condition |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
@@ -128,4 +129,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
 |     $3 | Bottle          | The Simpsons X State Bicycle Co. - Springfield Character Bottle |
 |     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
-|     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
