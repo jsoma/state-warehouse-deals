@@ -9,13 +9,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1250 | closeout        | #OBI - 6061 All-Road - Deep Pacific (650b) -  Medium - Like-New Condition |
 |   $825 | closeout        | #681 - 4130 All-Road - Pacific Gold w/ 650b wheels - X-Small (43cm) -  Like-New Condition |
 |   $825 | closeout        | #PM4130 - 4130 All-Road - Flat Bar - Cupertino Pearl (Large 650b) Like-New Condition (Photo Model) |
-|   $765 | closeout        | #683 - 4130 All-Road - Copper Brown w/ 700c wheels - Medium (51cm) - Very Good Condition |
-|   $475 | City Bike       | City Bike - The Azure Deluxe (3 Speed) - Small (43 cm - Riders 4'9" - 5'5") |
-|   $475 | City Bike       | City Bike - The Azure Deluxe (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
-|   $475 | City Bike       | City Bike - The Azure Deluxe (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
-|   $475 | City Bike       | City Bike - The Elliston Deluxe (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
-|   $475 | City Bike       | City Bike - The Elliston Deluxe (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
-|   $475 | City Bike       | City Bike - The Elliston Deluxe (3 Speed) - Large (58 cm - Riders 6'0" - 6'4") |
 |   $425 | City Bike       | City Bike - The Azure (3 Speed) - Small (43 cm - Riders 4'9" - 5'5") |
 |   $425 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
 |   $425 | City Bike       | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
@@ -24,9 +17,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $425 | City Bike       | City Bike - The Elliston (3 Speed) - Large (58 cm - Riders 6'0" - 6'4") |
 |   $425 | closeout        | #OBI - Klunker - State Bicycle Co. x Wu-Tang Clan - Excellent Condtion |
 |   $385 | closeout        | #PMCNA - Klunker - Corona - Like-New Condition (Photo Model / Media Sample) |
-|   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
-|   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
-|   $375 | City Bike       | City Bike - The Elliston Deluxe (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
@@ -129,3 +119,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - X-Large |
 |     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
 |     $3 | Bottle          | The Simpsons X State Bicycle Co. - Springfield Character Bottle |
+|     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
+|     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
+|     $0 | closeout        | Patch: Hell Ride High Noon - Vol 2. (2015) |
+|     $0 | closeout        | Patch: Explore Your State Vol. 3 - Phoenix to Tucson |
