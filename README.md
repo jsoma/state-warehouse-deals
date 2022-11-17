@@ -20,7 +20,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $325 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
 |   $275 | closeout        | #686 - City-Bike - Elliston Single-Speed - Size Medium (53cm) - Good Condition |
-|   $265 | closeout        | #687 - Core-Line - Rigby - Size Small (50cm) - Good Condition |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $199 |                 | Saris - Mag+ Trainer |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
@@ -123,3 +122,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $0 | closeout        | Patch: Hell Ride High Noon - Vol 2. (2015) |
 |     $0 | closeout        | Patch: Explore Your State Vol. 3 - Phoenix to Tucson |
 |     $0 | closeout        | Patch: Explore Your State Vol. 2 - Dirt, Rivers & 9 Mile Hill |
+|     $0 | closeout        | Patch: Phoenix to Tucson (Volume 1) |
