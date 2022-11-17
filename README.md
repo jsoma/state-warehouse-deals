@@ -7,7 +7,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1250 | closeout        | #OBI - 6061 All-Road - Dark Woodland (650b) -  Large - Like-New Condition |
 |  $1250 | closeout        | #OBI - 6061 All-Road - Dark Woodland (650b) -  Medium - Like-New Condition |
 |  $1250 | closeout        | #OBI - 6061 All-Road - Deep Pacific (650b) -  Medium - Like-New Condition |
-|   $825 | closeout        | #681 - 4130 All-Road - Pacific Gold w/ 650b wheels - X-Small (43cm) -  Like-New Condition |
 |   $825 | closeout        | #PM4130 - 4130 All-Road - Flat Bar - Cupertino Pearl (Large 650b) Like-New Condition (Photo Model) |
 |   $425 | City Bike       | City Bike - The Azure (3 Speed) - Small (43 cm - Riders 4'9" - 5'5") |
 |   $425 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
@@ -123,3 +122,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
 |     $0 | closeout        | Patch: Hell Ride High Noon - Vol 2. (2015) |
 |     $0 | closeout        | Patch: Explore Your State Vol. 3 - Phoenix to Tucson |
+|     $0 | closeout        | Patch: Explore Your State Vol. 2 - Dirt, Rivers & 9 Mile Hill |
