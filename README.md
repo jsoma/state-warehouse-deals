@@ -8,6 +8,12 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $199 |                 | Saris - Mag+ Trainer |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
+|   $125 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - X-Small |
+|   $125 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Small |
+|   $125 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Medium |
+|   $125 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Large |
+|   $125 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - X-Large |
+|   $125 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - XX-Large |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - X-Small |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - Small |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - Medium |
@@ -20,12 +26,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - Large |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - X-Large |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - XX-Large |
-|    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - X-Small |
-|    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Small |
-|    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Medium |
-|    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Large |
-|    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - X-Large |
-|    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - XX-Large |
 |    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Club Bib Shorts - Extra Small |
 |    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Club Bib Shorts - Small |
 |    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Club Bib Shorts - Medium |
