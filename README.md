@@ -8,18 +8,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $199 |                 | Saris - Mag+ Trainer |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
-|   $125 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - X-Small |
-|   $125 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Small |
-|   $125 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Medium |
-|   $125 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Large |
-|   $125 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - X-Large |
-|   $125 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - XX-Large |
-|    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Club Bib Shorts - Extra Small |
-|    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Club Bib Shorts - Small |
-|    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Club Bib Shorts - Medium |
-|    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Club Bib Shorts - Large |
-|    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Club Bib Shorts - Extra Large |
-|    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Club Bib Shorts - XXL |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $69 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Small |
 |    $69 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Medium |
