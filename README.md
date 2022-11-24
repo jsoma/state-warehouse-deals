@@ -14,18 +14,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $125 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Large |
 |   $125 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - X-Large |
 |   $125 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - XX-Large |
-|    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - X-Small |
-|    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - Small |
-|    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - Medium |
-|    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - Large |
-|    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - X-Large |
-|    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - XX-Large |
-|    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - X-Small |
-|    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - Small |
-|    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - Medium |
-|    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - Large |
-|    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - X-Large |
-|    $99 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - XX-Large |
 |    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Club Bib Shorts - Extra Small |
 |    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Club Bib Shorts - Small |
 |    $95 | Jerseys + Kits  | State Bicycle Team x Rapha - Club Bib Shorts - Medium |
