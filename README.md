@@ -3,6 +3,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
+|   $775 | closeout        | #694 - 4130 All-Road - Black Canyon w/ 700c wheels - X-Small (43cm) - Excellent Condition |
+|   $595 | closeout        | #693- 6061 Black-Label v2 (Fixed-Gear)  - Matte Black - 57cm - Excellent Condition |
 |   $425 | closeout        | #684 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Like-New Condition |
 |   $355 | closeout        | #692- 4130 Fixed-Gear / Single Speed - Sokol w/ upgrades - 62cm - Very Good Condition |
 |   $345 | closeout        | #688 - City-Bike - Elliston (3-speed) - Size Medium (53cm) - Good Condition |
