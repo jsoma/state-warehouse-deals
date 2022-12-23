@@ -5,12 +5,15 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |---|---|---|
 |   $775 | closeout        | #694 - 4130 All-Road - Black Canyon w/ 700c wheels - X-Small (43cm) - Excellent Condition |
 |   $625 | closeout        | #695 - 6061 Black-Label v2 (Fixed-Gear) w/ Brooks Saddle  - Raw - 55cm - Very Good Condition |
+|   $450 | closeout        | #698 - Warhawk SSCX Bike -  49cm - Like-New Condition |
+|   $425 | closeout        | #696 - City-Bike - Black & Tan 3-Speed - Size Medium (53cm) - Like-New Condition |
 |   $425 | closeout        | #684 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Like-New Condition |
+|   $355 | closeout        | #699 - 4130 All-Road - Copper Brown - Frameset - Size L (55cm) - Like-New Condition |
 |   $355 | closeout        | #692- 4130 Fixed-Gear / Single Speed - Sokol w/ upgrades - 62cm - Very Good Condition |
 |   $345 | closeout        | #688 - City-Bike - Elliston (3-speed) - Size Medium (53cm) - Good Condition |
 |   $325 | closeout        | #690 - City-Bike - Elliston (3-Speed) - Size Medium (53cm) - Good Condition |
 |   $285 | closeout        | #691 - City-Bike - Elliston (3-Speed) - Size Large (58cm) - Fair Condition |
-|   $275 | closeout        | #700 - 6061 All-Road - Copper Brown- Frameset - Size S (48cm) - USED Condition |
+|   $275 | closeout        | #700 - 6061 All-Road - Copper Brown- Frameset - Size XS (48cm) - USED Condition |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $199 |                 | Saris - Mag+ Trainer |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
