@@ -4,6 +4,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |price|type|name|
 |---|---|---|
 |   $775 | closeout        | #694 - 4130 All-Road - Black Canyon w/ 700c wheels - X-Small (43cm) - Excellent Condition |
+|   $675 | closeout        | #701- 4130 All-Road - Pigeon Grey w/ 700c wheels - X-Small (43cm) - USED Condition |
 |   $625 | closeout        | #695 - 6061 Black-Label v2 (Fixed-Gear) w/ Brooks Saddle  - Raw - 55cm - Very Good Condition |
 |   $450 | closeout        | #698 - Warhawk SSCX Bike -  49cm - Like-New Condition |
 |   $425 | closeout        | #696 - City-Bike - Black & Tan 3-Speed - Size Medium (53cm) - Like-New Condition |
