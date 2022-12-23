@@ -12,6 +12,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $355 | closeout        | #692- 4130 Fixed-Gear / Single Speed - Sokol w/ upgrades - 62cm - Very Good Condition |
 |   $345 | closeout        | #688 - City-Bike - Elliston (3-speed) - Size Medium (53cm) - Good Condition |
 |   $325 | closeout        | #690 - City-Bike - Elliston (3-Speed) - Size Medium (53cm) - Good Condition |
+|   $295 | closeout        | #697 - City-Bike - Black & Tan Single-Speed - Size Medium (53cm) - Like-New Condition |
 |   $285 | closeout        | #691 - City-Bike - Elliston (3-Speed) - Size Large (58cm) - Fair Condition |
 |   $275 | closeout        | #700 - 6061 All-Road - Copper Brown- Frameset - Size XS (48cm) - USED Condition |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
