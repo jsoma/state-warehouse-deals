@@ -9,7 +9,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $382 | closeout        | #698 - Warhawk SSCX Bike -  49cm - Like-New Condition |
 |   $361 | closeout        | #696 - City-Bike - Black & Tan 3-Speed - Size Medium (53cm) - Like-New Condition |
 |   $361 | closeout        | #684 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Like-New Condition |
-|   $301 | closeout        | #699 - 4130 All-Road - Copper Brown - Frameset - Size L (55cm) - Like-New Condition |
 |   $301 | closeout        | #692- 4130 Fixed-Gear / Single Speed - Sokol w/ upgrades - 62cm - Very Good Condition |
 |   $293 | closeout        | #688 - City-Bike - Elliston (3-speed) - Size Medium (53cm) - Good Condition |
 |   $276 | closeout        | #690 - City-Bike - Elliston (3-Speed) - Size Medium (53cm) - Good Condition |
@@ -93,3 +92,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $0 | closeout        | Patch: Explore Your State Vol. 3 - Phoenix to Tucson |
 |     $0 | closeout        | Patch: Explore Your State Vol. 2 - Dirt, Rivers & 9 Mile Hill |
 |     $0 | closeout        | Patch: Phoenix to Tucson (Volume 1) |
+|     $0 | closeout        | Patch: Phoenix to Tucson (2019) |
