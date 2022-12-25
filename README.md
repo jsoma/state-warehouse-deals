@@ -3,90 +3,90 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
-|   $775 | closeout        | #694 - 4130 All-Road - Black Canyon w/ 700c wheels - X-Small (43cm) - Excellent Condition |
-|   $675 | closeout        | #701- 4130 All-Road - Pigeon Grey w/ 700c wheels - X-Small (43cm) - USED Condition |
-|   $625 | closeout        | #695 - 6061 Black-Label v2 (Fixed-Gear) w/ Brooks Saddle  - Raw - 55cm - Very Good Condition |
-|   $450 | closeout        | #698 - Warhawk SSCX Bike -  49cm - Like-New Condition |
-|   $425 | closeout        | #696 - City-Bike - Black & Tan 3-Speed - Size Medium (53cm) - Like-New Condition |
-|   $425 | closeout        | #684 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Like-New Condition |
-|   $355 | closeout        | #699 - 4130 All-Road - Copper Brown - Frameset - Size L (55cm) - Like-New Condition |
-|   $355 | closeout        | #692- 4130 Fixed-Gear / Single Speed - Sokol w/ upgrades - 62cm - Very Good Condition |
-|   $345 | closeout        | #688 - City-Bike - Elliston (3-speed) - Size Medium (53cm) - Good Condition |
-|   $325 | closeout        | #690 - City-Bike - Elliston (3-Speed) - Size Medium (53cm) - Good Condition |
-|   $295 | closeout        | #697 - City-Bike - Black & Tan Single-Speed - Size Medium (53cm) - Like-New Condition |
-|   $285 | closeout        | #691 - City-Bike - Elliston (3-Speed) - Size Large (58cm) - Fair Condition |
-|   $275 | closeout        | #700 - 6061 All-Road - Copper Brown- Frameset - Size XS (48cm) - USED Condition |
-|   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
-|   $199 |                 | Saris - Mag+ Trainer |
-|   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
-|    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
-|    $69 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Small |
-|    $69 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Medium |
-|    $69 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Large |
-|    $69 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Extra Large |
-|    $69 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - XX-Large |
+|   $658 | closeout        | #694 - 4130 All-Road - Black Canyon w/ 700c wheels - X-Small (43cm) - Excellent Condition |
+|   $573 | closeout        | #701- 4130 All-Road - Pigeon Grey w/ 700c wheels - X-Small (43cm) - USED Condition |
+|   $531 | closeout        | #695 - 6061 Black-Label v2 (Fixed-Gear) w/ Brooks Saddle  - Raw - 55cm - Very Good Condition |
+|   $382 | closeout        | #698 - Warhawk SSCX Bike -  49cm - Like-New Condition |
+|   $361 | closeout        | #696 - City-Bike - Black & Tan 3-Speed - Size Medium (53cm) - Like-New Condition |
+|   $361 | closeout        | #684 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Like-New Condition |
+|   $301 | closeout        | #699 - 4130 All-Road - Copper Brown - Frameset - Size L (55cm) - Like-New Condition |
+|   $301 | closeout        | #692- 4130 Fixed-Gear / Single Speed - Sokol w/ upgrades - 62cm - Very Good Condition |
+|   $293 | closeout        | #688 - City-Bike - Elliston (3-speed) - Size Medium (53cm) - Good Condition |
+|   $276 | closeout        | #690 - City-Bike - Elliston (3-Speed) - Size Medium (53cm) - Good Condition |
+|   $250 | closeout        | #697 - City-Bike - Black & Tan Single-Speed - Size Medium (53cm) - Like-New Condition |
+|   $242 | closeout        | #691 - City-Bike - Elliston (3-Speed) - Size Large (58cm) - Fair Condition |
+|   $233 | closeout        | #700 - 6061 All-Road - Copper Brown- Frameset - Size XS (48cm) - USED Condition |
+|   $212 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
+|   $169 |                 | Saris - Mag+ Trainer |
+|   $114 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
+|    $80 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $65 | Misc. Accessori | #NewOpenBoxItem - Thousand Heritage Helmet - Stealth Black - Medium |
-|    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Small |
-|    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Medium |
-|    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
-|    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - X-Large |
-|    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - XX-Large |
-|    $55 | closeout        | #583 - State Bicycle Co. Lo-Pro Road Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
-|    $52 | Misc. Accessori | #NewOpenBoxItem - Thousand Heritage Helmet - Navy - Small |
-|    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Small |
-|    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Medium |
-|    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - X-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Medium |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
+|    $58 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Small |
+|    $58 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Medium |
+|    $58 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Large |
+|    $58 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Extra Large |
+|    $58 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - XX-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Small |
+|    $55 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Medium |
+|    $55 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - X-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - XX-Large |
+|    $46 | closeout        | #583 - State Bicycle Co. Lo-Pro Road Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
+|    $44 | Misc. Accessori | #NewOpenBoxItem - Thousand Heritage Helmet - Navy - Small |
+|    $38 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Small |
+|    $38 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Medium |
+|    $38 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Large |
+|    $38 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - X-Large |
+|    $38 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
 |    $35 | closeout        | #NewOpenBoxItem- State Bicycle Co. All-Road Platform / Clipless Combo Pedal (SPD Compatible) - Used / Returned Condition |
-|    $35 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Small |
-|    $35 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Medium |
-|    $35 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Large |
-|    $35 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - X-Large |
-|    $35 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
-|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Small |
-|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Small |
-|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Medium |
-|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Large |
-|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Large |
-|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - XX-Large |
-|    $29 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
-|    $29 | Accessories     | State Bicycle Co.  x The Grateful Dead - "Lightning Bolt"  All-Road Bar Bag |
-|    $29 | Accessories     | State Bicycle Co.  x The Grateful Dead - "Dancing Bears"  All-Road Bar Bag |
-|    $27 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Black |
-|    $27 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - White |
-|    $27 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Tie-Dye |
-|    $25 | Accessories     | State Bicycle Co.  x Ozzy Osbourne -  All-Road Bar Bag |
-|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
-|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
-|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
-|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
-|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
-|    $17 | Misc. Accessori | #NewOpenBoxItem - State Bicycle Co. -  State Bicycle Co. - Steel Chain Combo Lock |
-|    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Small |
-|    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Medium |
-|    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Large |
-|    $14 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Extra Large |
-|    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
-|    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
-|    $14 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
-|    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
-|    $14 | Hats            | State Bicycle Co. - "Crossing the T's" Beanie |
-|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Small |
-|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Medium |
-|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Large |
-|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - X-Large |
-|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - Small |
-|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - Medium |
-|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - Large |
-|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - X-Large |
-|     $5 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
-|     $3 | Bottle          | The Simpsons X State Bicycle Co. - Springfield Character Bottle |
+|    $33 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Small |
+|    $33 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Medium |
+|    $33 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
+|    $33 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
+|    $33 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
+|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Small |
+|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Medium |
+|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Large |
+|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - X-Large |
+|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
+|    $29 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Small |
+|    $29 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Small |
+|    $29 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Medium |
+|    $29 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Large |
+|    $29 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Large |
+|    $29 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - XX-Large |
+|    $25 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
+|    $25 | Accessories     | State Bicycle Co.  x The Grateful Dead - "Lightning Bolt"  All-Road Bar Bag |
+|    $25 | Accessories     | State Bicycle Co.  x The Grateful Dead - "Dancing Bears"  All-Road Bar Bag |
+|    $23 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Black |
+|    $23 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - White |
+|    $23 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Tie-Dye |
+|    $21 | Accessories     | State Bicycle Co.  x Ozzy Osbourne -  All-Road Bar Bag |
+|    $19 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
+|    $19 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
+|    $19 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
+|    $19 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
+|    $19 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
+|    $14 | Misc. Accessori | #NewOpenBoxItem - State Bicycle Co. -  State Bicycle Co. - Steel Chain Combo Lock |
+|    $12 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Small |
+|    $12 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Medium |
+|    $12 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Large |
+|    $12 | Shirts          | State Bicycle Co. - "Explore Your State" - Premium T-Shirt (Olive) - Extra Large |
+|    $12 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
+|    $12 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
+|    $12 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
+|    $12 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
+|    $12 | Hats            | State Bicycle Co. - "Crossing the T's" Beanie |
+|    $12 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Small |
+|    $12 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Medium |
+|    $12 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Large |
+|    $12 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - X-Large |
+|    $12 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - Small |
+|    $12 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - Medium |
+|    $12 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - Large |
+|    $12 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - X-Large |
+|     $4 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
+|     $2 | Bottle          | The Simpsons X State Bicycle Co. - Springfield Character Bottle |
 |     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
 |     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
 |     $0 | closeout        | Patch: Hell Ride High Noon - Vol 2. (2015) |
