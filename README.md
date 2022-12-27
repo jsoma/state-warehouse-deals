@@ -3,8 +3,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
-|  $1099 | closeout        | #703 - 6061 Black Label All-Road - Dark Woodland (650b) - Small (51cm) - Excellent Condition |
 |  $1099 | closeout        | #702 - 6061 Black Label All-Road - Deep Pacific (650b) - Medium (54cm) - Excellent Condition |
+|  $1045 | closeout        | #703 - 6061 Black Label All-Road - Dark Woodland (650b) - Small (51cm) - Excellent Condition |
 |   $658 | closeout        | #694 - 4130 All-Road - Black Canyon w/ 700c wheels - X-Small (43cm) - Excellent Condition |
 |   $573 | closeout        | #701- 4130 All-Road - Pigeon Grey w/ 700c wheels - X-Small (43cm) - USED Condition |
 |   $531 | closeout        | #695 - 6061 Black-Label v2 (Fixed-Gear) w/ Brooks Saddle  - Raw - 55cm - Very Good Condition |
