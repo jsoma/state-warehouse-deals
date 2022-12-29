@@ -13,7 +13,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $276 | closeout        | #690 - City-Bike - Elliston (3-Speed) - Size Medium (53cm) - Good Condition |
 |   $275 | closeout        | #705 - 4130 All-Road - Copper Brown - Frameset - Size M (51cm) - Good Condition |
 |   $255 | closeout        | #704 - 4130 All-Road - Matte Olive - FRAME ONLY - Size XS (43cm) - Very Good Condition |
-|   $250 | closeout        | #697 - City-Bike - Black & Tan Single-Speed - Size Medium (53cm) - Like-New Condition |
 |   $242 | closeout        | #691 - City-Bike - Elliston (3-Speed) - Size Large (58cm) - Fair Condition |
 |   $212 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $169 |                 | Saris - Mag+ Trainer |
