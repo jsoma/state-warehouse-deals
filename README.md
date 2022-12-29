@@ -5,7 +5,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |---|---|---|
 |  $1099 | closeout        | #702 - 6061 Black Label All-Road - Deep Pacific (650b) - Medium (54cm) - Excellent Condition |
 |   $658 | closeout        | #694 - 4130 All-Road - Black Canyon w/ 700c wheels - X-Small (43cm) - Excellent Condition |
-|   $573 | closeout        | #701- 4130 All-Road - Pigeon Grey w/ 700c wheels - X-Small (43cm) - USED Condition |
 |   $531 | closeout        | #695 - 6061 Black-Label v2 (Fixed-Gear) w/ Brooks Saddle  - Raw - 55cm - Very Good Condition |
 |   $361 | closeout        | #696 - City-Bike - Black & Tan 3-Speed - Size Medium (53cm) - Like-New Condition |
 |   $361 | closeout        | #684 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Like-New Condition |
@@ -93,3 +92,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $0 | closeout        | Patch: Explore Your State Vol. 3 - Phoenix to Tucson |
 |     $0 | closeout        | Patch: Explore Your State Vol. 2 - Dirt, Rivers & 9 Mile Hill |
 |     $0 | closeout        | Patch: Phoenix to Tucson (Volume 1) |
+|     $0 | closeout        | Patch: Phoenix to Tucson (2019) |
