@@ -9,9 +9,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $531 | closeout        | #695 - 6061 Black-Label v2 (Fixed-Gear) w/ Brooks Saddle  - Raw - 55cm - Very Good Condition |
 |   $361 | closeout        | #696 - City-Bike - Black & Tan 3-Speed - Size Medium (53cm) - Like-New Condition |
 |   $361 | closeout        | #684 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Like-New Condition |
+|   $325 | closeout        | #708 - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
 |   $301 | closeout        | #692- 4130 Fixed-Gear / Single Speed - Sokol w/ upgrades - 62cm - Very Good Condition |
 |   $293 | closeout        | #688 - City-Bike - Elliston (3-speed) - Size Medium (53cm) - Good Condition |
 |   $276 | closeout        | #690 - City-Bike - Elliston (3-Speed) - Size Medium (53cm) - Good Condition |
+|   $275 | closeout        | #707 - 6061 All-Road - Dark Woodland- FRAME ONLY - L (58cm) - VERY GOOD Condition |
 |   $275 | closeout        | #705 - 4130 All-Road - Copper Brown - Frameset - Size M (51cm) - Good Condition |
 |   $255 | closeout        | #704 - 4130 All-Road - Matte Olive - FRAME ONLY - Size XS (43cm) - Very Good Condition |
 |   $242 | closeout        | #691 - City-Bike - Elliston (3-Speed) - Size Large (58cm) - Fair Condition |
@@ -91,5 +93,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $0 | closeout        | Patch: Hell Ride High Noon - Vol 2. (2015) |
 |     $0 | closeout        | Patch: Explore Your State Vol. 3 - Phoenix to Tucson |
 |     $0 | closeout        | Patch: Explore Your State Vol. 2 - Dirt, Rivers & 9 Mile Hill |
-|     $0 | closeout        | Patch: Phoenix to Tucson (Volume 1) |
-|     $0 | closeout        | Patch: Phoenix to Tucson (2019) |
