@@ -22,6 +22,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $169 |                 | Saris - Mag+ Trainer |
 |   $114 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $80 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
+|    $75 | Misc. Accessori | #NewOpenBoxItem - Brooks B17 Saddle - Honey Brown - Customer Retuned Item |
 |    $65 | Misc. Accessori | #NewOpenBoxItem - Thousand Heritage Helmet - Stealth Black - Medium |
 |    $58 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Small |
 |    $58 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Medium |
@@ -92,4 +93,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
 |     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
 |     $0 | closeout        | Patch: Hell Ride High Noon - Vol 2. (2015) |
-|     $0 | closeout        | Patch: Explore Your State Vol. 3 - Phoenix to Tucson |
