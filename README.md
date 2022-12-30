@@ -4,6 +4,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |price|type|name|
 |---|---|---|
 |  $1099 | closeout        | #702 - 6061 Black Label All-Road - Deep Pacific (650b) - Medium (54cm) - Excellent Condition |
+|   $945 | closeout        | #709 - 6061 Black Label All-Road - Deep Pacific (650b) - Medium (54cm) - Good Condition |
 |   $765 | closeout        | #706 - 4130 All-Road - Copper Brown w/ 650b wheels - Small (48cm) - Excellent Condition |
 |   $658 | closeout        | #694 - 4130 All-Road - Black Canyon w/ 700c wheels - X-Small (43cm) - Excellent Condition |
 |   $531 | closeout        | #695 - 6061 Black-Label v2 (Fixed-Gear) w/ Brooks Saddle  - Raw - 55cm - Very Good Condition |
@@ -92,4 +93,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
 |     $0 | closeout        | Patch: Hell Ride High Noon - Vol 2. (2015) |
 |     $0 | closeout        | Patch: Explore Your State Vol. 3 - Phoenix to Tucson |
-|     $0 | closeout        | Patch: Explore Your State Vol. 2 - Dirt, Rivers & 9 Mile Hill |
