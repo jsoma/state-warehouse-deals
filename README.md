@@ -6,8 +6,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1099 | closeout        | #702 - 6061 Black Label All-Road - Deep Pacific (650b) - Medium (54cm) - Excellent Condition |
 |   $945 | closeout        | #709 - 6061 Black Label All-Road - Deep Pacific (650b) - Medium (54cm) - Good Condition |
 |   $765 | closeout        | #706 - 4130 All-Road - Copper Brown w/ 650b wheels - Small (48cm) - Excellent Condition |
+|   $755 | closeout        | #710 - 4130 All-Road - Black Canyon w/ 700c wheels - Large (54cm) - Good Condition |
 |   $658 | closeout        | #694 - 4130 All-Road - Black Canyon w/ 700c wheels - X-Small (43cm) - Excellent Condition |
 |   $531 | closeout        | #695 - 6061 Black-Label v2 (Fixed-Gear) w/ Brooks Saddle  - Raw - 55cm - Very Good Condition |
+|   $385 | closeout        | #711- 4130 Road - Hunter Green (8-speed) - 62cm - Good Condition |
 |   $361 | closeout        | #696 - City-Bike - Black & Tan 3-Speed - Size Medium (53cm) - Like-New Condition |
 |   $361 | closeout        | #684 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Like-New Condition |
 |   $325 | closeout        | #708 - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
@@ -91,5 +93,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $4 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
 |     $2 | Bottle          | The Simpsons X State Bicycle Co. - Springfield Character Bottle |
 |     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
-|     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
-|     $0 | closeout        | Patch: Hell Ride High Noon - Vol 2. (2015) |
