@@ -16,7 +16,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | closeout        | #708 - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
 |   $301 | closeout        | #692- 4130 Fixed-Gear / Single Speed - Sokol w/ upgrades - 62cm - Very Good Condition |
 |   $295 | closeout        | #714 - 4130 All-Road - Black Canyon - Frameset - Size L (54cm) - Good Condition |
-|   $295 | closeout        | #713 - 4130 All-Road - Black Canyon - Frameset - Size M (51cm) - Good Condition |
 |   $293 | closeout        | #688 - City-Bike - Elliston (3-speed) - Size Medium (53cm) - Good Condition |
 |   $276 | closeout        | #690 - City-Bike - Elliston (3-Speed) - Size Medium (53cm) - Good Condition |
 |   $275 | closeout        | #707 - 6061 All-Road - Dark Woodland- FRAME ONLY - L (58cm) - VERY GOOD Condition |
@@ -93,3 +92,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $12 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - Large |
 |    $12 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - X-Large |
 |     $4 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
+|     $2 | Bottle          | The Simpsons X State Bicycle Co. - Springfield Character Bottle |
