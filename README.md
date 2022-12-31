@@ -39,7 +39,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
 |    $55 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - X-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - XX-Large |
-|    $46 | closeout        | #583 - State Bicycle Co. Lo-Pro Road Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
 |    $44 | Misc. Accessori | #NewOpenBoxItem - Thousand Heritage Helmet - Navy - Small |
 |    $38 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Small |
 |    $38 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Medium |
@@ -93,3 +92,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $12 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - Medium |
 |    $12 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - Large |
 |    $12 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - X-Large |
+|     $4 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
