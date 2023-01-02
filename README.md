@@ -13,6 +13,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $385 | closeout        | #711- 4130 Road - Hunter Green (8-speed) - 62cm - Good Condition |
 |   $361 | closeout        | #696 - City-Bike - Black & Tan 3-Speed - Size Medium (53cm) - Like-New Condition |
 |   $361 | closeout        | #684 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Like-New Condition |
+|   $325 | closeout        | #708 - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
 |   $301 | closeout        | #692- 4130 Fixed-Gear / Single Speed - Sokol w/ upgrades - 62cm - Very Good Condition |
 |   $295 | closeout        | #714 - 4130 All-Road - Black Canyon - Frameset - Size L (54cm) - Good Condition |
 |   $293 | closeout        | #688 - City-Bike - Elliston (3-speed) - Size Medium (53cm) - Good Condition |
@@ -92,4 +93,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $12 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (Black) - X-Large |
 |     $4 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
 |     $2 | Bottle          | The Simpsons X State Bicycle Co. - Springfield Character Bottle |
-|     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
