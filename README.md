@@ -11,6 +11,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 58 cm (Riders 5'9"-6'1") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
+|  $1075 | closeout        | #717 - 6061 Black Label All-Road - Dark Woodland (650b) - X-Small (48cm) - Excellent Condition |
 |   $945 | closeout        | #709 - 6061 Black Label All-Road - Deep Pacific (650b) - Medium (54cm) - Good Condition |
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'4") |
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 52 cm (Riders 5'4"-5'7") |
@@ -18,6 +19,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 58 cm (Riders 5'11"-6'2") |
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 61 cm (Riders 6'2"-6'5") |
 |   $755 | closeout        | #710 - 4130 All-Road - Black Canyon w/ 700c wheels - Large (54cm) - Good Condition |
+|   $745 | closeout        | #718 - 4130 All-Road - Copper Brown w/ 650b wheels - Medium (51cm) - Very Good Condition |
 |   $715 | closeout        | #712 - 4130 All-Road - Matte Olive w/ 700c wheels - X-Small (43cm) - Very Good Condition |
 |   $499 | Frame / Fork    | Undefeated Track Frame & Fork Set - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'3") |
 |   $499 | Frame / Fork    | Undefeated Track Frame & Fork Set - Pearl / Tie-Dye - 52 cm (Riders 5'3"-5'6") |
@@ -172,14 +174,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - XX-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Medium |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
-|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Small |
-|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Small |
-|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Medium |
-|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Large |
-|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Large |
-|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - XX-Large |
