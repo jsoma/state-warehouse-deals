@@ -124,7 +124,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - X-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - XX-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - 3X-Large |
-|    $65 | Misc. Accessori | #NewOpenBoxItem - Thousand Heritage Helmet - Stealth Black - Medium |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Small |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Medium |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
@@ -178,3 +177,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Small |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Small |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Medium |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Large |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Large |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - XX-Large |
