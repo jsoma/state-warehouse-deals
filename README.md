@@ -16,7 +16,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $295 | closeout        | #714 - 4130 All-Road - Black Canyon - Frameset - Size L (54cm) - Good Condition |
 |   $293 | closeout        | #688 - City-Bike - Elliston (3-speed) - Size Medium (53cm) - Good Condition |
 |   $276 | closeout        | #690 - City-Bike - Elliston (3-Speed) - Size Medium (53cm) - Good Condition |
-|   $275 | closeout        | #715 - 4130 All-Road - Matte Olive - Frameset - Size S (48cm) - Good Condition |
 |   $275 | closeout        | #707 - 6061 All-Road - Dark Woodland- FRAME ONLY - L (58cm) - VERY GOOD Condition |
 |   $275 | closeout        | #705 - 4130 All-Road - Copper Brown - Frameset - Size M (51cm) - Good Condition |
 |   $255 | closeout        | #704 - 4130 All-Road - Matte Olive - FRAME ONLY - Size XS (43cm) - Very Good Condition |
@@ -93,3 +92,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $4 | Hats            | 'State Bicycle Co.' Red / White / Blue Cap |
 |     $2 | Bottle          | The Simpsons X State Bicycle Co. - Springfield Character Bottle |
 |     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
+|     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
