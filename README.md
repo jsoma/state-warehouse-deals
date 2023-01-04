@@ -86,19 +86,46 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |   $125 | closeout        | #NewOpenBoxItem - Saris - Mag+ Trainer - Customer Returned Item |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
+|    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - X-Small |
+|    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - Small |
+|    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - Medium |
+|    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - Large |
+|    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - X-Large |
+|    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - XX-Large |
 |    $75 | Misc. Accessori | #NewOpenBoxItem - Brooks B17 Saddle - Honey Brown - Customer Retuned Item |
 |    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - Small |
 |    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - Medium |
 |    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - Large |
 |    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - Extra Large |
 |    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - XX-Large |
+|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - X-Small |
+|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - Small |
+|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - Medium |
+|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - Large |
+|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - X-Large |
+|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - XX-Large |
+|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - 3X-Large |
 |    $65 | Misc. Accessori | #NewOpenBoxItem - Thousand Heritage Helmet - Stealth Black - Medium |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Small |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Medium |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - X-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - XX-Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Small |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Small |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Medium |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - 3X-Large |
 |    $52 | Misc. Accessori | #NewOpenBoxItem - Thousand Heritage Helmet - Navy - Small |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Small |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Small |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Medium |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - XX-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - 3X-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - X-Small |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - Small |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - Medium |
@@ -145,11 +172,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - X-Large |
 |    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
 |    $19 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
-|    $19 | Accessories     | State Bicycle Co.  x The Grateful Dead - "Lightning Bolt"  All-Road Bar Bag |
-|    $19 | Accessories     | State Bicycle Co.  x The Grateful Dead - "Dancing Bears"  All-Road Bar Bag |
-|    $19 | Accessories     | State Bicycle Co.  x Ozzy Osbourne -  All-Road Bar Bag |
-|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
-|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
-|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
-|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
-|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
