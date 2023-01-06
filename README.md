@@ -78,7 +78,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
 |   $275 | closeout        | #705 - 4130 All-Road - Copper Brown - Frameset - Size M (51cm) - Good Condition |
-|   $255 | closeout        | #704 - 4130 All-Road - Matte Olive - FRAME ONLY - Size XS (43cm) - Very Good Condition |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $199 |                 | Saris - Mag+ Trainer |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
@@ -187,3 +186,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
 |    $19 | Accessories     | State Bicycle Co.  x The Grateful Dead - "Lightning Bolt"  All-Road Bar Bag |
 |    $19 | Accessories     | State Bicycle Co.  x The Grateful Dead - "Dancing Bears"  All-Road Bar Bag |
+|    $19 | Accessories     | State Bicycle Co.  x Ozzy Osbourne -  All-Road Bar Bag |
