@@ -71,7 +71,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
 |   $345 | closeout        | #688 - City-Bike - Elliston (3-speed) - Size Medium (53cm) - Good Condition |
 |   $325 | closeout        | #708 - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
-|   $325 | closeout        | #690 - City-Bike - Elliston (3-Speed) - Size Medium (53cm) - Good Condition |
 |   $311 | Klunker         | State Bicycle Co. x Corona - Klunker  (27.5") |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
@@ -187,3 +186,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Accessories     | State Bicycle Co.  x The Grateful Dead - "Lightning Bolt"  All-Road Bar Bag |
 |    $19 | Accessories     | State Bicycle Co.  x The Grateful Dead - "Dancing Bears"  All-Road Bar Bag |
 |    $19 | Accessories     | State Bicycle Co.  x Ozzy Osbourne -  All-Road Bar Bag |
+|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
+|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
+|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
+|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
+|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
