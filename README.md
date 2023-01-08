@@ -22,6 +22,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $499 | Frame / Fork    | Undefeated Track Frame & Fork Set - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'10") |
 |   $499 | Frame / Fork    | Undefeated Track Frame & Fork Set - Pearl / Tie-Dye - 58 cm (Riders 5'11"-6'2") |
 |   $499 | Frame / Fork    | Undefeated Track Frame & Fork Set - Pearl / Tie-Dye - 61 cm (Riders 6'2"-6'5") |
+|   $475 | closeout        | #OBI - 4130 Road - Americana (8-speed) - 52cm - Like-New Condition |
 |   $455 | closeout        | #719 - 4130 Road -  State Bicycle Co. x National Parks - Glacier Edition (8-speed) - 52cm - Very Good Condition |
 |   $425 | closeout        | #696 - City-Bike - Black & Tan 3-Speed - Size Medium (53cm) - Like-New Condition |
 |   $425 | closeout        | #684 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Like-New Condition |
@@ -190,6 +191,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
 |    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
 |    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
-|    $17 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Black |
-|    $17 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - White |
-|    $17 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Tie-Dye |
