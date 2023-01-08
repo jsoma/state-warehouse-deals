@@ -5,17 +5,20 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |---|---|---|
 |  $1225 | closeout        | #OBI -  6061 - eBike Commuter - Matte Black  -  Medium - Like-New Condition |
 |  $1195 | closeout        | #OBI - 6061 All-Road - Dark Woodland (650b) -  Medium - Like-New Condition |
+|  $1150 | closeout        | #OBI - 6061 All-Road - Deep Pacific (650b) -  Large - Like-New Condition |
 |  $1150 | closeout        | #OBI - 6061 All-Road - Deep Pacific (650b) -  Medium - Like-New Condition |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'3") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 52 cm (Riders 5'3"-5'6") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 58 cm (Riders 5'9"-6'1") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
+|   $795 | closeout        | #PM4130 - 4130 All-Road - Flat Bar - Cupertino Pearl (Large 650b) Like-New Condition (Photo Model) |
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'4") |
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 52 cm (Riders 5'4"-5'7") |
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 55 cm (Riders 5'7"-5'11") |
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 58 cm (Riders 5'11"-6'2") |
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 61 cm (Riders 6'2"-6'5") |
+|   $745 | closeout        | #604- 4130 All-Road - Cupertino Pearl w/ 650b wheels - Medium (51cm) - Very Good Condition |
 |   $715 | closeout        | #712 - 4130 All-Road - Matte Olive w/ 700c wheels - X-Small (43cm) - Very Good Condition |
 |   $499 | Frame / Fork    | Undefeated Track Frame & Fork Set - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'3") |
 |   $499 | Frame / Fork    | Undefeated Track Frame & Fork Set - Pearl / Tie-Dye - 52 cm (Riders 5'3"-5'6") |
@@ -184,10 +187,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
 |    $19 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
 |    $19 | Accessories     | State Bicycle Co.  x The Grateful Dead - "Lightning Bolt"  All-Road Bar Bag |
-|    $19 | Accessories     | State Bicycle Co.  x The Grateful Dead - "Dancing Bears"  All-Road Bar Bag |
-|    $19 | Accessories     | State Bicycle Co.  x Ozzy Osbourne -  All-Road Bar Bag |
-|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
-|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
-|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
-|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
-|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
