@@ -190,11 +190,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Accessories     | State Bicycle Co.  x The Grateful Dead - "Lightning Bolt"  All-Road Bar Bag |
 |    $19 | Accessories     | State Bicycle Co.  x The Grateful Dead - "Dancing Bears"  All-Road Bar Bag |
 |    $19 | Accessories     | State Bicycle Co.  x Ozzy Osbourne -  All-Road Bar Bag |
+|    $17 | Misc. Accessori | #NewOpenBoxItem - STATE BICYCLE CO. - UNIVERSAL REAR PANNIER RACK (BLACK) |
 |    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
 |    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
 |    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
 |    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
 |    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
-|    $17 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Black |
-|    $17 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - White |
-|    $17 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Tie-Dye |
