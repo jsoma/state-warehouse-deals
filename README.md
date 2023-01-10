@@ -25,6 +25,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $499 | Frame / Fork    | Undefeated Track Frame & Fork Set - Pearl / Tie-Dye - 58 cm (Riders 5'11"-6'2") |
 |   $499 | Frame / Fork    | Undefeated Track Frame & Fork Set - Pearl / Tie-Dye - 61 cm (Riders 6'2"-6'5") |
 |   $475 | closeout        | #OBI - 4130 Road - Americana (8-speed) - 52cm - Like-New Condition |
+|   $445 | closeout        | #559- 4130 - Windbreaker - 55cm - Excellent Condition |
 |   $425 | closeout        | #696 - City-Bike - Black & Tan 3-Speed - Size Medium (53cm) - Like-New Condition |
 |   $425 | closeout        | #684 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Like-New Condition |
 |   $425 | closeout        | #OBI - Klunker - State Bicycle Co. x Wu-Tang Clan - Excellent Condtion |
@@ -191,8 +192,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Accessories     | State Bicycle Co.  x The Grateful Dead - "Dancing Bears"  All-Road Bar Bag |
 |    $19 | Accessories     | State Bicycle Co.  x Ozzy Osbourne -  All-Road Bar Bag |
 |    $17 | Misc. Accessori | #NewOpenBoxItem - STATE BICYCLE CO. - UNIVERSAL REAR PANNIER RACK (BLACK) |
-|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
-|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
-|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
-|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
-|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
