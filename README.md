@@ -12,6 +12,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 58 cm (Riders 5'9"-6'1") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
+|   $950 | closeout        | #723 - 4130 All-Road - Copper Brown w/ 650b wheels + Carbon "Monster Fork" Upgrade - Medium (51cm) - Very Good Condition |
 |   $795 | closeout        | #PM4130 - 4130 All-Road - Flat Bar - Cupertino Pearl (Large 650b) Like-New Condition (Photo Model) |
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'4") |
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 52 cm (Riders 5'4"-5'7") |
@@ -77,6 +78,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
+|   $255 | closeout        | #724 - 4130 All-Road - Copper Brown - Frameset - Size L (54cm) - Good Condition |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $199 |                 | Saris - Mag+ Trainer |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
@@ -190,9 +192,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
 |    $19 | Accessories     | State Bicycle Co.  x The Grateful Dead - "Lightning Bolt"  All-Road Bar Bag |
 |    $19 | Accessories     | State Bicycle Co.  x The Grateful Dead - "Dancing Bears"  All-Road Bar Bag |
-|    $19 | Accessories     | State Bicycle Co.  x Ozzy Osbourne -  All-Road Bar Bag |
-|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
-|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
-|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
-|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
-|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
