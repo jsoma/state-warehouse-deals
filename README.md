@@ -50,24 +50,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $375 | 4130 Core-Line  | 4130 - Sokol –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Bullhorn Bars |
 |   $375 | 4130 Core-Line  | 4130 - Sokol –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Riser Bars |
 |   $375 | 4130 Core-Line  | 4130 - Sokol –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Drop Bars |
-|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 46 cm (Riders 4'10"-5'1") / Bullhorn Bars |
-|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 46 cm (Riders 4'10"-5'1") / Riser Bars |
-|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 46 cm (Riders 4'10"-5'1") / Drop Bars |
-|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 49 cm (Riders 5'1"-5'4") / Bullhorn Bars |
-|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 49 cm (Riders 5'1"-5'4") / Riser Bars |
-|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 49 cm (Riders 5'1"-5'4") / Drop Bars |
-|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 52 cm (Riders 5'4"-5'7") / Bullhorn Bars |
-|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 52 cm (Riders 5'4"-5'7") / Riser Bars |
-|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 52 cm (Riders 5'4"-5'7") / Drop Bars |
-|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 55 cm (Riders 5'7"-5'11") / Bullhorn Bars |
-|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 55 cm (Riders 5'7"-5'11") / Riser Bars |
-|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 55 cm (Riders 5'7"-5'11") / Drop Bars |
-|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 59 cm (Riders 5'11"-6'2") / Bullhorn Bars |
-|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 59 cm (Riders 5'11"-6'2") / Riser Bars |
-|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 59 cm (Riders 5'11"-6'2") / Drop Bars |
-|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Bullhorn Bars |
-|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Riser Bars |
-|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Drop Bars |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Large (58 cm - Riders 6'0" - 6'4") |
@@ -192,3 +174,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - X-Large |
 |    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
+|    $19 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
