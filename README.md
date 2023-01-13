@@ -28,6 +28,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $445 | closeout        | #559- 4130 - Windbreaker - 55cm - Excellent Condition |
 |   $425 | closeout        | #684 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Like-New Condition |
 |   $425 | closeout        | #OBI - Klunker - State Bicycle Co. x Wu-Tang Clan - Excellent Condtion |
+|   $395 | closeout        | #722- 4130 - Navy & Gold - 49cm - Good Condition |
 |   $395 | closeout        | #OpenBoxItem - State Bicycle Co. x Grateful Dead - Lightning Bolt Klunker (27.5")- Brand New |
 |   $375 | 4130 Core-Line  | 4130 - Sokol –  (Fixed Gear / Single-Speed) - 46 cm (Riders 4'10"-5'1") / Bullhorn Bars |
 |   $375 | 4130 Core-Line  | 4130 - Sokol –  (Fixed Gear / Single-Speed) - 46 cm (Riders 4'10"-5'1") / Riser Bars |
@@ -195,6 +196,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
 |    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
 |    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
-|    $17 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Black |
-|    $17 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - White |
-|    $17 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Tie-Dye |
