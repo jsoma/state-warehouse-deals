@@ -26,7 +26,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 58 cm (Riders 5'11"-6'2") |
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 61 cm (Riders 6'2"-6'5") |
 |   $745 | closeout        | #604- 4130 All-Road - Cupertino Pearl w/ 650b wheels - Medium (51cm) - Very Good Condition |
-|   $725 | closeout        | #729- 4130 All-Road - Matte Olive w/ 700c wheels - Medium (51cm) - Excellent Condition |
 |   $499 | Frame / Fork    | Undefeated Track Frame & Fork Set - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'3") |
 |   $499 | Frame / Fork    | Undefeated Track Frame & Fork Set - Pearl / Tie-Dye - 52 cm (Riders 5'3"-5'6") |
 |   $499 | Frame / Fork    | Undefeated Track Frame & Fork Set - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'10") |
@@ -139,3 +138,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $49 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - XX-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - 3X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - X-Small |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - Small |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - Medium |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - XX-Large |
