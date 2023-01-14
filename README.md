@@ -36,7 +36,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $425 | closeout        | #728 - 4130 - Matte Olive - 59cm - Very Good Condition |
 |   $425 | closeout        | #684 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Like-New Condition |
 |   $425 | closeout        | #OBI - Klunker - State Bicycle Co. x Wu-Tang Clan - Excellent Condtion |
-|   $399 | closeout        | #731 - 4130 Fixed-Gear / Single Speed - The Matte Black w/ Essor Bolt Upgrade - 55cm - Like-New Condition |
 |   $395 | closeout        | #722- 4130 - Navy & Gold - 49cm - Good Condition |
 |   $395 | closeout        | #OpenBoxItem - State Bicycle Co. x Grateful Dead - Lightning Bolt Klunker (27.5")- Brand New |
 |   $375 | 4130 Core-Line  | 4130 - Sokol –  (Fixed Gear / Single-Speed) - 46 cm (Riders 4'10"-5'1") / Bullhorn Bars |
@@ -144,3 +143,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - X-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - XX-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - X-Small |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - Small |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - Medium |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - X-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
