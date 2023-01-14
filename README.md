@@ -3,7 +3,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
-|  $1399 | closeout        | Copy of #OBI - 6061 All-Road - Deep Pacific (with BOTH 700c and 650b Wheelsets) -  Large (58cm) - Like-New Condition |
+|  $1399 | closeout        | #OBI - 6061 All-Road - Dark Woodland (with BOTH 700c and 650b Wheelsets) -  Large (58cm) - Like-New Condition |
+|  $1399 | closeout        | #OBI - 6061 All-Road - Dark Woodland (with BOTH 700c and 650b Wheelsets) -  Large (58cm) - Like-New Condition |
 |  $1399 | closeout        | #OBI - 6061 All-Road - Deep Pacific (with BOTH 700c and 650b Wheelsets) -  Medium - Like-New Condition |
 |  $1399 | closeout        | #OBI - 6061 All-Road - Dark Woodland (with BOTH 700c and 650b Wheelsets) -  Medium - Like-New Condition |
 |  $1250 | closeout        | #OBI - 6061 All-Road - Dark Woodland (650b) -  Large - Like-New Condition |
@@ -138,9 +139,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $49 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - XX-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - 3X-Large |
-|    $49 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - X-Small |
-|    $49 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - Small |
-|    $49 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - Medium |
-|    $49 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - Large |
-|    $49 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - X-Large |
-|    $49 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - XX-Large |
