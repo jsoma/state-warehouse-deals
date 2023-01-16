@@ -69,7 +69,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $199 |                 | Saris - Mag+ Trainer |
-|   $175 | closeout        | #730 - 6061 All-Road - Dark Woodland- Frameset - Size XS (48cm) - USED Condition |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $88 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - X-Small |
@@ -166,3 +165,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Small |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Small |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Medium |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Large |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Large |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - XX-Large |
