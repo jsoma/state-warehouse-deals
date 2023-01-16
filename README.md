@@ -55,7 +55,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $375 | 4130 Core-Line  | 4130 - Sokol –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Bullhorn Bars |
 |   $375 | 4130 Core-Line  | 4130 - Sokol –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Riser Bars |
 |   $375 | 4130 Core-Line  | 4130 - Sokol –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Drop Bars |
-|   $365 | closeout        | #734 - 4130 Fixed-Gear / Single Speed - Army Green - 46cm - Like-New Condition |
 |   $365 | closeout        | #733 - 4130 Fixed-Gear / Single Speed - Perplexing Purple w/ Essor Bolt Upgrade - 46cm - Like-New Condition |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
@@ -166,3 +165,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Small |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Small |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Medium |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Large |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Large |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - XX-Large |
