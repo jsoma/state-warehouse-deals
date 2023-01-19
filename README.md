@@ -69,7 +69,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
-|   $265 | closeout        | #735 - Core-Line - Wulf - Size Medium (54cm) - Good Condition |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $199 |                 | Saris - Mag+ Trainer |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
@@ -157,3 +156,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $45 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Extra Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - XX-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Medium |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - XX-Large |
