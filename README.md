@@ -19,7 +19,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 58 cm (Riders 5'9"-6'1") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
 |   $795 | closeout        | #PM4130 - 4130 All-Road - Flat Bar - Cupertino Pearl (Large 650b) Like-New Condition (Photo Model) |
-|   $785 | closeout        | #737 - 4130 All-Road - Copper Brown (650b) -  Medium - Very-Good Condition |
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'4") |
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 52 cm (Riders 5'4"-5'7") |
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 55 cm (Riders 5'7"-5'11") |
@@ -144,3 +143,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - X-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - XX-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - X-Small |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - Small |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - Medium |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - X-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
