@@ -38,7 +38,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $399 | closeout        | #744 - 4130 Fixed-Gear / Single Speed - Van Damme w/ Essor Bolt Upgrade - 59cm - Like-New Condition |
 |   $395 | closeout        | #722- 4130 - Navy & Gold - 49cm - Good Condition |
 |   $395 | closeout        | #OpenBoxItem - State Bicycle Co. x Grateful Dead - Lightning Bolt Klunker (27.5")- Brand New |
-|   $379 | closeout        | #740 - 4130 Fixed-Gear / Single Speed - Army Green - 52cm - Like-New Condition |
 |   $375 | 4130 Core-Line  | 4130 - Sokol –  (Fixed Gear / Single-Speed) - 46 cm (Riders 4'10"-5'1") / Bullhorn Bars |
 |   $375 | 4130 Core-Line  | 4130 - Sokol –  (Fixed Gear / Single-Speed) - 46 cm (Riders 4'10"-5'1") / Riser Bars |
 |   $375 | 4130 Core-Line  | 4130 - Sokol –  (Fixed Gear / Single-Speed) - 46 cm (Riders 4'10"-5'1") / Drop Bars |
@@ -149,3 +148,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $45 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Small |
+|    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Medium |
+|    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - X-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
