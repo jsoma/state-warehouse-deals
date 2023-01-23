@@ -24,6 +24,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 58 cm (Riders 5'11"-6'2") |
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 61 cm (Riders 6'2"-6'5") |
 |   $745 | closeout        | #604- 4130 All-Road - Cupertino Pearl w/ 650b wheels - Medium (51cm) - Very Good Condition |
+|   $595 | closeout        | #745 - 6061 Black-Label v2 (Fixed-Gear)  - Pearl White - 55cm - Excellent Condition |
 |   $499 | Frame / Fork    | Undefeated Track Frame & Fork Set - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'3") |
 |   $499 | Frame / Fork    | Undefeated Track Frame & Fork Set - Pearl / Tie-Dye - 52 cm (Riders 5'3"-5'6") |
 |   $499 | Frame / Fork    | Undefeated Track Frame & Fork Set - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'10") |
@@ -174,4 +175,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - X-Large |
 |    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
 |    $19 | closeout        | #NewOpenBoxItem - Bell Sports Adrenaline Adult Bike Helmet - Black |
-|    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
