@@ -43,7 +43,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
 |   $325 | closeout        | #746 - Core-Line - Delfin - Size Small (50cm) - Like-New Condition |
-|   $325 | closeout        | #736 - City-Bike - Elliston (3-speed) - Size Medium (53cm) - Very Good Condition |
 |   $311 | Klunker         | State Bicycle Co. x Corona - Klunker  (27.5") |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
@@ -158,3 +157,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - X-Large |
 |    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
 |    $19 | closeout        | #NewOpenBoxItem - Bell Sports Adrenaline Adult Bike Helmet - Black |
+|    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
