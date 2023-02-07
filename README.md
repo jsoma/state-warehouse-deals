@@ -30,10 +30,12 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $499 | Frame / Fork    | Undefeated Track Frame & Fork Set - Pearl / Tie-Dye - 58 cm (Riders 5'11"-6'2") |
 |   $499 | Frame / Fork    | Undefeated Track Frame & Fork Set - Pearl / Tie-Dye - 61 cm (Riders 6'2"-6'5") |
 |   $445 | closeout        | #559- 4130 - Windbreaker - 55cm - Excellent Condition |
+|   $425 | closeout        | #756 - Undefeated Disc Road - Frameset - Tie-Dye/ Pearl - 55cm - Used Condition |
 |   $425 | closeout        | #747 - City-Bike - Bubble-Gum 3-Speed - Size Small (43cm) - Like-New Condition |
 |   $425 | closeout        | #684 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Like-New Condition |
 |   $425 | closeout        | #OBI - Klunker - State Bicycle Co. x Wu-Tang Clan - Excellent Condtion |
 |   $395 | closeout        | #OpenBoxItem - State Bicycle Co. x Grateful Dead - Lightning Bolt Klunker (27.5")- Brand New |
+|   $375 | closeout        | #757 - Klunker - National Park - Yellowstone Edition - Like-New Condition |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Large (58 cm - Riders 6'0" - 6'4") |
@@ -159,5 +161,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - X-Large |
 |    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
-|    $19 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
-|    $19 | Accessories     | State Bicycle Co.  x The Grateful Dead - "Lightning Bolt"  All-Road Bar Bag |
