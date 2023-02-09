@@ -35,6 +35,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $425 | closeout        | #OBI - Klunker - State Bicycle Co. x Wu-Tang Clan - Excellent Condtion |
 |   $395 | closeout        | #OpenBoxItem - State Bicycle Co. x Grateful Dead - Lightning Bolt Klunker (27.5")- Brand New |
 |   $375 | closeout        | #757 - Klunker - National Park - Yellowstone Edition - Like-New Condition |
+|   $345 | closeout        | #760 - Klunker - Black & Metallic - Like-New Condition |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Large (58 cm - Riders 6'0" - 6'4") |
@@ -44,6 +45,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | closeout        | #754 - 6061 Black Label v2 - Frameset - Army Green - 57cm - Excellent Condition |
 |   $311 | Klunker         | State Bicycle Co. x Corona - Klunker  (27.5") |
 |   $295 | closeout        | #OBI - City-Bike - Azure 3-speed- Size Medium (48cm) - Like-New Condition |
+|   $295 | closeout        | #759 - Core-Line - Delfin - Size Small (50cm) - Excellent Condition |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
@@ -152,12 +154,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Large |
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Large |
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - XX-Large |
-|    $29 | Accessories     | SBC x Road Runner - Bike Tool Roll/Pouch - Black |
-|    $29 | Accessories     | SBC x Road Runner - Bike Tool Roll/Pouch - Orange |
-|    $29 | Accessories     | SBC x Road Runner - Bike Tool Roll/Pouch - Army |
-|    $29 | Accessories     | SBC x Road Runner - Bike Tool Roll/Pouch - Brown |
-|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Small |
-|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Medium |
-|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Large |
-|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - X-Large |
-|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
