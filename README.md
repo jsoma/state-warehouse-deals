@@ -23,6 +23,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 55 cm (Riders 5'7"-5'11") |
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 58 cm (Riders 5'11"-6'2") |
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 61 cm (Riders 6'2"-6'5") |
+|   $565 | closeout        | #761 - 6061 Black-Label v2 (Fixed-Gear)  - Matte Black - 52cm - Very Good Condition |
 |   $499 | Frame / Fork    | Undefeated Track Frame & Fork Set - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'3") |
 |   $499 | Frame / Fork    | Undefeated Track Frame & Fork Set - Pearl / Tie-Dye - 52 cm (Riders 5'3"-5'6") |
 |   $499 | Frame / Fork    | Undefeated Track Frame & Fork Set - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'10") |
@@ -156,8 +157,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Accessories     | SBC x Road Runner - Bike Tool Roll/Pouch - Orange |
 |    $29 | Accessories     | SBC x Road Runner - Bike Tool Roll/Pouch - Army |
 |    $29 | Accessories     | SBC x Road Runner - Bike Tool Roll/Pouch - Brown |
-|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Small |
-|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Medium |
-|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Large |
-|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - X-Large |
-|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
