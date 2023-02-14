@@ -50,6 +50,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
+|   $245 | closeout        | #765 - 6061 Black Label v2 - Frameset - Matte Black - 52cm - Good Condition |
 |   $199 |                 | Saris - Mag+ Trainer |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
@@ -153,7 +154,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Large |
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Large |
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - XX-Large |
-|    $29 | Accessories     | SBC x Road Runner - Bike Tool Roll/Pouch - Black |
-|    $29 | Accessories     | SBC x Road Runner - Bike Tool Roll/Pouch - Orange |
-|    $29 | Accessories     | SBC x Road Runner - Bike Tool Roll/Pouch - Army |
-|    $29 | Accessories     | SBC x Road Runner - Bike Tool Roll/Pouch - Brown |
