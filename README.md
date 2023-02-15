@@ -37,6 +37,24 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $425 | closeout        | #684 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Like-New Condition |
 |   $425 | closeout        | #OBI - Klunker - State Bicycle Co. x Wu-Tang Clan - Excellent Condtion |
 |   $395 | closeout        | #762- 4130 Road -  State Bicycle Co. x National Parks - Glacier Edition (8-speed) - 59cm - Excellent Condition |
+|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 46 cm (Riders 4'10"-5'1") / Bullhorn Bars |
+|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 46 cm (Riders 4'10"-5'1") / Riser Bars |
+|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 46 cm (Riders 4'10"-5'1") / Drop Bars |
+|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 49 cm (Riders 5'1"-5'4") / Bullhorn Bars |
+|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 49 cm (Riders 5'1"-5'4") / Riser Bars |
+|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 49 cm (Riders 5'1"-5'4") / Drop Bars |
+|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 52 cm (Riders 5'4"-5'7") / Bullhorn Bars |
+|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 52 cm (Riders 5'4"-5'7") / Riser Bars |
+|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 52 cm (Riders 5'4"-5'7") / Drop Bars |
+|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 55 cm (Riders 5'7"-5'11") / Bullhorn Bars |
+|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 55 cm (Riders 5'7"-5'11") / Riser Bars |
+|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 55 cm (Riders 5'7"-5'11") / Drop Bars |
+|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 59 cm (Riders 5'11"-6'2") / Bullhorn Bars |
+|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 59 cm (Riders 5'11"-6'2") / Riser Bars |
+|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 59 cm (Riders 5'11"-6'2") / Drop Bars |
+|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Bullhorn Bars |
+|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Riser Bars |
+|   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Drop Bars |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Large (58 cm - Riders 6'0" - 6'4") |
@@ -153,7 +171,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Large |
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Large |
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - XX-Large |
-|    $29 | Accessories     | SBC x Road Runner - Bike Tool Roll/Pouch - Black |
-|    $29 | Accessories     | SBC x Road Runner - Bike Tool Roll/Pouch - Orange |
-|    $29 | Accessories     | SBC x Road Runner - Bike Tool Roll/Pouch - Army |
-|    $29 | Accessories     | SBC x Road Runner - Bike Tool Roll/Pouch - Brown |
