@@ -3,6 +3,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
+|  $3500 | closeout        | #MF1 - Carbon All-Road (Proto)  - 54cm - Used Condition / Very Good Condition |
 |  $1399 | closeout        | #OBI - 6061 All-Road - Dark Woodland (with BOTH 700c and 650b Wheelsets) -  Large (58cm) - Like-New Condition |
 |  $1399 | closeout        | #OBI - 6061 All-Road - Dark Woodland (with BOTH 700c and 650b Wheelsets) -  Large (58cm) - Like-New Condition |
 |  $1399 | closeout        | #OBI - 6061 All-Road - Deep Pacific (with BOTH 700c and 650b Wheelsets) -  Medium - Like-New Condition |
@@ -17,7 +18,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 58 cm (Riders 5'9"-6'1") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
-|   $950 | closeout        | #MF1 - Carbon All-Road (Proto)  - 54cm - Used Condition / Very Good Condition |
 |   $950 | closeout        | #769 - Undefeated Disc Road  - Pearl / Tie-Dye - 52cm - Excellent Condition |
 |   $795 | closeout        | #PM4130 - 4130 All-Road - Flat Bar - Cupertino Pearl (Large 650b) Like-New Condition (Photo Model) |
 |   $775 | closeout        | #771 - 6061 - eBike Commuter - Matte Black- Size Small - Fair Condition |
