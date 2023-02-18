@@ -34,7 +34,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $499 | Frame / Fork    | Undefeated Track Frame & Fork Set - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'10") |
 |   $499 | Frame / Fork    | Undefeated Track Frame & Fork Set - Pearl / Tie-Dye - 58 cm (Riders 5'11"-6'2") |
 |   $499 | Frame / Fork    | Undefeated Track Frame & Fork Set - Pearl / Tie-Dye - 61 cm (Riders 6'2"-6'5") |
-|   $485 | closeout        | #764 - 4130 All-Road - Matte Olive - Frameset w/ Carbon Monster Fork Upgrade - Size M (51cm) - Good Condition |
 |   $445 | closeout        | #559- 4130 - Windbreaker - 55cm - Excellent Condition |
 |   $425 | closeout        | #756 - Undefeated Disc Road - Frameset - Tie-Dye/ Pearl - 55cm - Used Condition |
 |   $425 | closeout        | #747 - City-Bike - Bubble-Gum 3-Speed - Size Small (43cm) - Like-New Condition |
@@ -149,3 +148,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $45 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
+|    $65 | Jerseys + Kits  | State Bicycle Co. x Grateful Dead - Dancing Bears Bibs (Sustainable Clothing Collection) - Small |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x Grateful Dead - Dancing Bears Bibs (Sustainable Clothing Collection) - Medium |
+|    $65 | Jerseys + Kits  | State Bicycle Co. x Grateful Dead - Dancing Bears Bibs (Sustainable Clothing Collection) - Large |
+|    $65 | Jerseys + Kits  | State Bicycle Co. x Grateful Dead - Dancing Bears Bibs (Sustainable Clothing Collection) - X-Large |
+|    $65 | Jerseys + Kits  | State Bicycle Co. x Grateful Dead - Dancing Bears Bibs (Sustainable Clothing Collection) - XX-Large |
