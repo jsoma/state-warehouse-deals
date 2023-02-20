@@ -55,7 +55,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Bullhorn Bars |
 |   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Riser Bars |
 |   $375 | 4130 Core-Line  | 4130 - Van Damme –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Drop Bars |
-|   $345 | closeout        | #772 - Core-Line - Wu-Tang Edition - Size Medium (54cm) - Like-New Condition |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Large (58 cm - Riders 6'0" - 6'4") |
@@ -161,3 +160,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $45 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Extra Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - XX-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Medium |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - XX-Large |
