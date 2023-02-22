@@ -36,7 +36,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $425 | closeout        | #684 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Like-New Condition |
 |   $425 | closeout        | #OBI - Klunker - State Bicycle Co. x Wu-Tang Clan - Excellent Condtion |
 |   $375 | closeout        | #776 - Klunker - National Park - Yellowstone Edition - Like-New Condition |
-|   $365 | closeout        | #775 - 4130 Fixed-Gear / Single Speed - Perplexing Purple w/ Essor Bolt Upgrade - 46cm - Like-New Condition |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Large (58 cm - Riders 6'0" - 6'4") |
@@ -153,3 +152,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Small |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Small |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Medium |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Large |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Large |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - XX-Large |
