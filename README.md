@@ -42,6 +42,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Small (43 cm - Riders 4'9" - 5'5") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
+|   $325 | closeout        | #777 - 4130 All-Road - Matte Olive - Frameset - Size L (55cm) - Very Good Condition |
 |   $311 | Klunker         | State Bicycle Co. x Corona - Klunker  (27.5") |
 |   $299 | closeout        | #772 - Klunker - SBC x Corona Edition - Like-New Condition |
 |   $295 | closeout        | #OBI - City-Bike - Azure 3-speed- Size Medium (48cm) - Like-New Condition |
@@ -152,9 +153,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
-|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Small |
-|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Small |
-|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Medium |
-|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Large |
-|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Large |
-|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - XX-Large |
