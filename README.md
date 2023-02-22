@@ -122,11 +122,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $45 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
-|    $65 | Jerseys + Kits  | State Bicycle Co. x Grateful Dead - Dancing Bears Bibs (Sustainable Clothing Collection) - Small |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Grateful Dead - Dancing Bears Bibs (Sustainable Clothing Collection) - Medium |
-|    $65 | Jerseys + Kits  | State Bicycle Co. x Grateful Dead - Dancing Bears Bibs (Sustainable Clothing Collection) - Large |
-|    $65 | Jerseys + Kits  | State Bicycle Co. x Grateful Dead - Dancing Bears Bibs (Sustainable Clothing Collection) - X-Large |
-|    $65 | Jerseys + Kits  | State Bicycle Co. x Grateful Dead - Dancing Bears Bibs (Sustainable Clothing Collection) - XX-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Small |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Medium |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Large |
@@ -165,3 +160,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
 |    $19 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
+|    $19 | Accessories     | State Bicycle Co.  x Ozzy Osbourne -  All-Road Bar Bag |
