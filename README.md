@@ -31,7 +31,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $499 | Frame / Fork    | Undefeated Track Frame & Fork Set - Pearl / Tie-Dye - 61 cm (Riders 6'2"-6'5") |
 |   $445 | closeout        | #559- 4130 - Windbreaker - 55cm - Excellent Condition |
 |   $425 | closeout        | #756 - Undefeated Disc Road - Frameset - Tie-Dye/ Pearl - 55cm - Used Condition |
-|   $425 | closeout        | #747 - City-Bike - Bubble-Gum 3-Speed - Size Small (43cm) - Like-New Condition |
 |   $425 | closeout        | #OBI - Klunker - State Bicycle Co. x Wu-Tang Clan - Excellent Condtion |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
@@ -165,3 +164,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
 |    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
 |    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
+|    $15 | Accessories     | State Bicycle Co.  x The Grateful Dead - "Lightning Bolt"  All-Road Bar Bag |
