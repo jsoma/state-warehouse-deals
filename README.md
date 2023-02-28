@@ -67,12 +67,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - Large |
 |    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - Extra Large |
 |    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - XX-Large |
-|    $65 | Jerseys + Kits  | State Bicycle Team x Rapha - Club Bib Shorts - Extra Small |
-|    $65 | Jerseys + Kits  | State Bicycle Team x Rapha - Club Bib Shorts - Small |
-|    $65 | Jerseys + Kits  | State Bicycle Team x Rapha - Club Bib Shorts - Medium |
-|    $65 | Jerseys + Kits  | State Bicycle Team x Rapha - Club Bib Shorts - Large |
-|    $65 | Jerseys + Kits  | State Bicycle Team x Rapha - Club Bib Shorts - Extra Large |
-|    $65 | Jerseys + Kits  | State Bicycle Team x Rapha - Club Bib Shorts - XXL |
 |    $65 |                 | State Bicycle Team x Rapha - Technical T-Shirt - X-Small |
 |    $65 |                 | State Bicycle Team x Rapha - Technical T-Shirt - Small |
 |    $65 |                 | State Bicycle Team x Rapha - Technical T-Shirt - Medium |
@@ -171,3 +165,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $15 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Black |
 |    $15 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - White |
 |    $15 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Tie-Dye |
+|    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
