@@ -136,12 +136,14 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
+|    $35 | closeout        | #NewOpenBoxItem- State Bicycle Co. All-Road Platform / Clipless Combo Pedal (SPD Compatible) - Used / Returned Condition |
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Small |
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Small |
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Medium |
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Large |
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Large |
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - XX-Large |
+|    $29 | closeout        | #NewOpenBoxItem -  State Bicycle Co. - Klunker Frame Bag - Inferno |
 |    $29 | Accessories     | SBC x Road Runner - Bike Tool Roll/Pouch - Black |
 |    $29 | Accessories     | SBC x Road Runner - Bike Tool Roll/Pouch - Orange |
 |    $29 | Accessories     | SBC x Road Runner - Bike Tool Roll/Pouch - Army |
@@ -159,10 +161,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
 |    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
 |    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
+|    $16 | Misc. Accessori | #NewOpenBoxItem - State Bicycle Co. - Hardened-Steel U-Lock (Silicon Coated) |
 |    $15 | Accessories     | State Bicycle Co.  x The Grateful Dead - "Lightning Bolt"  All-Road Bar Bag |
 |    $15 | Accessories     | State Bicycle Co.  x The Grateful Dead - "Dancing Bears"  All-Road Bar Bag |
-|    $15 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Black |
-|    $15 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - White |
-|    $15 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Tie-Dye |
-|    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
-|    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
