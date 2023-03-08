@@ -137,7 +137,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Large |
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Large |
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - XX-Large |
-|    $29 | closeout        | #NewOpenBoxItem -  State Bicycle Co. - Klunker Frame Bag - Inferno |
 |    $29 | Accessories     | SBC x Road Runner - Bike Tool Roll/Pouch - Black |
 |    $29 | Accessories     | SBC x Road Runner - Bike Tool Roll/Pouch - Orange |
 |    $29 | Accessories     | SBC x Road Runner - Bike Tool Roll/Pouch - Army |
@@ -162,3 +161,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $15 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - White |
 |    $15 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Tie-Dye |
 |    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
+|    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
