@@ -154,6 +154,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Large |
 |    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - X-Large |
 |    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
+|    $26 |                 | Blackburn - Big Switch Multi Tool |
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
 |    $19 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
 |    $19 | Accessories     | State Bicycle Co.  x Ozzy Osbourne -  All-Road Bar Bag |
@@ -166,4 +167,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $15 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Black |
 |    $15 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - White |
 |    $15 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Tie-Dye |
-|    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
