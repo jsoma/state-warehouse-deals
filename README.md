@@ -43,6 +43,12 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $199 |                 | Saris - Mag+ Trainer |
+|   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Small |
+|   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Medium |
+|   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Large |
+|   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Small |
+|   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Medium |
+|   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Large |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $88 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - X-Small |
@@ -161,4 +167,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $15 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - White |
 |    $15 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Tie-Dye |
 |    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
-|    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
