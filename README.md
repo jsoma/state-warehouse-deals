@@ -163,14 +163,19 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $26 |                 | Blackburn - Big Switch Multi Tool |
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
 |    $19 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
+|    $19 | Shirts          | State Bicycle Co. x Grateful Dead -  Dancing Bears T-Shirt - Small |
+|    $19 | Shirts          | State Bicycle Co. x Grateful Dead -  Dancing Bears T-Shirt - Medium |
+|    $19 | Shirts          | State Bicycle Co. x Grateful Dead -  Dancing Bears T-Shirt - Large |
+|    $19 | Shirts          | State Bicycle Co. x Grateful Dead -  Dancing Bears T-Shirt - Extra Large |
 |    $19 | Accessories     | State Bicycle Co.  x Ozzy Osbourne -  All-Road Bar Bag |
+|    $19 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - Small (Fits like XS) |
+|    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - Medium (Fits like Small) |
+|    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - Large (Fits like Medium) |
+|    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - Extra Large (Fits like Large) |
+|    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - 2XL (Fits like Extra Large) |
 |    $18 | Tools           | Blackburn - Airstick Mini Pump |
 |    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
 |    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
 |    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
 |    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
 |    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
-|    $15 | Accessories     | State Bicycle Co.  x The Grateful Dead - "Lightning Bolt"  All-Road Bar Bag |
-|    $15 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Black |
-|    $15 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - White |
-|    $15 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Tie-Dye |
