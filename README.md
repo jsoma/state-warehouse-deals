@@ -29,12 +29,14 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $499 | Frame / Fork    | Undefeated Track Frame & Fork Set - Pearl / Tie-Dye - 58 cm (Riders 5'11"-6'2") |
 |   $499 | Frame / Fork    | Undefeated Track Frame & Fork Set - Pearl / Tie-Dye - 61 cm (Riders 6'2"-6'5") |
 |   $425 | closeout        | #756 - Undefeated Disc Road - Frameset - Tie-Dye/ Pearl - 55cm - Used Condition |
+|   $355 | closeout        | #787- 4130 Fixed-Gear / Single Speed - Sokol - 52cm - Like-New Condition |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Large (58 cm - Riders 6'0" - 6'4") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Small (43 cm - Riders 4'9" - 5'5") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
+|   $325 | closeout        | #786 - Core-Line - Rigby w/ upgrades - Size Medium (54cm) - Like-New Condition |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 42 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 43 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 44 |
@@ -173,9 +175,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - Large (Fits like Medium) |
 |    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - Extra Large (Fits like Large) |
 |    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - 2XL (Fits like Extra Large) |
-|    $18 | Tools           | Blackburn - Airstick Mini Pump |
-|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
-|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
-|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
-|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
-|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
