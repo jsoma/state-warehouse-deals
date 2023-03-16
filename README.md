@@ -39,7 +39,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
 |   $325 | closeout        | #789 - Klunker - Black & Metallic - Like-New Condition |
-|   $325 | closeout        | #786 - Core-Line - Rigby w/ upgrades - Size Medium (54cm) - Like-New Condition |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 42 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 43 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 44 |
@@ -168,3 +167,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $26 |                 | Blackburn - Big Switch Multi Tool |
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
 |    $19 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
+|    $19 | Shirts          | State Bicycle Co. x Grateful Dead -  Dancing Bears T-Shirt - Small |
+|    $19 | Shirts          | State Bicycle Co. x Grateful Dead -  Dancing Bears T-Shirt - Medium |
+|    $19 | Shirts          | State Bicycle Co. x Grateful Dead -  Dancing Bears T-Shirt - Large |
+|    $19 | Shirts          | State Bicycle Co. x Grateful Dead -  Dancing Bears T-Shirt - Extra Large |
