@@ -38,7 +38,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Small (43 cm - Riders 4'9" - 5'5") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
-|   $325 | closeout        | #790 - Core-Line - State Bicycle Co. x National Parks -Redwood Edition - Size X-Small (46cm) - Like-New Condition |
 |   $325 | closeout        | #789 - Klunker - Black & Metallic - Like-New Condition |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 42 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 43 |
@@ -164,3 +163,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Accessories     | SBC x Road Runner - Bike Tool Roll/Pouch - Orange |
 |    $29 | Accessories     | SBC x Road Runner - Bike Tool Roll/Pouch - Army |
 |    $29 | Accessories     | SBC x Road Runner - Bike Tool Roll/Pouch - Brown |
+|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Small |
+|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Medium |
+|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Large |
+|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - X-Large |
+|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
