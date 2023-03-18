@@ -39,7 +39,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 43 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 44 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 45 |
-|   $295 | closeout        | #792 - Core-Line - Rigby - Size Medium (54cm) - Like-New Condition |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
@@ -171,3 +170,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - Extra Large (Fits like Large) |
 |    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - 2XL (Fits like Extra Large) |
 |    $18 | Tools           | Blackburn - Airstick Mini Pump |
+|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
+|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
+|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
+|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
+|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
