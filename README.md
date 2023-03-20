@@ -4,7 +4,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |price|type|name|
 |---|---|---|
 |  $1299 | closeout        | #OBI - 6061 All-Road - Dark Woodland (with BOTH 700c and 650b Wheelsets) -  Large (58cm) - Like-New Condition |
-|  $1299 | closeout        | #OBI - 6061 All-Road - Dark Woodland (with BOTH 700c and 650b Wheelsets) -  Large (58cm) - Like-New Condition |
 |  $1299 | closeout        | #OBI - 6061 All-Road - Deep Pacific (with BOTH 700c and 650b Wheelsets) -  Medium - Like-New Condition |
 |  $1299 | closeout        | #OBI - 6061 All-Road - Dark Woodland (with BOTH 700c and 650b Wheelsets) -  Medium - Like-New Condition |
 |  $1225 | closeout        | #OBI -  6061 - eBike Commuter - Matte Black  -  Medium - Like-New Condition |
@@ -174,3 +173,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $15 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - White |
 |    $15 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Tie-Dye |
 |    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
+|    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
