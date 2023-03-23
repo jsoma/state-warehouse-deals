@@ -175,8 +175,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $26 |                 | Blackburn - Big Switch Multi Tool |
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
 |    $19 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
-|    $19 | Shirts          | State Bicycle Co. x Grateful Dead -  Dancing Bears T-Shirt - Small |
-|    $19 | Shirts          | State Bicycle Co. x Grateful Dead -  Dancing Bears T-Shirt - Medium |
-|    $19 | Shirts          | State Bicycle Co. x Grateful Dead -  Dancing Bears T-Shirt - Large |
-|    $19 | Shirts          | State Bicycle Co. x Grateful Dead -  Dancing Bears T-Shirt - Extra Large |
 |    $19 | Accessories     | State Bicycle Co.  x Ozzy Osbourne -  All-Road Bar Bag |
+|    $19 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - Small (Fits like XS) |
+|    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - Medium (Fits like Small) |
+|    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - Large (Fits like Medium) |
+|    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - Extra Large (Fits like Large) |
+|    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - 2XL (Fits like Extra Large) |
