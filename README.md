@@ -41,7 +41,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 45 |
 |   $295 | closeout        | #799 - Core-Line - State Bicycle Co. x National Parks -Redwood Edition - Small (50cm) - Like-New Condition |
 |   $295 | closeout        | #798 - Core-Line - State Bicycle Co. x National Parks -Redwood Edition - Medium (54cm) - Like-New Condition |
-|   $295 | closeout        | #796 - Core-Line - State Bicycle Co. x National Parks -Redwood Edition - Small (50cm) - Like-New Condition |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
@@ -177,3 +176,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $26 |                 | Blackburn - Big Switch Multi Tool |
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
 |    $19 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
+|    $19 | Shirts          | State Bicycle Co. x Grateful Dead -  Dancing Bears T-Shirt - Small |
+|    $19 | Shirts          | State Bicycle Co. x Grateful Dead -  Dancing Bears T-Shirt - Medium |
+|    $19 | Shirts          | State Bicycle Co. x Grateful Dead -  Dancing Bears T-Shirt - Large |
+|    $19 | Shirts          | State Bicycle Co. x Grateful Dead -  Dancing Bears T-Shirt - Extra Large |
