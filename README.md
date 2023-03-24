@@ -22,6 +22,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 61 cm (Riders 6'2"-6'5") |
 |   $695 | closeout        | #800 - Undefeated Track - Pearl / Tie-Dye - 58cm - Like-New Condition |
 |   $675 | closeout        | #801 -  Undefeated Track - Pearl / Tie-Dye - 52cm - Like-New Condition |
+|   $549 | closeout        | #803- 4130 - Matte Black / Mirror - 52cm - Like-New Condition |
+|   $445 | closeout        | #802- 4130 - Matte Black / Mirror - 55cm - Like-New Condition |
 |   $425 | closeout        | #OBI - Klunker - State Bicycle Co. x Wu-Tang Clan - Excellent Condtion |
 |   $395 | closeout        | #797 - 4130 Fixed-Gear / Single Speed- Sokol w/ Essor Bolt Upgrade  - 59cm - Excellent Condition |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
@@ -175,9 +177,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
 |    $19 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
 |    $19 | Accessories     | State Bicycle Co.  x Ozzy Osbourne -  All-Road Bar Bag |
-|    $19 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - Small (Fits like XS) |
-|    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - Medium (Fits like Small) |
-|    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - Large (Fits like Medium) |
-|    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - Extra Large (Fits like Large) |
-|    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - 2XL (Fits like Extra Large) |
-|    $18 | Tools           | Blackburn - Airstick Mini Pump |
