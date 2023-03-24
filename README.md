@@ -21,7 +21,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 58 cm (Riders 5'11"-6'2") |
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 61 cm (Riders 6'2"-6'5") |
 |   $695 | closeout        | #800 - Undefeated Track - Pearl / Tie-Dye - 58cm - Like-New Condition |
-|   $425 | closeout        | #756 - Undefeated Disc Road - Frameset - Tie-Dye/ Pearl - 55cm - Used Condition |
 |   $425 | closeout        | #OBI - Klunker - State Bicycle Co. x Wu-Tang Clan - Excellent Condtion |
 |   $395 | closeout        | #797 - 4130 Fixed-Gear / Single Speed- Sokol w/ Essor Bolt Upgrade  - 59cm - Excellent Condition |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
@@ -181,3 +180,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - Extra Large (Fits like Large) |
 |    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - 2XL (Fits like Extra Large) |
 |    $18 | Tools           | Blackburn - Airstick Mini Pump |
+|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
+|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
+|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
+|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
+|    $17 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
