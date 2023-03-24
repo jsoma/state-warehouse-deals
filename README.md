@@ -26,6 +26,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $445 | closeout        | #802- 4130 - Matte Black / Mirror - 55cm - Like-New Condition |
 |   $425 | closeout        | #OBI - Klunker - State Bicycle Co. x Wu-Tang Clan - Excellent Condtion |
 |   $395 | closeout        | #797 - 4130 Fixed-Gear / Single Speed- Sokol w/ Essor Bolt Upgrade  - 59cm - Excellent Condition |
+|   $345 | closeout        | #804- 4130 Fixed-Gear / Single Speed - Sokol - 55cm - Very Good Condition |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Large (58 cm - Riders 6'0" - 6'4") |
@@ -176,4 +177,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $26 |                 | Blackburn - Big Switch Multi Tool |
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
 |    $19 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
-|    $19 | Accessories     | State Bicycle Co.  x Ozzy Osbourne -  All-Road Bar Bag |
