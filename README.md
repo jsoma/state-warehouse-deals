@@ -3,7 +3,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
-|  $1299 | closeout        | #OBI - 6061 All-Road - Dark Woodland (with BOTH 700c and 650b Wheelsets) -  Large (58cm) - Like-New Condition |
 |  $1299 | closeout        | #OBI - 6061 All-Road - Deep Pacific (with BOTH 700c and 650b Wheelsets) -  Medium - Like-New Condition |
 |  $1299 | closeout        | #OBI - 6061 All-Road - Dark Woodland (with BOTH 700c and 650b Wheelsets) -  Medium - Like-New Condition |
 |  $1225 | closeout        | #OBI -  6061 - eBike Commuter - Matte Black  -  Medium - Like-New Condition |
@@ -181,3 +180,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - Large (Fits like Medium) |
 |    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - Extra Large (Fits like Large) |
 |    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - 2XL (Fits like Extra Large) |
+|    $18 | Tools           | Blackburn - Airstick Mini Pump |
