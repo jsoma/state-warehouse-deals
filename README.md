@@ -156,6 +156,34 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $59 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $59 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
 |    $59 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - 3X-Large |
+|    $55 | Jerseys + Kits  | ASU TEAM BIBS 2023 - X-Small / Men's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM BIBS 2023 - X-Small / Women's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM BIBS 2023 - Small / Men's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM BIBS 2023 - Small / Women's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM BIBS 2023 - Medium / Men's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM BIBS 2023 - Medium / Women's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM BIBS 2023 - Large / Men's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM BIBS 2023 - Large / Women's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM BIBS 2023 - Extra Large / Men's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM BIBS 2023 - Extra Large / Women's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM BIBS 2023 - XX-Large / Men's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM BIBS 2023 - XX-Large / Women's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM BIBS 2023 - 3X-Large / Men's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM BIBS 2023 - 3X-Large / Women's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - X-Small / Men's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - X-Small / Women's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Small / Men's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Small / Women's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Medium / Men's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Medium / Women's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Large / Men's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Large / Women's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Extra Large / Men's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Extra Large / Women's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - XX-Large / Men's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - XX-Large / Women's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - 3X-Large / Men's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - 3X-Large / Women's Cut |
 |    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Small |
 |    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Medium |
 |    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Large |
@@ -186,14 +214,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Small |
-|    $45 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Medium |
-|    $45 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Extra Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - XX-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Medium |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - XX-Large |
