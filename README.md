@@ -5,7 +5,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |---|---|---|
 |  $1299 | closeout        | #OBI - 6061 All-Road - Deep Pacific (with BOTH 700c and 650b Wheelsets) -  Medium - Like-New Condition |
 |  $1299 | closeout        | #OBI - 6061 All-Road - Dark Woodland (with BOTH 700c and 650b Wheelsets) -  Medium - Like-New Condition |
-|  $1225 | closeout        | #OBI -  6061 - eBike Commuter - Matte Black  -  Medium - Like-New Condition |
+|  $1099 | closeout        | #OBI -  6061 - eBike Commuter - Matte Black  -  Medium - Like-New Condition |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'3") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 52 cm (Riders 5'3"-5'6") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
@@ -23,6 +23,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $695 | closeout        | #800 - Undefeated Track - Pearl / Tie-Dye - 58cm - Like-New Condition |
 |   $675 | closeout        | #801 -  Undefeated Track - Pearl / Tie-Dye - 52cm - Like-New Condition |
 |   $549 | closeout        | #803- 4130 - Matte Black / Mirror - 52cm - Like-New Condition |
+|   $475 | closeout        | #OBI - 4130 Road - Americana (8-speed) - 52cm - Like-New Condition |
 |   $445 | closeout        | #802- 4130 - Matte Black / Mirror - 55cm - Like-New Condition |
 |   $425 | closeout        | #OBI - Klunker - State Bicycle Co. x Wu-Tang Clan - Excellent Condtion |
 |   $395 | closeout        | #797 - 4130 Fixed-Gear / Single Speed- Sokol w/ Essor Bolt Upgrade  - 59cm - Excellent Condition |
@@ -33,6 +34,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Small (43 cm - Riders 4'9" - 5'5") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
+|   $345 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 42 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 43 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 44 |
@@ -175,5 +177,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
 |    $26 |                 | Blackburn - Big Switch Multi Tool |
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
-|    $19 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
-|    $19 | Accessories     | State Bicycle Co.  x Ozzy Osbourne -  All-Road Bar Bag |
