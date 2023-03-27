@@ -61,7 +61,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 58 cm (Riders 5'11"-6'2") |
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 61 cm (Riders 6'2"-6'5") |
 |   $695 | closeout        | #800 - Undefeated Track - Pearl / Tie-Dye - 58cm - Like-New Condition |
-|   $675 | closeout        | #801 -  Undefeated Track - Pearl / Tie-Dye - 52cm - Like-New Condition |
 |   $549 | closeout        | #803- 4130 - Matte Black / Mirror - 52cm - Like-New Condition |
 |   $475 | closeout        | #OBI - 4130 Road - Americana (8-speed) - 52cm - Like-New Condition |
 |   $445 | closeout        | #802- 4130 - Matte Black / Mirror - 55cm - Like-New Condition |
@@ -218,3 +217,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $45 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Extra Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - XX-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Medium |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - XX-Large |
