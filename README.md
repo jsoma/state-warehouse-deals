@@ -19,8 +19,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
-|  $1299 | closeout        | #OBI - 6061 All-Road - Deep Pacific (with BOTH 700c and 650b Wheelsets) -  Medium - Like-New Condition |
-|  $1299 | closeout        | #OBI - 6061 All-Road - Dark Woodland (with BOTH 700c and 650b Wheelsets) -  Medium - Like-New Condition |
 |  $1099 | closeout        | #OBI - 6061 - eBike Commuter - Matte Black- Size Large- Excellent Condition |
 |  $1099 | closeout        | #OBI -  6061 - eBike Commuter - Matte Black  -  Medium - Like-New Condition |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'3") |
@@ -28,6 +26,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 58 cm (Riders 5'9"-6'1") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
+|  $1095 | closeout        | #OBI - 6061 All-Road - Deep Pacific (650b) -  Large - Like-New Condition |
 |  $1095 | closeout        | #OBI - 6061 All-Road - Dark Woodland (650b) -  Medium - Like-New Condition |
 |  $1095 | closeout        | #OBI - 6061 All-Road - Deep Pacific (650b) -  Medium - Like-New Condition |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
@@ -232,3 +231,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Large |
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Large |
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - XX-Large |
+|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Small |
+|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Medium |
+|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Large |
+|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - X-Large |
+|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
