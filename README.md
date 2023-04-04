@@ -58,6 +58,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 55 cm (Riders 5'7"-5'11") |
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 58 cm (Riders 5'11"-6'2") |
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 61 cm (Riders 6'2"-6'5") |
+|   $475 | closeout        | #805 - 4130 Road - Hunter Green (8-speed) - 62cm - Excellent Condition |
 |   $475 | closeout        | #OBI - 4130 Road - Americana (8-speed) - 52cm - Like-New Condition |
 |   $425 | closeout        | #OBI - Klunker - State Bicycle Co. x Wu-Tang Clan - Excellent Condtion |
 |   $350 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Large (58cm) - Like-New Condition |
@@ -242,4 +243,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Men's Cut |
 |    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Women's Cut |
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
-|    $19 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
