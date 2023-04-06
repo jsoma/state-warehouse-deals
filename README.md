@@ -124,12 +124,26 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - Large |
 |    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - Extra Large |
 |    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - XX-Large |
+|    $65 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Fleece-Lined Winter Jersey / Jacket - X-Small |
+|    $65 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Fleece-Lined Winter Jersey / Jacket - Small |
+|    $65 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Fleece-Lined Winter Jersey / Jacket - Medium |
+|    $65 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Fleece-Lined Winter Jersey / Jacket - Large |
+|    $65 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Fleece-Lined Winter Jersey / Jacket - Extra Large |
+|    $65 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Fleece-Lined Winter Jersey / Jacket - XX-Large |
+|    $65 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Fleece-Lined Winter Jersey / Jacket - 3X-Large |
 |    $65 |                 | State Bicycle Team x Rapha - Technical T-Shirt - X-Small |
 |    $65 |                 | State Bicycle Team x Rapha - Technical T-Shirt - Small |
 |    $65 |                 | State Bicycle Team x Rapha - Technical T-Shirt - Medium |
 |    $65 |                 | State Bicycle Team x Rapha - Technical T-Shirt - Large |
 |    $65 |                 | State Bicycle Team x Rapha - Technical T-Shirt - X-Large |
 |    $65 |                 | State Bicycle Team x Rapha - Technical T-Shirt - XX-Large |
+|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - X-Small |
+|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - Small |
+|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - Medium |
+|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - Large |
+|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - X-Large |
+|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - XX-Large |
+|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - 3X-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Small |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Medium |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
@@ -142,6 +156,13 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $59 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $59 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
 |    $59 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - 3X-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - X-Small |
+|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - Small |
+|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - Medium |
+|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - X-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - XX-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - 3X-Large |
 |    $55 | Jerseys + Kits  | ASU TEAM BIBS 2023 - X-Small / Men's Cut |
 |    $55 | Jerseys + Kits  | ASU TEAM BIBS 2023 - X-Small / Women's Cut |
 |    $55 | Jerseys + Kits  | ASU TEAM BIBS 2023 - Small / Men's Cut |
@@ -189,6 +210,13 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - X-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - XX-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - X-Small |
+|    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - Small |
+|    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - Medium |
+|    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - X-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - XX-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - 3X-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - X-Small |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - Small |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - Medium |
@@ -222,24 +250,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Large |
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Large |
 |    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - XX-Large |
-|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Small |
-|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Medium |
-|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Large |
-|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - X-Large |
-|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
-|    $26 |                 | Blackburn - Big Switch Multi Tool |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - X-Small / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - X-Small / Women's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Small / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Small / Women's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Medium / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Medium / Women's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Large / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Large / Women's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Extra Large / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Extra Large / Women's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - XX-Large / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - XX-Large / Women's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Women's Cut |
-|    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
