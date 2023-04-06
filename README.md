@@ -29,6 +29,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1095 | closeout        | #OBI - 6061 All-Road - Deep Pacific (650b) -  Large - Like-New Condition |
 |  $1095 | closeout        | #OBI - 6061 All-Road - Dark Woodland (650b) -  Medium - Like-New Condition |
 |  $1095 | closeout        | #OBI - 6061 All-Road - Deep Pacific (650b) -  Medium - Like-New Condition |
+|   $785 | closeout        | #807 - 4130 All-Road - Pacific Gold w/ 650b wheels - Small (47cm) - Excellent Condition |
+|   $785 | closeout        | #806 - 4130 All-Road - Pacific Gold w/ 650b wheels - X-Small (43cm) - Excellent Condition / Next-Gen Sample |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
@@ -239,14 +241,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - XX-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Medium |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
-|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Small |
-|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Small |
-|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Medium |
-|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Large |
-|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Large |
-|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - XX-Large |
