@@ -31,7 +31,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1095 | closeout        | #OBI - 6061 All-Road - Deep Pacific (650b) -  Medium - Like-New Condition |
 |   $975 | closeout        | #808 - 6061 Black Label All-Road - Dark Woodland (650b) - Medium (54cm) - Very Good Condition |
 |   $795 | closeout        | #810 - Undefeated Carbon Disc Road Frame & Fork Set - Size 54cm - Black Prism - Good / Used Condition |
-|   $785 | closeout        | #807 - 4130 All-Road - Pacific Gold w/ 650b wheels - Small (47cm) - Excellent Condition |
 |   $785 | closeout        | #806 - 4130 All-Road - Pacific Gold w/ 650b wheels - X-Small (43cm) - Excellent Condition / Next-Gen Sample |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
@@ -232,3 +231,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Small |
+|    $45 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Medium |
+|    $45 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Extra Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - XX-Large |
