@@ -62,7 +62,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $475 | closeout        | #805 - 4130 Road - Hunter Green (8-speed) - 62cm - Excellent Condition |
 |   $475 | closeout        | #OBI - 4130 Road - Americana (8-speed) - 52cm - Like-New Condition |
 |   $425 | closeout        | #OBI - Klunker - State Bicycle Co. x Wu-Tang Clan - Excellent Condtion |
-|   $350 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Large (58cm) - Like-New Condition |
 |   $345 | closeout        | #OBI772 - Core-Line - Wu-Tang Edition - Size Medium (54cm) - Like-New Condition |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
@@ -245,3 +244,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Small |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Small |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Medium |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - Large |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - X-Large |
+|    $35 |                 | State Bicycle Co. - Black Label Jersey (Pigeon Gray) - XX-Large |
