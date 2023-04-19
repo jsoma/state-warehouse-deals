@@ -59,7 +59,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $725 | closeout        | #813 - Undefeated Track - Pearl / Tie-Dye - 52cm - Excellent Condition |
 |   $475 | closeout        | #805 - 4130 Road - Hunter Green (8-speed) - 62cm - Excellent Condition |
 |   $475 | closeout        | #OBI - 4130 Road - Americana (8-speed) - 52cm - Like-New Condition |
-|   $425 | closeout        | #OBI - Klunker - State Bicycle Co. x Wu-Tang Clan - Excellent Condtion |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Large (58 cm - Riders 6'0" - 6'4") |
@@ -262,3 +261,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - XX-Large / Women's Cut |
 |    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Men's Cut |
 |    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Women's Cut |
+|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
+|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
+|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
+|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
+|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
