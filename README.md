@@ -11,14 +11,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Copper Brown (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Copper Brown (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Copper Brown (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
-|  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
-|  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
-|  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
-|  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
-|  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
-|  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
-|  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
-|  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1099 | closeout        | #OBI - 6061 - eBike Commuter - Matte Black- Size Large- Excellent Condition |
 |  $1099 | closeout        | #OBI -  6061 - eBike Commuter - Matte Black  -  Medium - Like-New Condition |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'3") |
@@ -266,3 +258,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
+|    $19 | Accessories     | State Bicycle Co.  x Ozzy Osbourne -  All-Road Bar Bag |
