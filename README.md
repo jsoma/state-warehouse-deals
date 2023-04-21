@@ -18,6 +18,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 58 cm (Riders 5'9"-6'1") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
+|  $1095 | closeout        | #OBI - 6061 All-Road - Deep Pacific (650b) -  Medium - Like-New Condition |
+|   $995 | closeout        | #702 - 6061 Black Label All-Road - Deep Pacific (650b) - Medium (54cm) - Excellent Condition |
 |   $795 | closeout        | #810 - Undefeated Carbon Disc Road Frame & Fork Set - Size 54cm - Black Prism - Good / Used Condition |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
@@ -49,8 +51,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 58 cm (Riders 5'11"-6'2") |
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 61 cm (Riders 6'2"-6'5") |
 |   $725 | closeout        | #813 - Undefeated Track - Pearl / Tie-Dye - 52cm - Excellent Condition |
+|   $715 | closeout        | #712 - 4130 All-Road - Matte Olive w/ 700c wheels - X-Small (43cm) - Very Good Condition |
+|   $625 | closeout        | #680- 4130 All-Road -  Sonoran Tan w/ 650b wheels - Large (54cm) - Used Condition |
 |   $595 | closeout        | #657- 6061 Black-Label v2 (Fixed-Gear)  - Matte Black - 55cm - Excellent Condition |
 |   $475 | closeout        | #OBI - 4130 Road - Americana (8-speed) - 52cm - Like-New Condition |
+|   $455 | closeout        | #719 - 4130 Road -  State Bicycle Co. x National Parks - Glacier Edition (8-speed) - 52cm - Very Good Condition |
 |   $425 | closeout        | #696 - City-Bike - Black & Tan 3-Speed - Size Medium (53cm) - Like-New Condition |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
@@ -233,29 +238,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
-|    $29 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
-|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Small |
-|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Medium |
-|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Large |
-|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - X-Large |
-|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
-|    $26 |                 | Blackburn - Big Switch Multi Tool |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - X-Small / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - X-Small / Women's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Small / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Small / Women's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Medium / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Medium / Women's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Large / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Large / Women's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Extra Large / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Extra Large / Women's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - XX-Large / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - XX-Large / Women's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Women's Cut |
-|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
-|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
-|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
-|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
-|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
