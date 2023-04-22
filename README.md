@@ -53,7 +53,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $725 | closeout        | #813 - Undefeated Track - Pearl / Tie-Dye - 52cm - Excellent Condition |
 |   $715 | closeout        | #712 - 4130 All-Road - Matte Olive w/ 700c wheels - X-Small (43cm) - Very Good Condition |
 |   $625 | closeout        | #680- 4130 All-Road -  Sonoran Tan w/ 650b wheels - Large (54cm) - Used Condition |
-|   $595 | closeout        | #657- 6061 Black-Label v2 (Fixed-Gear)  - Matte Black - 55cm - Excellent Condition |
 |   $475 | closeout        | #OBI - 4130 Road - Americana (8-speed) - 52cm - Like-New Condition |
 |   $455 | closeout        | #719 - 4130 Road -  State Bicycle Co. x National Parks - Glacier Edition (8-speed) - 52cm - Very Good Condition |
 |   $425 | closeout        | #696 - City-Bike - Black & Tan 3-Speed - Size Medium (53cm) - Like-New Condition |
@@ -238,3 +237,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
+|    $29 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
