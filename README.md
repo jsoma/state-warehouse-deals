@@ -49,7 +49,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 58 cm (Riders 5'11"-6'2") |
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 61 cm (Riders 6'2"-6'5") |
 |   $725 | closeout        | #813 - Undefeated Track - Pearl / Tie-Dye - 52cm - Excellent Condition |
-|   $715 | closeout        | #712 - 4130 All-Road - Matte Olive w/ 700c wheels - X-Small (43cm) - Very Good Condition |
 |   $615 | closeout        | #814 - 6061 Black Label v2 - Wu-Tang Edition - 57cm - Excellent Condition |
 |   $475 | closeout        | #816- 4130 - Navy & Gold - 55cm - Excellent Condition |
 |   $475 | closeout        | #OBI - 4130 Road - Americana (8-speed) - 52cm - Like-New Condition |
@@ -242,3 +241,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Large |
 |    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - X-Large |
 |    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
+|    $26 |                 | Blackburn - Big Switch Multi Tool |
