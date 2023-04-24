@@ -70,7 +70,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 43 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 44 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 45 |
-|   $295 | closeout        | #815 - 4130 Road - Hunter Green (8-speed) - 52cm - Fair Condition |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
@@ -238,3 +237,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
 |    $29 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
+|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Small |
+|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Medium |
+|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Large |
+|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - X-Large |
+|    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
