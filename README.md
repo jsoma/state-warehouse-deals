@@ -11,7 +11,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Copper Brown (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Copper Brown (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Copper Brown (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
-|  $1450 | closeout        | #PROTO - Carbon All-Road Complete Bike (57cm) - Matte Olive w/ 700c wheels - Excellent Condition |
 |  $1099 | closeout        | #OBI - 6061 - eBike Commuter - Matte Black- Size Large- Excellent Condition |
 |  $1099 | closeout        | #OBI -  6061 - eBike Commuter - Matte Black  -  Medium - Like-New Condition |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'3") |
@@ -242,3 +241,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - Large |
 |    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - X-Large |
 |    $29 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - "Purple Bat" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
+|    $26 |                 | Blackburn - Big Switch Multi Tool |
