@@ -98,12 +98,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $88 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Large |
 |    $88 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - X-Large |
 |    $88 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - XX-Large |
-|    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - X-Small |
-|    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - Small |
-|    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - Medium |
-|    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - Large |
-|    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - X-Large |
-|    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - XX-Large |
 |    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - X-Small |
 |    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - Small |
 |    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - Medium |
@@ -251,3 +245,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - XX-Large / Women's Cut |
 |    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Men's Cut |
 |    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Women's Cut |
+|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
+|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
+|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
+|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
+|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
