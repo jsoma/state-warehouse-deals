@@ -49,6 +49,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $725 | closeout        | #813 - Undefeated Track - Pearl / Tie-Dye - 52cm - Excellent Condition |
 |   $615 | closeout        | #814 - 6061 Black Label v2 - Wu-Tang Edition - 57cm - Excellent Condition |
 |   $425 | closeout        | #696 - City-Bike - Black & Tan 3-Speed - Size Medium (53cm) - Like-New Condition |
+|   $365 | Bicycles        | #818 - State Bicycle Co. x Taco Bell- Klunker + Frame Bag -Photo Model |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Large (58 cm - Riders 6'0" - 6'4") |
@@ -56,7 +57,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") - Estimated Shipping Mid-May |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
 |   $345 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
-|   $399 | Bicycles        | #817 - State Bicycle Co. x Taco Bell- Klunker -Pre-Production Sample |
+|   $325 | Bicycles        | #817 - State Bicycle Co. x Taco Bell- Klunker -Pre-Production Sample |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 42 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 43 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 44 |
@@ -258,4 +259,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - Large (Fits like Medium) |
 |    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - Extra Large (Fits like Large) |
 |    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - 2XL (Fits like Extra Large) |
-|    $18 | Tools           | Blackburn - Airstick Mini Pump |
