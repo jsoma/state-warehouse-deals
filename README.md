@@ -48,6 +48,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 61 cm (Riders 6'2"-6'5") |
 |   $725 | closeout        | #813 - Undefeated Track - Pearl / Tie-Dye - 52cm - Excellent Condition |
 |   $615 | closeout        | #814 - 6061 Black Label v2 - Wu-Tang Edition - 57cm - Excellent Condition |
+|   $475 | closeout        | #820 - 4130 Fixed-Gear / Single Speed - Purple Reign w/ Drop Bars - 55cm - Excellent Condition / Photo Model |
+|   $475 | closeout        | #819 - 4130 Fixed-Gear / Single Speed - Purple Reign w/ Risers - 55cm - Excellent Condition / Photo Model |
 |   $425 | closeout        | #696 - City-Bike - Black & Tan 3-Speed - Size Medium (53cm) - Like-New Condition |
 |   $365 | Bicycles        | #818 - State Bicycle Co. x Taco Bell- Klunker + Frame Bag -Photo Model |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
@@ -253,9 +255,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
-|    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
-|    $19 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - Small (Fits like XS) |
-|    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - Medium (Fits like Small) |
-|    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - Large (Fits like Medium) |
-|    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - Extra Large (Fits like Large) |
-|    $29 | Jackets         | State Bicycle Co. - "Explore Your State" - Slim Fit Pullover Crew Neck (Black) - 2XL (Fits like Extra Large) |
