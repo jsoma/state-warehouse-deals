@@ -90,7 +90,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Small |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Medium |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Large |
-|    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $89 | Misc. Accessori | Blackburn Design - Outpost Front World Touring Rack |
 |    $88 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - X-Small |
 |    $88 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Small |
@@ -250,3 +249,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
+|    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
