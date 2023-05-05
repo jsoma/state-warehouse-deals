@@ -17,6 +17,30 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 58 cm (Riders 5'9"-6'1") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
 |  $1095 | closeout        | #OBI - 6061 All-Road - Deep Pacific (650b) -  Medium - Like-New Condition |
+|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
+|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
+|  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
+|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
+|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
+|  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") / Both (Add $389.99) |
+|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
+|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
+|  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Medium ( Riders 5'9" - 6'2") / Both (Add $389.99) |
+|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
+|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
+|  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
+|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
+|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
+|  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
+|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
+|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
+|  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Small ( Riders 5'5" - 5'10") / Both (Add $389.99) |
+|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
+|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
+|  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Medium ( Riders 5'9" - 6'2") / Both (Add $389.99) |
+|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
+|   $899 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
+|  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
@@ -261,9 +285,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - XX-Large / Women's Cut |
 |    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Men's Cut |
 |    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Women's Cut |
-|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
-|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
-|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
-|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
-|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
-|    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
