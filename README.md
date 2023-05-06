@@ -74,24 +74,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $475 | closeout        | #820 - 4130 Fixed-Gear / Single Speed - Purple Reign w/ Drop Bars - 55cm - Excellent Condition / Photo Model |
 |   $475 | closeout        | #819 - 4130 Fixed-Gear / Single Speed - Purple Reign w/ Risers - 55cm - Excellent Condition / Photo Model |
 |   $425 | closeout        | #696 - City-Bike - Black & Tan 3-Speed - Size Medium (53cm) - Like-New Condition |
-|   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 46 cm (Riders 4'10"-5'1") / Bullhorn Bars |
-|   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 46 cm (Riders 4'10"-5'1") / Riser Bars |
-|   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 46 cm (Riders 4'10"-5'1") / Drop Bars |
-|   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 49 cm (Riders 5'1"-5'4") / Bullhorn Bars |
-|   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 49 cm (Riders 5'1"-5'4") / Riser Bars |
-|   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 49 cm (Riders 5'1"-5'4") / Drop Bars |
-|   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 52 cm (Riders 5'4"-5'7") / Bullhorn Bars |
-|   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 52 cm (Riders 5'4"-5'7") / Riser Bars |
-|   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 52 cm (Riders 5'4"-5'7") / Drop Bars |
-|   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 55 cm (Riders 5'7"-5'11") / Bullhorn Bars |
-|   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 55 cm (Riders 5'7"-5'11") / Riser Bars |
-|   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 55 cm (Riders 5'7"-5'11") / Drop Bars |
-|   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 59 cm (Riders 5'11"-6'2") / Bullhorn Bars |
-|   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 59 cm (Riders 5'11"-6'2") / Riser Bars |
-|   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 59 cm (Riders 5'11"-6'2") / Drop Bars |
-|   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Riser Bars |
-|   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Drop Bars |
-|   $399 | 4130 Core-Line  | 4130 - Army Green –  (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'6") / Bullhorn Bars |
 |   $395 | closeout        | #OBI - Klunker - State Bicycle Co. x Wu-Tang Clan - Excellent Condtion |
 |   $375 | closeout        | #821 - Klunker - State Bicycle Co. x Wu-Tang Clan - Brand New Condtion |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
@@ -285,3 +267,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - XX-Large / Women's Cut |
 |    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Men's Cut |
 |    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Women's Cut |
+|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
+|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
+|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
+|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
+|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
