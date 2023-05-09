@@ -69,7 +69,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 55 cm (Riders 5'7"-5'11") |
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 58 cm (Riders 5'11"-6'2") |
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 61 cm (Riders 6'2"-6'5") |
-|   $725 | closeout        | #813 - Undefeated Track - Pearl / Tie-Dye - 52cm - Excellent Condition |
 |   $475 | closeout        | #820 - 4130 Fixed-Gear / Single Speed - Purple Reign w/ Drop Bars - 55cm - Excellent Condition / Photo Model |
 |   $475 | closeout        | #819 - 4130 Fixed-Gear / Single Speed - Purple Reign w/ Risers - 55cm - Excellent Condition / Photo Model |
 |   $425 | closeout        | #696 - City-Bike - Black & Tan 3-Speed - Size Medium (53cm) - Like-New Condition |
@@ -272,3 +271,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
+|    $18 | Tools           | Blackburn - Airstick Mini Pump |
