@@ -40,11 +40,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $899 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
-|   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'4") |
-|   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 52 cm (Riders 5'4"-5'7") |
-|   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 55 cm (Riders 5'7"-5'11") |
-|   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 58 cm (Riders 5'11"-6'2") |
-|   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 61 cm (Riders 6'2"-6'5") |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
@@ -69,18 +64,23 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1289 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
+|   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'4") |
+|   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 52 cm (Riders 5'4"-5'7") |
+|   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 55 cm (Riders 5'7"-5'11") |
+|   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 58 cm (Riders 5'11"-6'2") |
+|   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 61 cm (Riders 6'2"-6'5") |
 |   $475 | closeout        | #820 - 4130 Fixed-Gear / Single Speed - Purple Reign w/ Drop Bars - 55cm - Excellent Condition / Photo Model |
 |   $475 | closeout        | #819 - 4130 Fixed-Gear / Single Speed - Purple Reign w/ Risers - 55cm - Excellent Condition / Photo Model |
 |   $425 | closeout        | #696 - City-Bike - Black & Tan 3-Speed - Size Medium (53cm) - Like-New Condition |
 |   $395 | Bicycles        | #818 - State Bicycle Co. x Taco Bell- Klunker + Frame Bag -Photo Model |
 |   $395 | closeout        | #OBI - Klunker - State Bicycle Co. x Wu-Tang Clan - Excellent Condtion |
-|   $345 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
-|   $345 | City Bike       | City Bike - The Azure (3 Speed) - Small (43 cm - Riders 4'9" - 5'5") - Estimated Shipping Mid-May |
-|   $345 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") - Estimated Shipping Mid-May |
-|   $345 | City Bike       | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Large (58 cm - Riders 6'0" - 6'4") |
+|   $345 | City Bike       | City Bike - The Azure (3 Speed) - Small (43 cm - Riders 4'9" - 5'5") - Estimated Shipping Mid-May |
+|   $345 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") - Estimated Shipping Mid-May |
+|   $345 | City Bike       | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
+|   $345 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 42 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 43 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 44 |
@@ -128,13 +128,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - Large |
 |    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - Extra Large |
 |    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - XX-Large |
-|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - X-Small |
-|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - Small |
-|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - Medium |
-|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - Large |
-|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - X-Large |
-|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - XX-Large |
-|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - 3X-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Fleece-Lined Winter Jersey / Jacket - X-Small |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Fleece-Lined Winter Jersey / Jacket - Small |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Fleece-Lined Winter Jersey / Jacket - Medium |
@@ -148,11 +141,24 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $65 |                 | State Bicycle Team x Rapha - Technical T-Shirt - Large |
 |    $65 |                 | State Bicycle Team x Rapha - Technical T-Shirt - X-Large |
 |    $65 |                 | State Bicycle Team x Rapha - Technical T-Shirt - XX-Large |
+|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - X-Small |
+|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - Small |
+|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - Medium |
+|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - Large |
+|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - X-Large |
+|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - XX-Large |
+|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - 3X-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Small |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Medium |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - X-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - XX-Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - X-Small |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - Small |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - Medium |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - X-Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - XX-Large |
 |    $59 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Small |
 |    $59 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Small |
 |    $59 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Medium |
@@ -160,12 +166,13 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $59 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $59 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
 |    $59 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - 3X-Large |
-|    $59 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - X-Small |
-|    $59 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - Small |
-|    $59 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - Medium |
-|    $59 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - Large |
-|    $59 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - X-Large |
-|    $59 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Bibs  - Sustainable Clothing Collection - XX-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - X-Small |
+|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - Small |
+|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - Medium |
+|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - X-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - XX-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - 3X-Large |
 |    $55 | Jerseys + Kits  | ASU TEAM BIBS 2023 - X-Small / Men's Cut |
 |    $55 | Jerseys + Kits  | ASU TEAM BIBS 2023 - X-Small / Women's Cut |
 |    $55 | Jerseys + Kits  | ASU TEAM BIBS 2023 - Small / Men's Cut |
@@ -200,13 +207,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Small |
 |    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Medium |
 |    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - X-Small |
-|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - Small |
-|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - Medium |
-|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - X-Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - XX-Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - 3X-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Small |
 |    $55 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Medium |
 |    $55 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Large |
@@ -225,6 +225,12 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $49 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - XX-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - 3X-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Small |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Small |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Medium |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - XX-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - X-Small |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - Small |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - Medium |
@@ -232,12 +238,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - X-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - XX-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - 3X-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Small |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Small |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Medium |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - XX-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Small |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Medium |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Large |
@@ -270,3 +270,5 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
+|    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
+|    $18 | Tools           | Blackburn - Airstick Mini Pump |
