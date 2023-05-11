@@ -42,6 +42,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
 |   $825 | closeout        | #833 - 4130 All-Road - Flat Bar - Turquoise Fade (Medium 650b) Excellent Condition (Photo Model) |
 |   $825 | closeout        | #834 - 4130 All-Road - Flat Bar - Rust Fade (Medium 650b) Excellent Condition (Photo Model) |
+|   $785 | closeout        | #838 - Undefeated Track  - Graphite / Prism - 58cm - Excellent Condition |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
@@ -128,11 +129,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - Large |
 |    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - X-Large |
 |    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (Black) - XX-Large |
-|    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - Small |
-|    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - Medium |
-|    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - Large |
-|    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - Extra Large |
-|    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - XX-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Fleece-Lined Winter Jersey / Jacket - X-Small |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Fleece-Lined Winter Jersey / Jacket - Small |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Fleece-Lined Winter Jersey / Jacket - Medium |
