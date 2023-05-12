@@ -76,7 +76,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $475 | closeout        | #837 - 4130 Road - Hunter Green (8-speed) - 55cm - Excellent Condition |
 |   $475 | closeout        | #819 - 4130 Fixed-Gear / Single Speed - Purple Reign w/ Risers - 55cm - Excellent Condition / Photo Model |
 |   $465 | closeout        | #836 - 4130 Fixed-Gear / Single Speed - Matte Olive - 55cm - Excellent Condition |
-|   $425 | closeout        | #696 - City-Bike - Black & Tan 3-Speed - Size Medium (53cm) - Like-New Condition |
 |   $395 | Bicycles        | #818 - State Bicycle Co. x Taco Bell- Klunker + Frame Bag -Photo Model |
 |   $395 | closeout        | #OBI - Klunker - State Bicycle Co. x Wu-Tang Clan - Excellent Condtion |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
@@ -251,3 +250,17 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
 |    $28 | Misc. Parts     | Salsa Anything Cage HD w/  Straps |
 |    $26 |                 | Blackburn - Big Switch Multi Tool |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - X-Small / Men's Cut |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - X-Small / Women's Cut |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Small / Men's Cut |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Small / Women's Cut |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Medium / Men's Cut |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Medium / Women's Cut |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Large / Men's Cut |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Large / Women's Cut |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Extra Large / Men's Cut |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Extra Large / Women's Cut |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - XX-Large / Men's Cut |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - XX-Large / Women's Cut |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Men's Cut |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Women's Cut |
