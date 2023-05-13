@@ -11,6 +11,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Copper Brown (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Copper Brown (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Copper Brown (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
+|  $1299 | e-Bike          | 6061 - eBike Commuter - Matte Black - Small (49cm - Riders 5'3"-5'7") |
+|  $1299 | e-Bike          | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
+|  $1299 | e-Bike          | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'3") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 52 cm (Riders 5'3"-5'6") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
@@ -248,4 +251,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
 |    $29 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
-|    $28 | Misc. Parts     | Salsa Anything Cage HD w/  Straps |
