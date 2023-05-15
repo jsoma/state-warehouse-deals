@@ -75,15 +75,17 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 58 cm (Riders 5'11"-6'2") |
 |   $775 | Undefeated      | Undefeated Track - Pearl / Tie-Dye - 61 cm (Riders 6'2"-6'5") |
 |   $695 | closeout        | #835 - 4130 All-Road - Flat Bar - Fiesta Black (Large 650b) - Brand-New Condition |
+|  $6455 | closeout        | #OBI - 6061 Black Label v2 - Wu-Tang Edition - 57cm - Like-New Condition |
 |   $465 | closeout        | #836 - 4130 Fixed-Gear / Single Speed - Matte Olive - 55cm - Excellent Condition |
 |   $395 | closeout        | #OBI - Klunker - State Bicycle Co. x Wu-Tang Clan - Excellent Condtion |
+|   $375 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Large (58cm) - Like-New Condition |
+|   $375 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Large (58 cm - Riders 6'0" - 6'4") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Small (43 cm - Riders 4'9" - 5'5") - Estimated Shipping Mid-May |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") - Estimated Shipping Mid-May |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
-|   $345 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 42 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 43 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 44 |
@@ -249,22 +251,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
 |    $28 | Misc. Parts     | Salsa Anything Cage HD w/  Straps |
 |    $26 |                 | Blackburn - Big Switch Multi Tool |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - X-Small / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - X-Small / Women's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Small / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Small / Women's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Medium / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Medium / Women's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Large / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Large / Women's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Extra Large / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Extra Large / Women's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - XX-Large / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - XX-Large / Women's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Women's Cut |
-|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
-|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
-|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
-|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
-|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
