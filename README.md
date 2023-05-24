@@ -143,6 +143,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $88 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Large |
 |    $88 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - X-Large |
 |    $88 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - XX-Large |
+|    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - Small |
+|    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - Medium |
+|    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - Large |
+|    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - Extra Large |
+|    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - XX-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Fleece-Lined Winter Jersey / Jacket - X-Small |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Fleece-Lined Winter Jersey / Jacket - Small |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Fleece-Lined Winter Jersey / Jacket - Medium |
@@ -271,4 +276,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
-|    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
