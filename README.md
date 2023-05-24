@@ -100,7 +100,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $645 | closeout        | #OBI - 6061 Black Label v2 - Wu-Tang Edition - 57cm - Like-New Condition |
 |   $595 | closeout        | #840 - 6061 Black-Label v2 (Fixed-Gear)  - Pearl White - 62cm - Excellent Condition |
 |   $525 | closeout        | #841 - 6061 Black-Label v2 (Fixed-Gear)  - Army Green - 52cm - Good Condition |
-|   $395 | closeout        | #OBI - Klunker - State Bicycle Co. x Wu-Tang Clan - Excellent Condtion |
 |   $375 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Large (58cm) - Like-New Condition |
 |   $375 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Small (43 cm - Riders 4'9" - 5'5") |
@@ -268,3 +267,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - XX-Large / Women's Cut |
 |    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Men's Cut |
 |    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Women's Cut |
+|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
+|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
+|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
+|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
+|    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
