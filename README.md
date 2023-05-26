@@ -85,6 +85,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1289 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
 |   $655 | closeout        | #OBI - 6061 Black Label v2 - Wu-Tang Edition - 55cm - Like-New Condition |
 |   $645 | closeout        | #OBI - 6061 Black Label v2 - Wu-Tang Edition - 57cm - Like-New Condition |
+|   $625 | closeout        | #844 - 6061 Black-Label v2 (Fixed-Gear)  - Army Green - 57cm - Like New / Open Box |
 |   $425 | closeout        | #843 - 4130 Road - Black & Metallic (8-speed) - 52cm - Very Good Condition |
 |   $375 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Large (58cm) - Like-New Condition |
 |   $375 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
@@ -102,6 +103,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 43 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 44 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 45 |
+|   $285 | closeout        | #845 - Klunker - Black & Metallic - Good Condition |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
@@ -263,5 +265,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
-|    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
-|    $18 | Tools           | Blackburn - Airstick Mini Pump |
