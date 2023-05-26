@@ -3,14 +3,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
-|  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Copper Brown (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
-|  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Copper Brown (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
-|  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Copper Brown (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
-|  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Copper Brown (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
-|  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Copper Brown (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
-|  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Copper Brown (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
-|  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Copper Brown (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
-|  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Copper Brown (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1299 | e-Bike          | 6061 - eBike Commuter - Matte Black - Small (49cm - Riders 5'3"-5'7") |
 |  $1299 | e-Bike          | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
 |  $1299 | e-Bike          | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
@@ -276,3 +268,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
+|    $18 | Tools           | Blackburn - Airstick Mini Pump |
