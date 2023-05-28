@@ -106,7 +106,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
-|   $245 | closeout        | #849 - 4130 Road - Hunter Green (8-speed) - 62cm - Fair Condition |
 |   $199 |                 | Saris - Mag+ Trainer |
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Small |
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Medium |
@@ -265,3 +264,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
+|    $18 | Tools           | Blackburn - Airstick Mini Pump |
