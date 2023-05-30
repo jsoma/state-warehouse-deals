@@ -83,6 +83,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1289 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
+|   $755 | closeout        | #852 -  Undefeated Track - Pearl / Tie-Dye - 58cm - Like-New Condition |
 |   $655 | closeout        | #OBI - 6061 Black Label v2 - Wu-Tang Edition - 55cm - Like-New Condition |
 |   $645 | closeout        | #OBI - 6061 Black Label v2 - Wu-Tang Edition - 57cm - Like-New Condition |
 |   $425 | closeout        | #843 - 4130 Road - Black & Metallic (8-speed) - 52cm - Very Good Condition |
@@ -264,4 +265,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
 |    $22 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
-|    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
