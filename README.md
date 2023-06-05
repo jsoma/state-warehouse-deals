@@ -129,11 +129,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $88 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Large |
 |    $88 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - X-Large |
 |    $88 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - XX-Large |
-|    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - Small |
-|    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - Medium |
-|    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - Large |
-|    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - Extra Large |
-|    $69 | Jerseys + Kits  | State Bicycle Co. - Astronaut Reflective Jacket - XX-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Fleece-Lined Winter Jersey / Jacket - X-Small |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Fleece-Lined Winter Jersey / Jacket - Small |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Fleece-Lined Winter Jersey / Jacket - Medium |
@@ -265,3 +260,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $18 | Tools           | Blackburn - Airstick Mini Pump |
 |    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
 |    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
+|    $14 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
