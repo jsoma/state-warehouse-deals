@@ -86,7 +86,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $695 | closeout        | #858 - 4130 All-Road - Flat Bar - Fiesta Black (Medium 650b) - Excellent Condition |
 |   $655 | closeout        | #OBI - 6061 Black Label v2 - Wu-Tang Edition - 55cm - Like-New Condition |
 |   $645 | closeout        | #OBI - 6061 Black Label v2 - Wu-Tang Edition - 57cm - Like-New Condition |
-|   $450 | closeout        | #857 - 4130 Road - Black & Metallic (8-speed) - 55cm - Like-New Condition |
 |   $375 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
@@ -257,3 +256,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
 |    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
 |    $14 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
+|    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
