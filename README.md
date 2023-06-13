@@ -99,7 +99,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 43 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 44 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 45 |
-|   $295 | closeout        | #859 - Core-Line - Delfin - Size X-Small (46cm) - Like-New Condition |
 |   $285 | closeout        | #860 - City-Bike - Elliston (3-speed) - Size Medium (53cm) - Good Condition |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $199 |                 | Saris - Mag+ Trainer |
@@ -257,3 +256,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $18 | Tools           | Blackburn - Airstick Mini Pump |
 |    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
 |    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
+|    $14 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
