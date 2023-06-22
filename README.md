@@ -135,13 +135,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $65 |                 | State Bicycle Team x Rapha - Technical T-Shirt - Large |
 |    $65 |                 | State Bicycle Team x Rapha - Technical T-Shirt - X-Large |
 |    $65 |                 | State Bicycle Team x Rapha - Technical T-Shirt - XX-Large |
-|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - X-Small |
-|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - Small |
-|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - Medium |
-|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - Large |
-|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - X-Large |
-|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - XX-Large |
-|    $65 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Bibs  - Sustainable Clothing Collection - 3X-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Small |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Medium |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
@@ -261,3 +254,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - X-Large |
 |     $9 | Custom Product  | State Bicycle Co. - "420" Grips - Purple |
 |     $9 | Custom Product  | State Bicycle Co. - "420" Grips - Green |
+|     $8 | Bottle          | State Bicycle Co. - Smiles for Miles Insulated Water Bottle (White) |
