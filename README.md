@@ -154,6 +154,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $59 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $59 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
 |    $59 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - 3X-Large |
+|    $55 | closeout        | #862 - Core-Line - State Bicycle Co. x The Notorious BIG -"Ready To Die" FRAME ONLY - Size Small (50cm) - Fair Condition #FS |
 |    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - X-Small |
 |    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - Small |
 |    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - Medium |
@@ -252,7 +253,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
 |    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
 |    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
-|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Small |
-|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Medium |
-|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Large |
-|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - X-Large |
