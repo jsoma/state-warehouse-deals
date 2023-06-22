@@ -253,10 +253,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $18 | Tools           | Blackburn - Airstick Mini Pump |
 |    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
 |    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
-|    $14 | Hats            | State Bicycle Co. - "SBC" Monogram Beanie |
 |    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
 |    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Small |
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Medium |
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Large |
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - X-Large |
+|     $9 | Custom Product  | State Bicycle Co. - "420" Grips - Purple |
+|     $9 | Custom Product  | State Bicycle Co. - "420" Grips - Green |
