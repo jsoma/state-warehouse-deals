@@ -85,6 +85,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1289 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
 |   $655 | closeout        | #OBI - 6061 Black Label v2 - Wu-Tang Edition - 55cm - Like-New Condition |
 |   $645 | closeout        | #OBI - 6061 Black Label v2 - Wu-Tang Edition - 57cm - Like-New Condition |
+|   $475 | closeout        | #861 - 4130 All-Road - Cupertino Pearl w/ 650b wheels - Medium (51cm) - Like-New Condition w/ NOTES #FS |
 |   $375 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
@@ -255,5 +256,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Medium |
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Large |
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - X-Large |
-|     $9 | Custom Product  | State Bicycle Co. - "420" Grips - Purple |
-|     $9 | Custom Product  | State Bicycle Co. - "420" Grips - Green |
