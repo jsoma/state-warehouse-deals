@@ -86,7 +86,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $655 | closeout        | #OBI - 6061 Black Label v2 - Wu-Tang Edition - 55cm - Like-New Condition |
 |   $645 | closeout        | #OBI - 6061 Black Label v2 - Wu-Tang Edition - 57cm - Like-New Condition |
 |   $375 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
-|   $355 | closeout        | #864 - Undefeated (Track) - Frameset - Tie-Dye/ Pearl - 59cm - Very Good Condition |
+|   $355 | closeout        | #864 - Undefeated (Track) - Frameset - Tie-Dye/ Pearl - 59cm - Very Good Condition - #FS |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Large (58 cm - Riders 6'0" - 6'4") |
@@ -100,7 +100,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 45 |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $199 |                 | Saris - Mag+ Trainer |
-|   $195 | closeout        | #865 - Undefeated (Track) - FRAME ONLY - Tie-Dye/ Pearl - 55cm - Very Good Condition |
+|   $195 | closeout        | #865 - Undefeated (Track) - FRAME ONLY - Tie-Dye/ Pearl - 55cm - Very Good Condition - #FS |
 |   $175 | closeout        | #863 - 6061 All-Road - Deep Pacific- FRAME ONLY - L (58cm) - GOOD Condition #FS |
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Small |
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Medium |
@@ -108,6 +108,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Small |
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Medium |
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Large |
+|   $145 | closeout        | #866- Undefeated (Track) - FRAME ONLY - Tie-Dye/ Pearl - 55cm - USED Condition - #FS |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Small |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Medium |
@@ -252,4 +253,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $15 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - White |
 |    $15 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Tie-Dye |
 |    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
-|    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
