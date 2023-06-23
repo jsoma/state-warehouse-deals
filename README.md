@@ -99,6 +99,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 45 |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $199 |                 | Saris - Mag+ Trainer |
+|   $175 | closeout        | #863 - 6061 All-Road - Deep Pacific- FRAME ONLY - L (58cm) - GOOD Condition #FS |
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Small |
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Medium |
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Large |
@@ -252,7 +253,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
 |    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
 |    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
-|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Small |
-|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Medium |
-|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Large |
-|    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - X-Large |
