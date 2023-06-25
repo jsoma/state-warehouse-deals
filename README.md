@@ -100,7 +100,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 45 |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $199 |                 | Saris - Mag+ Trainer |
-|   $195 | closeout        | #865 - Undefeated (Track) - FRAME ONLY - Tie-Dye/ Pearl - 55cm - Very Good Condition - #FS |
 |   $175 | closeout        | #863 - 6061 All-Road - Deep Pacific- FRAME ONLY - L (58cm) - GOOD Condition #FS |
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Small |
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Medium |
@@ -255,3 +254,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $15 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Black |
 |    $15 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - White |
 |    $15 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Tie-Dye |
+|    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
