@@ -107,7 +107,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Small |
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Medium |
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Large |
-|   $145 | closeout        | #866- Undefeated (Track) - FRAME ONLY - Tie-Dye/ Pearl - 55cm - USED Condition - #FS |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Small |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Medium |
@@ -255,3 +254,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $15 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - White |
 |    $15 | Misc. Parts     | State Bicycle Co. x Grateful Dead - Dancing Bears Saddle - (3 Colors) - Tie-Dye |
 |    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
+|    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
