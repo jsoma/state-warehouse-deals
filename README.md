@@ -18,23 +18,23 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1249 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
 |  $1249 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
 |  $1639 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (Add $389.99) |
-|  $1249 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
-|  $1249 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
-|  $1639 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / Both (Add $389.99) |
-|  $1249 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 650b |
-|  $1249 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 700c |
-|  $1639 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / Both (Add $389.99) |
-|  $1249 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 650b |
-|  $1249 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 700c |
-|  $1639 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / Both (Add $389.99) |
-|  $1249 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
-|  $1249 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
-|  $1639 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (Add $389.99) |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'3") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 52 cm (Riders 5'3"-5'6") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 58 cm (Riders 5'9"-6'1") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
+|   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
+|   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
+|  $1389 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / Both (Add $389.99) |
+|   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 650b |
+|   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 700c |
+|  $1389 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / Both (Add $389.99) |
+|   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 650b |
+|   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 700c |
+|  $1389 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / Both (Add $389.99) |
+|   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
+|   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
+|  $1389 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (Add $389.99) |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
