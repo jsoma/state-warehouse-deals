@@ -98,6 +98,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 43 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 44 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 45 |
+|   $275 | closeout        | #868 - 4130 All-Road - Sonoran Tan - FRAME ONLY - Size Large  - USED Condition - #FS |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $199 |                 | Saris - Mag+ Trainer |
 |   $175 | closeout        | #863 - 6061 All-Road - Deep Pacific- FRAME ONLY - L (58cm) - GOOD Condition #FS |
@@ -107,6 +108,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Small |
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Medium |
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Large |
+|   $150 | closeout        | #867 - 6061 Fixed Gear / Single Speed - Matte Black - FRAME ONLY - 49cm - Used Condition - #FS |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Small |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Medium |
@@ -247,12 +249,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
 |    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
 |    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
-|    $10 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Small |
-|    $10 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Medium |
-|    $10 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Large |
-|    $10 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - X-Large |
-|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
-|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
-|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
-|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
-|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
