@@ -108,6 +108,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Small |
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Medium |
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Large |
+|   $150 | closeout        | #873 - 6061 Fixed Gear / Single Speed - Raw - FRAME ONLY - 55cm - Good Condition - #FS |
 |   $150 | closeout        | #868 - 4130 All-Road - Sonoran Tan - FRAME ONLY - Size Large  - USED Condition - #FS |
 |   $150 | closeout        | #867 - 6061 Fixed Gear / Single Speed - Matte Black - FRAME ONLY - 49cm - Used Condition - #FS |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
@@ -121,6 +122,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Small |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Medium |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Large |
+|    $99 | closeout        | #874 - 6061 Fixed Gear / Single Speed - Raw - FRAME ONLY - 59cm - Fair Condition - #FS |
 |    $99 | closeout        | #870 - 6061 Fixed Gear / Single Speed - Pearl White Black - FRAME ONLY - 62cm  - Fair Condition - #FS |
 |    $89 | Misc. Accessori | Blackburn Design - Outpost Front World Touring Rack |
 |    $88 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - X-Small |
@@ -247,5 +249,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Men's Cut |
 |    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Women's Cut |
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
-|    $18 | Tools           | Blackburn - Airstick Mini Pump |
-|    $17 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
