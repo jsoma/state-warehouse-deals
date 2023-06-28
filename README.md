@@ -18,11 +18,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1249 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
 |  $1249 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
 |  $1639 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (Add $389.99) |
-|  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'3") |
-|  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 52 cm (Riders 5'3"-5'6") |
-|  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
-|  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 58 cm (Riders 5'9"-6'1") |
-|  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
 |   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
 |   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
 |  $1389 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / Both (Add $389.99) |
@@ -35,6 +30,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
 |   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
 |  $1389 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (Add $389.99) |
+|   $950 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'3") |
+|   $950 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 52 cm (Riders 5'3"-5'6") |
+|   $950 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
+|   $950 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 58 cm (Riders 5'9"-6'1") |
+|   $950 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
@@ -173,9 +173,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - XX-Large / Women's Cut |
 |    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - 3X-Large / Men's Cut |
 |    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - 3X-Large / Women's Cut |
-|    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Small |
-|    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Medium |
-|    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Large |
+|    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Small |
+|    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Medium |
+|    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Large |
 |    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Small |
 |    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Medium |
 |    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Large |
@@ -246,9 +246,13 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $17 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
 |    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
 |    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
-|    $14 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
 |    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Small |
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Medium |
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - Large |
 |    $14 | Clothing        | State Bicycle Team x Rapha - Pro Team Sock (White) - X-Large |
+|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
+|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
+|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
+|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
+|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
