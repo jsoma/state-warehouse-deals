@@ -35,18 +35,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 58 cm (Riders 5'9"-6'1") |
 |  $1095 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
-|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
-|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
-|  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
-|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
-|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
-|  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") / Both (Add $389.99) |
-|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
-|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
-|  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Medium ( Riders 5'9" - 6'2") / Both (Add $389.99) |
-|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
-|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
-|  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
@@ -59,18 +47,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $899 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
-|   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
-|   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
-|   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
-|   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
-|   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
-|   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Small ( Riders 5'5" - 5'10") / Both (Add $389.99) |
-|   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
-|   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
-|  $1174 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Medium ( Riders 5'9" - 6'2") / Both (Add $389.99) |
-|   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
-|   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
-|  $1174 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1289 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
@@ -83,6 +59,30 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1289 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
+|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
+|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
+|  $1088 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
+|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
+|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
+|  $1088 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") / Both (Add $389.99) |
+|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
+|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
+|  $1088 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Medium ( Riders 5'9" - 6'2") / Both (Add $389.99) |
+|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
+|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
+|  $1088 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
+|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
+|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
+|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
+|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
+|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
+|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Small ( Riders 5'5" - 5'10") / Both (Add $389.99) |
+|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
+|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
+|  $1088 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Medium ( Riders 5'9" - 6'2") / Both (Add $389.99) |
+|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
+|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
+|  $1088 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
 |   $655 | closeout        | #OBI - 6061 Black Label v2 - Wu-Tang Edition - 55cm - Like-New Condition |
 |   $645 | closeout        | #OBI - 6061 Black Label v2 - Wu-Tang Edition - 57cm - Like-New Condition |
 |   $375 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
