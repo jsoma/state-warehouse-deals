@@ -99,6 +99,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 44 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 45 |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
+|   $225 | closeout        | #875 - 4130 All-Road - Copper Brown - FRAME ONLY - Size M (51cm) - Good Condition - #FS |
 |   $199 |                 | Saris - Mag+ Trainer |
 |   $175 | closeout        | #869 - 6061 All-Road - Deep Pacific- FRAME ONLY - L (58cm) - Excelelnt Condition #FS |
 |   $175 | closeout        | #863 - 6061 All-Road - Deep Pacific- FRAME ONLY - L (58cm) - GOOD Condition #FS |
@@ -248,4 +249,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Men's Cut |
 |    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Women's Cut |
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
-|    $18 | Tools           | Blackburn - Airstick Mini Pump |
