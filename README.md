@@ -185,7 +185,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Cupertino Pearl - Medium (Riders 5'9" - 6'2") |
 |   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Cupertino Pearl - Large (Riders 6'1" - 6'5") |
 |   $265 | closeout        | #876 - 4130 All-Road - Matte Olive - Frame & Fork Set - Size M (51cm) - Good Condition - #FS |
+|   $255 | closeout        | #877  - 4130 All-Road - Copper Brown - Frameset - Size S (47cm) - Fair Condition -  #FS |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
+|   $245 | closeout        | #879 - 6061 Black Label v2 - Frameset - Matte Black - 57 - Excellent Condition - #FS |
+|   $225 | closeout        | #878 - 6061 Black Label v2 - Frameset - Candy Apple Red - 52cm - Very Good Condition - #FS |
 |   $225 | closeout        | #875 - 4130 All-Road - Copper Brown - FRAME ONLY - Size M (51cm) - Good Condition - #FS |
 |   $199 |                 | Saris - Mag+ Trainer |
 |   $199 | Frame / Fork    | 4130 Steel - Fixed Gear / Single-Speed - Frame Set - Navy / Gold - 46 cm (Riders 5'3"-5'6") |
@@ -247,30 +250,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Navy - Matte Navy / Small |
 |    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Navy - Matte Navy / Medium |
 |    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Navy - Matte Navy / Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - X-Small |
-|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - Small |
-|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - Medium |
-|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - X-Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - XX-Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - 3X-Large |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - X-Small / Men's Cut |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - X-Small / Women's Cut |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Small / Men's Cut |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Small / Women's Cut |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Medium / Men's Cut |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Medium / Women's Cut |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Large / Men's Cut |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Large / Women's Cut |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Extra Large / Men's Cut |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Extra Large / Women's Cut |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - XX-Large / Men's Cut |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - XX-Large / Women's Cut |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - 3X-Large / Men's Cut |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - 3X-Large / Women's Cut |
-|    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Small |
-|    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Medium |
-|    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Large |
-|    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Small |
-|    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Medium |
-|    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Large |
