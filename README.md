@@ -135,7 +135,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $399 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 59 cm (Riders 5'11"-6'2) |
 |   $399 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 62 cm (Riders 6'2"-6'6") |
 |   $375 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
-|   $355 | closeout        | #864 - Undefeated (Track) - Frameset - Tie-Dye/ Pearl - 59cm - Very Good Condition - #FS |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Large (58 cm - Riders 6'0" - 6'4") |
@@ -250,3 +249,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Navy - Matte Navy / Small |
 |    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Navy - Matte Navy / Medium |
 |    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Navy - Matte Navy / Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - X-Small |
+|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - Small |
+|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - Medium |
+|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - X-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - XX-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - 3X-Large |
