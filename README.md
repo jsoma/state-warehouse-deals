@@ -69,9 +69,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1088 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
-|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
-|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
-|  $1088 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") / Both (Add $389.99) |
+|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") - Estimated Shipping Late-July / 650b |
+|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") - Estimated Shipping Late-July / 700c |
+|  $1088 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") - Estimated Shipping Late-July / Both (Add $389.99) |
 |   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
 |   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
 |  $1088 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Medium ( Riders 5'9" - 6'2") / Both (Add $389.99) |
