@@ -48,9 +48,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
 |  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Small ( Riders 5'5" - 5'10") / Both (Add $389.99) |
-|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
-|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
-|  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Medium ( Riders 5'9" - 6'2") / Both (Add $389.99) |
+|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Medium ( Riders 5'9" - 6'2") - Estimated Shipping Late-July / 650b |
+|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Medium ( Riders 5'9" - 6'2") - Estimated Shipping Late-July / 700c |
+|  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Medium ( Riders 5'9" - 6'2") - Estimated Shipping Late-July / Both (Add $389.99) |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $899 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
@@ -184,7 +184,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Cupertino Pearl - Small (Riders 5'5" - 5'10") |
 |   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Cupertino Pearl - Medium (Riders 5'9" - 6'2") |
 |   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Cupertino Pearl - Large (Riders 6'1" - 6'5") |
-|   $265 | closeout        | #876 - 4130 All-Road - Matte Olive - Frame & Fork Set - Size M (51cm) - Good Condition - #FS |
 |   $255 | closeout        | #877  - 4130 All-Road - Copper Brown - Frameset - Size S (47cm) - Fair Condition -  #FS |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $245 | closeout        | #879 - 6061 Black Label v2 - Frameset - Matte Black - 57 - Excellent Condition - #FS |
@@ -256,3 +255,17 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - X-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - XX-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - 3X-Large |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - X-Small / Men's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - X-Small / Women's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Small / Men's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Small / Women's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Medium / Men's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Medium / Women's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Large / Men's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Large / Women's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Extra Large / Men's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Extra Large / Women's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - XX-Large / Men's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - XX-Large / Women's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - 3X-Large / Men's Cut |
+|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - 3X-Large / Women's Cut |
