@@ -184,7 +184,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Cupertino Pearl - Small (Riders 5'5" - 5'10") |
 |   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Cupertino Pearl - Medium (Riders 5'9" - 6'2") |
 |   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Cupertino Pearl - Large (Riders 6'1" - 6'5") |
-|   $255 | closeout        | #877  - 4130 All-Road - Copper Brown - Frameset - Size S (47cm) - Fair Condition -  #FS |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $245 | closeout        | #879 - 6061 Black Label v2 - Frameset - Matte Black - 57 - Excellent Condition - #FS |
 |   $225 | closeout        | #878 - 6061 Black Label v2 - Frameset - Candy Apple Red - 52cm - Very Good Condition - #FS |
@@ -269,3 +268,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - XX-Large / Women's Cut |
 |    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - 3X-Large / Men's Cut |
 |    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - 3X-Large / Women's Cut |
+|    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Small |
+|    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Medium |
+|    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Large |
+|    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Small |
+|    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Medium |
+|    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Large |
