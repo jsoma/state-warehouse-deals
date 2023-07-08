@@ -3,6 +3,13 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
+|  $1299 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 45 cm - (Riders 5'0"-5'4") |
+|  $1299 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 48 cm - (Riders 5'4"-5'5") |
+|  $1299 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 50 cm - (Riders 5'5"-5'7") |
+|  $1299 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 52 cm - (Riders 5'7"-59") |
+|  $1299 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 54 cm - (Riders 5'9"-5'10") |
+|  $1299 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 56 cm - (Riders 5'10"-6'0") |
+|  $1299 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 58 cm - (Riders 6'0"-6'3") |
 |  $1299 | e-Bike          | 6061 - eBike Commuter - Matte Black - Small (49cm - Riders 5'3"-5'7") |
 |  $1299 | e-Bike          | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
 |  $1299 | e-Bike          | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
@@ -35,13 +42,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 58 cm (Riders 5'9"-6'1") |
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
-|   $950 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 45 cm - (Riders 5'0"-5'4") |
-|   $950 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 48 cm - (Riders 5'4"-5'5") |
-|   $950 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 50 cm - (Riders 5'5"-5'7") |
-|   $950 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 52 cm - (Riders 5'7"-59") |
-|   $950 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 54 cm - (Riders 5'9"-5'10") |
-|   $950 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 56 cm - (Riders 5'10"-6'0") |
-|   $950 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 58 cm - (Riders 6'0"-6'3") |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
@@ -93,10 +93,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $655 | closeout        | #OBI - 6061 Black Label v2 - Wu-Tang Edition - 55cm - Like-New Condition |
 |   $645 | closeout        | #OBI - 6061 Black Label v2 - Wu-Tang Edition - 57cm - Like-New Condition |
 |   $445 | closeout        | #OBI- 4130 - Windbreaker - 55cm - Excellent Condition |
-|   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Pacific Gold - Extra Small (Riders 5'1" - 5'6") |
-|   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Pacific Gold - Small (Riders 5'5" - 5'10") |
-|   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Pacific Gold - Medium (Riders 5'9" - 6'2") |
-|   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Pacific Gold - Large (Riders 6'1" - 6'5") |
 |   $375 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
@@ -109,10 +105,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 43 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 44 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 45 |
-|   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Cupertino Pearl - Extra Small (Riders 5'1" - 5'6") |
-|   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Cupertino Pearl - Small (Riders 5'5" - 5'10") |
-|   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Cupertino Pearl - Medium (Riders 5'9" - 6'2") |
-|   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Cupertino Pearl - Large (Riders 6'1" - 6'5") |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $245 | closeout        | #879 - 6061 Black Label v2 - Frameset - Matte Black - 57 - Excellent Condition - #FS |
 |   $225 | closeout        | #878 - 6061 Black Label v2 - Frameset - Candy Apple Red - 52cm - Very Good Condition - #FS |
@@ -225,3 +217,15 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - X-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - XX-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - 3X-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Small |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Small |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Medium |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - 3X-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Small |
+|    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Medium |
+|    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - X-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
