@@ -122,7 +122,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Small |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Medium |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Large |
-|    $99 | closeout        | #874 - 6061 Fixed Gear / Single Speed - Raw - FRAME ONLY - 59cm - Fair Condition - #FS |
 |    $89 | Misc. Accessori | Blackburn Design - Outpost Front World Touring Rack |
 |    $88 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - X-Small |
 |    $88 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Small |
@@ -256,3 +255,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Men's Cut |
 |    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Women's Cut |
 |    $24 | Misc. Accessori | State Bicycle Co. - USB Rechargeable Aluminum LED Power Headlight (200 Lumen) - Front Only |
+|    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Small |
+|    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Medium |
+|    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Large |
+|    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Extra Large |
