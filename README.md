@@ -30,6 +30,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
 |   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
 |  $1389 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (Add $389.99) |
+|   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'3") |
+|   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 52 cm (Riders 5'3"-5'6") |
+|   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
+|   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 58 cm (Riders 5'9"-6'1") |
+|   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
 |   $950 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 45 cm - (Riders 5'0"-5'4") |
 |   $950 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 48 cm - (Riders 5'4"-5'5") |
 |   $950 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 50 cm - (Riders 5'5"-5'7") |
@@ -37,11 +42,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $950 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 54 cm - (Riders 5'9"-5'10") |
 |   $950 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 56 cm - (Riders 5'10"-6'0") |
 |   $950 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 58 cm - (Riders 6'0"-6'3") |
-|   $950 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'3") |
-|   $950 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 52 cm (Riders 5'3"-5'6") |
-|   $950 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
-|   $950 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 58 cm (Riders 5'9"-6'1") |
-|   $950 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
@@ -66,6 +66,18 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1289 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
+|   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
+|   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
+|  $1139 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
+|   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") - Estimated Shipping Late-July / 650b |
+|   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") - Estimated Shipping Late-July / 700c |
+|  $1139 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") - Estimated Shipping Late-July / Both (Add $389.99) |
+|   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
+|   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
+|  $1139 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Medium ( Riders 5'9" - 6'2") / Both (Add $389.99) |
+|   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
+|   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
+|  $1139 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
 |   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1139 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
@@ -78,32 +90,20 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1139 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
-|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
-|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
-|  $1088 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
-|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") - Estimated Shipping Late-July / 650b |
-|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") - Estimated Shipping Late-July / 700c |
-|  $1088 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") - Estimated Shipping Late-July / Both (Add $389.99) |
-|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
-|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
-|  $1088 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Medium ( Riders 5'9" - 6'2") / Both (Add $389.99) |
-|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
-|   $699 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
-|  $1088 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
+|   $699 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 49 cm (Riders 5'0" - 5'3") / Compact Drops |
+|   $699 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 49 cm (Riders 5'0" - 5'3") / Wide Riser w/ Vans Grips |
+|   $699 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 52 cm (Riders 5'3" - 5'6") / Compact Drops |
+|   $699 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 52 cm (Riders 5'3" - 5'6") / Wide Riser w/ Vans Grips |
+|   $699 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 55 cm (Riders 5'6" - 5'9") / Compact Drops |
+|   $699 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 55 cm (Riders 5'6" - 5'9") / Wide Riser w/ Vans Grips |
+|   $699 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 57 cm (Riders 5'9"-6'0") / Compact Drops |
+|   $699 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 57 cm (Riders 5'9"-6'0") / Wide Riser w/ Vans Grips |
+|   $699 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 59 cm (Riders 6'0" - 6'3") / Compact Drops |
+|   $699 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 59 cm (Riders 6'0" - 6'3") / Wide Riser w/ Vans Grips |
+|   $699 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 62 cm (Riders 6'3"-6'6") / Compact Drops |
+|   $699 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 62 cm (Riders 6'3"-6'6") / Wide Riser w/ Vans Grips |
 |   $655 | closeout        | #OBI - 6061 Black Label v2 - Wu-Tang Edition - 55cm - Like-New Condition |
 |   $645 | closeout        | #OBI - 6061 Black Label v2 - Wu-Tang Edition - 57cm - Like-New Condition |
-|   $575 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 49 cm (Riders 5'0" - 5'3") / Compact Drops |
-|   $575 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 49 cm (Riders 5'0" - 5'3") / Wide Riser w/ Vans Grips |
-|   $575 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 52 cm (Riders 5'3" - 5'6") / Compact Drops |
-|   $575 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 52 cm (Riders 5'3" - 5'6") / Wide Riser w/ Vans Grips |
-|   $575 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 55 cm (Riders 5'6" - 5'9") / Compact Drops |
-|   $575 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 55 cm (Riders 5'6" - 5'9") / Wide Riser w/ Vans Grips |
-|   $575 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 57 cm (Riders 5'9"-6'0") / Compact Drops |
-|   $575 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 57 cm (Riders 5'9"-6'0") / Wide Riser w/ Vans Grips |
-|   $575 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 59 cm (Riders 6'0" - 6'3") / Compact Drops |
-|   $575 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 59 cm (Riders 6'0" - 6'3") / Wide Riser w/ Vans Grips |
-|   $575 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 62 cm (Riders 6'3"-6'6") / Compact Drops |
-|   $575 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 62 cm (Riders 6'3"-6'6") / Wide Riser w/ Vans Grips |
 |   $445 | closeout        | #OBI- 4130 - Windbreaker - 55cm - Excellent Condition |
 |   $399 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 49 cm (Riders 5'1"-5'4") |
 |   $399 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 52 cm (Riders 5'4"-5'7") |
