@@ -93,6 +93,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $655 | closeout        | #OBI - 6061 Black Label v2 - Wu-Tang Edition - 55cm - Like-New Condition |
 |   $645 | closeout        | #OBI - 6061 Black Label v2 - Wu-Tang Edition - 57cm - Like-New Condition |
 |   $445 | closeout        | #OBI- 4130 - Windbreaker - 55cm - Excellent Condition |
+|   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Pacific Gold - Extra Small (Riders 5'1" - 5'6") |
+|   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Pacific Gold - Small (Riders 5'5" - 5'10") |
+|   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Pacific Gold - Medium (Riders 5'9" - 6'2") |
+|   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Pacific Gold - Large (Riders 6'1" - 6'5") |
 |   $375 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
@@ -105,10 +109,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 43 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 44 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 45 |
-|   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Pacific Gold - Extra Small (Riders 5'1" - 5'6") |
-|   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Pacific Gold - Small (Riders 5'5" - 5'10") |
-|   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Pacific Gold - Medium (Riders 5'9" - 6'2") |
-|   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Pacific Gold - Large (Riders 6'1" - 6'5") |
 |   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Cupertino Pearl - Extra Small (Riders 5'1" - 5'6") |
 |   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Cupertino Pearl - Small (Riders 5'5" - 5'10") |
 |   $299 | Frame / Fork    | 4130 All-Road - Frame & Fork Set - Cupertino Pearl - Medium (Riders 5'9" - 6'2") |
