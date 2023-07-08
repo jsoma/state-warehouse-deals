@@ -133,7 +133,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $69 | Accessories     | SBC x Road Runner - Frame Bag - Black |
 |    $69 | Accessories     | SBC x Road Runner - Frame Bag - Orange |
 |    $69 | Accessories     | SBC x Road Runner - Frame Bag - Army |
-|    $65 | Bicycles        | Selle Italia - Flite 1990 Saddle - White - White |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Fleece-Lined Winter Jersey / Jacket - X-Small |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Fleece-Lined Winter Jersey / Jacket - Small |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Fleece-Lined Winter Jersey / Jacket - Medium |
@@ -198,7 +197,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $49 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - XX-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - 3X-Large |
-|    $45 | Misc. Parts     | Selle Italia Vintage 1980 Turbo Saddle - White - White |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - X-Small |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - Small |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - Medium |
@@ -243,3 +241,18 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
 |    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - X-Small / Men's Cut |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - X-Small / Women's Cut |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Small / Men's Cut |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Small / Women's Cut |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Medium / Men's Cut |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Medium / Women's Cut |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Large / Men's Cut |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Large / Women's Cut |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Extra Large / Men's Cut |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Extra Large / Women's Cut |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - XX-Large / Men's Cut |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - XX-Large / Women's Cut |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Men's Cut |
+|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Women's Cut |
+|    $24 | Misc. Accessori | State Bicycle Co. - USB Rechargeable Aluminum LED Power Headlight (200 Lumen) - Front Only |
