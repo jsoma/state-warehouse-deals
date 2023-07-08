@@ -3,13 +3,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
-|  $1299 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 45 cm - (Riders 5'0"-5'4") |
-|  $1299 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 48 cm - (Riders 5'4"-5'5") |
-|  $1299 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 50 cm - (Riders 5'5"-5'7") |
-|  $1299 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 52 cm - (Riders 5'7"-59") |
-|  $1299 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 54 cm - (Riders 5'9"-5'10") |
-|  $1299 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 56 cm - (Riders 5'10"-6'0") |
-|  $1299 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 58 cm - (Riders 6'0"-6'3") |
 |  $1299 | e-Bike          | 6061 - eBike Commuter - Matte Black - Small (49cm - Riders 5'3"-5'7") |
 |  $1299 | e-Bike          | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
 |  $1299 | e-Bike          | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
@@ -159,9 +152,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - X-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - XX-Large |
-|    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Navy - Matte Navy / Small |
-|    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Navy - Matte Navy / Medium |
-|    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Navy - Matte Navy / Large |
 |    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - X-Small |
 |    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - Small |
 |    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - Medium |
@@ -229,3 +219,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "420" Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Medium |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
