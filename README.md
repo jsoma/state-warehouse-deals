@@ -18,18 +18,18 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1249 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
 |  $1249 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
 |  $1639 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (Add $389.99) |
-|   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
-|   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
-|  $1389 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / Both (Add $389.99) |
-|   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 650b |
-|   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 700c |
-|  $1389 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / Both (Add $389.99) |
-|   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 650b |
-|   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 700c |
-|  $1389 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / Both (Add $389.99) |
-|   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
-|   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
-|  $1389 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (Add $389.99) |
+|  $1199 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
+|  $1199 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
+|  $1589 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / Both (Add $389.99) |
+|  $1199 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 650b |
+|  $1199 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 700c |
+|  $1589 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / Both (Add $389.99) |
+|  $1199 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 650b |
+|  $1199 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 700c |
+|  $1589 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / Both (Add $389.99) |
+|  $1199 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
+|  $1199 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
+|  $1589 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (Add $389.99) |
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'3") |
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 52 cm (Riders 5'3"-5'6") |
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
@@ -90,26 +90,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1139 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
-|   $699 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 49 cm (Riders 5'0" - 5'3") / Compact Drops |
-|   $699 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 49 cm (Riders 5'0" - 5'3") / Wide Riser w/ Vans Grips |
-|   $699 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 52 cm (Riders 5'3" - 5'6") / Compact Drops |
-|   $699 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 52 cm (Riders 5'3" - 5'6") / Wide Riser w/ Vans Grips |
-|   $699 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 55 cm (Riders 5'6" - 5'9") / Compact Drops |
-|   $699 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 55 cm (Riders 5'6" - 5'9") / Wide Riser w/ Vans Grips |
-|   $699 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 57 cm (Riders 5'9"-6'0") / Compact Drops |
-|   $699 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 57 cm (Riders 5'9"-6'0") / Wide Riser w/ Vans Grips |
-|   $699 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 59 cm (Riders 6'0" - 6'3") / Compact Drops |
-|   $699 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 59 cm (Riders 6'0" - 6'3") / Wide Riser w/ Vans Grips |
-|   $699 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 62 cm (Riders 6'3"-6'6") / Compact Drops |
-|   $699 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 62 cm (Riders 6'3"-6'6") / Wide Riser w/ Vans Grips |
 |   $655 | closeout        | #OBI - 6061 Black Label v2 - Wu-Tang Edition - 55cm - Like-New Condition |
 |   $645 | closeout        | #OBI - 6061 Black Label v2 - Wu-Tang Edition - 57cm - Like-New Condition |
 |   $445 | closeout        | #OBI- 4130 - Windbreaker - 55cm - Excellent Condition |
-|   $399 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 49 cm (Riders 5'1"-5'4") |
-|   $399 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 52 cm (Riders 5'4"-5'7") |
-|   $399 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 55 cm (Riders 5'7"-5'11") |
-|   $399 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 59 cm (Riders 5'11"-6'2) |
-|   $399 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 62 cm (Riders 6'2"-6'6") |
 |   $375 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
@@ -234,3 +217,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $45 | Misc. Parts     | FSA - Orbit MX 1 1/8 Headset - Blue - Blue |
 |    $45 | Misc. Parts     | FSA - Orbit MX 1 1/8 Headset - White - White |
 |    $45 | Misc. Parts     | FSA - Orbit MX 1 1/8 Headset - Red - Red |
+|    $45 | Misc. Parts     | Selle Italia Vintage 1980 Turbo Saddle - White - White |
+|    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - X-Small |
+|    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - Small |
+|    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - Medium |
+|    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - X-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - XX-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - 3X-Large |
