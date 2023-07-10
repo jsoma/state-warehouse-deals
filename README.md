@@ -100,7 +100,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 45 |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $245 | closeout        | #879 - 6061 Black Label v2 - Frameset - Matte Black - 57 - Excellent Condition - #FS |
-|   $225 | closeout        | #878 - 6061 Black Label v2 - Frameset - Candy Apple Red - 52cm - Very Good Condition - #FS |
 |   $225 | closeout        | #875 - 4130 All-Road - Copper Brown - FRAME ONLY - Size M (51cm) - Good Condition - #FS |
 |   $199 |                 | Saris - Mag+ Trainer |
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Small |
@@ -259,3 +258,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Large |
 |    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Extra Large |
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
+|    $18 | Tools           | Blackburn - Airstick Mini Pump |
