@@ -90,6 +90,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Large (58 cm - Riders 6'0" - 6'4") |
+|   $345 | City Bike       | City Bike - The Azure (3 Speed) - Small (43 cm - Riders 4'9" - 5'5") - Estimated Shipping Late-July |
+|   $345 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") - Estimated Shipping Late-July |
+|   $345 | City Bike       | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 42 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 43 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 44 |
@@ -258,4 +261,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Large |
 |    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Extra Large |
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
-|    $18 | Tools           | Blackburn - Airstick Mini Pump |
