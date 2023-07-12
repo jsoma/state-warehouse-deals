@@ -157,20 +157,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - X-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - XX-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - Bibs - 3X-Large |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - X-Small / Men's Cut |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - X-Small / Women's Cut |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Small / Men's Cut |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Small / Women's Cut |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Medium / Men's Cut |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Medium / Women's Cut |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Large / Men's Cut |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Large / Women's Cut |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Extra Large / Men's Cut |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Extra Large / Women's Cut |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - XX-Large / Men's Cut |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - XX-Large / Women's Cut |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - 3X-Large / Men's Cut |
-|    $55 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - 3X-Large / Women's Cut |
 |    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Small |
 |    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Medium |
 |    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Large |
@@ -231,6 +217,20 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Large |
 |    $35 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Large |
 |    $35 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - XX-Large |
+|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - X-Small / Men's Cut |
+|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - X-Small / Women's Cut |
+|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Small / Men's Cut |
+|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Small / Women's Cut |
+|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Medium / Men's Cut |
+|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Medium / Women's Cut |
+|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Large / Men's Cut |
+|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Large / Women's Cut |
+|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Extra Large / Men's Cut |
+|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Extra Large / Women's Cut |
+|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - XX-Large / Men's Cut |
+|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - XX-Large / Women's Cut |
+|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - 3X-Large / Men's Cut |
+|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - 3X-Large / Women's Cut |
 |    $26 |                 | Blackburn - Big Switch Multi Tool |
 |    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Black |
 |    $25 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - White |
@@ -240,24 +240,24 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
 |    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - X-Small / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - X-Small / Women's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Small / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Small / Women's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Medium / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Medium / Women's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Large / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Large / Women's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Extra Large / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Extra Large / Women's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - XX-Large / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - XX-Large / Women's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Men's Cut |
-|    $25 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Women's Cut |
 |    $24 | Misc. Accessori | State Bicycle Co. - USB Rechargeable Aluminum LED Power Headlight (200 Lumen) - Front Only |
 |    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Small |
 |    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Medium |
 |    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Large |
 |    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Extra Large |
+|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - X-Small / Men's Cut |
+|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - X-Small / Women's Cut |
+|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Small / Men's Cut |
+|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Small / Women's Cut |
+|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Medium / Men's Cut |
+|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Medium / Women's Cut |
+|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Large / Men's Cut |
+|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Large / Women's Cut |
+|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Extra Large / Men's Cut |
+|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Extra Large / Women's Cut |
+|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - XX-Large / Men's Cut |
+|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - XX-Large / Women's Cut |
+|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Men's Cut |
+|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Women's Cut |
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
 |    $18 | Tools           | Blackburn - Airstick Mini Pump |
