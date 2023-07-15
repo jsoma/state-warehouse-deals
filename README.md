@@ -47,6 +47,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $899 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
+|   $795 | closeout        | #880 - Undefeated Track  - Graphite / Prism - 55cm - Excellent Condition |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1289 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
@@ -83,7 +84,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1139 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
+|   $695 | closeout        | #881- 4130 All-Road - Matte Olive w/ 650b wheels - Medium (51cm) - Very Good Condition |
 |   $645 | closeout        | #OBI - 6061 Black Label v2 - Wu-Tang Edition - 57cm - Like-New Condition |
+|   $475 | closeout        | #882- 4130 - Matte Black / Mirror - 62cm - Excellent Condition |
 |   $445 | closeout        | #OBI- 4130 - Windbreaker - 55cm - Excellent Condition |
 |   $375 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Small (43 cm - Riders 4'9" - 5'5") - Estimated Shipping Late-July |
@@ -256,6 +259,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Medium |
 |    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Large |
 |    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Extra Large |
-|    $18 | Tools           | Blackburn - Airstick Mini Pump |
-|    $17 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
-|    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
