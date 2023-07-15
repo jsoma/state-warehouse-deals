@@ -103,6 +103,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 43 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 44 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 45 |
+|   $295 | Bicycles        | #883 : Earthstone - Core-Line - Size Medium (54cm) - Like-New (see notes) |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $245 | closeout        | #879 - 6061 Black Label v2 - Frameset - Matte Black - 57 - Excellent Condition - #FS |
 |   $225 | closeout        | #875 - 4130 All-Road - Copper Brown - FRAME ONLY - Size M (51cm) - Good Condition - #FS |
@@ -255,7 +256,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Men's Cut |
 |    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Women's Cut |
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
-|    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Small |
-|    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Medium |
-|    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Large |
-|    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Extra Large |
