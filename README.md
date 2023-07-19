@@ -112,7 +112,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
 |   $275 | City Bike       | City Bike - The Elliston (Single-Speed) - Large (58 cm - Riders 6'0" - 6'4") |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
-|   $245 | closeout        | #879 - 6061 Black Label v2 - Frameset - Matte Black - 57 - Excellent Condition - #FS |
 |   $225 | closeout        | #875 - 4130 All-Road - Copper Brown - FRAME ONLY - Size M (51cm) - Good Condition - #FS |
 |   $199 |                 | Saris - Mag+ Trainer |
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Small |
@@ -265,3 +264,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - XX-Large / Women's Cut |
 |    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Men's Cut |
 |    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Women's Cut |
+|    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
