@@ -47,7 +47,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $899 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
-|   $795 | closeout        | #880 - Undefeated Track  - Graphite / Prism - 55cm - Excellent Condition |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1289 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
@@ -261,3 +260,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Women's Cut |
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
 |    $18 | Tools           | Blackburn - Airstick Mini Pump |
+|    $17 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
