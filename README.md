@@ -103,7 +103,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 45 |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $199 |                 | Saris - Mag+ Trainer |
-|   $175 | closeout        | #890 - 4130 All-Road - Cupertino Pearl - FRAME ONLY (No Fork) - Size Medium - Like-New Condition |
 |   $175 | closeout        | #889 - 4130 All-Road - Black Canyon - FRAME ONLY (No Fork) - Size Small - Like-New Condition |
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Small |
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Medium |
@@ -111,7 +110,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Small |
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Medium |
 |   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Large |
-|   $165 | closeout        | #875 - 4130 All-Road - Copper Brown - FRAME ONLY - Size M (51cm) - Good Condition - #FS |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Small |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Medium |
@@ -259,3 +257,5 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Extra Large |
 |    $18 | Tools           | Blackburn - Airstick Mini Pump |
 |    $17 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
+|    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
+|    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
