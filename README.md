@@ -234,6 +234,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
 |    $24 | Misc. Accessori | State Bicycle Co. - USB Rechargeable Aluminum LED Power Headlight (200 Lumen) - Front Only |
+|    $19 | Misc. Accessori | Dealer Back To School Bonus:  State Bicycle Co. - Steel Chain Combo Lock |
 |    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Small |
 |    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Medium |
 |    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Large |
@@ -258,4 +259,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
 |    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
 |    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
-|    $12 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
