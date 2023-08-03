@@ -168,13 +168,13 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Large |
 |    $55 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - Extra Large |
 |    $55 | Jerseys + Kits  | State Bicycle Co.  x Ozzy Osbourne - Fleece-Lined Winter Jersey / Jacket - XX-Large |
-|    $49 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Small |
-|    $49 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Small |
-|    $49 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Medium |
-|    $49 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Large |
-|    $49 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Large |
-|    $49 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - XX-Large |
-|    $49 | Jerseys + Kits  | State Bicycle Co. - "Céline's Lines" - All-Road  Tech-T Jersey - Sustainable Clothing Collection - 3X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Small |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Small |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Medium |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - XX-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - 3X-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - X-Small |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - Small |
 |    $45 | Jerseys + Kits  | State Bicycle Co. - "Skull Kid" - All-Road Long-Sleeve Tech-T Jersey - Medium |
