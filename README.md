@@ -255,7 +255,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
 |    $18 | Tools           | Blackburn - Airstick Mini Pump |
 |    $17 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
-|    $14 | Hats            | "State Bicycle Co." Beanie with Pom (Burnt Orange / Navy) |
+|    $14 | Hats            | State Bicycle Co. Beanie with Pom (Burnt Orange / Navy) |
 |    $14 | Hats            | State Bicycle Co. - "Fly it High" Beanie |
 |    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
 |    $12 | Hats            | State Bicycle Co. - "Explore Your State" Beanie with Pom (Royal Blue / Gold) |
