@@ -102,12 +102,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 45 |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $199 |                 | Saris - Mag+ Trainer |
-|   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Small |
-|   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Medium |
-|   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Black / Large |
-|   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Small |
-|   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Medium |
-|   $168 | Misc. Accessori | Bell - XR Spherical Helmet - Camo / Large |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Small |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Medium |
@@ -204,20 +198,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Large |
 |    $35 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Large |
 |    $35 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - XX-Large |
-|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - X-Small / Men's Cut |
-|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - X-Small / Women's Cut |
-|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Small / Men's Cut |
-|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Small / Women's Cut |
-|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Medium / Men's Cut |
-|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Medium / Women's Cut |
-|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Large / Men's Cut |
-|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Large / Women's Cut |
-|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Extra Large / Men's Cut |
-|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - Extra Large / Women's Cut |
-|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - XX-Large / Men's Cut |
-|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - XX-Large / Women's Cut |
-|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - 3X-Large / Men's Cut |
-|    $29 | Jerseys + Kits  | ASU TEAM JERSEY 2023 - 3X-Large / Women's Cut |
 |    $26 |                 | Blackburn - Big Switch Multi Tool |
 |    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Black |
 |    $25 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - White |
@@ -259,3 +239,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $11 | Bicycles        | State Bicycle Co. - Seat Post - 27.2 mm / White |
 |    $11 | Bicycles        | State Bicycle Co. - Seat Post - 27.2 mm / Gold |
 |    $11 | Bicycles        | State Bicycle Co. - Seat Post - 27.2 mm / Silver |
+|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
+|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
+|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
+|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
+|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
+|     $9 | Custom Product  | State Bicycle Co. - "420" Grips - Purple |
+|     $9 | Custom Product  | State Bicycle Co. - "420" Grips - Green |
