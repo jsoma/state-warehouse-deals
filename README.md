@@ -3,6 +3,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
+|  $1999 | closeout        | #PM6061 - 6061 All-Road - Apex XPLR AXS - Black / Sunset (650b) - Size Medium (54cm) - Photo Model |
 |  $1299 | e-Bike          | 6061 - eBike Commuter - Matte Black - Small (49cm - Riders 5'3"-5'7") |
 |  $1299 | e-Bike          | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
 |  $1299 | e-Bike          | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
@@ -240,8 +241,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $11 | Bicycles        | State Bicycle Co. - Seat Post - 27.2 mm / White |
 |    $11 | Bicycles        | State Bicycle Co. - Seat Post - 27.2 mm / Gold |
 |    $11 | Bicycles        | State Bicycle Co. - Seat Post - 27.2 mm / Silver |
-|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
-|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
-|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
-|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
-|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
