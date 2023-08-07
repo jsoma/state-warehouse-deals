@@ -84,6 +84,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1139 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
 |   $695 | closeout        | #881- 4130 All-Road - Matte Olive w/ 650b wheels - Medium (51cm) - Very Good Condition |
+|   $525 | closeout        | #891 - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $445 | closeout        | #OBI- 4130 - Windbreaker - 55cm - Excellent Condition |
 |   $375 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
 |   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
@@ -244,5 +245,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
 |     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
 |     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
-|     $9 | Custom Product  | State Bicycle Co. - "420" Grips - Purple |
-|     $9 | Custom Product  | State Bicycle Co. - "420" Grips - Green |
