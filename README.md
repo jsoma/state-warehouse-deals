@@ -214,20 +214,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Medium |
 |    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Large |
 |    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Extra Large |
-|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - X-Small / Men's Cut |
-|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - X-Small / Women's Cut |
-|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Small / Men's Cut |
-|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Small / Women's Cut |
-|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Medium / Men's Cut |
-|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Medium / Women's Cut |
-|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Large / Men's Cut |
-|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Large / Women's Cut |
-|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Extra Large / Men's Cut |
-|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - Extra Large / Women's Cut |
-|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - XX-Large / Men's Cut |
-|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - XX-Large / Women's Cut |
-|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Men's Cut |
-|    $19 | Jerseys + Kits  | ASU TEAM TECH-T 2023 - 3X-Large / Women's Cut |
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
 |    $18 | Tools           | Blackburn - Airstick Mini Pump |
 |    $17 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
@@ -241,3 +227,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $11 | Bicycles        | State Bicycle Co. - Seat Post - 27.2 mm / White |
 |    $11 | Bicycles        | State Bicycle Co. - Seat Post - 27.2 mm / Gold |
 |    $11 | Bicycles        | State Bicycle Co. - Seat Post - 27.2 mm / Silver |
+|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
+|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
+|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
+|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
+|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
