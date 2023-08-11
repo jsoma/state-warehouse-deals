@@ -88,6 +88,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $525 | closeout        | #891 - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $445 | closeout        | #OBI- 4130 - Windbreaker - 55cm - Excellent Condition |
 |   $375 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
+|   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Small (48 cm - Riders 5'6" - 5'9") |
+|   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Medium (53 cm - Riders 5'9" - 6'0") |
+|   $345 | City Bike       | City Bike - The Elliston (3 Speed) - Large (58 cm - Riders 6'0" - 6'4") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Small (43 cm - Riders 4'9" - 5'5") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
@@ -229,5 +232,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
 |     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
 |     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
-|     $9 | Custom Product  | State Bicycle Co. - "420" Grips - Purple |
-|     $9 | Custom Product  | State Bicycle Co. - "420" Grips - Green |
