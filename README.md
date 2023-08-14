@@ -201,6 +201,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
 |    $24 | Misc. Accessori | State Bicycle Co. - USB Rechargeable Aluminum LED Power Headlight (200 Lumen) - Front Only |
+|    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Small |
+|    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Medium |
+|    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Large |
+|    $19 | Shirts          | State Bicycle Co. - Cactus Drip T-Shirt - White - Extra Large |
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
 |    $18 | Tools           | Blackburn - Airstick Mini Pump |
 |    $17 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
@@ -222,4 +226,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $9 | Custom Product  | State Bicycle Co. - "420" Grips - Purple |
 |     $9 | Custom Product  | State Bicycle Co. - "420" Grips - Green |
 |     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
-|     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
