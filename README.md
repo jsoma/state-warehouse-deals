@@ -91,6 +91,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $645 | closeout        | #898- 4130 All-Road - Copper Brown w/ 650b wheels - Large - Used/Good Condition |
 |   $645 | closeout        | #894 - 4130 All-Road - Cupertino Pearl w/ 650b wheels - Large (58cm) - Excellent Condition |
 |   $625 | closeout        | #895 - 6061 Black Label v2 - Wu-Tang Edition - 59 - Excellent Condition |
+|   $465 | closeout        | #902 - 4130 Fixed-Gear / Single Speed - Matte Olive - 62cm - Excellent Condition |
 |   $445 | closeout        | #OBI- 4130 - Windbreaker - 55cm - Excellent Condition |
 |   $425 | closeout        | #903 - 4130 Road - Black & Metallic (8-speed) - 52cm - Very-Good Condition |
 |   $385 | closeout        | #899 - 4130 Road - Black & Metallic (8-speed) - 55cm - Very-Good Condition |
@@ -110,6 +111,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $199 |                 | Saris - Mag+ Trainer |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
+|   $125 | closeout        | #892 - 6061 Black Label v2 - Frameset - Matte Black - 62cm - Brand New - No Fork |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Small |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Medium |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Large |
@@ -207,5 +209,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
 |    $18 | Tools           | Blackburn - Airstick Mini Pump |
 |    $17 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
-|    $14 | Hats            | State Bicycle Co. Beanie with Pom (Burnt Orange / Navy) |
-|    $14 | Hats            | State Bicycle Co. - Fly it High Beanie |
