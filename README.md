@@ -48,6 +48,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $899 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1239 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
+|   $795 | closeout        | #900 - 4130 All-Road - Pacific Gold w/ 700c wheels + Monster Fork - Large - Like-New Condition |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1289 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
@@ -91,6 +92,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $645 | closeout        | #894 - 4130 All-Road - Cupertino Pearl w/ 650b wheels - Large (58cm) - Excellent Condition |
 |   $625 | closeout        | #895 - 6061 Black Label v2 - Wu-Tang Edition - 59 - Excellent Condition |
 |   $445 | closeout        | #OBI- 4130 - Windbreaker - 55cm - Excellent Condition |
+|   $385 | closeout        | #899 - 4130 Road - Black & Metallic (8-speed) - 55cm - Very-Good Condition |
 |   $375 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Small (43 cm - Riders 4'9" - 5'5") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
@@ -207,14 +209,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | Hats            | State Bicycle Co. - Fly it High Beanie |
 |    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
 |    $12 | Hats            | State Bicycle Co. - Explore Your State Beanie with Pom (Royal Blue / Gold) |
-|    $11 | Bicycles        | State Bicycle Co. - Seat Post - 27.2 mm / Black |
-|    $11 | Bicycles        | State Bicycle Co. - Seat Post - 30.9mm / Black |
-|    $11 | Bicycles        | State Bicycle Co. - Seat Post - 31.6mm / Black |
-|    $11 | Bicycles        | State Bicycle Co. - Seat Post - 27.2 mm / White |
-|    $11 | Bicycles        | State Bicycle Co. - Seat Post - 27.2 mm / Gold |
-|    $11 | Bicycles        | State Bicycle Co. - Seat Post - 27.2 mm / Silver |
-|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
-|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
-|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
-|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
-|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
