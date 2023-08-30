@@ -88,7 +88,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $695 | closeout        | #881- 4130 All-Road - Matte Olive w/ 650b wheels - Medium (51cm) - Very Good Condition |
 |   $685 | closeout        | #893 - 4130 All-Road - Pacific Gold w/ 650b wheels - Small (47cm) - Excellent Condition |
 |   $655 | closeout        | #896 - Undefeated Track  - Graphite / Prism - 55cm - Fair Condition |
-|   $645 | closeout        | #898- 4130 All-Road - Copper Brown w/ 650b wheels - Large - Used/Good Condition |
 |   $645 | closeout        | #894 - 4130 All-Road - Cupertino Pearl w/ 650b wheels - Large (58cm) - Excellent Condition |
 |   $625 | closeout        | #895 - 6061 Black Label v2 - Wu-Tang Edition - 59 - Excellent Condition |
 |   $465 | closeout        | #902 - 4130 Fixed-Gear / Single Speed - Matte Olive - 62cm - Excellent Condition |
@@ -209,3 +208,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
 |    $18 | Tools           | Blackburn - Airstick Mini Pump |
 |    $17 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
+|    $14 | Hats            | State Bicycle Co. Beanie with Pom (Burnt Orange / Navy) |
