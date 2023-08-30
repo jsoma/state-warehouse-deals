@@ -84,6 +84,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1139 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
 |   $695 | closeout        | #881- 4130 All-Road - Matte Olive w/ 650b wheels - Medium (51cm) - Very Good Condition |
+|   $685 | closeout        | #893 - 4130 All-Road - Pacific Gold w/ 650b wheels - Small (47cm) - Excellent Condition |
+|   $645 | closeout        | #894 - 4130 All-Road - Cupertino Pearl w/ 650b wheels - Large (58cm) - Excellent Condition |
 |   $445 | closeout        | #OBI- 4130 - Windbreaker - 55cm - Excellent Condition |
 |   $375 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Small (43 cm - Riders 4'9" - 5'5") |
@@ -212,10 +214,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
 |     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
 |     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
-|     $9 | Custom Product  | State Bicycle Co. - "420" Grips - Purple |
-|     $9 | Custom Product  | State Bicycle Co. - "420" Grips - Green |
 |     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
 |     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
 |     $0 | closeout        | Patch: Hell Ride High Noon - Vol 2. (2015) |
 |     $0 | closeout        | Patch: Explore Your State Vol. 3 - Phoenix to Tucson |
-|     $0 | closeout        | Patch: Explore Your State Vol. 2 - Dirt, Rivers & 9 Mile Hill |
