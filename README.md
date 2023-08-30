@@ -92,6 +92,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $645 | closeout        | #894 - 4130 All-Road - Cupertino Pearl w/ 650b wheels - Large (58cm) - Excellent Condition |
 |   $625 | closeout        | #895 - 6061 Black Label v2 - Wu-Tang Edition - 59 - Excellent Condition |
 |   $445 | closeout        | #OBI- 4130 - Windbreaker - 55cm - Excellent Condition |
+|   $425 | closeout        | #903 - 4130 Road - Black & Metallic (8-speed) - 52cm - Very-Good Condition |
 |   $385 | closeout        | #899 - 4130 Road - Black & Metallic (8-speed) - 55cm - Very-Good Condition |
 |   $375 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Small (43 cm - Riders 4'9" - 5'5") |
@@ -105,6 +106,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 43 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 44 |
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 45 |
+|   $275 | closeout        | #901 - City-Bike - Black & Tan 3-Speed - Size Medium (53cm) - Good Condition |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $199 |                 | Saris - Mag+ Trainer |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
@@ -207,5 +209,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $17 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
 |    $14 | Hats            | State Bicycle Co. Beanie with Pom (Burnt Orange / Navy) |
 |    $14 | Hats            | State Bicycle Co. - Fly it High Beanie |
-|    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
-|    $12 | Hats            | State Bicycle Co. - Explore Your State Beanie with Pom (Royal Blue / Gold) |
