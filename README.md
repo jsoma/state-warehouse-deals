@@ -88,7 +88,43 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $675 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1064 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
 |   $645 | closeout        | #894 - 4130 All-Road - Cupertino Pearl w/ 650b wheels - Large (58cm) - Excellent Condition |
-|   $625 | closeout        | #895 - 6061 Black Label v2 - Wu-Tang Edition - 59 - Excellent Condition |
+|   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 49 cm (Riders 5'0" - 5'3") / Compact Drops |
+|   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 49 cm (Riders 5'0" - 5'3") / Wide Riser w/ Wu-Tang Clan Grips |
+|   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 52 cm (Riders 5'3" - 5'6") / Compact Drops |
+|   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 52 cm (Riders 5'3" - 5'6") / Wide Riser w/ Wu-Tang Clan Grips |
+|   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 55 cm (Riders 5'6" - 5'9") / Compact Drops |
+|   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 55 cm (Riders 5'6" - 5'9") / Wide Riser w/ Wu-Tang Clan Grips |
+|   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 57 cm (Riders 5'9"-6'0") / Compact Drops |
+|   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 57 cm (Riders 5'9"-6'0") / Wide Riser w/ Wu-Tang Clan Grips |
+|   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 59 cm (Riders 6'0" - 6'3") / Compact Drops |
+|   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 59 cm (Riders 6'0" - 6'3") / Wide Riser w/ Wu-Tang Clan Grips |
+|   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 62 cm (Riders 6'3"-6'6") / Compact Drops |
+|   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 62 cm (Riders 6'3"-6'6") / Wide Riser w/ Wu-Tang Clan Grips |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 49 cm (Riders 5'0" - 5'3") / Compact Drops |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 49 cm (Riders 5'0" - 5'3") / Wide Riser w/ Vans Grips |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 52 cm (Riders 5'3" - 5'6") / Compact Drops |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 52 cm (Riders 5'3" - 5'6") / Wide Riser w/ Vans Grips |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 55 cm (Riders 5'6" - 5'9") / Compact Drops |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 55 cm (Riders 5'6" - 5'9") / Wide Riser w/ Vans Grips |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 57 cm (Riders 5'9"-6'0") / Compact Drops |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 57 cm (Riders 5'9"-6'0") / Wide Riser w/ Vans Grips |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 59 cm (Riders 6'0" - 6'3") / Compact Drops |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 59 cm (Riders 6'0" - 6'3") / Wide Riser w/ Vans Grips |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 62 cm (Riders 6'3"-6'6") / Compact Drops |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 62 cm (Riders 6'3"-6'6") / Wide Riser w/ Vans Grips |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 49 cm (Riders 5'0" - 5'3") / Compact Drops |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 49 cm (Riders 5'0" - 5'3") / Wide Riser w/ Vans Grips |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 52 cm (Riders 5'3" - 5'6") / Compact Drops |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 52 cm (Riders 5'3" - 5'6") / Wide Riser w/ Vans Grips |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 55 cm (Riders 5'6" - 5'9") / Compact Drops |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 55 cm (Riders 5'6" - 5'9") / Wide Riser w/ Vans Grips |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 57 cm (Riders 5'9"-6'0") / Compact Drops |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 57 cm (Riders 5'9"-6'0") / Wide Riser w/ Vans Grips |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 59 cm (Riders 6'0" - 6'3") / Compact Drops |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 59 cm (Riders 6'0" - 6'3") / Wide Riser w/ Vans Grips |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 62 cm (Riders 6'3"-6'6") / Compact Drops |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 62 cm (Riders 6'3"-6'6") / Wide Riser w/ Vans Grips |
+|   $585 | closeout        | #895 - 6061 Black Label v2 - Wu-Tang Edition - 59 - Excellent Condition |
 |   $450 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 46 cm (Riders 5'3"-5'6") / All-Road Drop Bars |
 |   $450 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 46 cm (Riders 5'3"-5'6") / Wide Riser Bars |
 |   $450 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 49 cm (Riders 5'5"-5'8") / All-Road Drop Bars |
@@ -104,7 +140,18 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $445 | closeout        | #OBI- 4130 - Windbreaker - 55cm - Excellent Condition |
 |   $425 | closeout        | #903 - 4130 Road - Black & Metallic (8-speed) - 52cm - Very-Good Condition |
 |   $385 | closeout        | #899 - 4130 Road - Black & Metallic (8-speed) - 55cm - Very-Good Condition |
-|   $375 | closeout        | #OBI - Core-Line - Wu-Tang Edition - Size Small (50cm) - Excellent Condition |
+|   $360 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
+|   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
+|   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
+|   $360 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Riser Bars |
+|   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Bullhorn Bars (Add $25) |
+|   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Drop Bars (Add $25) |
+|   $360 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Riser Bars |
+|   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Bullhorn Bars (Add $25) |
+|   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Drop Bars (Add $25) |
+|   $360 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
+|   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
+|   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Small (43 cm - Riders 4'9" - 5'5") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
@@ -228,6 +275,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
 |    $24 | Misc. Accessori | State Bicycle Co. - USB Rechargeable Aluminum LED Power Headlight (200 Lumen) - Front Only |
 |    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
-|    $18 | Tools           | Blackburn - Airstick Mini Pump |
-|    $17 | Accessories     | State Bicycle Co.  x Corona -  All-Road Bar Bag |
-|    $14 | Hats            | State Bicycle Co. Beanie with Pom (Burnt Orange / Navy) |
