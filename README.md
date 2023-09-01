@@ -227,7 +227,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $150 | Frame / Fork    | State Bicycle Co. x Wu-Tang Clan - Steel Frame Set - Large (58 cm- Riders 5'11"-6'2") |
 |   $149 |                 | Saris - Mag+ Trainer |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
-|   $125 | closeout        | #892 - 6061 Black Label v2 - Frameset - Matte Black - 62cm - Brand New - No Fork |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Small |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Medium |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Large |
@@ -309,3 +308,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - X-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Small |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Medium |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - XX-Large |
