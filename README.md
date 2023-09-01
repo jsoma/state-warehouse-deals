@@ -3,6 +3,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
+|  $1299 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 49 cm (Riders 5'0"-5'3") |
+|  $1299 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 52 cm (Riders 5'3"-5'6") |
+|  $1299 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 55 cm (Riders 5'6"-5'9") |
+|  $1299 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 58 cm (Riders 5'9"-6'1") |
+|  $1299 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 61 cm (Riders 6'2"-6'6") |
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
 |  $1489 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / Both (Add $389.99) |
@@ -28,6 +33,13 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
 |  $1489 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (Add $389.99) |
 |  $1095 | closeout        | #897 - 6061 Black Label All-Road - Matte Olive (700c) - Medium (54cm) - Very-Good Condition |
+|   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 45 cm - (Riders 5'0"-5'4") |
+|   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 48 cm - (Riders 5'4"-5'5") |
+|   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 50 cm - (Riders 5'5"-5'7") |
+|   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 52 cm - (Riders 5'7"-59") |
+|   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 54 cm - (Riders 5'9"-5'10") |
+|   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 56 cm - (Riders 5'10"-6'0") |
+|   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 58 cm - (Riders 6'0"-6'3") |
 |   $999 | e-Bike          | 6061 - eBike Commuter - Matte Black - Small (49cm - Riders 5'3"-5'7") |
 |   $999 | e-Bike          | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
 |   $999 | e-Bike          | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
@@ -149,6 +161,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $599 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 62 cm (Riders 6'3"-6'6") / Compact Drops |
 |   $599 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 62 cm (Riders 6'3"-6'6") / Wide Riser w/ Vans Grips |
 |   $585 | closeout        | #895 - 6061 Black Label v2 - Wu-Tang Edition - 59 - Excellent Condition |
+|   $555 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 49 cm - (Riders 5'0"-5'3") |
+|   $555 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 52 cm - (Riders 5'3"-5'6") |
+|   $555 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 55 cm - (Riders 5'6"-5'9") |
+|   $555 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 58 cm - (Riders 5'9"-6'1") |
+|   $555 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 62 cm - (Riders 6'2"-6'6") |
 |   $450 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 46 cm (Riders 5'3"-5'6") / All-Road Drop Bars |
 |   $450 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 46 cm (Riders 5'3"-5'6") / Wide Riser Bars |
 |   $450 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 49 cm (Riders 5'5"-5'8") / All-Road Drop Bars |
@@ -214,12 +231,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $150 | Frame / Fork    | State Bicycle Co. x Wu-Tang Clan - Steel Frame Set - Large (58 cm- Riders 5'11"-6'2") |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |   $125 | closeout        | #892 - 6061 Black Label v2 - Frameset - Matte Black - 62cm - Brand New - No Fork |
-|    $99 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - X-Small |
-|    $99 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - Small |
-|    $99 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - Medium |
-|    $99 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - Large |
-|    $99 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - X-Large |
-|    $99 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - XX-Large |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Small |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Medium |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Large |
@@ -229,12 +240,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Small |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Medium |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Large |
-|    $89 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - X-Small |
-|    $89 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - Small |
-|    $89 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - Medium |
-|    $89 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - Large |
-|    $89 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - X-Large |
-|    $89 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - XX-Large |
 |    $89 | Misc. Accessori | Blackburn Design - Outpost Front World Touring Rack |
 |    $88 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - X-Small |
 |    $88 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Small |
@@ -242,17 +247,23 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $88 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Large |
 |    $88 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - X-Large |
 |    $88 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - XX-Large |
-|    $69 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - X-Small |
-|    $69 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - Small |
-|    $69 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - Medium |
-|    $69 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - Large |
-|    $69 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - X-Large |
-|    $69 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - XX-Large |
+|    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - X-Small |
+|    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - Small |
+|    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - Medium |
+|    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - Large |
+|    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - X-Large |
+|    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - XX-Large |
 |    $69 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - Killer Bee Bibs - Sustainable Clothing Collection - Small |
 |    $69 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - Killer Bee Bibs - Sustainable Clothing Collection - Medium |
 |    $69 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - Killer Bee Bibs - Sustainable Clothing Collection - Large |
 |    $69 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - Killer Bee Bibs - Sustainable Clothing Collection - X-Large |
 |    $69 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - Killer Bee Bibs - Sustainable Clothing Collection - XX-Large |
+|    $65 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - X-Small |
+|    $65 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - Small |
+|    $65 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - Medium |
+|    $65 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - Large |
+|    $65 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - X-Large |
+|    $65 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - XX-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - X-Small |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Small |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Medium |
@@ -282,17 +293,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Large |
 |    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - X-Large |
 |    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - XX-Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - X-Small |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - Small |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - Medium |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - X-Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - XX-Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - 3X-Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - X-Small |
-|    $55 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - Small |
-|    $55 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - Medium |
-|    $55 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - X-Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - XX-Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - 3X-Large |
