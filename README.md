@@ -207,13 +207,19 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 45 |
 |   $275 | closeout        | #901 - City-Bike - Black & Tan 3-Speed - Size Medium (53cm) - Good Condition |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
-|   $199 | Frame / Fork    | State Bicycle Co. x Wu-Tang Clan - Steel Frame Set - Extra Small (46 cm- Riders 5'0"-5'4") |
-|   $199 | Frame / Fork    | State Bicycle Co. x Wu-Tang Clan - Steel Frame Set - Small (50 cm- Riders 5'4"-5'7") |
-|   $199 | Frame / Fork    | State Bicycle Co. x Wu-Tang Clan - Steel Frame Set - Medium (54 cm- Riders 5'7"-5'11") |
-|   $199 | Frame / Fork    | State Bicycle Co. x Wu-Tang Clan - Steel Frame Set - Large (58 cm- Riders 5'11"-6'2") |
 |   $199 |                 | Saris - Mag+ Trainer |
+|   $150 | Frame / Fork    | State Bicycle Co. x Wu-Tang Clan - Steel Frame Set - Extra Small (46 cm- Riders 5'0"-5'4") |
+|   $150 | Frame / Fork    | State Bicycle Co. x Wu-Tang Clan - Steel Frame Set - Small (50 cm- Riders 5'4"-5'7") |
+|   $150 | Frame / Fork    | State Bicycle Co. x Wu-Tang Clan - Steel Frame Set - Medium (54 cm- Riders 5'7"-5'11") |
+|   $150 | Frame / Fork    | State Bicycle Co. x Wu-Tang Clan - Steel Frame Set - Large (58 cm- Riders 5'11"-6'2") |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |   $125 | closeout        | #892 - 6061 Black Label v2 - Frameset - Matte Black - 62cm - Brand New - No Fork |
+|    $99 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - X-Small |
+|    $99 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - Small |
+|    $99 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - Medium |
+|    $99 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - Large |
+|    $99 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - X-Large |
+|    $99 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - XX-Large |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Small |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Medium |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Large |
@@ -223,11 +229,12 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Small |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Medium |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Large |
-|    $89 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - Killer Bee Bibs - Sustainable Clothing Collection - Small |
-|    $89 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - Killer Bee Bibs - Sustainable Clothing Collection - Medium |
-|    $89 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - Killer Bee Bibs - Sustainable Clothing Collection - Large |
-|    $89 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - Killer Bee Bibs - Sustainable Clothing Collection - X-Large |
-|    $89 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - Killer Bee Bibs - Sustainable Clothing Collection - XX-Large |
+|    $89 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - X-Small |
+|    $89 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - Small |
+|    $89 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - Medium |
+|    $89 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - Large |
+|    $89 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - X-Large |
+|    $89 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - XX-Large |
 |    $89 | Misc. Accessori | Blackburn Design - Outpost Front World Touring Rack |
 |    $88 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - X-Small |
 |    $88 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Small |
@@ -235,21 +242,17 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $88 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Large |
 |    $88 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - X-Large |
 |    $88 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - XX-Large |
-|    $79 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "Big Wu" Jersey - Sustainable Clothing Collection - Small |
-|    $79 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "Big Wu" Jersey - Sustainable Clothing Collection - Medium |
-|    $79 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "Big Wu" Jersey - Sustainable Clothing Collection - Large |
-|    $79 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "Big Wu" Jersey - Sustainable Clothing Collection - X-Large |
-|    $79 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "Big Wu" Jersey - Sustainable Clothing Collection - XX-Large |
-|    $79 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Small |
-|    $79 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Medium |
-|    $79 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Large |
-|    $79 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - X-Large |
-|    $79 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - XX-Large |
-|    $69 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - Small |
-|    $69 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - Medium |
-|    $69 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - Large |
-|    $69 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - X-Large |
-|    $69 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
+|    $69 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - X-Small |
+|    $69 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - Small |
+|    $69 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - Medium |
+|    $69 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - Large |
+|    $69 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - X-Large |
+|    $69 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - XX-Large |
+|    $69 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - Killer Bee Bibs - Sustainable Clothing Collection - Small |
+|    $69 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - Killer Bee Bibs - Sustainable Clothing Collection - Medium |
+|    $69 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - Killer Bee Bibs - Sustainable Clothing Collection - Large |
+|    $69 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - Killer Bee Bibs - Sustainable Clothing Collection - X-Large |
+|    $69 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - Killer Bee Bibs - Sustainable Clothing Collection - XX-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - X-Small |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Small |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Medium |
@@ -262,6 +265,30 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - X-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - XX-Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - X-Small |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - Small |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - Medium |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - X-Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - XX-Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - 3X-Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "Big Wu" Jersey - Sustainable Clothing Collection - Small |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "Big Wu" Jersey - Sustainable Clothing Collection - Medium |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "Big Wu" Jersey - Sustainable Clothing Collection - Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "Big Wu" Jersey - Sustainable Clothing Collection - X-Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "Big Wu" Jersey - Sustainable Clothing Collection - XX-Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Small |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Medium |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - X-Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - XX-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - X-Small |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - Small |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - Medium |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - X-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - XX-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - 3X-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - X-Small |
 |    $55 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - Small |
 |    $55 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - Medium |
@@ -269,30 +296,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - X-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - XX-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - 3X-Large |
-|    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Small |
-|    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Medium |
-|    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Large |
-|    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Small |
-|    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Medium |
-|    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Small |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Small |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Medium |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - 3X-Large |
-|    $49 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Small |
-|    $49 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Small |
-|    $49 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Medium |
-|    $49 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Large |
-|    $49 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Large |
-|    $49 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - XX-Large |
-|    $49 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - 3X-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - X-Small |
-|    $45 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Small |
-|    $45 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Medium |
-|    $45 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - X-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - XX-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - 3X-Large |
