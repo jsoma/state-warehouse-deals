@@ -133,18 +133,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $599 | 6061 Black Labe | 6061 Black Label v2 - Matte Black - 59 cm (Riders 6'0" - 6'3") / Wide Riser w/ Vans Grips |
 |   $599 | 6061 Black Labe | 6061 Black Label v2 - Matte Black - 62 cm (Riders 6'3"-6'6") / Compact Drops |
 |   $599 | 6061 Black Labe | 6061 Black Label v2 - Matte Black - 62 cm (Riders 6'3"-6'6") / Wide Riser w/ Vans Grips |
-|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 49 cm (Riders 5'0" - 5'3") / Compact Drops |
-|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 49 cm (Riders 5'0" - 5'3") / Wide Riser w/ Vans Grips |
-|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 52 cm (Riders 5'3" - 5'6") / Compact Drops |
-|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 52 cm (Riders 5'3" - 5'6") / Wide Riser w/ Vans Grips |
-|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 55 cm (Riders 5'6" - 5'9") / Compact Drops |
-|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 55 cm (Riders 5'6" - 5'9") / Wide Riser w/ Vans Grips |
-|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 57 cm (Riders 5'9"-6'0") / Compact Drops |
-|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 57 cm (Riders 5'9"-6'0") / Wide Riser w/ Vans Grips |
-|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 59 cm (Riders 6'0" - 6'3") / Compact Drops |
-|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 59 cm (Riders 6'0" - 6'3") / Wide Riser w/ Vans Grips |
-|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 62 cm (Riders 6'3"-6'6") / Compact Drops |
-|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 62 cm (Riders 6'3"-6'6") / Wide Riser w/ Vans Grips |
 |   $599 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 49 cm (Riders 5'0" - 5'3") / Compact Drops |
 |   $599 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 49 cm (Riders 5'0" - 5'3") / Wide Riser w/ Vans Grips |
 |   $599 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 52 cm (Riders 5'3" - 5'6") / Compact Drops |
@@ -157,6 +145,18 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $599 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 59 cm (Riders 6'0" - 6'3") / Wide Riser w/ Vans Grips |
 |   $599 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 62 cm (Riders 6'3"-6'6") / Compact Drops |
 |   $599 | 6061 Black Labe | 6061 Black Label v2 - Pearl White - 62 cm (Riders 6'3"-6'6") / Wide Riser w/ Vans Grips |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 49 cm (Riders 5'0" - 5'3") / Compact Drops |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 49 cm (Riders 5'0" - 5'3") / Wide Riser w/ Vans Grips |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 52 cm (Riders 5'3" - 5'6") / Compact Drops |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 52 cm (Riders 5'3" - 5'6") / Wide Riser w/ Vans Grips |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 55 cm (Riders 5'6" - 5'9") / Compact Drops |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 55 cm (Riders 5'6" - 5'9") / Wide Riser w/ Vans Grips |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 57 cm (Riders 5'9"-6'0") / Compact Drops |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 57 cm (Riders 5'9"-6'0") / Wide Riser w/ Vans Grips |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 59 cm (Riders 6'0" - 6'3") / Compact Drops |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 59 cm (Riders 6'0" - 6'3") / Wide Riser w/ Vans Grips |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 62 cm (Riders 6'3"-6'6") / Compact Drops |
+|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 62 cm (Riders 6'3"-6'6") / Wide Riser w/ Vans Grips |
 |   $585 | closeout        | #895 - 6061 Black Label v2 - Wu-Tang Edition - 59 - Excellent Condition |
 |   $555 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 49 cm - (Riders 5'0"-5'3") |
 |   $555 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 52 cm - (Riders 5'3"-5'6") |
@@ -278,12 +278,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Large |
 |    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - X-Large |
 |    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - XX-Large |
-|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - X-Small |
-|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - Small |
-|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - Medium |
-|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - Large |
-|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - X-Large |
-|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - XX-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - X-Small |
 |    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - Small |
 |    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - Medium |
@@ -291,6 +285,12 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - X-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - XX-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - 3X-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - X-Small |
+|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - Small |
+|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - Medium |
+|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - Large |
+|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - X-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - XX-Large |
 |    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Small |
 |    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Medium |
 |    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Large |
