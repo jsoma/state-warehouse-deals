@@ -160,8 +160,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $555 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 55 cm - (Riders 5'6"-5'9") |
 |   $555 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 58 cm - (Riders 5'9"-6'1") |
 |   $555 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 62 cm - (Riders 6'2"-6'6") |
-|   $495 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 59cm - Photo Model / Excellent Condition |
 |   $495 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
+|   $475 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 59cm - Photo Model / Excellent Condition |
 |   $450 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 46 cm (Riders 5'3"-5'6") / All-Road Drop Bars |
 |   $450 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 46 cm (Riders 5'3"-5'6") / Wide Riser Bars |
 |   $450 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 49 cm (Riders 5'5"-5'8") / All-Road Drop Bars |
