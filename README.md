@@ -83,6 +83,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1114 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
+|   $685 | closeout        | #906 - 4130 All-Road - Flat Bar - Pacific Gold w/ 650b Wheels - Size Large - Very Good Condition |
 |   $675 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $675 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1064 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
@@ -321,8 +322,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - 3X-Large |
-|    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Small |
-|    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Medium |
-|    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
-|    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
-|    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
