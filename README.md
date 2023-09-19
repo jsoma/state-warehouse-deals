@@ -50,6 +50,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $875 | closeout        | #913 - 6061 Black Label All-Road - Deep Pacific (700c) - Small (48cm) - Used / Good Condition |
 |   $875 | closeout        | #911 - 6061 Black Label All-Road - Matte Olive w/ Monster Fork (700c) - Small (51cm) - Very-Good Condition |
 |   $845 | closeout        | #916- 4130 All-Road - Copper Brown w/ 650b wheels - Medium (51cm) - Product Dev Tester |
+|   $825 | closeout        | #918- 4130 All-Road - Matte Olive w/ 650b wheels - Small (47cm) - Product Dev Tester |
 |   $825 | closeout        | #917- 4130 All-Road - Black Canyon w/ 650b wheels - Medium (51cm) - Product Dev Tester |
 |   $825 | closeout        | #915- 4130 All-Road - Black Canyon w/ 650b wheels - Medium (51cm) - Product Dev Tester |
 |   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
@@ -260,10 +261,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $65 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - Large |
 |    $65 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - X-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - XX-Large |
-|    $65 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - X-Small |
-|    $65 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Small |
-|    $65 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Medium |
-|    $65 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Large |
-|    $65 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Extra Large |
-|    $65 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - XX-Large |
-|    $65 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - 3X-Large |
