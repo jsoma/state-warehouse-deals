@@ -59,6 +59,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
+|   $755 | closeout        | #908 - 4130 All-Road - Copper Brown (700c) -  Large - Very-Good Condition |
 |   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") - Estimated Shipping Late-September / 650b |
 |   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") - Estimated Shipping Late-September / 700c |
 |  $1139 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") - Estimated Shipping Late-September / Both (Add $389.99) |
@@ -71,6 +72,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1139 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
+|   $725 | closeout        | #910 - 4130 All-Road - Matte Olive w/ 700c wheels - Medium (51cm) - Excellent Condition |
 |   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1114 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
@@ -304,15 +306,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - X-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
-|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Small |
-|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Medium |
-|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
-|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - X-Large |
-|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - XX-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - X-Small |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - Small |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - Medium |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - X-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - XX-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - 3X-Large |
