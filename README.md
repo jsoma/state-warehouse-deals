@@ -49,6 +49,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
 |   $875 | closeout        | #913 - 6061 Black Label All-Road - Deep Pacific (700c) - Small (48cm) - Used / Good Condition |
 |   $875 | closeout        | #911 - 6061 Black Label All-Road - Matte Olive w/ Monster Fork (700c) - Small (51cm) - Very-Good Condition |
+|   $825 | closeout        | #916- 4130 All-Road - Black Canyon w/ 650b wheels - Medium (51cm) - Product Dev Tester |
+|   $825 | closeout        | #915- 4130 All-Road - Black Canyon w/ 650b wheels - Medium (51cm) - Product Dev Tester |
 |   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
@@ -270,15 +272,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $65 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Large |
 |    $65 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - X-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - XX-Large |
-|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - X-Small |
-|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - Small |
-|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - Medium |
-|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - Large |
-|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - X-Large |
-|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - XX-Large |
-|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - 3X-Large |
-|    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "Big Wu" Jersey - Sustainable Clothing Collection - Small |
-|    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "Big Wu" Jersey - Sustainable Clothing Collection - Medium |
-|    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "Big Wu" Jersey - Sustainable Clothing Collection - Large |
-|    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "Big Wu" Jersey - Sustainable Clothing Collection - X-Large |
-|    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "Big Wu" Jersey - Sustainable Clothing Collection - XX-Large |
