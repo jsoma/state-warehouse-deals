@@ -32,13 +32,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
 |  $1489 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (Add $389.99) |
-|   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 45 cm - (Riders 5'0"-5'4") |
-|   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 48 cm - (Riders 5'4"-5'5") |
-|   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 50 cm - (Riders 5'5"-5'7") |
-|   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 52 cm - (Riders 5'7"-59") |
-|   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 54 cm - (Riders 5'9"-5'10") |
-|   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 56 cm - (Riders 5'10"-6'0") |
-|   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Pearl White / Tie-Dye - 58 cm - (Riders 6'0"-6'3") |
 |   $999 | e-Bike          | 6061 - eBike Commuter - Matte Black - Small (49cm - Riders 5'3"-5'7") |
 |   $999 | e-Bike          | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
 |   $999 | e-Bike          | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
@@ -272,3 +265,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $65 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Large |
 |    $65 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - X-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - XX-Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - X-Small |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - Small |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - Medium |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - X-Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - XX-Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - 3X-Large |
