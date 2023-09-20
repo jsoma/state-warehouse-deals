@@ -49,7 +49,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
 |   $875 | closeout        | #913 - 6061 Black Label All-Road - Deep Pacific (700c) - Small (48cm) - Used / Good Condition |
 |   $875 | closeout        | #911 - 6061 Black Label All-Road - Matte Olive w/ Monster Fork (700c) - Small (51cm) - Very-Good Condition |
-|   $845 | closeout        | #916- 4130 All-Road - Copper Brown w/ 650b wheels - Medium (51cm) - Product Dev Tester |
 |   $825 | closeout        | #918- 4130 All-Road - Matte Olive w/ 650b wheels - Small (47cm) - Product Dev Tester |
 |   $825 | closeout        | #917- 4130 All-Road - Black Canyon w/ 650b wheels - Medium (51cm) - Product Dev Tester |
 |   $825 | closeout        | #915- 4130 All-Road - Black Canyon w/ 650b wheels - Medium (51cm) - Product Dev Tester |
@@ -267,3 +266,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Extra Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - XX-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - 3X-Large |
+|    $65 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - X-Small |
+|    $65 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Small |
+|    $65 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Medium |
+|    $65 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Large |
+|    $65 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - X-Large |
+|    $65 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - XX-Large |
