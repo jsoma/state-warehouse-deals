@@ -40,7 +40,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 58 cm (Riders 5'9"-6'1") |
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
-|   $875 | closeout        | #911 - 6061 Black Label All-Road - Matte Olive w/ Monster Fork (700c) - Small (51cm) - Very-Good Condition |
 |   $825 | closeout        | #918- 4130 All-Road - Matte Olive w/ 650b wheels - Small (47cm) - Product Dev Tester |
 |   $825 | closeout        | #917- 4130 All-Road - Black Canyon w/ 650b wheels - Medium (51cm) - Product Dev Tester |
 |   $825 | closeout        | #915- 4130 All-Road - Black Canyon w/ 650b wheels - Medium (51cm) - Product Dev Tester |
@@ -280,3 +279,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Large |
 |    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - X-Large |
 |    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - XX-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - X-Small |
+|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - Small |
+|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - Medium |
+|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - Large |
+|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - X-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - XX-Large |
