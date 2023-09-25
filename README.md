@@ -4,6 +4,15 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |price|type|name|
 |---|---|---|
 |  $2850 | closeout        | #919 - Carbon All-Road - Black Ember 700c w/ Apex XPLR Upgrade + DT Swiss wheels - X-Small - Like-New Condition |
+|  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
+|  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
+|  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
+|  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
+|  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
+|  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
+|  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
+|  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
+|  $1850 | closeout        | #920 - 6061 All-Road - Apex XPLR AXS - Black / Sunset (700c) - Size Large (58cm) - Demo Model |
 |  $1299 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 49 cm (Riders 5'0"-5'3") |
 |  $1299 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 52 cm (Riders 5'3"-5'6") |
 |  $1299 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 55 cm (Riders 5'6"-5'9") |
@@ -283,16 +292,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - Large |
 |    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - X-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - XX-Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - X-Small |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - Small |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - Medium |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - X-Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - XX-Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - 3X-Large |
-|    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Small |
-|    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Medium |
-|    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Large |
-|    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Small |
-|    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Medium |
-|    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Large |
