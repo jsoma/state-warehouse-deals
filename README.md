@@ -3,7 +3,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
-|  $2850 | closeout        | #919 - Carbon All-Road - Black Ember 700c w/ Apex XPLR Upgrade + DT Swiss wheels - X-Small - Like-New Condition |
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
@@ -303,3 +302,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - X-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - XX-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - 3X-Large |
+|    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Small |
+|    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Medium |
+|    $69 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Black / Large |
+|    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Small |
+|    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Medium |
+|    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Large |
