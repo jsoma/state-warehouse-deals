@@ -197,12 +197,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
 |   $335 | closeout        | #912 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Good Condition |
-|   $325 | Frame / Fork    | 6061 Black Label v2 - Frame Set - Candy Apple Red - 49 cm (Riders 5'0" - 5'3") |
-|   $325 | Frame / Fork    | 6061 Black Label v2 - Frame Set - Candy Apple Red - 52 cm (Riders 5'3" - 5'6") |
-|   $325 | Frame / Fork    | 6061 Black Label v2 - Frame Set - Candy Apple Red - 55 cm (Riders 5'6" - 5'9") |
-|   $325 | Frame / Fork    | 6061 Black Label v2 - Frame Set - Candy Apple Red - 57 cm (Riders 5'9"-6'0") |
-|   $325 | Frame / Fork    | 6061 Black Label v2 - Frame Set - Candy Apple Red - 59 cm (Riders 6'0" - 6'3") |
-|   $325 | Frame / Fork    | 6061 Black Label v2 - Frame Set - Candy Apple Red - 62 cm (Riders 6'3"-6'6") |
 |   $325 | Frame / Fork    | 6061 Black Label v2 - Frame Set - State Bicycle Co. x Wu-Tang Clan Edition - 49 cm (Riders 5'0" - 5'3") |
 |   $325 | Frame / Fork    | 6061 Black Label v2 - Frame Set - State Bicycle Co. x Wu-Tang Clan Edition - 52 cm (Riders 5'3" - 5'6") |
 |   $325 | Frame / Fork    | 6061 Black Label v2 - Frame Set - State Bicycle Co. x Wu-Tang Clan Edition - 55 cm (Riders 5'6" - 5'9") |
@@ -308,3 +302,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Small |
 |    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Medium |
 |    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - Small |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - Medium |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
