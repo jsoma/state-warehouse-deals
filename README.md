@@ -213,14 +213,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | Core-Line       | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $350 | Core-Line       | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $350 | Core-Line       | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
-|   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 42 |
-|   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 43 |
-|   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 44 |
-|   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Black / EU 45 |
-|   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 42 |
-|   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 43 |
-|   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 44 |
-|   $318 | Clothing        | Giro - Imperial - Road Cycling Shoe - Carbon / Mica / EU 45 |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $149 |                 | Saris - Mag+ Trainer |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
@@ -317,3 +309,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - X-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - XX-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - 3X-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Small |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Small |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Medium |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - 3X-Large |
