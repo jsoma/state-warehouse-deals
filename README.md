@@ -165,18 +165,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $555 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 62 cm - (Riders 6'2"-6'6") |
 |   $495 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $475 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 59cm - Photo Model / Excellent Condition |
-|   $450 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 46 cm (Riders 5'3"-5'6") / All-Road Drop Bars |
-|   $450 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 46 cm (Riders 5'3"-5'6") / Wide Riser Bars |
-|   $450 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 49 cm (Riders 5'5"-5'8") / All-Road Drop Bars |
-|   $450 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 49 cm (Riders 5'5"-5'8") / Wide Riser Bars |
-|   $450 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 52 cm (Riders 5'7"-5'10") / All-Road Drop Bars |
-|   $450 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 52 cm (Riders 5'7"-5'10") / Wide Riser Bars |
-|   $450 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 55 cm (Riders 5'9"-6'0") / All-Road Drop Bars |
-|   $450 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 55 cm (Riders 5'9"-6'0") / Wide Riser Bars |
-|   $450 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 59 cm (Riders 5'11"-6'3") / All-Road Drop Bars |
-|   $450 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 59 cm (Riders 5'11"-6'3") / Wide Riser Bars |
-|   $450 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'7") / All-Road Drop Bars |
-|   $450 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'7") / Wide Riser Bars |
 |   $445 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 52cm - Photo Model / Excellent Condition |
 |   $360 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
@@ -320,3 +308,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
 |    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
+|    $39 | Accessories     | State Bicycle Co. x Taco Bell:  Klunker Frame Bag |
