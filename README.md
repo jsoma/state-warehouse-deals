@@ -12,11 +12,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1850 | closeout        | #920 - 6061 All-Road - Apex XPLR AXS - Black / Sunset (700c) - Size Large (58cm) - Demo Model |
-|  $1299 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 49 cm (Riders 5'0"-5'3") |
-|  $1299 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 52 cm (Riders 5'3"-5'6") |
-|  $1299 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 55 cm (Riders 5'6"-5'9") |
-|  $1299 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 58 cm (Riders 5'9"-6'1") |
-|  $1299 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 61 cm (Riders 6'2"-6'6") |
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
 |  $1489 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / Both (Add $389.99) |
@@ -309,3 +304,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
 |    $39 | Accessories     | State Bicycle Co. x Taco Bell:  Klunker Frame Bag |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - X-Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - Medium |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - X-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - XX-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - 3X-Large |
