@@ -12,6 +12,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1850 | closeout        | #920 - 6061 All-Road - Apex XPLR AXS - Black / Sunset (700c) - Size Large (58cm) - Demo Model |
+|  $1299 | e-Bike          | 6061 - eBike Commuter - Matte Black - Small (49cm - Riders 5'3"-5'7") |
+|  $1299 | e-Bike          | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
+|  $1299 | e-Bike          | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
 |  $1489 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / Both (Add $389.99) |
@@ -36,9 +39,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
 |  $1489 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (Add $389.99) |
-|   $999 | e-Bike          | 6061 - eBike Commuter - Matte Black - Small (49cm - Riders 5'3"-5'7") |
-|   $999 | e-Bike          | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
-|   $999 | e-Bike          | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'3") |
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 52 cm (Riders 5'3"-5'6") |
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
