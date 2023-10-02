@@ -44,30 +44,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 58 cm (Riders 5'9"-6'1") |
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
-|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
-|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Small ( Riders 5'5" - 5'10") / Both (Add $389.99) |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
-|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Medium ( Riders 5'9" - 6'2") / Both (Add $389.99) |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
-|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
-|   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") - Estimated Shipping Late-September / 650b |
-|   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") - Estimated Shipping Late-September / 700c |
-|  $1139 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") - Estimated Shipping Late-September / Both (Add $389.99) |
-|   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") - Estimated Shipping Late-September / 650b |
-|   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") - Estimated Shipping Late-September / 700c |
-|  $1139 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") - Estimated Shipping Late-September / Both (Add $389.99) |
-|   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
-|   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
-|  $1139 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Medium ( Riders 5'9" - 6'2") / Both (Add $389.99) |
-|   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
-|   $749 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
-|  $1139 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
 |   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1114 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
@@ -183,18 +159,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | Frame / Fork    | 6061 Black Label v2 - Frame Set - State Bicycle Co. x Wu-Tang Clan Edition - 57 cm (Riders 5'9"-6'0") |
 |   $325 | Frame / Fork    | 6061 Black Label v2 - Frame Set - State Bicycle Co. x Wu-Tang Clan Edition - 59 cm (Riders 6'0" - 6'3") |
 |   $325 | Frame / Fork    | 6061 Black Label v2 - Frame Set - State Bicycle Co. x Wu-Tang Clan Edition - 62 cm (Riders 6'3"-6'6") |
-|   $325 | Core-Line       | Delfin - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
-|   $350 | Core-Line       | Delfin - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
-|   $350 | Core-Line       | Delfin - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
-|   $325 | Core-Line       | Delfin - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Riser Bars |
-|   $350 | Core-Line       | Delfin - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Bullhorn Bars (Add $25) |
-|   $350 | Core-Line       | Delfin - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Drop Bars (Add $25) |
-|   $325 | Core-Line       | Delfin - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Riser Bars |
-|   $350 | Core-Line       | Delfin - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Bullhorn Bars (Add $25) |
-|   $350 | Core-Line       | Delfin - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Drop Bars (Add $25) |
-|   $325 | Core-Line       | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
-|   $350 | Core-Line       | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
-|   $350 | Core-Line       | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $149 |                 | Saris - Mag+ Trainer |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
@@ -311,3 +275,22 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - XX-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - 3X-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - X-Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Medium |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - X-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - XX-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - 3X-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Medium |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - XX-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - 3X-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Medium |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
