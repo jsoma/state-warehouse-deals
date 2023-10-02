@@ -173,6 +173,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - Large |
 |    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - X-Large |
 |    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - XX-Large |
+|    $69 | Misc. Parts     | Black Label Series: Fixed Gear / Single Speed Crankset (Black) |
 |    $69 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - Killer Bee Bibs - Sustainable Clothing Collection - Small |
 |    $69 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - Killer Bee Bibs - Sustainable Clothing Collection - Medium |
 |    $69 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - Killer Bee Bibs - Sustainable Clothing Collection - Large |
@@ -289,4 +290,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
-|    $26 |                 | Blackburn - Big Switch Multi Tool |
