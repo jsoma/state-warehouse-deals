@@ -79,6 +79,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 59 cm (Riders 6'0" - 6'3") / Wide Riser w/ Wu-Tang Clan Grips |
 |   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 62 cm (Riders 6'3"-6'6") / Compact Drops |
 |   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 62 cm (Riders 6'3"-6'6") / Wide Riser w/ Wu-Tang Clan Grips |
+|   $635 | closeout        | #PM - 6061 Black-Label v3 (Fixed-Gear)  - Purple / White - 55cm - Excellent Condition |
+|   $635 | closeout        | #PM - 6061 Black-Label v3 (Fixed-Gear)  - Green / Gold - 55cm - Excellent Condition |
 |   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 49 cm (Riders 5'0" - 5'3") / Compact Drops |
 |   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 49 cm (Riders 5'0" - 5'3") / Wide Riser w/ Vans Grips |
 |   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 52 cm (Riders 5'3" - 5'6") / Compact Drops |
@@ -269,5 +271,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 48 tooth |
 |    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 49 tooth |
 |    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
-|    $26 |                 | Blackburn - Big Switch Multi Tool |
-|    $25 | Accessories     | State Bicycle Co.  x Taco Bell -  All-Road Handlebar Bag |
