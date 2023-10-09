@@ -108,6 +108,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $495 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $475 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 59cm - Photo Model / Excellent Condition |
 |   $445 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 52cm - Photo Model / Excellent Condition |
+|   $365 | closeout        | #PM - Klunker - SBC x RIPNDIP - Klunker + Bag Combo - Like-New Condition (Photo Model / Media Sample) |
 |   $360 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
 |   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
@@ -124,6 +125,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
 |   $335 | closeout        | #912 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Good Condition |
+|   $325 | closeout        | #PM - SBC x RIPNDIP - Lord Nermal Core-Line (Size Medium 54cm)- Like-New Condition (Photo Model / Media Sample) |
 |   $325 | Frame / Fork    | 6061 Black Label v2 - Frame Set - State Bicycle Co. x Wu-Tang Clan Edition - 49 cm (Riders 5'0" - 5'3") |
 |   $325 | Frame / Fork    | 6061 Black Label v2 - Frame Set - State Bicycle Co. x Wu-Tang Clan Edition - 52 cm (Riders 5'3" - 5'6") |
 |   $325 | Frame / Fork    | 6061 Black Label v2 - Frame Set - State Bicycle Co. x Wu-Tang Clan Edition - 55 cm (Riders 5'6" - 5'9") |
@@ -262,12 +264,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - XX-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - 3X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Medium |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
-|    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 46 tooth |
-|    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 48 tooth |
-|    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 49 tooth |
-|    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
