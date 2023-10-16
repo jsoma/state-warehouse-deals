@@ -80,7 +80,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 59 cm (Riders 6'0" - 6'3") / Wide Riser w/ Wu-Tang Clan Grips |
 |   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 62 cm (Riders 6'3"-6'6") / Compact Drops |
 |   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 62 cm (Riders 6'3"-6'6") / Wide Riser w/ Wu-Tang Clan Grips |
-|   $635 | closeout        | #925 - 6061 Black-Label v3 (Fixed-Gear)  - Purple / White - 55cm - Excellent Condition |
+|   $615 | closeout        | #925 - 6061 Black-Label v3 (Fixed-Gear)  - Purple / White - 55cm - Excellent Condition |
 |   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 49 cm (Riders 5'0" - 5'3") / Compact Drops |
 |   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 49 cm (Riders 5'0" - 5'3") / Wide Riser w/ Vans Grips |
 |   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 52 cm (Riders 5'3" - 5'6") / Compact Drops |
