@@ -120,7 +120,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | Frame / Fork    | 6061 Black Label v2 - Frame Set - State Bicycle Co. x Wu-Tang Clan Edition - 57 cm (Riders 5'9"-6'0") |
 |   $325 | Frame / Fork    | 6061 Black Label v2 - Frame Set - State Bicycle Co. x Wu-Tang Clan Edition - 59 cm (Riders 6'0" - 6'3") |
 |   $325 | Frame / Fork    | 6061 Black Label v2 - Frame Set - State Bicycle Co. x Wu-Tang Clan Edition - 62 cm (Riders 6'3"-6'6") |
-|   $249 | Wheels          | Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel Set |
 |   $245 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Small |
 |   $245 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Medium |
 |   $245 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Large |
@@ -199,6 +198,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Medium |
 |    $55 | Misc. Accessori | State Bicycle Co. - Commute Helmet 1 - Matte Navy / Large |
 |    $55 | closeout        | #WS - Black Label Series: Mid-Profile Track Wheel FRONT WHEEL ONLY - Brand New Take-Offs |
+|    $50 | Wheels          | #WS Essor USA x State Bicycle Co. - v2 Bolt 31 Track Wheel - FRONT ONLY |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - Small |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - Medium |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - Large |
