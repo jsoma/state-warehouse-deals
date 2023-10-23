@@ -82,18 +82,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 62 cm (Riders 6'3"-6'6") / Compact Drops |
 |   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 62 cm (Riders 6'3"-6'6") / Wide Riser w/ Wu-Tang Clan Grips |
 |   $615 | closeout        | #925 - 6061 Black-Label v3 (Fixed-Gear)  - Purple / White - 55cm - Excellent Condition |
-|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 49 cm (Riders 5'0" - 5'3") / Compact Drops |
-|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 49 cm (Riders 5'0" - 5'3") / Wide Riser w/ Vans Grips |
-|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 52 cm (Riders 5'3" - 5'6") / Compact Drops |
-|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 52 cm (Riders 5'3" - 5'6") / Wide Riser w/ Vans Grips |
-|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 55 cm (Riders 5'6" - 5'9") / Compact Drops |
-|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 55 cm (Riders 5'6" - 5'9") / Wide Riser w/ Vans Grips |
-|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 57 cm (Riders 5'9"-6'0") / Compact Drops |
-|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 57 cm (Riders 5'9"-6'0") / Wide Riser w/ Vans Grips |
-|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 59 cm (Riders 6'0" - 6'3") / Compact Drops |
-|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 59 cm (Riders 6'0" - 6'3") / Wide Riser w/ Vans Grips |
-|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 62 cm (Riders 6'3"-6'6") / Compact Drops |
-|   $599 | 6061 Black Labe | 6061 Black Label v2 - Candy Apple Red - 62 cm (Riders 6'3"-6'6") / Wide Riser w/ Vans Grips |
 |   $495 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $475 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 59cm - Photo Model / Excellent Condition |
 |   $445 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 52cm - Photo Model / Excellent Condition |
@@ -243,3 +231,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - XX-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - 3X-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Medium |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - XX-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - 3X-Large |
