@@ -80,7 +80,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 59 cm (Riders 6'0" - 6'3") / Wide Riser w/ Wu-Tang Clan Grips |
 |   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 62 cm (Riders 6'3"-6'6") / Compact Drops |
 |   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 62 cm (Riders 6'3"-6'6") / Wide Riser w/ Wu-Tang Clan Grips |
-|   $615 | closeout        | #925 - 6061 Black-Label v3 (Fixed-Gear)  - Purple / White - 55cm - Excellent Condition |
 |   $495 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $475 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 59cm - Photo Model / Excellent Condition |
 |   $445 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 52cm - Photo Model / Excellent Condition |
@@ -242,3 +241,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
+|    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 46 tooth |
+|    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 48 tooth |
+|    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 49 tooth |
+|    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
