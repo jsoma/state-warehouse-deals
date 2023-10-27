@@ -3,6 +3,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
+|  $2500 | closeout        | #MF - Custom 4130 All-Road Nomad Edition - w/ SRAM AXS, Fox Fork, i9 Wheels - Custom Build - Size Smalll - Used Condition |
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
@@ -43,7 +44,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 58 cm (Riders 5'9"-6'1") |
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
-|   $875 | closeout        | #MF - Custom 4130 All-Road Nomad Edition - w/ SRAM AXS, Fox Fork, i9 Wheels - Custom Build - Size Small |
 |   $875 | closeout        | #MF - Custom Core-Line - Pigeon w/ Carbon Wheels / Fork / Omniums + More - Size Medium (54cm) - Used Condition |
 |   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
