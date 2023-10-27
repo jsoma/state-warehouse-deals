@@ -3,7 +3,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
-|  $2500 | closeout        | #MF - Custom 4130 All-Road Nomad Edition - w/ SRAM AXS, Fox Fork, i9 Wheels - Custom Build - Size Smalll - Used Condition |
+|  $2750 | closeout        | #MF - Custom 4130 All-Road Nomad Edition - w/ SRAM AXS, Fox Fork, i9 Wheels - Custom Build - Size Smalll - Used Condition |
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
