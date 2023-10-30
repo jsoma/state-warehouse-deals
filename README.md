@@ -111,7 +111,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $245 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Medium |
 |   $245 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Large |
 |   $149 |                 | Saris - Mag+ Trainer |
-|   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Small |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Medium |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Large |
@@ -245,3 +244,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 49 tooth |
 |    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
 |    $26 |                 | Blackburn - Big Switch Multi Tool |
+|    $25 | Accessories     | State Bicycle Co.  x Taco Bell -  All-Road Handlebar Bag |
