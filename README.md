@@ -120,6 +120,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Small |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Medium |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Large |
+|    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $89 | Misc. Accessori | Blackburn Design - Outpost Front World Touring Rack |
 |    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - X-Small |
 |    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - Small |
@@ -244,4 +245,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 49 tooth |
 |    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
 |    $26 |                 | Blackburn - Big Switch Multi Tool |
-|    $25 | Accessories     | State Bicycle Co.  x Taco Bell -  All-Road Handlebar Bag |
