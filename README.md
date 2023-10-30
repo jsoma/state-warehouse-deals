@@ -110,7 +110,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $245 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Small |
 |   $245 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Medium |
 |   $245 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Large |
-|   $225 | closeout        | #926 - 6061 v3 Fixed Gear / Single Speed - Grey / Fuchsia - Frameset - 61cm  - Excellent Condition - #FS |
 |   $149 |                 | Saris - Mag+ Trainer |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Small |
@@ -245,3 +244,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 48 tooth |
 |    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 49 tooth |
 |    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
+|    $26 |                 | Blackburn - Big Switch Multi Tool |
