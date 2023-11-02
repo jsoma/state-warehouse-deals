@@ -78,6 +78,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $495 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $475 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 59cm - Photo Model / Excellent Condition |
 |   $445 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 52cm - Photo Model / Excellent Condition |
+|   $395 | closeout        | #929 - 6061 All-Road - Black Sunset- Frameset + Extras - Size M (54cm) - Very Good Condition |
 |   $395 | closeout        | #928 - Undefeated Disc Road - Frameset + Extras - Tie-Dye/ Pearl - 61cm - Like-New Condition |
 |   $365 | closeout        | #PM - Klunker - SBC x RIPNDIP - Klunker + Bag Combo - Like-New Condition (Photo Model / Media Sample) |
 |   $360 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
@@ -240,4 +241,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
 |    $26 |                 | Blackburn - Big Switch Multi Tool |
 |    $25 | Accessories     | State Bicycle Co.  x Taco Bell -  All-Road Handlebar Bag |
-|    $25 | Accessories     | State Bicycle Co.  x Wu-Tang Clan -  All-Road Bar Bag |
