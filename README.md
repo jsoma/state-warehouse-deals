@@ -39,11 +39,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
 |  $1489 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (Add $389.99) |
-|   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'3") |
-|   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 52 cm (Riders 5'3"-5'6") |
-|   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
-|   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 58 cm (Riders 5'9"-6'1") |
-|   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
 |   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1114 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
@@ -245,3 +240,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $26 |                 | Blackburn - Big Switch Multi Tool |
 |    $25 | Accessories     | State Bicycle Co.  x Taco Bell -  All-Road Handlebar Bag |
 |    $25 | Accessories     | State Bicycle Co.  x Wu-Tang Clan -  All-Road Bar Bag |
+|    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Black |
+|    $25 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - White |
+|    $25 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Red |
+|    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Yellow |
+|    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Green |
+|    $25 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
+|    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
+|    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
