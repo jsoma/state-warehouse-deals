@@ -78,6 +78,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $495 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $475 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 59cm - Photo Model / Excellent Condition |
 |   $445 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 52cm - Photo Model / Excellent Condition |
+|   $395 | closeout        | #928 - Undefeated Disc Road - Frameset + Extras - Tie-Dye/ Pearl - 61cm - Like-New Condition |
 |   $365 | closeout        | #PM - Klunker - SBC x RIPNDIP - Klunker + Bag Combo - Like-New Condition (Photo Model / Media Sample) |
 |   $360 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
@@ -240,11 +241,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $26 |                 | Blackburn - Big Switch Multi Tool |
 |    $25 | Accessories     | State Bicycle Co.  x Taco Bell -  All-Road Handlebar Bag |
 |    $25 | Accessories     | State Bicycle Co.  x Wu-Tang Clan -  All-Road Bar Bag |
-|    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Black |
-|    $25 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - White |
-|    $25 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Red |
-|    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Yellow |
-|    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Green |
-|    $25 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
-|    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
-|    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
