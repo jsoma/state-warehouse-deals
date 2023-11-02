@@ -40,6 +40,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
 |  $1489 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (Add $389.99) |
 |   $765 | closeout        | #935 - 4130 All-Road - Copper Brown w/ 700c wheels - Medium (51cm) - Excellent Condition |
+|   $745 | closeout        | #940 - 4130 All-Road - Black Canyon w/ 650b wheels - Small (47cm) - Excellent Condition |
 |   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1114 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
@@ -64,6 +65,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $675 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $675 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1064 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
+|   $645 | closeout        | #939 - 4130 All-Road - Black Canyon w/ 700c wheels - Medium (51cm) - Excellent Condition |
 |   $645 | closeout        | #937 - 4130 All-Road - Copper Brown w/ 700c wheels - Medium (51cm) - Good Condition |
 |   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 49 cm (Riders 5'0" - 5'3") / Compact Drops |
 |   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 49 cm (Riders 5'0" - 5'3") / Wide Riser w/ Wu-Tang Clan Grips |
@@ -198,17 +200,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - X-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - XX-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - X-Small |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - Small |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - Medium |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - X-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - XX-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - 3X-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Small |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Small |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Medium |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - 3X-Large |
