@@ -77,10 +77,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 62 cm (Riders 6'3"-6'6") / Wide Riser w/ Wu-Tang Clan Grips |
 |   $565 | closeout        | #930 - 6061 Black-Label v2 (Fixed-Gear)  - Matte Black - 55cm - Excellent Condition |
 |   $495 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
+|   $475 | closeout        | #938- 4130 -Matte Olive - 49cm - Excellent Condition |
 |   $475 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 59cm - Photo Model / Excellent Condition |
 |   $455 | closeout        | #932- 4130 - Purple Reign - 55cm - Very Good Condition |
 |   $445 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 52cm - Photo Model / Excellent Condition |
-|   $425 | closeout        | #931- 4130 - Navy & Gold - 62cm - Very Good |
+|   $425 | closeout        | #931- 4130 - Navy & Gold - 62cm - Very Good Condition |
 |   $395 | closeout        | #929 - 6061 All-Road - Black Sunset- Frameset + Extras - Size M (54cm) - Very Good Condition |
 |   $395 | closeout        | #928 - Undefeated Disc Road - Frameset + Extras - Tie-Dye/ Pearl - 61cm - Like-New Condition |
 |   $365 | closeout        | #PM - Klunker - SBC x RIPNDIP - Klunker + Bag Combo - Like-New Condition (Photo Model / Media Sample) |
@@ -106,6 +107,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | Frame / Fork    | 6061 Black Label v2 - Frame Set - State Bicycle Co. x Wu-Tang Clan Edition - 57 cm (Riders 5'9"-6'0") |
 |   $325 | Frame / Fork    | 6061 Black Label v2 - Frame Set - State Bicycle Co. x Wu-Tang Clan Edition - 59 cm (Riders 6'0" - 6'3") |
 |   $325 | Frame / Fork    | 6061 Black Label v2 - Frame Set - State Bicycle Co. x Wu-Tang Clan Edition - 62 cm (Riders 6'3"-6'6") |
+|   $295 | closeout        | #934 - City-Bike - Azure 3-speed- Size Medium (48cm) - Fair Condition |
+|   $295 | closeout        | #933 - City-Bike - Azure 3-speed- Size Medium (48cm) - Like-New Condition |
 |   $245 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Small |
 |   $245 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Medium |
 |   $245 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Large |
@@ -219,22 +222,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - XX-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - 3X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - X-Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Medium |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - XX-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - 3X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Medium |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - XX-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - 3X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Medium |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
