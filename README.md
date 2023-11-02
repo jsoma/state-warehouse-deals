@@ -39,6 +39,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
 |  $1489 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (Add $389.99) |
+|   $765 | closeout        | #935 - 4130 All-Road - Copper Brown w/ 700c wheels - Medium (51cm) - Excellent Condition |
 |   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1114 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
@@ -63,6 +64,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $675 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $675 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1064 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
+|   $645 | closeout        | #937 - 4130 All-Road - Copper Brown w/ 700c wheels - Medium (51cm) - Good Condition |
 |   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 49 cm (Riders 5'0" - 5'3") / Compact Drops |
 |   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 49 cm (Riders 5'0" - 5'3") / Wide Riser w/ Wu-Tang Clan Grips |
 |   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 52 cm (Riders 5'3" - 5'6") / Compact Drops |
@@ -112,6 +114,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $245 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Medium |
 |   $245 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Large |
 |   $185 | closeout        | #934 - City-Bike - Azure 3-speed- Size Medium (48cm) - Fair Condition |
+|   $165 | closeout        | #941 - City-Bike - Bubble-Gum 1-Speed - Size Medium (48cm) - Fair Condition |
 |   $149 |                 | Saris - Mag+ Trainer |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Small |
 |    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Medium |
@@ -209,16 +212,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - 3X-Large |
-|    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Small |
-|    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Medium |
-|    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
-|    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
-|    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
-|    $39 | Accessories     | State Bicycle Co. x Taco Bell:  Klunker Frame Bag |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - X-Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - Medium |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - XX-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - 3X-Large |
