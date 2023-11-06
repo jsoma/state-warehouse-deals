@@ -67,7 +67,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $675 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $675 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1064 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
-|   $645 | closeout        | #939 - 4130 All-Road - Black Canyon w/ 700c wheels - Medium (51cm) - Excellent Condition |
 |   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 49 cm (Riders 5'0" - 5'3") / Compact Drops |
 |   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 49 cm (Riders 5'0" - 5'3") / Wide Riser w/ Wu-Tang Clan Grips |
 |   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 52 cm (Riders 5'3" - 5'6") / Compact Drops |
@@ -196,3 +195,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - X-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Small |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Medium |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - XX-Large |
