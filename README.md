@@ -41,7 +41,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
 |  $1489 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (Add $389.99) |
-|   $795 | closeout        | #944 - 4130 All-Road Flat Bar - Raw / Phosphate - (Medium 650b) - Execllent Condition (Photo Model) |
 |   $765 | closeout        | #935 - 4130 All-Road - Copper Brown w/ 700c wheels - Medium (51cm) - Excellent Condition |
 |   $745 | closeout        | #940 - 4130 All-Road - Black Canyon w/ 650b wheels - Small (47cm) - Excellent Condition |
 |   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
@@ -206,3 +205,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - X-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - XX-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - 3X-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Small |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Small |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Medium |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - 3X-Large |
