@@ -95,7 +95,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $360 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
-|   $345 | closeout        | #936 - 4130 Road - Americana (8-speed) - 55cm - Used Condition |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Small (43 cm - Riders 4'9" - 5'5") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
@@ -235,3 +234,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 48 tooth |
 |    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 49 tooth |
 |    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
+|    $25 | Accessories     | State Bicycle Co.  x Taco Bell -  All-Road Handlebar Bag |
