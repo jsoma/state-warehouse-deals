@@ -40,7 +40,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
 |  $1489 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (Add $389.99) |
-|   $765 | closeout        | #935 - 4130 All-Road - Copper Brown w/ 700c wheels - Medium (51cm) - Excellent Condition |
 |   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1114 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (Add $389.99) |
@@ -235,3 +234,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
 |    $25 | Accessories     | State Bicycle Co.  x Taco Bell -  All-Road Handlebar Bag |
 |    $25 | Accessories     | State Bicycle Co.  x Wu-Tang Clan -  All-Road Bar Bag |
+|    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Black |
+|    $25 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - White |
+|    $25 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Red |
+|    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Yellow |
+|    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Green |
+|    $25 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
+|    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
+|    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
