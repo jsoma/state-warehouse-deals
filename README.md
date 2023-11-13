@@ -77,7 +77,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 62 cm (Riders 6'3"-6'6") / Wide Riser w/ Wu-Tang Clan Grips |
 |   $495 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $475 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 59cm - Photo Model / Excellent Condition |
-|   $455 | closeout        | #932- 4130 - Purple Reign - 55cm - Very Good Condition |
 |   $445 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 52cm - Photo Model / Excellent Condition |
 |   $365 | closeout        | #PM - Klunker - SBC x RIPNDIP - Klunker + Bag Combo - Like-New Condition (Photo Model / Media Sample) |
 |   $360 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
@@ -242,3 +241,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
 |    $24 | Handlebars      | Black Label Series: Compact Drop Handlebar (Black) |
 |    $24 | Misc. Parts     | Black Label Series:  Saddle |
+|    $24 | Misc. Accessori | State Bicycle Co. - USB Rechargeable Aluminum LED Power Headlight (200 Lumen) - Front Only |
