@@ -64,18 +64,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $675 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $675 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1064 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
-|   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 49 cm (Riders 5'0" - 5'3") / Compact Drops |
-|   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 49 cm (Riders 5'0" - 5'3") / Wide Riser w/ Wu-Tang Clan Grips |
-|   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 52 cm (Riders 5'3" - 5'6") / Compact Drops |
-|   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 52 cm (Riders 5'3" - 5'6") / Wide Riser w/ Wu-Tang Clan Grips |
-|   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 55 cm (Riders 5'6" - 5'9") / Compact Drops |
-|   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 55 cm (Riders 5'6" - 5'9") / Wide Riser w/ Wu-Tang Clan Grips |
-|   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 57 cm (Riders 5'9"-6'0") / Compact Drops |
-|   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 57 cm (Riders 5'9"-6'0") / Wide Riser w/ Wu-Tang Clan Grips |
-|   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 59 cm (Riders 6'0" - 6'3") / Compact Drops |
-|   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 59 cm (Riders 6'0" - 6'3") / Wide Riser w/ Wu-Tang Clan Grips |
-|   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 62 cm (Riders 6'3"-6'6") / Compact Drops |
-|   $636 | 6061 Black Labe | 6061 Black Label v2 - State Bicycle Co. x Wu-Tang Clan Edition - 62 cm (Riders 6'3"-6'6") / Wide Riser w/ Wu-Tang Clan Grips |
 |   $495 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $475 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 59cm - Photo Model / Excellent Condition |
 |   $455 | closeout        | #932- 4130 - Purple Reign - 59cm - Very Good Condition |
@@ -242,3 +230,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
 |    $24 | Handlebars      | Black Label Series: Compact Drop Handlebar (Black) |
+|    $24 | Misc. Parts     | Black Label Series:  Saddle |
