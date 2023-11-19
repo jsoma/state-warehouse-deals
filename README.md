@@ -66,7 +66,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1064 | 4130 All Road   | 4130 All-Road - Flat Bar - Cupertino Pearl (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (Add $389.99) |
 |   $495 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $475 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 59cm - Photo Model / Excellent Condition |
-|   $455 | closeout        | #932- 4130 - Purple Reign - 59cm - Very Good Condition |
 |   $445 | closeout        | #PM - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 52cm - Photo Model / Excellent Condition |
 |   $365 | closeout        | #PM - Klunker - SBC x RIPNDIP - Klunker + Bag Combo - Like-New Condition (Photo Model / Media Sample) |
 |   $360 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
@@ -231,3 +230,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
 |    $24 | Handlebars      | Black Label Series: Compact Drop Handlebar (Black) |
 |    $24 | Misc. Parts     | Black Label Series:  Saddle |
+|    $24 | Misc. Accessori | State Bicycle Co. - USB Rechargeable Aluminum LED Power Headlight (200 Lumen) - Front Only |
