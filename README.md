@@ -15,7 +15,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1299 | e-Bike          | 6061 - eBike Commuter - Matte Black - Small (49cm - Riders 5'3"-5'7") |
 |  $1299 | e-Bike          | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
 |  $1299 | e-Bike          | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
-|  $1150 | closeout        | #942 - 6061 All-Road - Dune Tan (650b) - Size Medium (54cm) - Photo Model - Excellent  Condition |
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
 |  $1489 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / Both (Add $389.99) |
@@ -231,3 +230,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $24 | Handlebars      | Black Label Series: Compact Drop Handlebar (Black) |
 |    $24 | Misc. Parts     | Black Label Series:  Saddle |
 |    $24 | Misc. Accessori | State Bicycle Co. - USB Rechargeable Aluminum LED Power Headlight (200 Lumen) - Front Only |
+|    $19 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Small |
+|    $19 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Medium |
+|    $19 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Large |
+|    $19 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - X-Large |
+|    $19 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - XX-Large |
