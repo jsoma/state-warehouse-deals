@@ -85,19 +85,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | Frame / Fork    | 6061 Black Label v2 - Frame Set - State Bicycle Co. x Wu-Tang Clan Edition - 57 cm (Riders 5'9"-6'0") |
 |   $325 | Frame / Fork    | 6061 Black Label v2 - Frame Set - State Bicycle Co. x Wu-Tang Clan Edition - 59 cm (Riders 6'0" - 6'3") |
 |   $325 | Frame / Fork    | 6061 Black Label v2 - Frame Set - State Bicycle Co. x Wu-Tang Clan Edition - 62 cm (Riders 6'3"-6'6") |
-|   $299 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Small |
-|   $299 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Medium |
-|   $299 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Large |
 |   $149 |                 | Saris - Mag+ Trainer |
-|    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Small |
-|    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Medium |
-|    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Black / Large |
-|    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Tan / Small |
-|    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Tan / Medium |
-|    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Tan / Large |
-|    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Small |
-|    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Medium |
-|    $99 | Misc. Accessori | State Bicycle Co. - All-Road Helmet - Matte Pewter / Large |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $89 | Misc. Accessori | Blackburn Design - Outpost Front World Touring Rack |
 |    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - X-Small |
@@ -219,7 +207,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
 |    $24 | Handlebars      | Black Label Series: Compact Drop Handlebar (Black) |
 |    $24 | Misc. Parts     | Black Label Series:  Saddle |
-|    $24 | Misc. Accessori | State Bicycle Co. - USB Rechargeable Aluminum LED Power Headlight (200 Lumen) - Front Only |
 |    $19 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Small |
 |    $19 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Medium |
 |    $19 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Large |
@@ -237,9 +224,17 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Large |
 |    $25 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Large |
 |    $19 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - XX-Large |
-|    $19 | Misc. Accessori | State Bicycle Co. - Steel Chain Combo Lock |
 |    $15 | Bicycles        | State Bicycle Co. x Wu-Tang Clan - Stem (90mm) - Black / 25.4mm |
 |    $15 | Bicycles        | State Bicycle Co. x Wu-Tang Clan - Stem (90mm) - Black / 31.8mm |
 |    $15 | Bicycles        | State Bicycle Co. x Wu-Tang Clan - Stem (90mm) - Yellow / 25.4mm |
 |    $15 | Bicycles        | State Bicycle Co. x Wu-Tang Clan - Stem (90mm) - Yellow / 31.8mm |
 |    $14 | Hats            | State Bicycle Co. Beanie with Pom (Burnt Orange / Navy) |
+|    $14 | Hats            | State Bicycle Co. - Fly it High Beanie |
+|    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
+|    $12 | Hats            | State Bicycle Co. - Explore Your State Beanie with Pom (Royal Blue / Gold) |
+|    $11 | Bicycles        | State Bicycle Co. - Seat Post - 27.2 mm / Black |
+|    $11 | Bicycles        | State Bicycle Co. - Seat Post - 30.9mm / Black |
+|    $11 | Bicycles        | State Bicycle Co. - Seat Post - 31.6mm / Black |
+|    $11 | Bicycles        | State Bicycle Co. - Seat Post - 27.2 mm / White |
+|    $11 | Bicycles        | State Bicycle Co. - Seat Post - 27.2 mm / Gold |
+|    $11 | Bicycles        | State Bicycle Co. - Seat Post - 27.2 mm / Silver |
