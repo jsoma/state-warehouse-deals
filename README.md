@@ -79,12 +79,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
 |   $335 | closeout        | #912 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Good Condition |
-|   $260 | Frame / Fork    | 6061 Black Label v2 - Frame Set - State Bicycle Co. x Wu-Tang Clan Edition - 49 cm (Riders 5'0" - 5'3") |
-|   $260 | Frame / Fork    | 6061 Black Label v2 - Frame Set - State Bicycle Co. x Wu-Tang Clan Edition - 52 cm (Riders 5'3" - 5'6") |
-|   $260 | Frame / Fork    | 6061 Black Label v2 - Frame Set - State Bicycle Co. x Wu-Tang Clan Edition - 55 cm (Riders 5'6" - 5'9") |
-|   $260 | Frame / Fork    | 6061 Black Label v2 - Frame Set - State Bicycle Co. x Wu-Tang Clan Edition - 57 cm (Riders 5'9"-6'0") |
-|   $260 | Frame / Fork    | 6061 Black Label v2 - Frame Set - State Bicycle Co. x Wu-Tang Clan Edition - 59 cm (Riders 6'0" - 6'3") |
-|   $260 | Frame / Fork    | 6061 Black Label v2 - Frame Set - State Bicycle Co. x Wu-Tang Clan Edition - 62 cm (Riders 6'3"-6'6") |
 |   $119 |                 | Saris - Mag+ Trainer |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $71 | Misc. Accessori | Blackburn Design - Outpost Front World Touring Rack |
@@ -238,3 +232,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $8 | Bicycles        | State Bicycle Co. - Seat Post - 27.2 mm / White |
 |     $8 | Bicycles        | State Bicycle Co. - Seat Post - 27.2 mm / Gold |
 |     $8 | Bicycles        | State Bicycle Co. - Seat Post - 27.2 mm / Silver |
+|     $7 | Accessories     | April Fools / Not April Fools ? - Carbon Stem Cap |
