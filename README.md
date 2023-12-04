@@ -76,6 +76,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - Large |
 |    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - X-Large |
 |    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - XX-Large |
+|    $69 | Jerseys + Kits  | State Bicycle Co. - "Ambigram" Reflective Jacket - Small |
+|    $69 | Jerseys + Kits  | State Bicycle Co. - "Ambigram" Reflective Jacket - Medium |
+|    $69 | Jerseys + Kits  | State Bicycle Co. - "Ambigram" Reflective Jacket - Large |
+|    $69 | Jerseys + Kits  | State Bicycle Co. - "Ambigram" Reflective Jacket - Extra Large |
+|    $69 | Jerseys + Kits  | State Bicycle Co. - "Ambigram" Reflective Jacket - XX-Large |
 |    $69 | Misc. Parts     | Black Label Series: Fixed Gear / Single Speed Crankset (Black) |
 |    $69 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - Killer Bee Bibs - Sustainable Clothing Collection - Small |
 |    $69 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - Killer Bee Bibs - Sustainable Clothing Collection - Medium |
@@ -221,8 +226,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $11 | Bicycles        | State Bicycle Co. - Seat Post - 27.2 mm / Gold |
 |    $11 | Bicycles        | State Bicycle Co. - Seat Post - 27.2 mm / Silver |
 |     $9 | Accessories     | April Fools / Not April Fools ? - Carbon Stem Cap |
-|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
-|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
-|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
-|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
-|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
