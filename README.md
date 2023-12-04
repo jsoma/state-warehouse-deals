@@ -69,6 +69,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $335 | closeout        | #912 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Good Condition |
 |   $149 |                 | Saris - Mag+ Trainer |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
+|    $89 | Jerseys + Kits  | State Bicycle Co. - "Ambigram" Reflective Jacket - Small |
+|    $89 | Jerseys + Kits  | State Bicycle Co. - "Ambigram" Reflective Jacket - Medium |
+|    $89 | Jerseys + Kits  | State Bicycle Co. - "Ambigram" Reflective Jacket - Large |
+|    $89 | Jerseys + Kits  | State Bicycle Co. - "Ambigram" Reflective Jacket - Extra Large |
+|    $89 | Jerseys + Kits  | State Bicycle Co. - "Ambigram" Reflective Jacket - XX-Large |
 |    $89 | Misc. Accessori | Blackburn Design - Outpost Front World Touring Rack |
 |    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - X-Small |
 |    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - Small |
@@ -76,11 +81,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - Large |
 |    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - X-Large |
 |    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - XX-Large |
-|    $69 | Jerseys + Kits  | State Bicycle Co. - "Ambigram" Reflective Jacket - Small |
-|    $69 | Jerseys + Kits  | State Bicycle Co. - "Ambigram" Reflective Jacket - Medium |
-|    $69 | Jerseys + Kits  | State Bicycle Co. - "Ambigram" Reflective Jacket - Large |
-|    $69 | Jerseys + Kits  | State Bicycle Co. - "Ambigram" Reflective Jacket - Extra Large |
-|    $69 | Jerseys + Kits  | State Bicycle Co. - "Ambigram" Reflective Jacket - XX-Large |
 |    $69 | Misc. Parts     | Black Label Series: Fixed Gear / Single Speed Crankset (Black) |
 |    $69 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - Killer Bee Bibs - Sustainable Clothing Collection - Small |
 |    $69 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - Killer Bee Bibs - Sustainable Clothing Collection - Medium |
