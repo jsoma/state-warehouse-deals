@@ -187,7 +187,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
 |    $24 | Handlebars      | Black Label Series: Compact Drop Handlebar (Black) |
 |    $24 | Misc. Parts     | Black Label Series:  Saddle |
-|    $20 | Accessories     | State Bicycle Co.  x Taco Bell -  All-Road Handlebar Bag |
 |    $20 | Accessories     | State Bicycle Co.  x Wu-Tang Clan -  All-Road Bar Bag |
 |    $15 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Small |
 |    $15 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Medium |
@@ -226,3 +225,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $7 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
 |     $7 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
 |     $7 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
+|     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
