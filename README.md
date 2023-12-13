@@ -117,11 +117,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - X-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - XX-Large |
-|    $47 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "Big Wu" Jersey - Sustainable Clothing Collection - Small |
-|    $47 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "Big Wu" Jersey - Sustainable Clothing Collection - Medium |
-|    $47 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "Big Wu" Jersey - Sustainable Clothing Collection - Large |
-|    $47 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "Big Wu" Jersey - Sustainable Clothing Collection - X-Large |
-|    $47 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "Big Wu" Jersey - Sustainable Clothing Collection - XX-Large |
 |    $47 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Small |
 |    $47 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Medium |
 |    $47 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Large |
@@ -226,3 +221,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $11 | Bicycles        | State Bicycle Co. - Seat Post - 27.2 mm / Gold |
 |    $11 | Bicycles        | State Bicycle Co. - Seat Post - 27.2 mm / Silver |
 |     $9 | Accessories     | April Fools / Not April Fools ? - Carbon Stem Cap |
+|     $7 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
+|     $7 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
+|     $7 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
+|     $7 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
+|     $7 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
