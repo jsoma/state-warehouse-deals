@@ -39,6 +39,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
 |   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
 |  $1390 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (add $349.99) |
+|   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'3") |
+|   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 52 cm (Riders 5'3"-5'6") |
+|   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
+|   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 58 cm (Riders 5'9"-6'1") |
+|   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
 |   $625 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $625 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1015 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (add $389.99) |
@@ -225,4 +230,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
 |     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
 |     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
-|     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
