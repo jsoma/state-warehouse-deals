@@ -214,7 +214,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $15 | Bicycles        | State Bicycle Co. x Wu-Tang Clan - Stem (90mm) - Black / 31.8mm |
 |    $15 | Bicycles        | State Bicycle Co. x Wu-Tang Clan - Stem (90mm) - Yellow / 25.4mm |
 |    $15 | Bicycles        | State Bicycle Co. x Wu-Tang Clan - Stem (90mm) - Yellow / 31.8mm |
-|    $14 | Hats            | State Bicycle Co. Beanie with Pom (Burnt Orange / Navy) |
 |    $14 | Hats            | State Bicycle Co. - Fly it High Beanie |
 |    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
 |    $12 | Hats            | State Bicycle Co. - Explore Your State Beanie with Pom (Royal Blue / Gold) |
@@ -230,3 +229,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
 |     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
 |     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
+|     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
