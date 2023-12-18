@@ -12,66 +12,66 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |  $1885 | 4130 All Road   | 4130 All-Road XPLR AXS - Black Canyon (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1485 | closeout        | #MV - Undefeated Track - Custom Black Prism - 55cm - SBC Team Member Bike - Used |
-|  $1200 | e-Bike          | 6061 - eBike Commuter - Matte Black - Small (49cm - Riders 5'3"-5'7") |
-|  $1200 | e-Bike          | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
-|  $1200 | e-Bike          | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
-|   $999 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
-|   $999 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
-|  $1390 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / Both (add $349.99) |
-|   $999 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 650b |
-|   $999 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 700c |
-|  $1390 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / Both (add $349.99) |
-|   $999 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 650b |
-|   $999 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 700c |
-|  $1390 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / Both (add $349.99) |
-|   $999 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
-|   $999 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
-|  $1390 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (add $349.99) |
-|   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
-|   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
-|  $1390 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / Both (add $349.99) |
-|   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 650b |
-|   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 700c |
-|  $1390 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / Both (add $349.99) |
-|   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 650b |
-|   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 700c |
-|  $1390 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / Both (add $349.99) |
-|   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
-|   $999 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
-|  $1390 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (add $349.99) |
+|  $1299 | e-Bike          | 6061 - eBike Commuter - Matte Black - Small (49cm - Riders 5'3"-5'7") |
+|  $1299 | e-Bike          | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
+|  $1299 | e-Bike          | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
+|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
+|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
+|  $1489 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / Both (add $349.99) |
+|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 650b |
+|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 700c |
+|  $1489 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / Both (add $349.99) |
+|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 650b |
+|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 700c |
+|  $1489 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / Both (add $349.99) |
+|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
+|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
+|  $1489 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (add $349.99) |
+|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
+|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
+|  $1489 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / Both (add $349.99) |
+|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 650b |
+|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 700c |
+|  $1489 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / Both (add $349.99) |
+|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 650b |
+|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 700c |
+|  $1489 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / Both (add $349.99) |
+|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
+|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
+|  $1489 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (add $349.99) |
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'3") |
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 52 cm (Riders 5'3"-5'6") |
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 58 cm (Riders 5'9"-6'1") |
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
-|   $625 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
-|   $625 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
-|  $1015 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (add $389.99) |
-|   $625 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
-|   $625 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
-|  $1015 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Small ( Riders 5'5" - 5'10") / Both (add $389.99) |
-|   $625 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
-|   $625 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
-|  $1015 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Medium ( Riders 5'9" - 6'2") / Both (add $389.99) |
-|   $625 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
-|   $625 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
-|  $1015 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
+|   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
+|   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
+|  $1114 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (add $389.99) |
+|   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
+|   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
+|  $1114 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Small ( Riders 5'5" - 5'10") / Both (add $389.99) |
+|   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
+|   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
+|  $1114 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Medium ( Riders 5'9" - 6'2") / Both (add $389.99) |
+|   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
+|   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
+|  $1114 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
+|   $360 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
+|   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
+|   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
+|   $360 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Riser Bars |
+|   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Bullhorn Bars (Add $25) |
+|   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Drop Bars (Add $25) |
+|   $360 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Riser Bars |
+|   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Bullhorn Bars (Add $25) |
+|   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Drop Bars (Add $25) |
+|   $360 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
+|   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
+|   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Small (43 cm - Riders 4'9" - 5'5") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
 |   $335 | closeout        | #912 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Good Condition |
-|   $260 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
-|   $285 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
-|   $285 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
-|   $260 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Riser Bars |
-|   $285 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Bullhorn Bars (Add $25) |
-|   $285 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Drop Bars (Add $25) |
-|   $260 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Riser Bars |
-|   $285 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Bullhorn Bars (Add $25) |
-|   $285 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Drop Bars (Add $25) |
-|   $260 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
-|   $285 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
-|   $285 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $149 |                 | Saris - Mag+ Trainer |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $89 | Jerseys + Kits  | State Bicycle Co. - "Ambigram" Reflective Jacket - Small |
