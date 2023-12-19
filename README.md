@@ -66,11 +66,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $335 | closeout        | #912 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Good Condition |
 |   $149 |                 | Saris - Mag+ Trainer |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
-|    $89 | Jerseys + Kits  | State Bicycle Co. - "Ambigram" Reflective Jacket - Small |
-|    $89 | Jerseys + Kits  | State Bicycle Co. - "Ambigram" Reflective Jacket - Medium |
-|    $89 | Jerseys + Kits  | State Bicycle Co. - "Ambigram" Reflective Jacket - Large |
-|    $89 | Jerseys + Kits  | State Bicycle Co. - "Ambigram" Reflective Jacket - Extra Large |
-|    $89 | Jerseys + Kits  | State Bicycle Co. - "Ambigram" Reflective Jacket - XX-Large |
 |    $89 | Misc. Accessori | Blackburn Design - Outpost Front World Touring Rack |
 |    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - X-Small |
 |    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - Small |
@@ -190,18 +185,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Large |
 |    $19 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - X-Large |
 |    $19 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - XX-Large |
-|    $29 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - X-Small |
-|    $29 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - Small |
-|    $29 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - Medium |
-|    $19 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - Large |
-|    $19 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - X-Large |
-|    $29 | Jerseys + Kits  | State Bicycle Co. x Corona Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
-|    $19 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Small |
-|    $19 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Small |
-|    $19 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Medium |
-|    $25 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Large |
-|    $25 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Large |
-|    $19 | Jerseys + Kits  | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - XX-Large |
 |    $15 | Bicycles        | State Bicycle Co. x Wu-Tang Clan - Stem (90mm) - Black / 25.4mm |
 |    $15 | Bicycles        | State Bicycle Co. x Wu-Tang Clan - Stem (90mm) - Black / 31.8mm |
 |    $15 | Bicycles        | State Bicycle Co. x Wu-Tang Clan - Stem (90mm) - Yellow / 25.4mm |
@@ -216,10 +199,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $11 | Bicycles        | State Bicycle Co. - Seat Post - 27.2 mm / Gold |
 |    $11 | Bicycles        | State Bicycle Co. - Seat Post - 27.2 mm / Silver |
 |     $9 | Accessories     | April Fools / Not April Fools ? - Carbon Stem Cap |
-|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Small |
-|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Medium |
-|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Large |
-|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - Extra Large |
-|     $9 | Shirts          | State Bicycle Co. x Corona Collab T-shirt - 2X-Large |
 |     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
 |     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
+|     $0 | closeout        | Patch: Hell Ride High Noon - Vol 2. (2015) |
+|     $0 | closeout        | Patch: Explore Your State Vol. 3 - Phoenix to Tucson |
+|     $0 | closeout        | Patch: Explore Your State Vol. 2 - Dirt, Rivers & 9 Mile Hill |
+|     $0 | closeout        | Patch: Phoenix to Tucson (Volume 1) |
