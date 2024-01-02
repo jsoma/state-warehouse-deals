@@ -98,13 +98,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - Large |
 |    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - X-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - XX-Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - X-Small |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - Small |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - Medium |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - X-Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - XX-Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - 3X-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - Small |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - Medium |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - Large |
