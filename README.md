@@ -160,7 +160,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
 |    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
-|    $24 | Handlebars      | Black Label Series: Compact Drop Handlebar (Black) |
 |    $24 | Misc. Parts     | Black Label Series:  Saddle |
 |    $19 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Small |
 |    $19 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Medium |
