@@ -67,6 +67,12 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $127 |                 | Saris - Mag+ Trainer |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $76 | Misc. Accessori | Blackburn Design - Outpost Front World Touring Rack |
+|    $63 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - X-Small |
+|    $63 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - Small |
+|    $63 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - Medium |
+|    $63 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - Large |
+|    $63 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - X-Large |
+|    $63 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - XX-Large |
 |    $59 | Misc. Parts     | Black Label Series: Fixed Gear / Single Speed Crankset (Black) |
 |    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - X-Small |
 |    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - Small |
