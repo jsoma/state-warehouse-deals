@@ -91,7 +91,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $425 | closeout        | #970 - 4130 Fixed-Gear / Single-Speed  - Matte Black / Mirror - 59cm - Good Condition |
 |   $425 | closeout        | #948 - City Bike  - Black & Tan 3-Speed - 48cm (Small) - Like-New Condition |
 |   $395 | closeout        | #956 - 4130 Road (8-Speed)  - Americana - 52cm - Fair Condition |
-|   $385 | closeout        | #965 - 4130 Fixed-Gear / Single-Speed  - Navy / Gold - 49cm - Fair Condition |
 |   $375 | closeout        | #967- Klunker - State Bicycle Co. x The Beatles "Yellow Submarine" Edition - Like-New Condition |
 |   $365 | closeout        | #964 - 4130 Road (8-Speed)  - Hunter - 59cm - Fair Condition |
 |   $360 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
@@ -114,3 +113,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $329 | closeout        | #971 - Core-Line  - Ghoul - Small (50cm) - Like-New Condition |
 |   $329 | closeout        | #966 - Core-Line  -  Lavender Haze - Medium (54cm) - Like-New Condition |
 |   $329 | closeout        | #961 - Core-Line  - Pigeon - Small (50cm) - Like-New Condition |
+|   $329 | closeout        | #947 - Core-Line  - Pigeon - X-Small (46cm) - Like-New Condition |
