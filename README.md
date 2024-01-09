@@ -77,12 +77,15 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $525 | closeout        | #973 - 6061 Black Label v2 (Fixed-Gear)   - Wu-Tang Edition - 52cm - Like-New Condition |
 |   $525 | closeout        | #972 - 6061 Black Label v2 (Fixed-Gear)   - Pearl White - 55cm - Like-New Condition |
 |   $495 | closeout        | #963 - 6061 Black Label v2 (Fixed-Gear)   - Pearl White - 59cm - Very-Good Condition |
+|   $495 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $485 | closeout        | #987 - 4130 Road (8-Speed)  - Hunter- 59cm - Like-New Condition |
 |   $485 | closeout        | #981 - 4130 Road (8-Speed)  - Black / Metallic - 59cm - Like-New Condition |
 |   $485 | closeout        | #962 - 4130 Road (8-Speed)  - Hunter - 59cm - Like-New Condition |
 |   $475 | closeout        | #968 - 4130 Fixed-Gear / Single-Speed  - Matte Black / Mirror - 52cm - Like-New Condition |
 |   $475 | closeout        | #950 - 4130 Fixed-Gear / Single-Speed  - Purple Reign - 46cm - Like-New Condition |
+|   $475 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 59cm - Photo Model / Excellent Condition |
 |   $445 | closeout        | #986 - 4130 Fixed-Gear / Single-Speed  - Matte Black / Mirror - 49cm - Good Condition |
+|   $445 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 52cm - Photo Model / Excellent Condition |
 |   $439 | closeout        | #969 - 4130 Road (8-Speed)  - Americana - 55cm - Very-Good Condition |
 |   $439 | closeout        | #979 - 4130 Road (8-Speed)  - Americana - 55cm - Very-Good Condition |
 |   $435 | closeout        | #955 - 4130 Fixed-Gear / Single-Speed  - Matte Olive - 46cm - Very-Good Condition |
@@ -111,6 +114,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $335 | closeout        | #912 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Good Condition |
 |   $329 | closeout        | #971 - Core-Line  - Ghoul - Small (50cm) - Like-New Condition |
 |   $329 | closeout        | #966 - Core-Line  -  Lavender Haze - Medium (54cm) - Like-New Condition |
-|   $329 | closeout        | #961 - Core-Line  - Pigeon - Small (50cm) - Like-New Condition |
-|   $329 | closeout        | #947 - Core-Line  - Pigeon - X-Small (46cm) - Like-New Condition |
-|   $289 | closeout        | #982 - Core-Line  -  Pigeon - Small (50cm) - Very Good Condition |
