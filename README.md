@@ -51,7 +51,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1289 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
-|   $765 | closeout        | #946 - Undefeated Track  - Graphite / Prism - 55cm - Like-New Condition |
 |   $755 | closeout        | #977 - 4130 All-Road  - Raw / Phosphate - Large w/ 650b Wheels - Very-Good Condition |
 |   $725 | closeout        | #983 - 4130 All-Road  - Matte-Olive - Small w/ 650b Wheels - Like-New Condition |
 |   $725 | closeout        | #952 - 4130 All-Road  - Copper Brown - X-Small w/ 700c Wheels - Like-New Condition |
@@ -114,3 +113,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $329 | closeout        | #961 - Core-Line  - Pigeon - Small (50cm) - Like-New Condition |
 |   $329 | closeout        | #947 - Core-Line  - Pigeon - X-Small (46cm) - Like-New Condition |
 |   $289 | closeout        | #982 - Core-Line  -  Pigeon - Small (50cm) - Very Good Condition |
+|   $265 | closeout        | #975 - Core-Line  -  Wulf - Small (50cm) - Good Condition |
