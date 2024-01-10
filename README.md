@@ -110,7 +110,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $335 | closeout        | #912 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Good Condition |
 |   $329 | closeout        | #971 - Core-Line  - Ghoul - Small (50cm) - Like-New Condition |
 |   $329 | closeout        | #966 - Core-Line  -  Lavender Haze - Medium (54cm) - Like-New Condition |
-|   $329 | closeout        | #961 - Core-Line  - Pigeon - Small (50cm) - Like-New Condition |
 |   $329 | closeout        | #947 - Core-Line  - Pigeon - X-Small (46cm) - Like-New Condition |
 |   $289 | closeout        | #982 - Core-Line  -  Pigeon - Small (50cm) - Very Good Condition |
 |   $265 | closeout        | #975 - Core-Line  -  Wulf - Small (50cm) - Good Condition |
+|   $245 | closeout        | #959 - City Bike  - Elliston 3-Speed - 48cm (Small) - Fair Condition |
