@@ -88,7 +88,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $445 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 52cm - Photo Model / Excellent Condition |
 |   $439 | closeout        | #969 - 4130 Road (8-Speed)  - Americana - 55cm - Very-Good Condition |
 |   $435 | closeout        | #955 - 4130 Fixed-Gear / Single-Speed  - Matte Olive - 46cm - Very-Good Condition |
-|   $425 | closeout        | #970 - 4130 Fixed-Gear / Single-Speed  - Matte Black / Mirror - 59cm - Good Condition |
 |   $425 | closeout        | #948 - City Bike  - Black & Tan 3-Speed - 48cm (Small) - Like-New Condition |
 |   $395 | closeout        | #956 - 4130 Road (8-Speed)  - Americana - 52cm - Fair Condition |
 |   $375 | closeout        | #967- Klunker - State Bicycle Co. x The Beatles "Yellow Submarine" Edition - Like-New Condition |
@@ -114,3 +113,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $329 | closeout        | #966 - Core-Line  -  Lavender Haze - Medium (54cm) - Like-New Condition |
 |   $329 | closeout        | #961 - Core-Line  - Pigeon - Small (50cm) - Like-New Condition |
 |   $329 | closeout        | #947 - Core-Line  - Pigeon - X-Small (46cm) - Like-New Condition |
+|   $289 | closeout        | #982 - Core-Line  -  Pigeon - Small (50cm) - Very Good Condition |
