@@ -73,7 +73,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $655 | closeout        | #985 - 6061 Black Label v3 (Fixed-Gear)   - Black / Mirror - 49cm - Very-Good Condition |
 |   $635 | closeout        | #984 - 4130 All-Road  - Fiesta Black - Large w/ 650b Wheels - Good Condition |
 |   $525 | closeout        | #973 - 6061 Black Label v2 (Fixed-Gear)   - Wu-Tang Edition - 52cm - Like-New Condition |
-|   $525 | closeout        | #972 - 6061 Black Label v2 (Fixed-Gear)   - Pearl White - 55cm - Like-New Condition |
 |   $495 | closeout        | #963 - 6061 Black Label v2 (Fixed-Gear)   - Pearl White - 59cm - Very-Good Condition |
 |   $495 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $485 | closeout        | #987 - 4130 Road (8-Speed)  - Hunter- 59cm - Like-New Condition |
@@ -114,3 +113,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $245 | closeout        | #957 - City Bike  - Elliston 3-Speed - 48cm (Small) - Fair Condition |
 |   $149 |                 | Saris - Mag+ Trainer |
 |    $95 | closeout        | #RS1 - Shimano Deore XT Pedals - Like-New Condition |
+|    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
