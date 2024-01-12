@@ -50,7 +50,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1289 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
-|   $755 | closeout        | #977 - 4130 All-Road  - Raw / Phosphate - Large w/ 650b Wheels - Very-Good Condition |
 |   $725 | closeout        | #983 - 4130 All-Road  - Matte-Olive - Small w/ 650b Wheels - Like-New Condition |
 |   $725 | closeout        | #949 - 4130 All-Road  - Turquoise Fade - Medium w/ 650b Wheels - Like-New Condition |
 |   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
@@ -119,3 +118,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - XX-Large |
 |    $69 | Misc. Parts     | Black Label Series: Fixed Gear / Single Speed Crankset (Black) |
 |    $65 | closeout        | #RS2 - Shimano PD-540 SPD Pedals - Like-New Condition |
+|    $65 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - X-Small |
+|    $65 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - Small |
+|    $65 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - Medium |
+|    $65 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - Large |
+|    $65 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - X-Large |
+|    $65 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - XX-Large |
