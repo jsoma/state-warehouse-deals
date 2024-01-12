@@ -67,7 +67,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $695 | closeout        | #989 - Undefeated Track  - Graphite / Prism - 52cm - Good Condition |
 |   $695 | closeout        | #974 - 4130 All-Road  - Turquoise Fade - Medium w/ 700c Wheels - Very-Good Condition |
 |   $695 | closeout        | #958 - 4130 All-Road  - Copper Brown - Large w/ 650b Wheels - Very-Good Condition |
-|   $695 | closeout        | #953 - 4130 All-Road  - Copper Brown - Large w/ 650b Wheels - Excellent Condition |
 |   $655 | closeout        | #985 - 6061 Black Label v3 (Fixed-Gear)   - Black / Mirror - 49cm - Very-Good Condition |
 |   $635 | closeout        | #984 - 4130 All-Road  - Fiesta Black - Large w/ 650b Wheels - Good Condition |
 |   $525 | closeout        | #973 - 6061 Black Label v2 (Fixed-Gear)   - Wu-Tang Edition - 52cm - Like-New Condition |
@@ -139,3 +138,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Tie-Dye) - Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Tie-Dye) - X-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Tie-Dye) - XX-Large |
+|    $65 | Jerseys + Kits  | State Bicycle Co. - Sunset Jersey  - Sustainable Clothing Collection (Blue) - Small |
+|    $65 | Jerseys + Kits  | State Bicycle Co. - Sunset Jersey  - Sustainable Clothing Collection (Blue) - Medium |
+|    $65 | Jerseys + Kits  | State Bicycle Co. - Sunset Jersey  - Sustainable Clothing Collection (Blue) - Large |
+|    $65 | Jerseys + Kits  | State Bicycle Co. - Sunset Jersey  - Sustainable Clothing Collection (Blue) - X-Large |
+|    $65 | Jerseys + Kits  | State Bicycle Co. - Sunset Jersey  - Sustainable Clothing Collection (Blue) - XX-Large |
