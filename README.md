@@ -66,7 +66,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $695 | closeout        | #989 - Undefeated Track  - Graphite / Prism - 52cm - Good Condition |
 |   $695 | closeout        | #974 - 4130 All-Road  - Turquoise Fade - Medium w/ 700c Wheels - Very-Good Condition |
 |   $655 | closeout        | #985 - 6061 Black Label v3 (Fixed-Gear)   - Black / Mirror - 49cm - Very-Good Condition |
-|   $635 | closeout        | #984 - 4130 All-Road  - Fiesta Black - Large w/ 650b Wheels - Good Condition |
 |   $525 | closeout        | #973 - 6061 Black Label v2 (Fixed-Gear)   - Wu-Tang Edition - 52cm - Like-New Condition |
 |   $495 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $485 | closeout        | #987 - 4130 Road (8-Speed)  - Hunter- 59cm - Like-New Condition |
@@ -77,7 +76,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $445 | closeout        | #986 - 4130 Fixed-Gear / Single-Speed  - Matte Black / Mirror - 49cm - Good Condition |
 |   $445 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 52cm - Photo Model / Excellent Condition |
 |   $439 | closeout        | #969 - 4130 Road (8-Speed)  - Americana - 55cm - Very-Good Condition |
-|   $435 | closeout        | #955 - 4130 Fixed-Gear / Single-Speed  - Matte Olive - 46cm - Very-Good Condition |
 |   $425 | closeout        | #948 - City Bike  - Black & Tan 3-Speed - 48cm (Small) - Like-New Condition |
 |   $395 | closeout        | #956 - 4130 Road (8-Speed)  - Americana - 52cm - Fair Condition |
 |   $360 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
@@ -149,3 +147,14 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - X-Large |
 |    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - XX-Large |
 |    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - 3X-Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Small |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Medium |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - X-Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - XX-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - X-Small |
+|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - Small |
+|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - Medium |
+|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - Large |
+|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - X-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - XX-Large |
