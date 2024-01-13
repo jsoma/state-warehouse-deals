@@ -72,7 +72,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $525 | closeout        | #973 - 6061 Black Label v2 (Fixed-Gear)   - Wu-Tang Edition - 52cm - Like-New Condition |
 |   $495 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $485 | closeout        | #987 - 4130 Road (8-Speed)  - Hunter- 59cm - Like-New Condition |
-|   $485 | closeout        | #981 - 4130 Road (8-Speed)  - Black / Metallic - 59cm - Like-New Condition |
 |   $485 | closeout        | #962 - 4130 Road (8-Speed)  - Hunter - 59cm - Like-New Condition |
 |   $475 | closeout        | #968 - 4130 Fixed-Gear / Single-Speed  - Matte Black / Mirror - 52cm - Like-New Condition |
 |   $475 | closeout        | #950 - 4130 Fixed-Gear / Single-Speed  - Purple Reign - 46cm - Like-New Condition |
@@ -143,3 +142,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Sunset Jersey  - Sustainable Clothing Collection (Blue) - Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Sunset Jersey  - Sustainable Clothing Collection (Blue) - X-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Sunset Jersey  - Sustainable Clothing Collection (Blue) - XX-Large |
+|    $60 | closeout        | #RS40 - Shimano XC1 Mountain Bike Shoe - Men's Size 46 |
