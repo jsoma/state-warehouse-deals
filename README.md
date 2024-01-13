@@ -3,7 +3,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
-|  $1875 | closeout        | #976 - 6061 All-Road  - Deep Pacific SRAM Apex XPLR Group w/ 700c Wheels - Medium - Very-Good Condition |
 |  $1485 | closeout        | #MV - Undefeated Track - Custom Black Prism - 55cm - SBC Team Member Bike - Used |
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
@@ -66,7 +65,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1114 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
 |   $695 | closeout        | #989 - Undefeated Track  - Graphite / Prism - 52cm - Good Condition |
 |   $695 | closeout        | #974 - 4130 All-Road  - Turquoise Fade - Medium w/ 700c Wheels - Very-Good Condition |
-|   $695 | closeout        | #958 - 4130 All-Road  - Copper Brown - Large w/ 650b Wheels - Very-Good Condition |
 |   $655 | closeout        | #985 - 6061 Black Label v3 (Fixed-Gear)   - Black / Mirror - 49cm - Very-Good Condition |
 |   $635 | closeout        | #984 - 4130 All-Road  - Fiesta Black - Large w/ 650b Wheels - Good Condition |
 |   $525 | closeout        | #973 - 6061 Black Label v2 (Fixed-Gear)   - Wu-Tang Edition - 52cm - Like-New Condition |
@@ -143,3 +141,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Sunset Jersey  - Sustainable Clothing Collection (Blue) - X-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Sunset Jersey  - Sustainable Clothing Collection (Blue) - XX-Large |
 |    $60 | closeout        | #RS40 - Shimano XC1 Mountain Bike Shoe - Men's Size 46 |
+|    $60 | closeout        | #RS39 - Shimano XC1 Mountain Bike Shoe - Men's Size 43 |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - X-Small |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - Small |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - Medium |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - X-Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - XX-Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Bibs - 3X-Large |
