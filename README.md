@@ -77,7 +77,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $445 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 52cm - Photo Model / Excellent Condition |
 |   $439 | closeout        | #969 - 4130 Road (8-Speed)  - Americana - 55cm - Very-Good Condition |
 |   $425 | closeout        | #948 - City Bike  - Black & Tan 3-Speed - 48cm (Small) - Like-New Condition |
-|   $395 | closeout        | #956 - 4130 Road (8-Speed)  - Americana - 52cm - Fair Condition |
 |   $360 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
 |   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
@@ -158,3 +157,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - Large |
 |    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - X-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - XX-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - X-Small |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - Small |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - Medium |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - X-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - XX-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - 3X-Large |
