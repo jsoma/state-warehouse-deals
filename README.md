@@ -48,7 +48,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1289 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
-|   $725 | closeout        | #983 - 4130 All-Road  - Matte-Olive - Small w/ 650b Wheels - Like-New Condition |
 |   $725 | closeout        | #949 - 4130 All-Road  - Turquoise Fade - Medium w/ 650b Wheels - Like-New Condition |
 |   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
@@ -178,3 +177,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
 |    $39 | Accessories     | State Bicycle Co. x Taco Bell:  Klunker Frame Bag |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - X-Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - Medium |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - X-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - XX-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - 3X-Large |
