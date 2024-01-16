@@ -36,7 +36,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 58 cm (Riders 5'9"-6'1") |
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
-|   $825 | closeout        | #978 - 6061 All-Road  - Deep Pacific w/ 700c Wheels - X-Small - Fair Condition |
 |   $899 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") - Estimated Shipping Late-September / 650b |
 |   $899 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") - Estimated Shipping Late-September / 700c |
 |  $1289 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") - Estimated Shipping Late-September / Both (add $389.99) |
@@ -168,3 +167,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - X-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Small |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Medium |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - XX-Large |
