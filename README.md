@@ -64,7 +64,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1114 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
 |   $695 | closeout        | #989 - Undefeated Track  - Graphite / Prism - 52cm - Good Condition |
-|   $655 | closeout        | #985 - 6061 Black Label v3 (Fixed-Gear)   - Black / Mirror - 49cm - Very-Good Condition |
 |   $525 | closeout        | #973 - 6061 Black Label v2 (Fixed-Gear)   - Wu-Tang Edition - 52cm - Like-New Condition |
 |   $495 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $485 | closeout        | #987 - 4130 Road (8-Speed)  - Hunter- 59cm - Like-New Condition |
@@ -164,3 +163,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - 3X-Large |
 |    $50 | closeout        | #RS38 - Shimano XC1 Mountain Bike Shoes - Women's Size 39 |
 |    $50 | closeout        | #RS37 - Shimano XC1 Mountain Bike Shoes - Women's Size 38 |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - Small |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - Medium |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
