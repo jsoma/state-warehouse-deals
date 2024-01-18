@@ -67,7 +67,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $475 | closeout        | #950 - 4130 Fixed-Gear / Single-Speed  - Purple Reign - 46cm - Like-New Condition |
 |   $475 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 59cm - Photo Model / Excellent Condition |
 |   $445 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 52cm - Photo Model / Excellent Condition |
-|   $439 | closeout        | #969 - 4130 Road (8-Speed)  - Americana - 55cm - Very-Good Condition |
 |   $425 | closeout        | #948 - City Bike  - Black & Tan 3-Speed - 48cm (Small) - Like-New Condition |
 |   $360 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
@@ -196,3 +195,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - XX-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - 3X-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Medium |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
