@@ -67,7 +67,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $485 | closeout        | #962 - 4130 Road (8-Speed)  - Hunter - 59cm - Like-New Condition |
 |   $475 | closeout        | #950 - 4130 Fixed-Gear / Single-Speed  - Purple Reign - 46cm - Like-New Condition |
 |   $475 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 59cm - Photo Model / Excellent Condition |
-|   $445 | closeout        | #986 - 4130 Fixed-Gear / Single-Speed  - Matte Black / Mirror - 49cm - Good Condition |
 |   $445 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 52cm - Photo Model / Excellent Condition |
 |   $439 | closeout        | #969 - 4130 Road (8-Speed)  - Americana - 55cm - Very-Good Condition |
 |   $425 | closeout        | #948 - City Bike  - Black & Tan 3-Speed - 48cm (Small) - Like-New Condition |
@@ -184,3 +183,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - XX-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - 3X-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - X-Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Medium |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - X-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - XX-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - 3X-Large |
