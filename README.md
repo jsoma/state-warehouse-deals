@@ -86,7 +86,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $335 | closeout        | #912 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Good Condition |
 |   $245 | closeout        | #959 - City Bike  - Elliston 3-Speed - 48cm (Small) - Fair Condition |
 |   $245 | closeout        | #957 - City Bike  - Elliston 3-Speed - 48cm (Small) - Fair Condition |
-|    $95 | closeout        | #RS1 - Shimano Deore XT Pedals - Like-New Condition |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $89 | Misc. Accessori | Blackburn Design - Outpost Front World Touring Rack |
 |    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - X-Small |
@@ -205,3 +204,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - Extra Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - XX-Large |
+|    $35 | closeout        | #RS6 - ABUS ultra mini 410 Lock - Like-New Condition |
