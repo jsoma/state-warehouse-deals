@@ -141,23 +141,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - 3X-Large |
 |    $50 | closeout        | #RS38 - Shimano XC1 Mountain Bike Shoes - Women's Size 39 |
 |    $50 | closeout        | #RS37 - Shimano XC1 Mountain Bike Shoes - Women's Size 38 |
-|    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - Small |
-|    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - Medium |
-|    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - Large |
-|    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - X-Large |
-|    $49 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" All-Road Jersey - Sustainable Clothing Collection - XX-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Small |
 |    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Medium |
 |    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - X-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - XX-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - X-Small |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - Small |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - Medium |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - X-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - XX-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - All-Road Jersey / Tech-T - 3X-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Small |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Small |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Medium |
@@ -208,3 +196,5 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 48 tooth |
 |    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 49 tooth |
 |    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
+|    $34 | closeout        | #RS11 - Kryptonite Keeper 790 Combo Chain Lock - Like-New Condition |
+|    $33 | closeout        | #RS20 - Cruzen Universal Bike Phone Holder - Like-New Condition |
