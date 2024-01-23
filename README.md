@@ -62,6 +62,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1114 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
+|   $695 | closeout        | #OBI - 4130 All-Road - Flat Bar - Fiesta Black (Large 650b) - Brand-New Condition |
 |   $695 | closeout        | #998 - 4130 All-Road  - Turquoise Fade - Small w/ 650b Wheels - Excellent Condition |
 |   $595 | closeout        | #999 - 6061 Black Label v3 (Fixed-Gear)   - Purple / White - 58cm - Good Condition |
 |   $495 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
@@ -91,18 +92,30 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
 |   $335 | closeout        | #912 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Good Condition |
+|   $325 | Core-Line       | Pigeon - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
+|   $350 | Core-Line       | Pigeon - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
+|   $350 | Core-Line       | Pigeon - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
+|   $325 | Core-Line       | Pigeon - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Riser Bars |
+|   $350 | Core-Line       | Pigeon - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Bullhorn Bars (Add $25) |
+|   $350 | Core-Line       | Pigeon - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Drop Bars (Add $25) |
+|   $325 | Core-Line       | Pigeon - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Riser Bars |
+|   $350 | Core-Line       | Pigeon - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Bullhorn Bars (Add $25) |
+|   $350 | Core-Line       | Pigeon - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Drop Bars (Add $25) |
+|   $325 | Core-Line       | Pigeon - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
+|   $350 | Core-Line       | Pigeon - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
+|   $350 | Core-Line       | Pigeon - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $325 | Core-Line       | Delfin - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $350 | Core-Line       | Delfin - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
 |   $350 | Core-Line       | Delfin - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
 |   $325 | Core-Line       | Delfin - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Riser Bars |
-|   $424 | Core-Line       | Delfin - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Bullhorn Bars (Add $25) |
-|   $424 | Core-Line       | Delfin - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Drop Bars (Add $25) |
-|   $399 | Core-Line       | Delfin - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Riser Bars |
-|   $424 | Core-Line       | Delfin - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Bullhorn Bars (Add $25) |
-|   $424 | Core-Line       | Delfin - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Drop Bars (Add $25) |
-|   $399 | Core-Line       | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
-|   $424 | Core-Line       | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
-|   $424 | Core-Line       | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
+|   $350 | Core-Line       | Delfin - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Bullhorn Bars (Add $25) |
+|   $350 | Core-Line       | Delfin - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Drop Bars (Add $25) |
+|   $325 | Core-Line       | Delfin - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Riser Bars |
+|   $350 | Core-Line       | Delfin - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Bullhorn Bars (Add $25) |
+|   $350 | Core-Line       | Delfin - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Drop Bars (Add $25) |
+|   $325 | Core-Line       | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
+|   $350 | Core-Line       | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
+|   $350 | Core-Line       | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $315 | Bicycles        | #997 : Ghoul - Core-Line - Size: Large (58cm) - Good Condition (see notes) |
 |   $315 | Bicycles        | #993 : Wulf - Core-Line - Size: Medium (54cm) - Very Good Condition (see notes) |
 |   $285 | Bicycles        | #991 : Lavendar Haze - Core-Line - Size X-Small (46cm) - Very Good Condition (see notes) |
@@ -163,9 +176,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - XX-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - 3X-Large |
 |    $50 | closeout        | #RS38 - Shimano XC1 Mountain Bike Shoes - Women's Size 39 |
-|    $50 | closeout        | #RS37 - Shimano XC1 Mountain Bike Shoes - Women's Size 38 |
-|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Small |
-|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Medium |
-|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
-|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - X-Large |
-|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - XX-Large |
