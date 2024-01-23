@@ -63,6 +63,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $725 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1114 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
 |   $695 | closeout        | #998 - 4130 All-Road  - Turquoise Fade - Small w/ 650b Wheels - Excellent Condition |
+|   $595 | closeout        | #999 - 6061 Black Label v3 (Fixed-Gear)   - Purple / White - 58cm - Good Condition |
 |   $495 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $485 | closeout        | #987 - 4130 Road (8-Speed)  - Hunter- 59cm - Like-New Condition |
 |   $485 | closeout        | #962 - 4130 Road (8-Speed)  - Hunter - 59cm - Like-New Condition |
@@ -73,6 +74,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $435 | closeout        | #996 - 4130 Road (8-Speed)  - Hunter- 59cm - Very-Good Condition |
 |   $425 | closeout        | #948 - City Bike  - Black & Tan 3-Speed - 48cm (Small) - Like-New Condition |
 |   $415 | closeout        | #994 - 4130 Fixed-Gear / Single-Speed  - Matte Black / Mirror - 62cm - Good Condition |
+|   $365 | closeout        | #PM/OBI - Klunker - SBC x RIPNDIP - Klunker + Bag Combo - Like-New Condition (Photo Model / Media Sample) |
 |   $360 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
 |   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
@@ -89,6 +91,18 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
 |   $335 | closeout        | #912 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Good Condition |
+|   $325 | Core-Line       | Delfin - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
+|   $350 | Core-Line       | Delfin - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
+|   $350 | Core-Line       | Delfin - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
+|   $325 | Core-Line       | Delfin - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Riser Bars |
+|   $424 | Core-Line       | Delfin - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Bullhorn Bars (Add $25) |
+|   $424 | Core-Line       | Delfin - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Drop Bars (Add $25) |
+|   $399 | Core-Line       | Delfin - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Riser Bars |
+|   $424 | Core-Line       | Delfin - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Bullhorn Bars (Add $25) |
+|   $424 | Core-Line       | Delfin - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Drop Bars (Add $25) |
+|   $399 | Core-Line       | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
+|   $424 | Core-Line       | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
+|   $424 | Core-Line       | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $315 | Bicycles        | #997 : Ghoul - Core-Line - Size: Large (58cm) - Good Condition (see notes) |
 |   $315 | Bicycles        | #993 : Wulf - Core-Line - Size: Medium (54cm) - Very Good Condition (see notes) |
 |   $285 | Bicycles        | #991 : Lavendar Haze - Core-Line - Size X-Small (46cm) - Very Good Condition (see notes) |
@@ -155,16 +169,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - X-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - XX-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Small |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Small |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Medium |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - 3X-Large |
-|    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Small |
-|    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Medium |
-|    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
-|    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
-|    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
-|    $39 | Accessories     | State Bicycle Co. x Taco Bell:  Klunker Frame Bag |
