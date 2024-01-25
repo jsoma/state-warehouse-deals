@@ -75,6 +75,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1114 | 4130 All Road   | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
 |   $695 | closeout        | #OBI - 4130 All-Road - Flat Bar - Fiesta Black (Large 650b) - Brand-New Condition |
 |   $695 | closeout        | #998 - 4130 All-Road  - Turquoise Fade - Small w/ 650b Wheels - Excellent Condition |
+|   $625 | closeout        | #1001 - 4130 All-Road  - Turquoise Fade - X-Small w/ 650b Wheels - Very-Good Condition |
 |   $595 | closeout        | #999 - 6061 Black Label v3 (Fixed-Gear)   - Purple / White - 58cm - Good Condition |
 |   $495 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $485 | closeout        | #987 - 4130 Road (8-Speed)  - Hunter- 59cm - Like-New Condition |
@@ -186,4 +187,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - XX-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - 3X-Large |
 |    $50 | closeout        | #RS38 - Shimano XC1 Mountain Bike Shoes - Women's Size 39 |
-|    $50 | closeout        | #RS37 - Shimano XC1 Mountain Bike Shoes - Women's Size 38 |
