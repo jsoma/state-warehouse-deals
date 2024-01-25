@@ -77,6 +77,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $695 | closeout        | #998 - 4130 All-Road  - Turquoise Fade - Small w/ 650b Wheels - Excellent Condition |
 |   $625 | closeout        | #1001 - 4130 All-Road  - Turquoise Fade - X-Small w/ 650b Wheels - Very-Good Condition |
 |   $595 | closeout        | #999 - 6061 Black Label v3 (Fixed-Gear)   - Purple / White - 58cm - Good Condition |
+|   $545 | closeout        | #1004 - 6061 Black-Label v2 (Fixed-Gear)  - Army Green - 59cm - Very Good Condition |
 |   $495 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $485 | closeout        | #987 - 4130 Road (8-Speed)  - Hunter- 59cm - Like-New Condition |
 |   $485 | closeout        | #962 - 4130 Road (8-Speed)  - Hunter - 59cm - Like-New Condition |
@@ -175,9 +176,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Large |
 |    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - X-Large |
 |    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - XX-Large |
-|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - X-Small |
-|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - Small |
-|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - Medium |
-|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - Large |
-|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - X-Large |
-|    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - XX-Large |
