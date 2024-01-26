@@ -4,6 +4,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |price|type|name|
 |---|---|---|
 |  $1645 | closeout        | #990 - 4130 All-Road XPLR AXS - Black Canyon (700c) - Small (47 cm) - Very Good Condition |
+|  $1165 | closeout        | #1006 - 6061 All-Road  - Matte Olive w/ 650b Wheels - X-Small - Excellent Condition |
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
 |  $1489 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / Both (add $349.99) |
@@ -37,6 +38,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 58 cm (Riders 5'9"-6'1") |
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
+|   $945 | closeout        | #1007 - 6061 All-Road  - Dark Woodland w/ 650b Wheels - Medium - Good Condition |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1164 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (add $389.99) |
@@ -170,5 +172,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Sunset Jersey  - Sustainable Clothing Collection (Blue) - Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Sunset Jersey  - Sustainable Clothing Collection (Blue) - X-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Sunset Jersey  - Sustainable Clothing Collection (Blue) - XX-Large |
-|    $60 | closeout        | #RS40 - Shimano XC1 Mountain Bike Shoe - Men's Size 46 |
-|    $60 | closeout        | #RS39 - Shimano XC1 Mountain Bike Shoe - Men's Size 43 |
