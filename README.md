@@ -136,7 +136,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $315 | Bicycles        | #997 : Ghoul - Core-Line - Size: Large (58cm) - Good Condition (see notes) |
 |   $315 | Bicycles        | #993 : Wulf - Core-Line - Size: Medium (54cm) - Very Good Condition (see notes) |
 |   $285 | Bicycles        | #991 : Lavendar Haze - Core-Line - Size X-Small (46cm) - Very Good Condition (see notes) |
-|   $245 | closeout        | #1002 - Core-Line - Delfin - Size Large (58cm) - Good Condition |
 |   $245 | closeout        | #959 - City Bike  - Elliston 3-Speed - 48cm (Small) - Fair Condition |
 |   $245 | closeout        | #957 - City Bike  - Elliston 3-Speed - 48cm (Small) - Fair Condition |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
@@ -168,3 +167,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $65 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - Large |
 |    $65 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - X-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Team x Rapha - Pro Team Lightweight Gilet (Vest) - XX-Large |
+|    $65 | Jerseys + Kits  | State Bicycle Co. - Sunset Jersey  - Sustainable Clothing Collection (Blue) - Small |
+|    $65 | Jerseys + Kits  | State Bicycle Co. - Sunset Jersey  - Sustainable Clothing Collection (Blue) - Medium |
+|    $65 | Jerseys + Kits  | State Bicycle Co. - Sunset Jersey  - Sustainable Clothing Collection (Blue) - Large |
+|    $65 | Jerseys + Kits  | State Bicycle Co. - Sunset Jersey  - Sustainable Clothing Collection (Blue) - X-Large |
+|    $65 | Jerseys + Kits  | State Bicycle Co. - Sunset Jersey  - Sustainable Clothing Collection (Blue) - XX-Large |
