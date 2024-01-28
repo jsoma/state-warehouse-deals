@@ -78,7 +78,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $695 | closeout        | #OBI - 4130 All-Road - Flat Bar - Fiesta Black (Large 650b) - Brand-New Condition |
 |   $695 | closeout        | #998 - 4130 All-Road  - Turquoise Fade - Small w/ 650b Wheels - Excellent Condition |
 |   $595 | closeout        | #999 - 6061 Black Label v3 (Fixed-Gear)   - Purple / White - 58cm - Good Condition |
-|   $545 | closeout        | #1004 - 6061 Black-Label v2 (Fixed-Gear)  - Army Green - 59cm - Very Good Condition |
 |   $495 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $485 | closeout        | #987 - 4130 Road (8-Speed)  - Hunter- 59cm - Like-New Condition |
 |   $485 | closeout        | #962 - 4130 Road (8-Speed)  - Hunter - 59cm - Like-New Condition |
@@ -176,3 +175,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - XX-Large |
 |    $50 | closeout        | #RS38 - Shimano XC1 Mountain Bike Shoes - Women's Size 39 |
 |    $50 | closeout        | #RS37 - Shimano XC1 Mountain Bike Shoes - Women's Size 38 |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Small |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Medium |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - XX-Large |
