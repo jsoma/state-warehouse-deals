@@ -39,8 +39,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 58 cm (Riders 5'9"-6'1") |
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
 |   $945 | closeout        | #1007 - 6061 All-Road  - Dark Woodland w/ 650b Wheels - Medium - Good Condition |
-|   $775 | closeout        | #1016 - 4130 All-Road- Pacific/Gold - Medium w/ 650b Wheels - Excellent Condition |
-|   $775 | closeout        | #1009 - 4130 All-Road- Flate Bar - Raw / Phosphate - X-Small w/ 700c Wheels - Exellect Condition |
+|   $775 | closeout        | #1009 - 4130 All-Road- Flat Bar - Raw / Phosphate - X-Small w/ 700c Wheels - Excellent Condition |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1164 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (add $389.99) |
@@ -65,6 +64,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1164 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
+|   $755 | closeout        | #1016 - 4130 All-Road- Pacific/Gold - Medium w/ 650b Wheels - Excellent Condition |
+|   $725 | closeout        | #1017 - 4130 All-Road- Flat Bar - Cupertino Pearl - Medium w/ 700c Wheels - Excellent Condition |
 |   $495 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $475 | closeout        | #950 - 4130 Fixed-Gear / Single-Speed  - Purple Reign - 46cm - Like-New Condition |
 |   $475 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 59cm - Photo Model / Excellent Condition |
@@ -200,9 +201,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Extra Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Medium |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Extra Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - XX-Large |
