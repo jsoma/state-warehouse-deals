@@ -117,6 +117,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $350 | Core-Line       | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $350 | Core-Line       | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $285 | Bicycles        | #991 : Lavendar Haze - Core-Line - Size X-Small (46cm) - Very Good Condition (see notes) |
+|   $275 | closeout        | #1020 - Core-Line  - Pigeon - Medium (54cm) - Very-Good Condition |
 |   $245 | closeout        | #959 - City Bike  - Elliston 3-Speed - 48cm (Small) - Fair Condition |
 |   $245 | closeout        | #957 - City Bike  - Elliston 3-Speed - 48cm (Small) - Fair Condition |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
@@ -178,4 +179,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
 |    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
-|    $39 | Accessories     | State Bicycle Co. x Taco Bell:  Klunker Frame Bag |
