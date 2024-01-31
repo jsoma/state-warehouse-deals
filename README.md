@@ -88,6 +88,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
 |   $335 | closeout        | #912 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Good Condition |
+|   $329 | closeout        | #1018 - Core-Line  - Earthstone - X-Small (46cm) - Like-New Condition |
+|   $329 | closeout        | #1012 - Core-Line  - Wulf - Medium (54cm) - Like-New Condition |
+|   $329 | closeout        | #1014 - Core-Line  - Wulf - Medium (54cm) - Like-New Condition |
+|   $329 | closeout        | #1010 - Core-Line  - Ghoul - Large (58cm) - Like-New Condition |
 |   $325 | Core-Line       | Pigeon - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $350 | Core-Line       | Pigeon - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
 |   $350 | Core-Line       | Pigeon - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
@@ -175,29 +179,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
 |    $39 | Accessories     | State Bicycle Co. x Taco Bell:  Klunker Frame Bag |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - X-Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - Medium |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - XX-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - 3X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - X-Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Medium |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - XX-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - 3X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Medium |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - XX-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - 3X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Medium |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
