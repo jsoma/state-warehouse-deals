@@ -92,7 +92,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $335 | closeout        | #912 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Good Condition |
 |   $329 | closeout        | #1018 - Core-Line  - Earthstone - X-Small (46cm) - Like-New Condition |
 |   $329 | closeout        | #1012 - Core-Line  - Wulf - Medium (54cm) - Like-New Condition |
-|   $329 | closeout        | #1014 - Core-Line  - Wulf - Medium (54cm) - Like-New Condition |
 |   $329 | closeout        | #1010 - Core-Line  - Ghoul - Large (58cm) - Like-New Condition |
 |   $325 | Core-Line       | Pigeon - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $350 | Core-Line       | Pigeon - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
@@ -165,3 +164,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - X-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - XX-Large |
 |    $50 | closeout        | #RS38 - Shimano XC1 Mountain Bike Shoes - Women's Size 39 |
+|    $50 | closeout        | #RS37 - Shimano XC1 Mountain Bike Shoes - Women's Size 38 |
