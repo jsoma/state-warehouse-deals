@@ -87,11 +87,13 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $360 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
+|   $345 | closeout        | #1027 - Core-Line - Rigby - Size Small (50cm) - Like-New Condition (see notes) |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Small (43 cm - Riders 4'9" - 5'5") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
 |   $335 | closeout        | #912 - City-Bike - Bubble-Gum 3-Speed - Size Medium (48cm) - Good Condition |
 |   $329 | closeout        | #1018 - Core-Line  - Earthstone - X-Small (46cm) - Like-New Condition |
+|   $325 | closeout        | #1032 - Core-Line - Rigby - Size Small (50cm) - Like-New Condition (see notes) |
 |   $325 | Core-Line       | Pigeon - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $350 | Core-Line       | Pigeon - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
 |   $350 | Core-Line       | Pigeon - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
@@ -163,5 +165,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - Large |
 |    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - X-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - XX-Large |
-|    $50 | closeout        | #RS38 - Shimano XC1 Mountain Bike Shoes - Women's Size 39 |
-|    $50 | closeout        | #RS37 - Shimano XC1 Mountain Bike Shoes - Women's Size 38 |
