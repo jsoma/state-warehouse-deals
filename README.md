@@ -120,7 +120,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | Core-Line       | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $350 | Core-Line       | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $350 | Core-Line       | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
-|   $285 | Bicycles        | #991 : Lavendar Haze - Core-Line - Size X-Small (46cm) - Very Good Condition (see notes) |
 |   $245 | closeout        | #959 - City Bike  - Elliston 3-Speed - 48cm (Small) - Fair Condition |
 |   $245 | closeout        | #957 - City Bike  - Elliston 3-Speed - 48cm (Small) - Fair Condition |
 |   $235 | closeout        | #1026 - City Bike  - Elliston 3-Speed - 48cm (Small) - Fair Condition |
@@ -156,3 +155,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Sunset Jersey  - Sustainable Clothing Collection (Blue) - X-Large |
 |    $65 | Jerseys + Kits  | State Bicycle Co. - Sunset Jersey  - Sustainable Clothing Collection (Blue) - XX-Large |
 |    $60 | closeout        | #RS40 - Shimano XC1 Mountain Bike Shoe - Men's Size 46 |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Small |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Medium |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - X-Large |
+|    $59 | Jerseys + Kits  | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - XX-Large |
