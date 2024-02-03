@@ -65,7 +65,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1164 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
 |   $755 | closeout        | #1016 - 4130 All-Road- Pacific/Gold - Medium w/ 650b Wheels - Excellent Condition |
 |   $725 | closeout        | #1017 - 4130 All-Road- Flat Bar - Cupertino Pearl - Medium w/ 700c Wheels - Excellent Condition |
-|   $695 | closeout        | #1022 - 4130 All-Road - Black Canyon w/ 700c wheels - Medium (51cm) - Excellent Condition |
 |   $655 | closeout        | #1023 - 4130 All-Road - Black Canyon w/ 700c wheels - Medium (51cm) - Very-Good Condition |
 |   $625 | closeout        | #1031 - 6061 Black Label v3 (Fixed-Gear)   - Grey / Fuchsia - 55cm - Very-Good Condition |
 |   $625 | closeout        | #1029 - 4130 All-Road  - Matte-Olive - Medium w/ 650b Wheels - Good Condition |
@@ -165,3 +164,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - X-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - XX-Large |
 |    $50 | closeout        | #RS38 - Shimano XC1 Mountain Bike Shoes - Women's Size 39 |
+|    $50 | closeout        | #RS37 - Shimano XC1 Mountain Bike Shoes - Women's Size 38 |
