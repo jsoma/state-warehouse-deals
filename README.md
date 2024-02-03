@@ -123,7 +123,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $245 | closeout        | #957 - City Bike  - Elliston 3-Speed - 48cm (Small) - Fair Condition |
 |   $235 | closeout        | #1026 - City Bike  - Elliston 3-Speed - 48cm (Small) - Fair Condition |
 |   $215 | closeout        | #1028 - City-Bike - Bubble-Gum 3-speed- Size Medium (48cm) - Good Condition |
-|   $215 | closeout        | #1025 - City-Bike - Bubble-Gum 3-speed- Size Small (43cm) - Good Condition |
 |   $185 | closeout        | #1024 - City-Bike - Azure 3-speed- Size Medium (48cm) - Good/Fair Condition |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $89 | Misc. Accessori | Blackburn Design - Outpost Front World Touring Rack |
@@ -165,3 +164,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - Large |
 |    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - X-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Tech-T - XX-Large |
+|    $50 | closeout        | #RS38 - Shimano XC1 Mountain Bike Shoes - Women's Size 39 |
