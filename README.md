@@ -122,12 +122,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $215 | closeout        | #1028 - City-Bike - Bubble-Gum 3-speed- Size Medium (48cm) - Good Condition |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $89 | Misc. Accessori | Blackburn Design - Outpost Front World Touring Rack |
-|    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - X-Small |
-|    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - Small |
-|    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - Medium |
-|    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - Large |
-|    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - X-Large |
-|    $75 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Bib Shorts - XX-Large |
 |    $69 | Misc. Parts     | Black Label Series: Fixed Gear / Single Speed Crankset (Black) |
 |    $65 | closeout        | #RS2 - Shimano PD-540 SPD Pedals - Like-New Condition |
 |    $65 | Jerseys + Kits  | State Bicycle Team x Endura - 2023 Road Jersey - X-Small |
@@ -179,3 +173,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
 |    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
+|    $39 | Accessories     | State Bicycle Co. x Taco Bell:  Klunker Frame Bag |
