@@ -62,7 +62,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1164 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
-|   $755 | closeout        | #1016 - 4130 All-Road- Pacific/Gold - Medium w/ 650b Wheels - Excellent Condition |
 |   $725 | closeout        | #1017 - 4130 All-Road- Flat Bar - Cupertino Pearl - Medium w/ 700c Wheels - Excellent Condition |
 |   $495 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $485 | closeout        | #1015 - 4130 Road (8-Speed)  - Black / Metallic - 55cm - Like-New Condition |
@@ -192,3 +191,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Extra Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Medium |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Extra Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - XX-Large |
