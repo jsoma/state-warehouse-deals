@@ -28,9 +28,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
 |  $1489 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (add $349.99) |
+|  $1085 | closeout        | #1036 - 6061 All-Road  - Matte Olive w/ 650b Wheels - X-Small - Very-Good Condition |
 |   $999 | e-Bike          | 6061 - eBike Commuter - Matte Black - Small (49cm - Riders 5'3"-5'7") |
 |   $999 | e-Bike          | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
 |   $999 | e-Bike          | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
+|   $895 | closeout        | #1043 - 4130 All-Road Flat-Bar - Rust Fade - Medium w/ 700c DT Swiss Upgraded Wheels - Used Condition |
 |   $775 | closeout        | #1009 - 4130 All-Road- Flat Bar - Raw / Phosphate - X-Small w/ 700c Wheels - Excellent Condition |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
@@ -57,10 +59,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1164 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
 |   $755 | closeout        | #1034 - 4130 All-Road- Black Canyon - Medium w/ 700c Wheels - Excellent Condition |
-|   $735 | closeout        | #1040 - 4130 All-Road- Black Canyon - Medium w/ 650b Wheels - Good Condition |
 |   $735 | closeout        | #1035 - 4130 All-Road- Copper Brown - Large w/ 700c Wheels - Excellent Condition |
 |   $725 | closeout        | #1033 - 4130 All-Road- Flat Bar - Cupertino Pearl - Large w/ 650b Wheels - Like-New Condition |
 |   $725 | closeout        | #1017 - 4130 All-Road- Flat Bar - Cupertino Pearl - Medium w/ 700c Wheels - Excellent Condition |
+|   $685 | closeout        | #1040 - 4130 All-Road- Black Canyon - Medium w/ 650b Wheels - Good Condition |
 |   $495 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $485 | closeout        | #1015 - 4130 Road (8-Speed)  - Black / Metallic - 55cm - Like-New Condition |
 |   $475 | closeout        | #950 - 4130 Fixed-Gear / Single-Speed  - Purple Reign - 46cm - Like-New Condition |
@@ -182,14 +184,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - XX-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - 3X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Medium |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Extra Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Medium |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Extra Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - XX-Large |
