@@ -3,7 +3,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
-|  $1850 | closeout        | #1021 - 6061 All-Road - Apex XPLR AXS - Black / Sunset (700c) - Size Medium (54cm) - Good Condition |
 |  $1645 | closeout        | #990 - 4130 All-Road XPLR AXS - Black Canyon (700c) - Small (47 cm) - Very Good Condition |
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
 |  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
@@ -196,3 +195,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
 |    $28 | closeout        | #RS13 - TBM-30 Tailbones® Memory Foam Waterproof Cruiser Saddle - Like-New Condition |
 |    $26 | closeout        | #RS22 - Wald Lift-Off Basket - Like-New Condition |
+|    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Black |
+|    $25 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - White |
+|    $25 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Red |
+|    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Yellow |
+|    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Green |
+|    $25 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
+|    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
+|    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
