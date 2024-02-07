@@ -56,6 +56,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1164 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
+|   $755 | closeout        | #1034 - 4130 All-Road- Black Canyon - Medium w/ 700c Wheels - Excellent Condition |
+|   $735 | closeout        | #1040 - 4130 All-Road- Black Canyon - Medium w/ 650b Wheels - Good Condition |
+|   $735 | closeout        | #1035 - 4130 All-Road- Copper Brown - Large w/ 700c Wheels - Excellent Condition |
 |   $725 | closeout        | #1033 - 4130 All-Road- Flat Bar - Cupertino Pearl - Large w/ 650b Wheels - Like-New Condition |
 |   $725 | closeout        | #1017 - 4130 All-Road- Flat Bar - Cupertino Pearl - Medium w/ 700c Wheels - Excellent Condition |
 |   $495 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
@@ -190,9 +193,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Extra Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - XX-Large |
-|    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 46 tooth |
-|    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 48 tooth |
-|    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 49 tooth |
-|    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
-|    $28 | closeout        | #RS13 - TBM-30 Tailbones® Memory Foam Waterproof Cruiser Saddle - Like-New Condition |
-|    $26 | closeout        | #RS22 - Wald Lift-Off Basket - Like-New Condition |
