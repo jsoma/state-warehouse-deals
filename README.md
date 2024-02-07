@@ -56,6 +56,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1164 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
+|   $725 | closeout        | #1033 - 4130 All-Road- Flat Bar - Cupertino Pearl - Large w/ 650b Wheels - Like-New Condition |
 |   $725 | closeout        | #1017 - 4130 All-Road- Flat Bar - Cupertino Pearl - Medium w/ 700c Wheels - Excellent Condition |
 |   $495 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $485 | closeout        | #1015 - 4130 Road (8-Speed)  - Black / Metallic - 55cm - Like-New Condition |
@@ -195,11 +196,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | Misc. Parts     | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
 |    $28 | closeout        | #RS13 - TBM-30 Tailbones® Memory Foam Waterproof Cruiser Saddle - Like-New Condition |
 |    $26 | closeout        | #RS22 - Wald Lift-Off Basket - Like-New Condition |
-|    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Black |
-|    $25 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - White |
-|    $25 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Red |
-|    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Yellow |
-|    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Green |
-|    $25 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
-|    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
-|    $39 | Bicycles        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
