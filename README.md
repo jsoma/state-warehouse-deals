@@ -68,7 +68,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $475 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 59cm - Photo Model / Excellent Condition |
 |   $445 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 52cm - Photo Model / Excellent Condition |
 |   $395 | closeout        | #1030 -State Bicycle Co. x Rabbits by Carrots “29in. Big BMX” Cruiser ( 4130 Steel ) - Like-New Condition |
-|   $375 | closeout        | #1039 - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition- Excellent Condition (see parts notes) |
+|   $375 | closeout        | #1039 - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition- Size 55cm - Excellent Condition (see parts notes) |
 |   $365 | closeout        | #PM/OBI - Klunker - SBC x RIPNDIP - Klunker + Bag Combo - Like-New Condition (Photo Model / Media Sample) |
 |   $360 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $385 | Core-Line       | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
