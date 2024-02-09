@@ -61,6 +61,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $725 | closeout        | #1033 - 4130 All-Road- Flat Bar - Cupertino Pearl - Large w/ 650b Wheels - Like-New Condition |
 |   $725 | closeout        | #1017 - 4130 All-Road- Flat Bar - Cupertino Pearl - Medium w/ 700c Wheels - Excellent Condition |
 |   $685 | closeout        | #1040 - 4130 All-Road- Black Canyon - Medium w/ 650b Wheels - Good Condition |
+|   $545 | closeout        | #1045 - 6061 All-Road - Black / Sunset- Frameset + Cockpit - Like-New Condition - Medium - 54cm - ( Riders 5'9" - 6'1") |
+|   $545 | closeout        | #1045 - 6061 All-Road - Black / Sunset- Frameset + Cockpit - Like-New Condition - Large - 58cm - (Riders 6'0" - 6'3") |
 |   $495 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $485 | closeout        | #1015 - 4130 Road (8-Speed)  - Black / Metallic - 55cm - Like-New Condition |
 |   $475 | closeout        | #950 - 4130 Fixed-Gear / Single-Speed  - Purple Reign - 46cm - Like-New Condition |
@@ -171,10 +173,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - XX-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - 3X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - X-Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Medium |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - XX-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - 3X-Large |
