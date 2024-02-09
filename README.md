@@ -111,7 +111,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | Core-Line       | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $350 | Core-Line       | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $350 | Core-Line       | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
-|   $285 | closeout        | #1044 - Core-Line - Wu-Tang Edition - Size X-Small (46cm) - Like-New Condition (see parts notes) |
 |   $275 | closeout        | #1038 - Core-Line - Wu-Tang Edition - Size X-Small (46cm) - Like-New Condition (see parts notes) |
 |   $265 | closeout        | #1041 - Core-Line - Rigby - Size Small (50cm) - Like-New Condition (see parts notes) |
 |   $245 | closeout        | #959 - City Bike  - Elliston 3-Speed - 48cm (Small) - Fair Condition |
@@ -166,3 +165,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $42 | Jerseys + Kits  | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
 |    $39 | Accessories     | State Bicycle Co. x Taco Bell:  Klunker Frame Bag |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - X-Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - Medium |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - X-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - XX-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. - Skull Kid - Bibs - 3X-Large |
