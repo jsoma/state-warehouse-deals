@@ -83,7 +83,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
 |   $345 | City Bike       | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
 |   $329 | closeout        | #1042 - Core-Line  - Ghoul - X-Small (46cm) - Like-New Condition |
-|   $325 | closeout        | #1032 - Core-Line - Rigby - Size Small (50cm) - Like-New Condition (see notes) |
 |   $325 | Core-Line       | Pigeon - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $350 | Core-Line       | Pigeon - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
 |   $350 | Core-Line       | Pigeon - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
@@ -188,3 +187,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Extra Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Small |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Medium |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Extra Large |
+|    $39 | Jerseys + Kits  | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - XX-Large |
