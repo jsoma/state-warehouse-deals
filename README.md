@@ -4,48 +4,48 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |price|type|name|
 |---|---|---|
 |  $1645 | closeout        | #990 - 4130 All-Road XPLR AXS - Black Canyon (700c) - Small (47 cm) - Very Good Condition |
-|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
-|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
-|  $1489 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / Both (add $349.99) |
-|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 650b |
-|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 700c |
-|  $1489 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / Both (add $349.99) |
-|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 650b |
-|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 700c |
-|  $1489 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / Both (add $349.99) |
-|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
-|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
-|  $1489 | 6061 All Road   | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (add $349.99) |
-|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
-|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
-|  $1489 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / Both (add $349.99) |
-|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 650b |
-|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 700c |
-|  $1489 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / Both (add $349.99) |
-|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 650b |
-|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 700c |
-|  $1489 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / Both (add $349.99) |
-|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
-|  $1099 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
-|  $1489 | 6061 All Road   | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (add $349.99) |
+|  $1099 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
+|  $1099 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
+|  $1489 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / Both (add $349.99) |
+|  $1099 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 650b |
+|  $1099 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 700c |
+|  $1489 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / Both (add $349.99) |
+|  $1099 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 650b |
+|  $1099 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 700c |
+|  $1489 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / Both (add $349.99) |
+|  $1099 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
+|  $1099 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
+|  $1489 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (add $349.99) |
+|  $1099 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
+|  $1099 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
+|  $1489 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / Both (add $349.99) |
+|  $1099 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 650b |
+|  $1099 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 700c |
+|  $1489 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / Both (add $349.99) |
+|  $1099 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 650b |
+|  $1099 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 700c |
+|  $1489 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / Both (add $349.99) |
+|  $1099 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
+|  $1099 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
+|  $1489 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (add $349.99) |
 |  $1085 | closeout        | #1036 - 6061 All-Road  - Matte Olive w/ 650b Wheels - X-Small - Very-Good Condition |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Small (49cm - Riders 5'3"-5'7") |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
 |   $895 | closeout        | #1043 - 4130 All-Road Flat-Bar - Rust Fade - Medium w/ 700c DT Swiss Upgraded Wheels - Used Condition |
 |   $775 | closeout        | #1009 - 4130 All-Road- Flat Bar - Raw / Phosphate - X-Small w/ 700c Wheels - Excellent Condition |
-|   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
-|   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
-|  $1164 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (add $389.99) |
-|   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
-|   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
-|  $1164 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Small ( Riders 5'5" - 5'10") / Both (add $389.99) |
-|   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
-|   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
-|  $1164 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Medium ( Riders 5'9" - 6'2") / Both (add $389.99) |
-|   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
-|   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
-|  $1164 | 4130 All Road   | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
+|   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
+|   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
+|  $1164 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (add $389.99) |
+|   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
+|   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
+|  $1164 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Small ( Riders 5'5" - 5'10") / Both (add $389.99) |
+|   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
+|   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
+|  $1164 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Medium ( Riders 5'9" - 6'2") / Both (add $389.99) |
+|   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
+|   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
+|  $1164 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") - Estimated Shipping Late-September / 650b |
 |   $775 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") - Estimated Shipping Late-September / 700c |
 |  $1164 | 4130 All Road   | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") - Estimated Shipping Late-September / Both (add $389.99) |
