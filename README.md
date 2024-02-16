@@ -121,10 +121,12 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
+|   $275 | closeout        | #1052 - City-Bike - Azure 3-speed- Size Medium (48cm) - Good Condition |
+|   $275 | closeout        | #1049 - City-Bike - Azure 3-speed- Size Small (43cm) - Good Condition |
 |   $275 | closeout        | #1038 - Core-Line - Wu-Tang Edition - Size X-Small (46cm) - Like-New Condition (see parts notes) |
+|   $245 | closeout        | #1048 - City-Bike - Bubble-Gum 1-speed- Size Medium (48cm) - Excellent Condition |
 |   $245 | closeout        | #959 - City Bike  - Elliston 3-Speed - 48cm (Small) - Fair Condition |
 |   $245 | closeout        | #957 - City Bike  - Elliston 3-Speed - 48cm (Small) - Fair Condition |
-|   $185 | closeout        | #1048 - City-Bike - Bubble-Gum 1-speed- Size Medium (48cm) - Excellent Condition |
 |   $185 | closeout        | #1046 - City-Bike - Bubble-Gum 3-speed- Size Small (43cm) - Fair Condition |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $89 | closeout        | Blackburn Design - Outpost Front World Touring Rack |
@@ -182,17 +184,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - X-Large |
 |    $39 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - XX-Large |
 |    $39 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - 3X-Large |
-|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Small |
-|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Small |
-|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Medium |
-|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Large |
-|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Large |
-|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
-|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - 3X-Large |
-|    $39 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Small |
-|    $39 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Small |
-|    $39 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Medium |
-|    $39 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Large |
-|    $39 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Large |
-|    $39 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - XX-Large |
-|    $39 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - 3X-Large |
