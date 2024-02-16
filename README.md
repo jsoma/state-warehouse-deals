@@ -32,6 +32,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Small (49cm - Riders 5'3"-5'7") |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
+|   $945 | closeout        | #1047 - 6061 Black Label All-Road - Copper Brown (650b) - Small (48cm) - Used / Very-Good Condition |
 |   $895 | closeout        | #1043 - 4130 All-Road Flat-Bar - Rust Fade - Medium w/ 700c DT Swiss Upgraded Wheels - Used Condition |
 |   $775 | closeout        | #1009 - 4130 All-Road- Flat Bar - Raw / Phosphate - X-Small w/ 700c Wheels - Excellent Condition |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
@@ -124,6 +125,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $275 | closeout        | #1052 - City-Bike - Azure 3-speed- Size Medium (48cm) - Good Condition |
 |   $275 | closeout        | #1049 - City-Bike - Azure 3-speed- Size Small (43cm) - Good Condition |
 |   $275 | closeout        | #1038 - Core-Line - Wu-Tang Edition - Size X-Small (46cm) - Like-New Condition (see parts notes) |
+|   $245 | closeout        | #1051 - City-Bike - Elliston Single-Speed - Size Large (58cm) - Good Condition |
 |   $245 | closeout        | #1048 - City-Bike - Bubble-Gum 1-speed- Size Medium (48cm) - Excellent Condition |
 |   $245 | closeout        | #959 - City Bike  - Elliston 3-Speed - 48cm (Small) - Fair Condition |
 |   $245 | closeout        | #957 - City Bike  - Elliston 3-Speed - 48cm (Small) - Fair Condition |
@@ -170,17 +172,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $42 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $42 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
 |    $39 | Accessories     | State Bicycle Co. x Taco Bell:  Klunker Frame Bag |
-|    $39 | closeout        | State Bicycle Co. - Skull Kid - Bibs - X-Small |
-|    $39 | closeout        | State Bicycle Co. - Skull Kid - Bibs - Small |
-|    $39 | closeout        | State Bicycle Co. - Skull Kid - Bibs - Medium |
-|    $39 | closeout        | State Bicycle Co. - Skull Kid - Bibs - Large |
-|    $39 | closeout        | State Bicycle Co. - Skull Kid - Bibs - X-Large |
-|    $39 | closeout        | State Bicycle Co. - Skull Kid - Bibs - XX-Large |
-|    $39 | closeout        | State Bicycle Co. - Skull Kid - Bibs - 3X-Large |
-|    $39 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - X-Small |
-|    $39 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Small |
-|    $39 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Medium |
-|    $39 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Large |
-|    $39 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - X-Large |
-|    $39 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - XX-Large |
-|    $39 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - 3X-Large |
