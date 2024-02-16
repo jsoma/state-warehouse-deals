@@ -34,6 +34,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
 |   $945 | closeout        | #1047 - 6061 Black Label All-Road - Copper Brown (650b) - Small (48cm) - Used / Very-Good Condition |
 |   $895 | closeout        | #1043 - 4130 All-Road Flat-Bar - Rust Fade - Medium w/ 700c DT Swiss Upgraded Wheels - Used Condition |
+|   $785 | closeout        | #1054 - 4130 All-Road  - Copper Brown - Small w/ 650b Wheels - Like-New Condition |
+|   $785 | closeout        | #1053 - 4130 All-Road  - Raw Phosphate - Small w/ 650b Wheels - Like-New Condition |
 |   $775 | closeout        | #1009 - 4130 All-Road- Flat Bar - Raw / Phosphate - X-Small w/ 700c Wheels - Excellent Condition |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
@@ -59,6 +61,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1164 | closeout        | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
+|   $725 | closeout        | #1050 - 4130 All-Road  - Copper Brown - Large w/ 650b Wheels - Like-New Condition (see notes) |
 |   $725 | closeout        | #1017 - 4130 All-Road- Flat Bar - Cupertino Pearl - Medium w/ 700c Wheels - Excellent Condition |
 |   $725 | closeout        | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $725 | closeout        | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
@@ -122,6 +125,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
+|   $295 | Bicycles        | #1055 : Earthstone - Core-Line - Size Small (50cm) - Like-New (see notes) |
 |   $275 | closeout        | #1052 - City-Bike - Azure 3-speed- Size Medium (48cm) - Good Condition |
 |   $275 | closeout        | #1049 - City-Bike - Azure 3-speed- Size Small (43cm) - Good Condition |
 |   $275 | closeout        | #1038 - Core-Line - Wu-Tang Edition - Size X-Small (46cm) - Like-New Condition (see parts notes) |
@@ -160,15 +164,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - X-Large |
 |    $55 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - XX-Large |
 |    $50 | closeout        | #RS38 - Shimano XC1 Mountain Bike Shoes - Women's Size 39 |
-|    $50 | closeout        | #RS37 - Shimano XC1 Mountain Bike Shoes - Women's Size 38 |
-|    $49 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Small |
-|    $49 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Medium |
-|    $49 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
-|    $49 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - X-Large |
-|    $49 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - XX-Large |
-|    $42 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Small |
-|    $42 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Medium |
-|    $42 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
-|    $42 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
-|    $42 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
-|    $39 | Accessories     | State Bicycle Co. x Taco Bell:  Klunker Frame Bag |
