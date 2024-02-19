@@ -123,7 +123,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
-|   $295 | Bicycles        | #1055 : Earthstone - Core-Line - Size Small (50cm) - Like-New (see notes) |
 |   $275 | closeout        | #1052 - City-Bike - Azure 3-speed- Size Medium (48cm) - Good Condition |
 |   $275 | closeout        | #1049 - City-Bike - Azure 3-speed- Size Small (43cm) - Good Condition |
 |   $275 | closeout        | #1038 - Core-Line - Wu-Tang Edition - Size X-Small (46cm) - Like-New Condition (see parts notes) |
@@ -172,3 +171,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $42 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
 |    $42 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $42 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
+|    $39 | Accessories     | State Bicycle Co. x Taco Bell:  Klunker Frame Bag |
