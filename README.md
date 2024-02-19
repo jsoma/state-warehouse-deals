@@ -34,7 +34,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
 |   $945 | closeout        | #1047 - 6061 Black Label All-Road - Copper Brown (650b) - Small (48cm) - Used / Very-Good Condition |
 |   $895 | closeout        | #1043 - 4130 All-Road Flat-Bar - Rust Fade - Medium w/ 700c DT Swiss Upgraded Wheels - Used Condition |
-|   $785 | closeout        | #1053 - 4130 All-Road  - Raw Phosphate - Small w/ 650b Wheels - Like-New Condition |
 |   $775 | closeout        | #1009 - 4130 All-Road- Flat Bar - Raw / Phosphate - X-Small w/ 700c Wheels - Excellent Condition |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
@@ -172,3 +171,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $42 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $42 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
 |    $39 | Accessories     | State Bicycle Co. x Taco Bell:  Klunker Frame Bag |
+|    $39 | closeout        | State Bicycle Co. - Skull Kid - Bibs - X-Small |
+|    $39 | closeout        | State Bicycle Co. - Skull Kid - Bibs - Small |
+|    $39 | closeout        | State Bicycle Co. - Skull Kid - Bibs - Medium |
+|    $39 | closeout        | State Bicycle Co. - Skull Kid - Bibs - Large |
+|    $39 | closeout        | State Bicycle Co. - Skull Kid - Bibs - X-Large |
+|    $39 | closeout        | State Bicycle Co. - Skull Kid - Bibs - XX-Large |
+|    $39 | closeout        | State Bicycle Co. - Skull Kid - Bibs - 3X-Large |
