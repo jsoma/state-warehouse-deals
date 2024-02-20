@@ -33,7 +33,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
 |   $945 | closeout        | #1047 - 6061 Black Label All-Road - Copper Brown (650b) - Small (48cm) - Used / Very-Good Condition |
-|   $895 | closeout        | #1043 - 4130 All-Road Flat-Bar - Rust Fade - Medium w/ 700c DT Swiss Upgraded Wheels - Used Condition |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1164 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (add $389.99) |
@@ -184,3 +183,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - X-Large |
 |    $39 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - XX-Large |
 |    $39 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - 3X-Large |
+|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Small |
+|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Small |
+|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Medium |
+|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Large |
+|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Large |
+|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
+|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - 3X-Large |
