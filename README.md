@@ -28,6 +28,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1099 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
 |  $1489 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (add $349.99) |
 |  $1085 | closeout        | #1036 - 6061 All-Road  - Matte Olive w/ 650b Wheels - X-Small - Very-Good Condition |
+|   $999 | closeout        | #1000 - Carbon All-Road - Black Ember Frameset - Size Small (53cm) - Like-New Condition |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Small (49cm - Riders 5'3"-5'7") |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
@@ -199,9 +200,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
 |    $39 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
 |    $39 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
-|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Extra Small |
-|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Small |
-|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Medium |
-|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Large |
-|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Extra Large |
-|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - XX-Large |
