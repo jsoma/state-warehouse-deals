@@ -122,7 +122,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $245 | closeout        | #1051 - City-Bike - Elliston Single-Speed - Size Large (58cm) - Good Condition |
 |   $245 | closeout        | #1048 - City-Bike - Bubble-Gum 1-speed- Size Medium (48cm) - Excellent Condition |
 |   $245 | closeout        | #959 - City Bike  - Elliston 3-Speed - 48cm (Small) - Fair Condition |
-|   $245 | closeout        | #957 - City Bike  - Elliston 3-Speed - 48cm (Small) - Fair Condition |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $89 | closeout        | Blackburn Design - Outpost Front World Touring Rack |
 |    $69 | closeout        | Black Label Series: Fixed Gear / Single Speed Crankset (Black) |
@@ -208,3 +207,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 48 tooth |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 49 tooth |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
+|    $28 | closeout        | #RS13 - TBM-30 Tailbones® Memory Foam Waterproof Cruiser Saddle - Like-New Condition |
