@@ -57,7 +57,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1164 | closeout        | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
 |   $725 | closeout        | #1050 - 4130 All-Road  - Copper Brown - Large w/ 650b Wheels - Like-New Condition (see notes) |
-|   $725 | closeout        | #1017 - 4130 All-Road- Flat Bar - Cupertino Pearl - Medium w/ 700c Wheels - Excellent Condition |
 |   $725 | closeout        | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $725 | closeout        | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1114 | closeout        | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (add $389.99) |
@@ -200,3 +199,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
 |    $39 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
 |    $39 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
+|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Extra Small |
+|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Small |
+|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Medium |
+|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Large |
+|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Extra Large |
+|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - XX-Large |
