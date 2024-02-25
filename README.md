@@ -118,7 +118,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
-|   $275 | closeout        | #1049 - City-Bike - Azure 3-speed- Size Small (43cm) - Good Condition |
 |   $275 | closeout        | #1038 - Core-Line - Wu-Tang Edition - Size X-Small (46cm) - Like-New Condition (see parts notes) |
 |   $245 | closeout        | #1051 - City-Bike - Elliston Single-Speed - Size Large (58cm) - Good Condition |
 |   $245 | closeout        | #1048 - City-Bike - Bubble-Gum 1-speed- Size Medium (48cm) - Excellent Condition |
@@ -205,3 +204,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Large |
 |    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Extra Large |
 |    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - XX-Large |
+|    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 46 tooth |
+|    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 48 tooth |
+|    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 49 tooth |
+|    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
