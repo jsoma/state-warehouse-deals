@@ -75,7 +75,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $545 | closeout        | #1045 - 6061 All-Road - Black / Sunset- Frameset + Cockpit - Like-New Condition - Medium - 54cm - ( Riders 5'9" - 6'1") |
 |   $545 | closeout        | #1045 - 6061 All-Road - Black / Sunset- Frameset + Cockpit - Like-New Condition - Large - 58cm - (Riders 6'0" - 6'3") |
 |   $495 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
-|   $485 | closeout        | #1015 - 4130 Road (8-Speed)  - Black / Metallic - 55cm - Like-New Condition |
 |   $475 | closeout        | #1058 - 4130 Fixed-Gear / Single Speed - Matte Olive - 55cm - Excellent Condition |
 |   $475 | closeout        | #950 - 4130 Fixed-Gear / Single-Speed  - Purple Reign - 46cm - Like-New Condition |
 |   $475 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 59cm - Photo Model / Excellent Condition |
@@ -200,3 +199,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
 |    $39 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
 |    $39 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
+|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Extra Small |
+|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Small |
+|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Medium |
+|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Large |
+|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Extra Large |
+|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - XX-Large |
