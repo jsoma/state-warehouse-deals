@@ -128,6 +128,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $245 | closeout        | #1060 - Core-Line - Rigby - Size Medium (54cm) - Fair Condition |
 |   $245 | closeout        | #1048 - City-Bike - Bubble-Gum 1-speed- Size Medium (48cm) - Excellent Condition |
 |   $245 | closeout        | #959 - City Bike  - Elliston 3-Speed - 48cm (Small) - Fair Condition |
+|   $175 | closeout        | #1067 - City Bike  - Black & Tan 1-Speed - 48cm (Small) - Fair Condition |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $89 | closeout        | Blackburn Design - Outpost Front World Touring Rack |
 |    $69 | closeout        | Black Label Series: Fixed Gear / Single Speed Crankset (Black) |
@@ -183,10 +184,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - X-Large |
 |    $39 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - XX-Large |
 |    $39 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - 3X-Large |
-|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Small |
-|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Small |
-|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Medium |
-|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Large |
-|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Large |
-|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
-|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - 3X-Large |
