@@ -27,7 +27,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1099 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
 |  $1099 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
 |  $1489 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (add $349.99) |
-|  $1085 | closeout        | #1036 - 6061 All-Road  - Matte Olive w/ 650b Wheels - X-Small - Very-Good Condition |
 |   $999 | closeout        | #1000 - Carbon All-Road - Black Ember Frameset - Size Small (53cm) - Like-New Condition |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Small (49cm - Riders 5'3"-5'7") |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
@@ -208,3 +207,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
 |    $28 | closeout        | #RS13 - TBM-30 Tailbones® Memory Foam Waterproof Cruiser Saddle - Like-New Condition |
 |    $26 | closeout        | #RS22 - Wald Lift-Off Basket - Like-New Condition |
+|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Black |
+|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - White |
+|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Red |
+|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Yellow |
+|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Green |
+|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
+|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
+|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
