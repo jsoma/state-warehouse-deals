@@ -33,6 +33,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
 |   $950 | closeout        | #1064 - Undefeated Disc Road  - Pearl / Tie-Dye - 62cm - Like-New Condition w/ Notes |
 |   $845 | closeout        | #1069 - 6061 All-Road  - Dark Woodland w/ 650b Wheels - Medium - Fair Condition |
+|   $785 | closeout        | #1075 - 4130 All-Road- Raw Phosphate - Medium w/ 700c Wheels - Like-New Condition |
+|   $785 | closeout        | #1073 - 4130 All-Road Flat Bar  - Raw Phosphate - Medium w/ 700c Wheels - Like-New Condition |
 |   $785 | closeout        | #1070 - 4130 All-Road  - Raw Phosphate - Small w/ 650b Wheels - Like-New Condition |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
@@ -76,6 +78,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $695 | closeout        | #1059 - Undefeated Track - Pearl / Tie-Dye - 58cm - Like-New Condition (See Notes) |
 |   $685 | closeout        | #1057 - 4130 All-Road - Copper Brown w/ 650b wheels - Large (55cm) - Very Good Condition |
 |   $685 | closeout        | #1056 - 4130 All-Road - Cupertino Pearl w/ 650b wheels - Medium (51cm) - Excellent Condition |
+|   $585 | closeout        | #1072 - 6061 Black-Label v2 (Fixed-Gear)  - Matte Black - 55cm - Excellent Condition |
 |   $545 | closeout        | #1045 - 6061 All-Road - Black / Sunset- Frameset + Cockpit - Like-New Condition - Medium - 54cm - ( Riders 5'9" - 6'1") |
 |   $545 | closeout        | #1045 - 6061 All-Road - Black / Sunset- Frameset + Cockpit - Like-New Condition - Large - 58cm - (Riders 6'0" - 6'3") |
 |   $495 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
@@ -156,15 +159,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Large |
 |    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - X-Large |
 |    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - XX-Large |
-|    $55 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - X-Small |
-|    $55 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - Small |
-|    $55 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - Medium |
-|    $55 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - Large |
-|    $55 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - X-Large |
-|    $55 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - XX-Large |
-|    $50 | closeout        | #RS37 - Shimano XC1 Mountain Bike Shoes - Women's Size 38 |
-|    $49 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Small |
-|    $49 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Medium |
-|    $49 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
-|    $49 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - X-Large |
-|    $49 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - XX-Large |
