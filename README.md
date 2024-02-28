@@ -118,8 +118,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
+|   $295 | closeout        | #1063 - Core-Line - Pigeon - Size X-Small (46cm) - Like-New Condition (See Notes) |
 |   $275 | closeout        | #1038 - Core-Line - Wu-Tang Edition - Size X-Small (46cm) - Like-New Condition (see parts notes) |
-|   $245 | closeout        | #1063 - Core-Line - Pigeon - Size X-Small (46cm) - Fair Condition |
+|   $265 | closeout        | #1065 - Core-Line - Pigeon - Size X-Small (46cm) - Good Condition |
 |   $245 | closeout        | #1060 - Core-Line - Rigby - Size Medium (54cm) - Fair Condition |
 |   $245 | closeout        | #1048 - City-Bike - Bubble-Gum 1-speed- Size Medium (48cm) - Excellent Condition |
 |   $245 | closeout        | #959 - City Bike  - Elliston 3-Speed - 48cm (Small) - Fair Condition |
@@ -207,4 +208,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 48 tooth |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 49 tooth |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
-|    $28 | closeout        | #RS13 - TBM-30 Tailbones® Memory Foam Waterproof Cruiser Saddle - Like-New Condition |
