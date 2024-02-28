@@ -129,6 +129,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $295 | closeout        | #1063 - Core-Line - Pigeon - Size X-Small (46cm) - Like-New Condition (See Notes) |
+|   $285 | closeout        | #1074 - Klunker - Black & Metallic - Good Condition |
+|   $275 | closeout        | #1076 - Core-Line  -  Wulf - Large (58cm) - Good Condition |
 |   $275 | closeout        | #1038 - Core-Line - Wu-Tang Edition - Size X-Small (46cm) - Like-New Condition (see parts notes) |
 |   $265 | closeout        | #1065 - Core-Line - Pigeon - Size X-Small (46cm) - Good Condition |
 |   $245 | closeout        | #1060 - Core-Line - Rigby - Size Medium (54cm) - Fair Condition |
@@ -153,9 +155,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Extra Large |
 |    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - XX-Large |
 |    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - 3X-Large |
-|    $60 | closeout        | #RS40 - Shimano XC1 Mountain Bike Shoe - Men's Size 46 |
-|    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Small |
-|    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Medium |
-|    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Large |
-|    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - X-Large |
-|    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - XX-Large |
