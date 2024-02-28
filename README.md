@@ -130,6 +130,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $295 | closeout        | #1063 - Core-Line - Pigeon - Size X-Small (46cm) - Like-New Condition (See Notes) |
 |   $285 | closeout        | #1074 - Klunker - Black & Metallic - Good Condition |
+|   $279 | closeout        | #1078 - Core-Line - Lavender Haze - Size X-Small (46cm) - Excellent Condition |
 |   $275 | closeout        | #1076 - Core-Line  -  Wulf - Large (58cm) - Good Condition |
 |   $275 | closeout        | #1038 - Core-Line - Wu-Tang Edition - Size X-Small (46cm) - Like-New Condition (see parts notes) |
 |   $265 | closeout        | #1065 - Core-Line - Pigeon - Size X-Small (46cm) - Good Condition |
@@ -138,20 +139,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $245 | closeout        | #959 - City Bike  - Elliston 3-Speed - 48cm (Small) - Fair Condition |
 |   $185 | closeout        | #1068 - City-Bike - Azure 3-speed- Size Small (43cm) - Fair Condition |
 |   $175 | closeout        | #1067 - City Bike  - Black & Tan 1-Speed - 48cm (Small) - Fair Condition |
+|   $169 | closeout        | #1077 - Klunker - National Park Grand Canyon Editidion - Used Condition |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $89 | closeout        | Blackburn Design - Outpost Front World Touring Rack |
 |    $69 | closeout        | Black Label Series: Fixed Gear / Single Speed Crankset (Black) |
 |    $65 | closeout        | #RS2 - Shimano PD-540 SPD Pedals - Like-New Condition |
-|    $65 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - X-Small |
-|    $65 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Small |
-|    $65 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Medium |
-|    $65 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Large |
-|    $65 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - X-Large |
-|    $65 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - XX-Large |
-|    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - X-Small |
-|    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Small |
-|    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Medium |
-|    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Large |
-|    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Extra Large |
-|    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - XX-Large |
-|    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - 3X-Large |
