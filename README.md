@@ -57,7 +57,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1164 | closeout        | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
-|   $755 | closeout        | #1071 - 4130 All-Road- Copper Brown - Medium w/ 700c Wheels - Excellent Condition |
 |   $745 | closeout        | #1061 - 4130 All-Road - Copper Brown w/ 650b wheels - X-Small (43cm) - Excellent Condition |
 |   $725 | closeout        | #1050 - 4130 All-Road  - Copper Brown - Large w/ 650b Wheels - Like-New Condition (see notes) |
 |   $725 | closeout        | 4130 All-Road - Flat Bar - Fiesta Black (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
@@ -178,3 +177,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | closeout        | State Bicycle Co. - Skull Kid - Bibs - X-Large |
 |    $39 | closeout        | State Bicycle Co. - Skull Kid - Bibs - XX-Large |
 |    $39 | closeout        | State Bicycle Co. - Skull Kid - Bibs - 3X-Large |
+|    $39 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - X-Small |
+|    $39 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Small |
+|    $39 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Medium |
+|    $39 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Large |
+|    $39 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - X-Large |
+|    $39 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - XX-Large |
+|    $39 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - 3X-Large |
