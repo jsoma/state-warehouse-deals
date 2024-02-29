@@ -79,7 +79,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $495 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $475 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 59cm - Photo Model / Excellent Condition |
 |   $445 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 52cm - Photo Model / Excellent Condition |
-|   $435 | closeout        | #1062 - 4130 Road (8-Speed)  - Hunter w/ Upgrades- 55cm - Used Condition (See Notes) |
 |   $395 | closeout        | #PM - State Bicycle Co. x Rabbits by Carrots “29in. Big BMX” Cruiser ( 4130 Steel ) - Like-New Condition |
 |   $365 | closeout        | #PM/OBI - Klunker - SBC x RIPNDIP - Klunker + Bag Combo - Like-New Condition (Photo Model / Media Sample) |
 |   $360 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
@@ -184,3 +183,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - X-Large |
 |    $39 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - XX-Large |
 |    $39 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - 3X-Large |
+|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Small |
+|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Small |
+|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Medium |
+|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Large |
+|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Large |
+|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
+|    $39 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - 3X-Large |
