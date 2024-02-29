@@ -32,7 +32,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
 |   $950 | closeout        | #1064 - Undefeated Disc Road  - Pearl / Tie-Dye - 62cm - Like-New Condition w/ Notes |
-|   $845 | closeout        | #1069 - 6061 All-Road  - Dark Woodland w/ 650b Wheels - Medium - Fair Condition |
 |   $785 | closeout        | #1075 - 4130 All-Road- Raw Phosphate - Medium w/ 700c Wheels - Like-New Condition |
 |   $785 | closeout        | #1073 - 4130 All-Road Flat Bar  - Raw Phosphate - Medium w/ 700c Wheels - Like-New Condition |
 |   $785 | closeout        | #1070 - 4130 All-Road  - Raw Phosphate - Small w/ 650b Wheels - Like-New Condition |
@@ -149,3 +148,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $65 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Large |
 |    $65 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - X-Large |
 |    $65 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - XX-Large |
+|    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - X-Small |
+|    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Small |
+|    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Medium |
+|    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Large |
+|    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Extra Large |
+|    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - XX-Large |
+|    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - 3X-Large |
