@@ -129,7 +129,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $295 | closeout        | #1063 - Core-Line - Pigeon - Size X-Small (46cm) - Like-New Condition (See Notes) |
-|   $285 | closeout        | #1074 - Klunker - Black & Metallic - Good Condition |
 |   $279 | closeout        | #1078 - Core-Line - Lavender Haze - Size X-Small (46cm) - Excellent Condition |
 |   $275 | closeout        | #1076 - Core-Line  -  Wulf - Large (58cm) - Good Condition |
 |   $275 | closeout        | #1038 - Core-Line - Wu-Tang Edition - Size X-Small (46cm) - Like-New Condition (see parts notes) |
@@ -144,3 +143,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $89 | closeout        | Blackburn Design - Outpost Front World Touring Rack |
 |    $69 | closeout        | Black Label Series: Fixed Gear / Single Speed Crankset (Black) |
 |    $65 | closeout        | #RS2 - Shimano PD-540 SPD Pedals - Like-New Condition |
+|    $65 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - X-Small |
+|    $65 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Small |
+|    $65 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Medium |
+|    $65 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Large |
+|    $65 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - X-Large |
+|    $65 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - XX-Large |
