@@ -128,7 +128,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $279 | closeout        | #1078 - Core-Line - Lavender Haze - Size X-Small (46cm) - Excellent Condition |
 |   $275 | closeout        | #1038 - Core-Line - Wu-Tang Edition - Size X-Small (46cm) - Like-New Condition (see parts notes) |
 |   $245 | closeout        | #1060 - Core-Line - Rigby - Size Medium (54cm) - Fair Condition |
-|   $245 | closeout        | #1048 - City-Bike - Bubble-Gum 1-speed- Size Medium (48cm) - Excellent Condition |
 |   $245 | closeout        | #959 - City Bike  - Elliston 3-Speed - 48cm (Small) - Fair Condition |
 |   $185 | closeout        | #1068 - City-Bike - Azure 3-speed- Size Small (43cm) - Fair Condition |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
@@ -172,3 +171,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $42 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $42 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
 |    $39 | Accessories     | State Bicycle Co. x Taco Bell:  Klunker Frame Bag |
+|    $39 | closeout        | State Bicycle Co. - Skull Kid - Bibs - X-Small |
+|    $39 | closeout        | State Bicycle Co. - Skull Kid - Bibs - Small |
+|    $39 | closeout        | State Bicycle Co. - Skull Kid - Bibs - Medium |
+|    $39 | closeout        | State Bicycle Co. - Skull Kid - Bibs - Large |
+|    $39 | closeout        | State Bicycle Co. - Skull Kid - Bibs - X-Large |
+|    $39 | closeout        | State Bicycle Co. - Skull Kid - Bibs - XX-Large |
+|    $39 | closeout        | State Bicycle Co. - Skull Kid - Bibs - 3X-Large |
