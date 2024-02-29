@@ -77,7 +77,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $695 | closeout        | #1059 - Undefeated Track - Pearl / Tie-Dye - 58cm - Like-New Condition (See Notes) |
 |   $685 | closeout        | #1057 - 4130 All-Road - Copper Brown w/ 650b wheels - Large (55cm) - Very Good Condition |
 |   $685 | closeout        | #1056 - 4130 All-Road - Cupertino Pearl w/ 650b wheels - Medium (51cm) - Excellent Condition |
-|   $585 | closeout        | #1072 - 6061 Black-Label v2 (Fixed-Gear)  - Matte Black - 55cm - Excellent Condition |
 |   $545 | closeout        | #1045 - 6061 All-Road - Black / Sunset- Frameset + Cockpit - Like-New Condition - Medium - 54cm - ( Riders 5'9" - 6'1") |
 |   $545 | closeout        | #1045 - 6061 All-Road - Black / Sunset- Frameset + Cockpit - Like-New Condition - Large - 58cm - (Riders 6'0" - 6'3") |
 |   $495 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
@@ -155,3 +154,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Extra Large |
 |    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - XX-Large |
 |    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - 3X-Large |
+|    $60 | closeout        | #RS40 - Shimano XC1 Mountain Bike Shoe - Men's Size 46 |
