@@ -31,8 +31,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Small (49cm - Riders 5'3"-5'7") |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
-|   $950 | closeout        | #1064 - Undefeated Disc Road  - Pearl / Tie-Dye - 62cm - Like-New Condition w/ Notes |
-|   $785 | closeout        | #1075 - 4130 All-Road- Raw Phosphate - Medium w/ 700c Wheels - Like-New Condition |
 |   $785 | closeout        | #1073 - 4130 All-Road Flat Bar  - Raw Phosphate - Medium w/ 700c Wheels - Like-New Condition |
 |   $785 | closeout        | #1070 - 4130 All-Road  - Raw Phosphate - Small w/ 650b Wheels - Like-New Condition |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
@@ -134,8 +132,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $245 | closeout        | #1048 - City-Bike - Bubble-Gum 1-speed- Size Medium (48cm) - Excellent Condition |
 |   $245 | closeout        | #959 - City Bike  - Elliston 3-Speed - 48cm (Small) - Fair Condition |
 |   $185 | closeout        | #1068 - City-Bike - Azure 3-speed- Size Small (43cm) - Fair Condition |
-|   $175 | closeout        | #1067 - City Bike  - Black & Tan 1-Speed - 48cm (Small) - Fair Condition |
-|   $169 | closeout        | #1077 - Klunker - National Park Grand Canyon Editidion - Used Condition |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $89 | closeout        | Blackburn Design - Outpost Front World Touring Rack |
 |    $69 | closeout        | Black Label Series: Fixed Gear / Single Speed Crankset (Black) |
@@ -159,3 +155,20 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Large |
 |    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - X-Large |
 |    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - XX-Large |
+|    $55 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - X-Small |
+|    $55 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - Small |
+|    $55 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - Medium |
+|    $55 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - Large |
+|    $55 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - X-Large |
+|    $55 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - XX-Large |
+|    $50 | closeout        | #RS37 - Shimano XC1 Mountain Bike Shoes - Women's Size 38 |
+|    $49 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Small |
+|    $49 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Medium |
+|    $49 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
+|    $49 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - X-Large |
+|    $49 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - XX-Large |
+|    $42 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Small |
+|    $42 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Medium |
+|    $42 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
+|    $42 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
+|    $42 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
