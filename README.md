@@ -3,6 +3,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
+|  $1645 | closeout        | #990 - 4130 All-Road XPLR AXS - Black Canyon (700c) - Small (47 cm) - Very Good Condition |
 |  $1099 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
 |  $1099 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
 |  $1489 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / Both (add $349.99) |
@@ -195,8 +196,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Large |
 |    $39 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - XX-Large |
 |    $39 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - 3X-Large |
-|    $39 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Small |
-|    $39 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Medium |
-|    $39 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
-|    $39 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
-|    $39 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
