@@ -116,7 +116,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $275 | closeout        | #1038 - Core-Line - Wu-Tang Edition - Size X-Small (46cm) - Like-New Condition (see parts notes) |
-|   $245 | closeout        | #1060 - Core-Line - Rigby - Size Medium (54cm) - Fair Condition |
 |   $245 | closeout        | #959 - City Bike  - Elliston 3-Speed - 48cm (Small) - Fair Condition |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $89 | closeout        | Blackburn Design - Outpost Front World Touring Rack |
@@ -215,3 +214,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $24 | closeout        | #RS4 - ABUS Tresor 6615C Lock - Like-New Condition |
 |    $24 | closeout        | Black Label Series:  Saddle |
 |    $24 | closeout        | #RS9 - Delta Alloy Stem Raiser - Like-New Condition |
+|    $22 | closeout        | #RS14 - TBM-10 Tailbones® Memory Foam Waterproof Saddle - Like-New Condition |
