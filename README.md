@@ -198,15 +198,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
 |    $28 | closeout        | #RS13 - TBM-30 Tailbones® Memory Foam Waterproof Cruiser Saddle - Like-New Condition |
 |    $26 | closeout        | #RS22 - Wald Lift-Off Basket - Like-New Condition |
+|    $25 | closeout        | #RS66 - State Bicycle x RIP N DIP- Purple Nermal Camo Jersey - Size Medium  - Brand New Never Worn- Sample Clothing |
+|    $25 | closeout        | #RS66 - State Bicycle x RIPNDIP- Purple Nermal Camo Jersey - Size Medium  - Brand New Never Worn- Sample Clothing |
+|    $25 | closeout        | #RS73 - State Bicycle x The Beatles- Wool Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
+|    $25 | closeout        | #RS72 - State Bicycle x The Beatles- Wool Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
 |    $25 | closeout        | #RS69 - State Bicycle x The Beatles- Magical Myster Tour Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
-|    $25 | closeout        | #RS65 - State Bicycle x The Beatles- Yellow Submarine Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
-|    $25 | closeout        | #RS77 - State Bicycle "Ambigram Hoodie" Grey - Size M  - Brand New Never Worn- Sample Clothing |
-|    $25 | closeout        | #RS64 - State Bicycle "Ambigram Hoodie" Black - Size M  - Brand New Never Worn- Sample Clothing |
-|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Black |
-|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - White |
-|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Red |
-|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Yellow |
-|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Green |
-|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
-|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
-|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
