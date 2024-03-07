@@ -192,6 +192,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
 |    $39 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
 |    $39 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
+|    $35 | closeout        | #RS74 - State Bicycle Co. - All-Road Cargo Bibs - Camo/ Olive Size Medium - Brand New Never Worn- Sample Clothing |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 46 tooth |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 48 tooth |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 49 tooth |
@@ -202,4 +203,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | #RS70 - State Bicycle Co. - Smiles for Miles Longsleeve Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
 |    $25 | closeout        | #RS67 - State Bicycle x RIP N DIP- Nermal Leaf Jersey - Size Medium  - Brand New Never Worn- Sample Clothing |
 |    $25 | closeout        | #RS66 - State Bicycle x RIP N DIP- Purple Nermal Camo Jersey - Size Medium  - Brand New Never Worn- Sample Clothing |
-|    $25 | closeout        | #RS73 - State Bicycle x The Beatles- Wool Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
