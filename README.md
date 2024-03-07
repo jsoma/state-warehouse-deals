@@ -192,18 +192,13 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
 |    $39 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
 |    $39 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
-|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Extra Small |
-|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Small |
-|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Medium |
-|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Large |
-|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - Extra Large |
-|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey FINAL SALE - XX-Large |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 46 tooth |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 48 tooth |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 49 tooth |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
 |    $28 | closeout        | #RS13 - TBM-30 Tailbones® Memory Foam Waterproof Cruiser Saddle - Like-New Condition |
 |    $26 | closeout        | #RS22 - Wald Lift-Off Basket - Like-New Condition |
+|    $25 | closeout        | #RS64 - State Bicycle "Ambigram Hoodie" Black - Size M  - Brand New Never Worn- Sample Clothing |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Black |
 |    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - White |
 |    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Red |
@@ -212,6 +207,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
+|    $25 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - Extra Small |
+|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - Small |
+|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - Medium |
+|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - Large |
+|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - Extra Large |
+|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - XX-Large |
 |    $24 | closeout        | #RS4 - ABUS Tresor 6615C Lock - Like-New Condition |
 |    $24 | closeout        | Black Label Series:  Saddle |
-|    $24 | closeout        | #RS9 - Delta Alloy Stem Raiser - Like-New Condition |
