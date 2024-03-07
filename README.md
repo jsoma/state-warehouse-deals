@@ -198,6 +198,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
 |    $28 | closeout        | #RS13 - TBM-30 Tailbones® Memory Foam Waterproof Cruiser Saddle - Like-New Condition |
 |    $26 | closeout        | #RS22 - Wald Lift-Off Basket - Like-New Condition |
+|    $25 | closeout        | #RS69 - State Bicycle x The Beatles- Magical Myster Tour Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
+|    $25 | closeout        | #RS65 - State Bicycle x The Beatles- Yellow Submarine Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
+|    $25 | closeout        | #RS77 - State Bicycle "Ambigram Hoodie" Grey - Size M  - Brand New Never Worn- Sample Clothing |
 |    $25 | closeout        | #RS64 - State Bicycle "Ambigram Hoodie" Black - Size M  - Brand New Never Worn- Sample Clothing |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Black |
 |    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - White |
@@ -207,11 +210,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
-|    $25 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - Extra Small |
-|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - Small |
-|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - Medium |
-|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - Large |
-|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - Extra Large |
-|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - XX-Large |
-|    $24 | closeout        | #RS4 - ABUS Tresor 6615C Lock - Like-New Condition |
-|    $24 | closeout        | Black Label Series:  Saddle |
