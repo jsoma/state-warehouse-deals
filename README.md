@@ -32,6 +32,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Small (49cm - Riders 5'3"-5'7") |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
+|   $785 | closeout        | #1082 - 4130 All-Road- Copper Brown - Medium w/ 650b Wheels - Excellent Condition |
+|   $785 | closeout        | #1081 - 4130 All-Road- Copper Brown - Medium w/ 700c Wheels - Like-New Condition |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1164 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (add $389.99) |
@@ -213,5 +215,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $24 | closeout        | Black Label Series:  Saddle |
 |    $24 | closeout        | #RS9 - Delta Alloy Stem Raiser - Like-New Condition |
 |    $22 | closeout        | #RS14 - TBM-10 Tailbones® Memory Foam Waterproof Saddle - Like-New Condition |
-|    $21 | closeout        | #RS18 - Serfas Bar-Tender Handlebar Bag - Like-New Condition |
-|    $19 | closeout        | #RS5 - ABUS Steel-O-Flex Tresor 1360 Lock - Like-New Condition |
