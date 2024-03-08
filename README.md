@@ -121,37 +121,37 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $89 | closeout        | Blackburn Design - Outpost Front World Touring Rack |
 |    $69 | closeout        | Black Label Series: Fixed Gear / Single Speed Crankset (Black) |
 |    $65 | closeout        | #RS2 - Shimano PD-540 SPD Pedals - Like-New Condition |
-|    $65 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - X-Small |
-|    $65 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Small |
-|    $65 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Medium |
-|    $65 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Large |
-|    $65 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - X-Large |
-|    $65 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - XX-Large |
-|    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - X-Small |
-|    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Small |
-|    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Medium |
-|    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Large |
-|    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Extra Large |
+|    $60 | closeout        | #RS40 - Shimano XC1 Mountain Bike Shoe - Men's Size 46 |
+|    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - X-Small |
+|    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Small |
+|    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Medium |
+|    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Large |
+|    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - X-Large |
+|    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - XX-Large |
+|    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - X-Small |
+|    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Small |
+|    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Medium |
+|    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Large |
+|    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Extra Large |
 |    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - XX-Large |
 |    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - 3X-Large |
-|    $60 | closeout        | #RS40 - Shimano XC1 Mountain Bike Shoe - Men's Size 46 |
-|    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Small |
+|    $50 | closeout        | #RS37 - Shimano XC1 Mountain Bike Shoes - Women's Size 38 |
+|    $49 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Small |
 |    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Medium |
 |    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Large |
 |    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - X-Large |
 |    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - XX-Large |
-|    $55 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - X-Small |
-|    $55 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - Small |
-|    $55 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - Medium |
-|    $55 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - Large |
-|    $55 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - X-Large |
-|    $55 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - XX-Large |
-|    $50 | closeout        | #RS37 - Shimano XC1 Mountain Bike Shoes - Women's Size 38 |
-|    $49 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Small |
-|    $49 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Medium |
-|    $49 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
-|    $49 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - X-Large |
-|    $49 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - XX-Large |
+|    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - X-Small |
+|    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - Small |
+|    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - Medium |
+|    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - Large |
+|    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - X-Large |
+|    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - XX-Large |
+|    $45 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Small |
+|    $45 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Medium |
+|    $45 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - Large |
+|    $45 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - X-Large |
+|    $45 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - XX-Large |
 |    $42 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Small |
 |    $42 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Medium |
 |    $42 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
