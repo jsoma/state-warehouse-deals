@@ -153,7 +153,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $45 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - X-Large |
 |    $45 | closeout        | State Bicycle Co. - Peace Jersey  - Sustainable Clothing Collection (Black) - XX-Large |
 |    $39 | Accessories     | State Bicycle Co. x Taco Bell:  Klunker Frame Bag |
-|    $35 | closeout        | #RS74 - State Bicycle Co. - All-Road Cargo Bibs - Camo/ Olive Size Medium - Brand New Never Worn- Sample Clothing |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 46 tooth |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 48 tooth |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 49 tooth |
@@ -187,3 +186,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | #RS69 - State Bicycle x The Beatles- Magical Mystery Tour Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
 |    $25 | closeout        | #RS65 - State Bicycle x The Beatles- Yellow Submarine Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
 |    $25 | closeout        | #RS77 - State Bicycle "Ambigram Hoodie" Grey - Size M  - Brand New Never Worn- Sample Clothing |
+|    $25 | closeout        | #RS64 - State Bicycle "Ambigram Hoodie" Black - Size M  - Brand New Never Worn- Sample Clothing |
