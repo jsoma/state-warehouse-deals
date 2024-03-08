@@ -199,7 +199,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
 |    $28 | closeout        | #RS13 - TBM-30 Tailbones® Memory Foam Waterproof Cruiser Saddle - Like-New Condition |
 |    $26 | closeout        | #RS22 - Wald Lift-Off Basket - Like-New Condition |
-|    $25 | closeout        | #RS71 - State Bicycle Co. - Smiles for Miles Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
 |    $25 | closeout        | #RS70 - State Bicycle Co. - Smiles for Miles Longsleeve Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
 |    $25 | closeout        | #RS67 - State Bicycle x RIP N DIP- Nermal Leaf Jersey - Size Medium  - Brand New Never Worn- Sample Clothing |
 |    $25 | closeout        | #RS66 - State Bicycle x RIP N DIP- Purple Nermal Camo Jersey - Size Medium  - Brand New Never Worn- Sample Clothing |
+|    $25 | closeout        | #RS73 - State Bicycle x The Beatles- Wool Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
