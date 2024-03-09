@@ -179,11 +179,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $27 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - 3X-Large |
 |    $26 | closeout        | #RS22 - Wald Lift-Off Basket - Like-New Condition |
 |    $25 | closeout        | #RS70 - State Bicycle Co. - Smiles for Miles Longsleeve Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
-|    $25 | closeout        | #RS66 - State Bicycle x RIP N DIP- Purple Nermal Camo Jersey - Size Medium  - Brand New Never Worn- Sample Clothing |
 |    $25 | closeout        | #RS73 - State Bicycle x The Beatles- Wool Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
 |    $25 | closeout        | #RS72 - State Bicycle x The Beatles- Wool Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
 |    $25 | closeout        | #RS69 - State Bicycle x The Beatles- Magical Mystery Tour Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
-|    $25 | closeout        | #RS65 - State Bicycle x The Beatles- Yellow Submarine Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
 |    $25 | closeout        | #RS77 - State Bicycle "Ambigram Hoodie" Grey - Size M  - Brand New Never Worn- Sample Clothing |
 |    $25 | closeout        | #RS64 - State Bicycle "Ambigram Hoodie" Black - Size M  - Brand New Never Worn- Sample Clothing |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Black |
@@ -194,3 +192,17 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
+|    $25 | closeout        | State Bicycle Co. - Skull Kid - Bibs - X-Small |
+|    $25 | closeout        | State Bicycle Co. - Skull Kid - Bibs - Small |
+|    $25 | closeout        | State Bicycle Co. - Skull Kid - Bibs - Medium |
+|    $25 | closeout        | State Bicycle Co. - Skull Kid - Bibs - Large |
+|    $25 | closeout        | State Bicycle Co. - Skull Kid - Bibs - X-Large |
+|    $25 | closeout        | State Bicycle Co. - Skull Kid - Bibs - XX-Large |
+|    $25 | closeout        | State Bicycle Co. - Skull Kid - Bibs - 3X-Large |
+|    $25 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Small |
+|    $25 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Small |
+|    $25 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Medium |
+|    $25 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Large |
+|    $25 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Large |
+|    $25 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - XX-Large |
+|    $25 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - 3X-Large |
