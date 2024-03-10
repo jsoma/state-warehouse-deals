@@ -115,7 +115,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
-|   $275 | closeout        | #1038 - Core-Line - Wu-Tang Edition - Size X-Small (46cm) - Like-New Condition (see parts notes) |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $89 | closeout        | Blackburn Design - Outpost Front World Touring Rack |
 |    $69 | closeout        | Black Label Series: Fixed Gear / Single Speed Crankset (Black) |
@@ -210,3 +209,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
 |    $25 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
 |    $25 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
+|    $25 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - Extra Small |
+|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - Small |
+|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - Medium |
+|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - Large |
+|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - Extra Large |
+|    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - XX-Large |
