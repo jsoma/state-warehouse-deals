@@ -118,7 +118,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $69 | closeout        | Black Label Series: Fixed Gear / Single Speed Crankset (Black) |
 |    $65 | closeout        | #RS2 - Shimano PD-540 SPD Pedals - Like-New Condition |
 |    $60 | closeout        | #RS40 - Shimano XC1 Mountain Bike Shoe - Men's Size 46 |
-|    $55 | closeout        | #RS91 - State Bicycle Co. x Endura - 2023 Team Issue Rain Jacket - Size Small- Like-New Condition |
 |    $55 | closeout        | #RS89/RS90 - State Bicycle Co. x Endura - 2023 Team Issue Race Jersey - Size Small- Like-New Condition |
 |    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - X-Small |
 |    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Small |
@@ -139,6 +138,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Large |
 |    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - X-Large |
 |    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - XX-Large |
+|    $45 | closeout        | #RS91 - State Bicycle Co. x Endura - 2023 Team Issue Rain Jacket - Size Small- Like-New Condition |
 |    $45 | closeout        | #RS81 - Brooks England Scape Frame Bag - Like-New Condition |
 |    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - X-Small |
 |    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - Small |
@@ -176,6 +176,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $27 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
 |    $27 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - 3X-Large |
 |    $26 | closeout        | #RS22 - Wald Lift-Off Basket - Like-New Condition |
+|    $25 | closeout        | #RS92 - State Bicycle Co. x Endura - 2023 Team Issue Summer Mesh Bibs - Size Small- Like-New Condition |
 |    $25 | closeout        | #RS75 - Handup Pants - Olive - Size Large  - Brand New Never Worn- Sample Clothing |
 |    $25 | closeout        | #RS73 - State Bicycle x The Beatles- Wool Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
 |    $25 | closeout        | #RS72 - State Bicycle x The Beatles- Wool Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
@@ -215,4 +216,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - Extra Large |
 |    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - XX-Large |
 |    $24 | closeout        | #RS4 - ABUS Tresor 6615C Lock - Like-New Condition |
-|    $24 | closeout        | Black Label Series:  Saddle |
