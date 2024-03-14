@@ -173,6 +173,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $27 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
 |    $27 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - 3X-Large |
 |    $26 | closeout        | #RS22 - Wald Lift-Off Basket - Like-New Condition |
+|    $25 | closeout        | #RS75 - Handup Pants - Olive - Size Large  - Brand New Never Worn- Sample Clothing |
 |    $25 | closeout        | #RS73 - State Bicycle x The Beatles- Wool Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
 |    $25 | closeout        | #RS72 - State Bicycle x The Beatles- Wool Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
 |    $25 | closeout        | #RS69 - State Bicycle x The Beatles- Magical Mystery Tour Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
@@ -215,4 +216,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $24 | closeout        | #RS9 - Delta Alloy Stem Raiser - Like-New Condition |
 |    $22 | closeout        | #RS14 - TBM-10 Tailbones® Memory Foam Waterproof Saddle - Like-New Condition |
 |    $21 | closeout        | #RS18 - Serfas Bar-Tender Handlebar Bag - Like-New Condition |
-|    $19 | closeout        | #RS5 - ABUS Steel-O-Flex Tresor 1360 Lock - Like-New Condition |
