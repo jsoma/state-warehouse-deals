@@ -137,6 +137,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Large |
 |    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - X-Large |
 |    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - XX-Large |
+|    $45 | closeout        | #RS81 - Brooks England Scape Frame Bag - Like-New Condition |
 |    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - X-Small |
 |    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - Small |
 |    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - Medium |
@@ -215,4 +216,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $24 | closeout        | Black Label Series:  Saddle |
 |    $24 | closeout        | #RS9 - Delta Alloy Stem Raiser - Like-New Condition |
 |    $22 | closeout        | #RS14 - TBM-10 Tailbones® Memory Foam Waterproof Saddle - Like-New Condition |
-|    $21 | closeout        | #RS18 - Serfas Bar-Tender Handlebar Bag - Like-New Condition |
