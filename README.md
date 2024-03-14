@@ -118,6 +118,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $69 | closeout        | Black Label Series: Fixed Gear / Single Speed Crankset (Black) |
 |    $65 | closeout        | #RS2 - Shimano PD-540 SPD Pedals - Like-New Condition |
 |    $60 | closeout        | #RS40 - Shimano XC1 Mountain Bike Shoe - Men's Size 46 |
+|    $55 | closeout        | #RS91 - State Bicycle Co. x Endura - 2023 Team Issue Rain Jacket - Size Small- Like-New Condition |
+|    $55 | closeout        | #RS89/RS90 - State Bicycle Co. x Endura - 2023 Team Issue Race Jersey - Size Small- Like-New Condition |
 |    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - X-Small |
 |    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Small |
 |    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Medium |
@@ -214,5 +216,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - XX-Large |
 |    $24 | closeout        | #RS4 - ABUS Tresor 6615C Lock - Like-New Condition |
 |    $24 | closeout        | Black Label Series:  Saddle |
-|    $24 | closeout        | #RS9 - Delta Alloy Stem Raiser - Like-New Condition |
-|    $22 | closeout        | #RS82 - Brooks England Scape Saddle Pocket Bag - Like-New Condition |
