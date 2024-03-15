@@ -5,18 +5,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |---|---|---|
 |  $2500 | closeout        | #1083 - Carbon All-Road - White Ember 700c w/ Apex XPLR Upgrade - Medium 55cm - Used Condition |
 |  $1645 | closeout        | #990 - 4130 All-Road XPLR AXS - Black Canyon (700c) - Small (47 cm) - Very Good Condition |
-|  $1099 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
-|  $1099 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
-|  $1489 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / Both (add $349.99) |
-|  $1099 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 650b |
-|  $1099 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 700c |
-|  $1489 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / Both (add $349.99) |
-|  $1099 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 650b |
-|  $1099 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 700c |
-|  $1489 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / Both (add $349.99) |
-|  $1099 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
-|  $1099 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
-|  $1489 | closeout        | 6061 Black Label All-Road - Dark Woodland (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (add $349.99) |
 |  $1099 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
 |  $1099 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
 |  $1489 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / Both (add $349.99) |
@@ -216,3 +204,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $24 | closeout        | Black Label Series:  Saddle |
 |    $24 | closeout        | #RS9 - Delta Alloy Stem Raiser - Like-New Condition |
 |    $22 | closeout        | #RS14 - TBM-10 Tailbones® Memory Foam Waterproof Saddle - Like-New Condition |
+|    $21 | closeout        | #RS18 - Serfas Bar-Tender Handlebar Bag - Like-New Condition |
