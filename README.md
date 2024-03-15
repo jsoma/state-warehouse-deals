@@ -139,7 +139,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - X-Large |
 |    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - XX-Large |
 |    $45 | closeout        | #RS91 - State Bicycle Co. x Endura - 2023 Team Issue Rain Jacket - Size Small- Like-New Condition |
-|    $45 | closeout        | #RS81 - Brooks England Scape Frame Bag - Like-New Condition |
 |    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - X-Small |
 |    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - Small |
 |    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - Medium |
@@ -216,3 +215,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - Extra Large |
 |    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - XX-Large |
 |    $24 | closeout        | #RS4 - ABUS Tresor 6615C Lock - Like-New Condition |
+|    $24 | closeout        | Black Label Series:  Saddle |
