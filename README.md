@@ -175,7 +175,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $27 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
 |    $27 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - 3X-Large |
 |    $26 | closeout        | #RS22 - Wald Lift-Off Basket - Like-New Condition |
-|    $25 | closeout        | #RS92 - State Bicycle Co. x Endura - 2023 Team Issue Summer Mesh Bibs - Size Small- Like-New Condition |
 |    $25 | closeout        | #RS75 - Handup Pants - Olive - Size Large  - Brand New Never Worn- Sample Clothing |
 |    $25 | closeout        | #RS73 - State Bicycle x The Beatles- Wool Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
 |    $25 | closeout        | #RS72 - State Bicycle x The Beatles- Wool Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
@@ -216,3 +215,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - XX-Large |
 |    $24 | closeout        | #RS4 - ABUS Tresor 6615C Lock - Like-New Condition |
 |    $24 | closeout        | Black Label Series:  Saddle |
+|    $24 | closeout        | #RS9 - Delta Alloy Stem Raiser - Like-New Condition |
