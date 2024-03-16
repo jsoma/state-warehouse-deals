@@ -166,7 +166,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | #RS73 - State Bicycle x The Beatles- Wool Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
 |    $25 | closeout        | #RS72 - State Bicycle x The Beatles- Wool Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
 |    $25 | closeout        | #RS69 - State Bicycle x The Beatles- Magical Mystery Tour Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
-|    $25 | closeout        | #RS64 - State Bicycle "Ambigram Hoodie" Black - Size M  - Brand New Never Worn- Sample Clothing |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Black |
 |    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - White |
 |    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Red |
@@ -205,3 +204,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $24 | closeout        | #RS9 - Delta Alloy Stem Raiser - Like-New Condition |
 |    $22 | closeout        | #RS14 - TBM-10 Tailbones® Memory Foam Waterproof Saddle - Like-New Condition |
 |    $21 | closeout        | #RS18 - Serfas Bar-Tender Handlebar Bag - Like-New Condition |
+|    $19 | closeout        | #RS5 - ABUS Steel-O-Flex Tresor 1360 Lock - Like-New Condition |
