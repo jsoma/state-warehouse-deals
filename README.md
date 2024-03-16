@@ -125,7 +125,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Large |
 |    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - X-Large |
 |    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - XX-Large |
-|    $45 | closeout        | #RS91 - State Bicycle Co. x Endura - 2023 Team Issue Rain Jacket - Size Small- Like-New Condition |
 |    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - X-Small |
 |    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - Small |
 |    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - Medium |
@@ -205,3 +204,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $22 | closeout        | #RS14 - TBM-10 Tailbones® Memory Foam Waterproof Saddle - Like-New Condition |
 |    $21 | closeout        | #RS18 - Serfas Bar-Tender Handlebar Bag - Like-New Condition |
 |    $19 | closeout        | #RS5 - ABUS Steel-O-Flex Tresor 1360 Lock - Like-New Condition |
+|    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Small |
+|    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Medium |
+|    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Large |
+|    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - X-Large |
+|    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - XX-Large |
