@@ -161,7 +161,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $27 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
 |    $27 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - 3X-Large |
 |    $26 | closeout        | #RS22 - Wald Lift-Off Basket - Like-New Condition |
-|    $25 | closeout        | #RS75 - Handup Pants - Olive - Size Large  - Brand New Never Worn- Sample Clothing |
 |    $25 | closeout        | #RS73 - State Bicycle x The Beatles- Wool Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
 |    $25 | closeout        | #RS72 - State Bicycle x The Beatles- Wool Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
 |    $25 | closeout        | #RS69 - State Bicycle x The Beatles- Magical Mystery Tour Jersey - Size Small  - Brand New Never Worn- Sample Clothing |
@@ -209,3 +208,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Large |
 |    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - X-Large |
 |    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - XX-Large |
+|    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Small |
+|    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Small |
+|    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Medium |
+|    $25 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Large |
+|    $25 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Large |
+|    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - XX-Large |
