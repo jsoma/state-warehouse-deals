@@ -4,18 +4,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |price|type|name|
 |---|---|---|
 |  $1645 | closeout        | #990 - 4130 All-Road XPLR AXS - Black Canyon (700c) - Small (47 cm) - Very Good Condition |
-|  $1099 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
-|  $1099 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
-|  $1489 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / Both (add $349.99) |
-|  $1099 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 650b |
-|  $1099 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 700c |
-|  $1489 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / Both (add $349.99) |
-|  $1099 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 650b |
-|  $1099 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 700c |
-|  $1489 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / Both (add $349.99) |
-|  $1099 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
-|  $1099 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
-|  $1489 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (add $349.99) |
 |   $999 | closeout        | #1000 - Carbon All-Road - Black Ember Frameset - Size Small (53cm) - Like-New Condition |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Small (49cm - Riders 5'3"-5'7") |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
@@ -207,3 +195,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Large |
 |    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - X-Large |
 |    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - XX-Large |
+|    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Small |
+|    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Small |
+|    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Medium |
+|    $25 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Large |
+|    $25 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Large |
+|    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - XX-Large |
