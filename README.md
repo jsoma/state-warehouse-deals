@@ -3,7 +3,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
-|  $2500 | closeout        | #1083 - Carbon All-Road - White Ember 700c w/ Apex XPLR Upgrade - Medium 55cm - Used Condition |
 |  $1645 | closeout        | #990 - 4130 All-Road XPLR AXS - Black Canyon (700c) - Small (47 cm) - Very Good Condition |
 |  $1099 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
 |  $1099 | closeout        | 6061 Black Label All-Road - Deep Pacific (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
@@ -212,3 +211,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | closeout        | #RS68 - State Bicycle x The Beatles- Magical Mystery Tour Tech-T - Size Small  - Brand New Never Worn- Sample Clothing |
 |    $18 | closeout        | #RS87/RS88 - State Bicycle Co. x Endura - 2023 Team Issue Arm Warmers- Like-New Condition |
 |    $14 | closeout        | State Bicycle Co. - Fly it High Beanie |
+|    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
