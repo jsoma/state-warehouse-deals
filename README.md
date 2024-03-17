@@ -74,9 +74,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $360 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
-|   $345 | closeout        | City Bike - The Azure (3 Speed) - Small (43 cm - Riders 4'9" - 5'5") |
-|   $345 | closeout        | City Bike - The Azure (3 Speed) - Medium (48 cm - Riders 5'5" - 5'9") |
-|   $345 | closeout        | City Bike - The Azure (3 Speed) - Large (53 cm - Riders 5'9" - 6'1") |
 |   $325 | closeout        | Pigeon - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $350 | closeout        | Pigeon - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
 |   $350 | closeout        | Pigeon - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
@@ -214,3 +211,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - XX-Large |
 |    $19 | closeout        | #RS68 - State Bicycle x The Beatles- Magical Mystery Tour Tech-T - Size Small  - Brand New Never Worn- Sample Clothing |
 |    $18 | closeout        | #RS87/RS88 - State Bicycle Co. x Endura - 2023 Team Issue Arm Warmers- Like-New Condition |
+|    $14 | closeout        | State Bicycle Co. - Fly it High Beanie |
