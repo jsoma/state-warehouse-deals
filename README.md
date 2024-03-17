@@ -147,6 +147,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
+|    $33 | closeout        | #RS84 - Vittoria Corsa Control 28c Tubless Road Tire - Like-New Condition |
 |    $28 | closeout        | #RS13 - TBM-30 Tailbones® Memory Foam Waterproof Cruiser Saddle - Like-New Condition |
 |    $27 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Small |
 |    $27 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Small |
@@ -211,4 +212,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | closeout        | #RS68 - State Bicycle x The Beatles- Magical Mystery Tour Tech-T - Size Small  - Brand New Never Worn- Sample Clothing |
 |    $18 | closeout        | #RS87/RS88 - State Bicycle Co. x Endura - 2023 Team Issue Arm Warmers- Like-New Condition |
 |    $14 | closeout        | State Bicycle Co. - Fly it High Beanie |
-|    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
