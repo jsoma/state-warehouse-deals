@@ -161,13 +161,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | State Bicycle Co. - Skull Kid - Bibs - X-Large |
 |    $25 | closeout        | State Bicycle Co. - Skull Kid - Bibs - XX-Large |
 |    $25 | closeout        | State Bicycle Co. - Skull Kid - Bibs - 3X-Large |
-|    $25 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Small |
-|    $25 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Small |
-|    $25 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Medium |
-|    $25 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Large |
-|    $25 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Large |
-|    $25 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - XX-Large |
-|    $25 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - 3X-Large |
 |    $25 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Small |
 |    $25 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Medium |
 |    $25 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
@@ -206,3 +199,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / White |
 |    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Gold |
 |    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Silver |
+|     $9 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
