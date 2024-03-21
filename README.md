@@ -138,7 +138,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
-|    $33 | closeout        | #RS84 - Vittoria Corsa Control 28c Tubless Road Tire - Like-New Condition |
 |    $28 | closeout        | #RS13 - TBM-30 Tailbones® Memory Foam Waterproof Cruiser Saddle - Like-New Condition |
 |    $27 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - X-Small |
 |    $27 | closeout        | State Bicycle Co. x AHAB Cycling Jersey  - Sustainable Clothing Collection - Small |
@@ -201,3 +200,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | closeout        | State Bicycle Co. - Fly it High Beanie |
 |    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
 |    $12 | closeout        | #RS10 - Mirrycle Handlebar Mirror - Like-New Condition |
+|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Black |
+|    $11 | closeout        | State Bicycle Co. - Seat Post - 30.9mm / Black |
+|    $11 | closeout        | State Bicycle Co. - Seat Post - 31.6mm / Black |
+|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / White |
+|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Gold |
+|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Silver |
