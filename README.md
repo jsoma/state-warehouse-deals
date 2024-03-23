@@ -48,7 +48,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $545 | closeout        | #1045 - 6061 All-Road - Black / Sunset- Frameset + Cockpit - Like-New Condition - Medium - 54cm - ( Riders 5'9" - 6'1") |
 |   $545 | closeout        | #1045 - 6061 All-Road - Black / Sunset- Frameset + Cockpit - Like-New Condition - Large - 58cm - (Riders 6'0" - 6'3") |
 |   $495 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
-|   $475 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 59cm - Photo Model / Excellent Condition |
 |   $395 | closeout        | #PM - State Bicycle Co. x Rabbits by Carrots “29in. Big BMX” Cruiser ( 4130 Steel ) - Like-New Condition |
 |   $360 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
@@ -200,3 +199,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Gold |
 |    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Silver |
 |     $9 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
+|     $9 | closeout        | #RS23 - Serfas Gripshift Grips - Like-New Condition |
