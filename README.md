@@ -163,11 +163,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $24 | closeout        | Black Label Series:  Saddle |
 |    $24 | closeout        | #RS9 - Delta Alloy Stem Raiser - Like-New Condition |
 |    $22 | closeout        | #RS14 - TBM-10 Tailbones® Memory Foam Waterproof Saddle - Like-New Condition |
-|    $22 | Shirts          | State Bicycle Co. X Free & Easy LS Shirt - Small |
-|    $22 | Shirts          | State Bicycle Co. X Free & Easy LS Shirt - Medium |
-|    $22 | Shirts          | State Bicycle Co. X Free & Easy LS Shirt - Large |
-|    $22 | Shirts          | State Bicycle Co. X Free & Easy LS Shirt - Extra Large |
-|    $22 | Shirts          | State Bicycle Co. X Free & Easy LS Shirt - 2xl |
 |    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Small |
 |    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Medium |
 |    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Large |
@@ -192,4 +187,5 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $9 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
 |     $9 | closeout        | #RS23 - Serfas Gripshift Grips - Like-New Condition |
 |     $9 | closeout        | April Fools / Not April Fools ? - Carbon Stem Cap |
-|     $8 | Bottle          | State Bicycle Co. X Free & Easy - Water Bottle |
+|     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
+|     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
