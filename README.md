@@ -4,7 +4,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |price|type|name|
 |---|---|---|
 |  $1645 | closeout        | #990 - 4130 All-Road XPLR AXS - Black Canyon (700c) - Small (47 cm) - Very Good Condition |
-|   $999 | closeout        | #1000 - Carbon All-Road - Black Ember Frameset - Size Small (53cm) - Like-New Condition |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Small (49cm - Riders 5'3"-5'7") |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
@@ -189,3 +188,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $9 | closeout        | April Fools / Not April Fools ? - Carbon Stem Cap |
 |     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
 |     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
+|     $0 | closeout        | Patch: Hell Ride High Noon - Vol 2. (2015) |
