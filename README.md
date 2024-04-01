@@ -82,6 +82,12 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $165 | closeout        | #RS93- Bell z20 Aero Mips Road Helmet - State Bicycle Team Wrapped - Size Small - Like-New Condition |
 |   $165 | closeout        | #RS86 - Bell Spherical XR Helmet - White - Size Medium - Like-New Condition |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
+|    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - X-Small |
+|    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - Small |
+|    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - Medium |
+|    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - Large |
+|    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - X-Large |
+|    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - XX-Large |
 |    $69 | closeout        | Black Label Series: Fixed Gear / Single Speed Crankset (Black) |
 |    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - X-Small |
 |    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Small |
@@ -180,4 +186,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
 |     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
 |     $0 | closeout        | Patch: Hell Ride High Noon - Vol 2. (2015) |
-|     $0 | closeout        | Patch: Explore Your State Vol. 2 - Dirt, Rivers & 9 Mile Hill |
