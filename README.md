@@ -135,7 +135,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
-|    $28 | closeout        | #RS13 - TBM-30 Tailbones® Memory Foam Waterproof Cruiser Saddle - Like-New Condition |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Black |
 |    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - White |
 |    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Red |
@@ -186,3 +185,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
 |     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
 |     $0 | closeout        | Patch: Hell Ride High Noon - Vol 2. (2015) |
+|     $0 | closeout        | Patch: Explore Your State Vol. 2 - Dirt, Rivers & 9 Mile Hill |
