@@ -3,7 +3,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
-|  $1495 | closeout        | #CM - Custom Build Undefeated Carbon Disc Road w/ Electronic Shifting & Zipp Wheels - Pearl/ Tie-Dye -  58 - Used Condition / Very Good Condition |
+|  $2950 | closeout        | #CM - Custom Build Undefeated Carbon Disc Road w/ Electronic Shifting & Zipp Wheels - Pearl/ Tie-Dye -  58 - Used Condition / Good Condition |
 |  $1495 | closeout        | #CM - Custom Build 6061 Black Label - / Single Speed - Grey / Fuchsia - 57cm - Used Condition / Very Good Condition |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Small (49cm - Riders 5'3"-5'7") |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
