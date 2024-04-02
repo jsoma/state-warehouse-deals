@@ -3,7 +3,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
-|  $1645 | closeout        | #990 - 4130 All-Road XPLR AXS - Black Canyon (700c) - Small (47 cm) - Very Good Condition |
 |  $1495 | closeout        | #CM - Custom Build 6061 Black Label - / Single Speed - Grey / Fuchsia - 57cm - Used Condition / Very Good Condition |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Small (49cm - Riders 5'3"-5'7") |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
@@ -186,3 +185,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
 |     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
 |     $0 | closeout        | Patch: Hell Ride High Noon - Vol 2. (2015) |
+|     $0 | closeout        | Patch: Explore Your State Vol. 2 - Dirt, Rivers & 9 Mile Hill |
