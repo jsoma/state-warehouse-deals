@@ -79,7 +79,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $325 | closeout        | #PM/OBI - SBC x RIPNDIP - Lord Nermal Core-Line (Size Medium 54cm)- Like-New Condition (Photo Model / Media Sample) |
-|   $265 | closeout        | #954 - City Bike  - Black & Tan 3-Speed - 53cm (Medium) - Fair Condition |
 |   $165 | closeout        | #RS94- Bell z20 Aero Mips Road Helmet - State Bicycle Team Wrapped - Size Medium - Like-New Condition |
 |   $165 | closeout        | #RS93- Bell z20 Aero Mips Road Helmet - State Bicycle Team Wrapped - Size Small - Like-New Condition |
 |   $165 | closeout        | #RS86 - Bell Spherical XR Helmet - White - Size Medium - Like-New Condition |
@@ -186,3 +185,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $9 | closeout        | April Fools / Not April Fools ? - Carbon Stem Cap |
 |     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
 |     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
+|     $0 | closeout        | Patch: Hell Ride High Noon - Vol 2. (2015) |
