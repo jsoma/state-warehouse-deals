@@ -153,7 +153,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - Large |
 |    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - Extra Large |
 |    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - XX-Large |
-|    $24 | closeout        | #RS4 - ABUS Tresor 6615C Lock - Like-New Condition |
 |    $24 | closeout        | Black Label Series:  Saddle |
 |    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Small |
 |    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Medium |
