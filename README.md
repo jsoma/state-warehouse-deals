@@ -47,7 +47,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1164 | closeout        | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
-|   $745 | closeout        | #1085 - 4130 All-Road - Black Canyon w/ 700c wheels - Small (47cm) - Like-New Condition |
 |   $725 | closeout        | #1089 - 4130 All-Road Flat-Bar - Pacific Golde w/ 650b Wheels - Large - Very-Good Condition (Copy) |
 |   $695 | closeout        | #1084 - 4130 All-Road - Black Canyon w/ 700c wheels - Medium (51cm) - Excellent Condition |
 |   $685 | closeout        | #1087 - 4130 All-Road Flat-Bar - Rust Fade w/ 650b Wheels - Small - Used / Excellent Condition |
@@ -185,3 +184,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - X-Large |
 |    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - XX-Large |
 |    $15 | closeout        | #RS109- Serfas - SERFAS E-LUME 350 LIGHT E-LUME 350 ALUMINUM BODY |
+|    $15 | closeout        | #RS103- PEARL iZUMi ELITE Gel Glove - Women's Size Large - Beach Glass |
