@@ -51,6 +51,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $695 | closeout        | #1084 - 4130 All-Road - Black Canyon w/ 700c wheels - Medium (51cm) - Excellent Condition |
 |   $725 | closeout        | #1089 - 4130 All-Road Flat-Bar - Pacific Golde w/ 650b Wheels - Large - Very-Good Condition (Copy) |
 |   $685 | closeout        | #1087 - 4130 All-Road Flat-Bar - Rust Fade w/ 650b Wheels - Small - Used / Excellent Condition |
+|   $675 | closeout        | #1094 - Undefeated Carbon Disc Road Frame & Fork Set - Size 45cm - Graphite Prism - Excellent / Used Condition |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 49 cm - (Riders 5'0"-5'3") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 52 cm - (Riders 5'3"-5'6") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 55 cm - (Riders 5'6"-5'9") |
@@ -59,6 +60,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $545 | closeout        | #1045 - 6061 All-Road - Black / Sunset- Frameset + Cockpit - Like-New Condition - Small - 51cm - ( Riders 5'6" - 5'10") |
 |   $545 | closeout        | #1045 - 6061 All-Road - Black / Sunset- Frameset + Cockpit - Like-New Condition - Medium - 54cm - ( Riders 5'9" - 6'1") |
 |   $545 | closeout        | #1045 - 6061 All-Road - Black / Sunset- Frameset + Cockpit - Like-New Condition - Large - 58cm - (Riders 6'0" - 6'3") |
+|   $475 | closeout        | #1095 - 4130 Fixed-Gear / Single-Speed  - Purple Reign - 52cm - Like-New Condition |
 |   $465 | closeout        | #1092 - 4130 Road+ (8-Speed)  - Bob Marley Edition (Black) - 55cm - Used / Very-Good Condition |
 |   $465 | closeout        | #1091 - 4130 Road+ (8-Speed)  - Bob Marley Edition (Tan) - 55cm - Used / Very-Good Condition |
 |   $415 | closeout        | #1093 - Klunker - Free & Easy Bike + Bag Combo - Like-New Condition |
@@ -193,10 +195,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - XX-Large |
 |    $14 | closeout        | State Bicycle Co. - Fly it High Beanie |
 |    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
-|    $12 | closeout        | #RS10 - Mirrycle Handlebar Mirror - Like-New Condition |
-|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Black |
-|    $11 | closeout        | State Bicycle Co. - Seat Post - 30.9mm / Black |
-|    $11 | closeout        | State Bicycle Co. - Seat Post - 31.6mm / Black |
-|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / White |
-|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Gold |
-|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Silver |
