@@ -109,7 +109,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $165 | closeout        | #RS86 - Bell Spherical XR Helmet - White - Size Medium - Like-New Condition |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $89 | closeout        | Blackburn Design - Outpost Front World Touring Rack |
-|    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - X-Small |
+|    $55 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - X-Small |
 |    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - Small |
 |    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - Medium |
 |    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - Large |
@@ -129,7 +129,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Extra Large |
 |    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - XX-Large |
 |    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - 3X-Large |
-|    $50 | closeout        | #RS37 - Shimano XC1 Mountain Bike Shoes - Women's Size 38 |
+|    $39 | closeout        | #RS37 - Shimano XC1 Mountain Bike Shoes - Women's Size 38 |
 |    $49 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Small |
 |    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Medium |
 |    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Large |
@@ -175,7 +175,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
 |    $25 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
 |    $25 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
-|    $25 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - Extra Small |
+|    $15 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - Extra Small |
 |    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - Small |
 |    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - Medium |
 |    $39 | closeout        | State Bicycle Co. x Rick and Morty - "Portal" - Jersey - Large |
@@ -189,7 +189,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Large |
 |    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - X-Large |
 |    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - XX-Large |
-|    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Small |
+|    $15 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Small |
 |    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Small |
 |    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Medium |
 |    $25 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Large |
