@@ -61,6 +61,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $545 | closeout        | #1045 - 6061 All-Road - Black / Sunset- Frameset + Cockpit - Like-New Condition - Large - 58cm - (Riders 6'0" - 6'3") |
 |   $465 | closeout        | #1092 - 4130 Road+ (8-Speed)  - Bob Marley Edition (Black) - 55cm - Used / Very-Good Condition |
 |   $465 | closeout        | #1091 - 4130 Road+ (8-Speed)  - Bob Marley Edition (Tan) - 55cm - Used / Very-Good Condition |
+|   $415 | closeout        | #1093 - Klunker - Free & Easy Bike + Bag Combo - Like-New Condition |
 |   $365 | closeout        | #PM/OBI - Klunker - SBC x RIPNDIP - Klunker + Bag Combo - Like-New Condition (Photo Model / Media Sample) |
 |   $360 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
@@ -105,6 +106,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $165 | closeout        | #RS93- Bell z20 Aero Mips Road Helmet - State Bicycle Team Wrapped - Size Small - Like-New Condition |
 |   $165 | closeout        | #RS86 - Bell Spherical XR Helmet - White - Size Medium - Like-New Condition |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
+|    $89 | closeout        | Blackburn Design - Outpost Front World Touring Rack |
 |    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - X-Small |
 |    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - Small |
 |    $85 | Jerseys + Kits  | State Bicycle Team x Rapha - Classic Flyweight Jersey (White) - Medium |
@@ -198,5 +200,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / White |
 |    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Gold |
 |    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Silver |
-|     $9 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
-|     $9 | closeout        | #RS23 - Serfas Gripshift Grips - Like-New Condition |
