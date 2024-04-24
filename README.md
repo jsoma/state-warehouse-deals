@@ -48,7 +48,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1164 | closeout        | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
 |   $725 | closeout        | #1089 - 4130 All-Road Flat-Bar - Pacific Golde w/ 650b Wheels - Large - Very-Good Condition (Copy) |
-|   $685 | closeout        | #1087 - 4130 All-Road Flat-Bar - Rust Fade w/ 650b Wheels - Small - Used / Excellent Condition |
 |   $675 | closeout        | #1094 - Undefeated Carbon Disc Road Frame & Fork Set - Size 45cm - Graphite Prism - Excellent / Used Condition |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 49 cm - (Riders 5'0"-5'3") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 52 cm - (Riders 5'3"-5'6") |
@@ -185,3 +184,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $15 | closeout        | #RS100 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Black |
 |    $15 | closeout        | #RS99 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Black |
 |    $15 | closeout        | #RS98 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Beach Glass |
+|    $15 | closeout        | #RS97 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Fog |
