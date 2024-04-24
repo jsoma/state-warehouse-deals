@@ -97,6 +97,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
+|   $295 | Bicycles        | #1086: Wulf - Core-Line - Size: Large (58cm) - Very Good Condition |
 |   $165 | closeout        | #RS94- Bell z20 Aero Mips Road Helmet - State Bicycle Team Wrapped - Size Medium - Like-New Condition |
 |   $165 | closeout        | #RS93- Bell z20 Aero Mips Road Helmet - State Bicycle Team Wrapped - Size Small - Like-New Condition |
 |   $165 | closeout        | #RS86 - Bell Spherical XR Helmet - White - Size Medium - Like-New Condition |
@@ -184,4 +185,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $15 | closeout        | #RS100 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Black |
 |    $15 | closeout        | #RS99 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Black |
 |    $15 | closeout        | #RS98 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Beach Glass |
-|    $15 | closeout        | #RS97 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Fog |
