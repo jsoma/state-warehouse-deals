@@ -68,9 +68,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $360 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Riser Bars |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Bullhorn Bars (Add $25) |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Drop Bars (Add $25) |
-|   $360 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Medium (54 cm- Riders 5'7"-5'11") - Estimated Late-April / Riser Bars |
-|   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Medium (54 cm- Riders 5'7"-5'11") - Estimated Late-April / Bullhorn Bars (Add $25) |
-|   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Medium (54 cm- Riders 5'7"-5'11") - Estimated Late-April / Drop Bars (Add $25) |
+|   $360 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Riser Bars |
+|   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Bullhorn Bars (Add $25) |
+|   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Drop Bars (Add $25) |
 |   $360 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
