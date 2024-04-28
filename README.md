@@ -175,7 +175,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $24 | closeout        | Black Label Series:  Saddle |
 |    $22 | closeout        | #RS108- Serfas - UTM-60 Cosmo 60 Lumen Tail Light |
 |    $21 | closeout        | #RS111- Serfas - USL-605 E-Lume 605 Headlight |
-|    $21 | closeout        | #RS110- Serfas - Serfas USM-600 E-Lume 600 Lumens Headlight |
 |    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Small |
 |    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Medium |
 |    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Large |
@@ -185,3 +184,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $15 | closeout        | #RS102 - PEARL iZUMi ELITE Gel Glove - Women's Size Large - Beach Glass |
 |    $15 | closeout        | #RS101 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Sreaming Red |
 |    $15 | closeout        | #RS100 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Black |
+|    $15 | closeout        | #RS99 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Black |
