@@ -23,6 +23,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 58 cm (Riders 5'9"-6'1") |
 |   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
+|   $945 | closeout        | #1096 - 6061 Black Label All-Road - Copper Brown (650b) - Small (51cm) - Very-Good Condition |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1164 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (add $389.99) |
@@ -184,4 +185,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $15 | closeout        | #RS100 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Black |
 |    $15 | closeout        | #RS99 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Black |
 |    $15 | closeout        | #RS98 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Beach Glass |
-|    $15 | closeout        | #RS96 - PEARL iZUMi ELITE Gel Glove - Women's Size Small - Black |
