@@ -163,11 +163,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
 |    $24 | closeout        | Black Label Series:  Saddle |
 |    $22 | closeout        | #RS108- Serfas - UTM-60 Cosmo 60 Lumen Tail Light |
-|    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Small |
-|    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Medium |
-|    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - Large |
-|    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - X-Large |
-|    $19 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain T-Shirt - XX-Large |
 |    $15 | closeout        | #RS103- PEARL iZUMi ELITE Gel Glove - Women's Size Large - Beach Glass |
 |    $15 | closeout        | #RS102 - PEARL iZUMi ELITE Gel Glove - Women's Size Large - Beach Glass |
 |    $15 | closeout        | #RS101 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Sreaming Red |
@@ -182,3 +177,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Large |
 |    $25 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Large |
 |    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - XX-Large |
+|    $14 | closeout        | State Bicycle Co. - Fly it High Beanie |
