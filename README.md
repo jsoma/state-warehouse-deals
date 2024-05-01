@@ -18,11 +18,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Small (49cm - Riders 5'3"-5'7") |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
-|   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 49 cm (Riders 5'0"-5'3") |
-|   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 52 cm (Riders 5'3"-5'6") |
-|   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 55 cm (Riders 5'6"-5'9") |
-|   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 58 cm (Riders 5'9"-6'1") |
-|   $995 | Undefeated      | Undefeated Disc Road - Pearl / Tie-Dye - 62 cm (Riders 6'2"-6'6") |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1164 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (add $389.99) |
@@ -74,7 +69,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $360 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
-|   $345 | Bicycles        | #1090: Lavendar Haze - Core-Line - Size: Smalll (50cm) - Like-New Condition |
 |   $325 | closeout        | Pigeon - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $350 | closeout        | Pigeon - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
 |   $350 | closeout        | Pigeon - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
@@ -181,3 +175,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $15 | closeout        | #RS99 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Black |
 |    $15 | closeout        | #RS98 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Beach Glass |
 |    $15 | closeout        | #RS96 - PEARL iZUMi ELITE Gel Glove - Women's Size Small - Black |
+|    $15 | closeout        | #RS95 - PEARL iZUMi ELITE Gel Glove - Women's Size Small - Screaming Red |
+|    $15 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Small |
+|    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Small |
+|    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Medium |
+|    $25 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Large |
+|    $25 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Large |
+|    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - XX-Large |
