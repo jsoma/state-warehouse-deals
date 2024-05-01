@@ -57,7 +57,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $545 | closeout        | #1045 - 6061 All-Road - Black / Sunset- Frameset + Cockpit - Like-New Condition - Medium - 54cm - ( Riders 5'9" - 6'1") |
 |   $545 | closeout        | #1045 - 6061 All-Road - Black / Sunset- Frameset + Cockpit - Like-New Condition - Large - 58cm - (Riders 6'0" - 6'3") |
 |   $495 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
-|   $489 | closeout        | #1098 - 4130 Fixed-Gear / Single-Speed  - Matte Olive - 55cm - CUSTOM BUILD / Very-Good Condition |
 |   $475 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 59cm - Photo Model / Excellent Condition |
 |   $445 | closeout        | #PM - Klunker - Free & Easy Bike + Bag Combo - Like-New Condition |
 |   $445 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 52cm - Photo Model / Excellent Condition |
@@ -185,3 +184,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $15 | closeout        | #RS101 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Sreaming Red |
 |    $15 | closeout        | #RS100 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Black |
 |    $15 | closeout        | #RS99 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Black |
+|    $15 | closeout        | #RS98 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Beach Glass |
