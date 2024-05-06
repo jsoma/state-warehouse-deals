@@ -30,18 +30,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1164 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
-|   $775 | closeout        | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") - Estimated Shipping Late-September / 650b |
-|   $775 | closeout        | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") - Estimated Shipping Late-September / 700c |
-|  $1164 | closeout        | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") - Estimated Shipping Late-September / Both (add $389.99) |
-|   $775 | closeout        | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") - Estimated Shipping Late-September / 650b |
-|   $775 | closeout        | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") - Estimated Shipping Late-September / 700c |
-|  $1164 | closeout        | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Small ( Riders 5'5" - 5'10") - Estimated Shipping Late-September / Both (add $389.99) |
-|   $775 | closeout        | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
-|   $775 | closeout        | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
-|  $1164 | closeout        | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Medium ( Riders 5'9" - 6'2") / Both (add $389.99) |
-|   $775 | closeout        | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
-|   $775 | closeout        | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
-|  $1164 | closeout        | 4130 All-Road - Flat Bar - Pacific Gold (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
 |   $675 | closeout        | #1094 - Undefeated Carbon Disc Road Frame & Fork Set - Size 45cm - Graphite Prism - Excellent / Used Condition |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 49 cm - (Riders 5'0"-5'3") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 52 cm - (Riders 5'3"-5'6") |
@@ -183,3 +171,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $8 | closeout        | #RS58 - Origin8 Single-Ring Chainring Bolts 5-Pack (CHROME) |
 |     $8 | closeout        | #RS57 - Origin8 Single-Ring Chainring Bolts 5-Pack (BLACK) |
 |     $7 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
+|     $7 | closeout        | #RS23 - Serfas Gripshift Grips - Like-New Condition |
