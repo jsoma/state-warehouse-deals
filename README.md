@@ -172,6 +172,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Gold |
 |    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Silver |
 |     $9 | closeout        | April Fools / Not April Fools ? - Carbon Stem Cap |
+|     $8 | closeout        | #RS60 - Origin8 Cr-Mo Track Front Axle Nuts (BLACK) |
 |     $8 | closeout        | #RS58 - Origin8 Single-Ring Chainring Bolts 5-Pack (CHROME) |
 |     $8 | closeout        | #RS57 - Origin8 Single-Ring Chainring Bolts 5-Pack (BLACK) |
-|     $7 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
