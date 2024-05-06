@@ -114,6 +114,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - Large |
 |    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - X-Large |
 |    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - XX-Large |
+|    $42 | Handlebars      | Salsa - Cowchipper Drop Handlebar - 44cm |
+|    $42 | Handlebars      | Salsa - Cowchipper Drop Handlebar - 46cm |
 |    $39 | closeout        | #RS37 - Shimano XC1 Mountain Bike Shoes - Women's Size 38 |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 46 tooth |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 48 tooth |
@@ -171,4 +173,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $8 | closeout        | #RS57 - Origin8 Single-Ring Chainring Bolts 5-Pack (BLACK) |
 |     $7 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
 |     $7 | closeout        | #RS23 - Serfas Gripshift Grips - Like-New Condition |
-|     $5 | closeout        | #RS105- Serfas - UTL-10 Apollo USB Compact LED Tail Light |
