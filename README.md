@@ -78,7 +78,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
-|   $325 | closeout        | #PM/OBI - SBC x RIPNDIP - Lord Nermal Core-Line (Size Medium 54cm)- Like-New Condition (Photo Model / Media Sample) |
 |   $195 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Small |
 |   $195 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Medium |
 |   $195 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Large |
@@ -175,3 +174,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $8 | closeout        | #RS58 - Origin8 Single-Ring Chainring Bolts 5-Pack (CHROME) |
 |     $8 | closeout        | #RS57 - Origin8 Single-Ring Chainring Bolts 5-Pack (BLACK) |
 |     $7 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
+|     $7 | closeout        | #RS23 - Serfas Gripshift Grips - Like-New Condition |
