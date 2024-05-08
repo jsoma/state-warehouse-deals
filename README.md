@@ -130,6 +130,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $42 | Handlebars      | Salsa - Cowchipper Drop Handlebar - 44cm |
 |    $42 | Handlebars      | Salsa - Cowchipper Drop Handlebar - 46cm |
 |    $39 | closeout        | #RS37 - Shimano XC1 Mountain Bike Shoes - Women's Size 38 |
+|    $35 | Misc. Parts     | Panaracer Gravel King SK All-Road Tire - 27.5 (650b) x 1.9" - Black |
+|    $35 | Misc. Parts     | Panaracer Gravel King SK All-Road Tire - 27.5 (650b) x 1.9" - Tan |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 46 tooth |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 48 tooth |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 49 tooth |
@@ -182,4 +184,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Gold |
 |    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Silver |
 |     $9 | closeout        | April Fools / Not April Fools ? - Carbon Stem Cap |
-|     $8 | closeout        | #RS58 - Origin8 Single-Ring Chainring Bolts 5-Pack (CHROME) |
