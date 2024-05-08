@@ -160,6 +160,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
 |    $25 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
 |    $24 | closeout        | Black Label Series:  Saddle |
+|    $22 | Misc. Parts     | Vittoria Barzo  - Gravel / XC MTB Tire - 27.5 x 2.1" (Rigid) - Black |
 |    $15 | closeout        | #RS103- PEARL iZUMi ELITE Gel Glove - Women's Size Large - Beach Glass |
 |    $15 | closeout        | #RS102 - PEARL iZUMi ELITE Gel Glove - Women's Size Large - Beach Glass |
 |    $15 | closeout        | #RS101 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Sreaming Red |
@@ -182,4 +183,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Silver |
 |     $9 | closeout        | April Fools / Not April Fools ? - Carbon Stem Cap |
 |     $8 | closeout        | #RS58 - Origin8 Single-Ring Chainring Bolts 5-Pack (CHROME) |
-|     $8 | closeout        | #RS57 - Origin8 Single-Ring Chainring Bolts 5-Pack (BLACK) |
