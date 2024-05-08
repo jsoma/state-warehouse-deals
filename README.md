@@ -130,6 +130,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $42 | Handlebars      | Salsa - Cowchipper Drop Handlebar - 44cm |
 |    $42 | Handlebars      | Salsa - Cowchipper Drop Handlebar - 46cm |
 |    $39 | closeout        | #RS37 - Shimano XC1 Mountain Bike Shoes - Women's Size 38 |
+|    $37 | Misc. Parts     | Vittoria Terreno Zero - Gravel / All-Road Tire - 700 x 38c - Black |
+|    $37 | Misc. Parts     | Vittoria Terreno Zero - Gravel / All-Road Tire - 700 x 38c - Tan |
+|    $37 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 650 x 47c - Black |
+|    $37 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 650 x 47c - Tan |
 |    $35 | Misc. Parts     | Panaracer Gravel King SK All-Road Tire - 27.5 (650b) x 1.9" - Black |
 |    $35 | Misc. Parts     | Panaracer Gravel King SK All-Road Tire - 27.5 (650b) x 1.9" - Tan |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 46 tooth |
@@ -177,10 +181,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | closeout        | State Bicycle Co. - Fly it High Beanie |
 |    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
 |    $12 | closeout        | #RS107- Serfas - UTM-30 Cosmo 30 Lumen Tail Light |
-|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Black |
-|    $11 | closeout        | State Bicycle Co. - Seat Post - 30.9mm / Black |
-|    $11 | closeout        | State Bicycle Co. - Seat Post - 31.6mm / Black |
-|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / White |
-|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Gold |
-|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Silver |
-|     $9 | closeout        | April Fools / Not April Fools ? - Carbon Stem Cap |
