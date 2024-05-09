@@ -102,6 +102,13 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Large |
 |    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - X-Large |
 |    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - XX-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - X-Small |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - Small |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - Medium |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - X-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - XX-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - 3X-Large |
 |    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - X-Small |
 |    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Small |
 |    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Medium |
@@ -180,9 +187,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | closeout        | State Bicycle Co. - Fly it High Beanie |
 |    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
 |    $12 | closeout        | #RS107- Serfas - UTM-30 Cosmo 30 Lumen Tail Light |
-|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Black |
-|    $11 | closeout        | State Bicycle Co. - Seat Post - 30.9mm / Black |
-|    $11 | closeout        | State Bicycle Co. - Seat Post - 31.6mm / Black |
-|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / White |
-|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Gold |
-|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Silver |
