@@ -49,7 +49,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $545 | closeout        | #1045 - 6061 All-Road - Black / Sunset- Frameset + Cockpit - Like-New Condition - Small - 51cm - ( Riders 5'6" - 5'10") |
 |   $545 | closeout        | #1045 - 6061 All-Road - Black / Sunset- Frameset + Cockpit - Like-New Condition - Medium - 54cm - ( Riders 5'9" - 6'1") |
 |   $545 | closeout        | #1045 - 6061 All-Road - Black / Sunset- Frameset + Cockpit - Like-New Condition - Large - 58cm - (Riders 6'0" - 6'3") |
-|   $495 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 55cm - Photo Model / Excellent Condition |
 |   $445 | closeout        | #PM - Klunker - Free & Easy Bike + Bag Combo - Like-New Condition |
 |   $445 | closeout        | #OBI - State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition w/ Brooks Saddle - 52cm - Photo Model / Excellent Condition |
 |   $375 | closeout        | #OBI - Klunker - State Bicycle Co. x The Beatles "Yellow Submarine" Edition - Like-New Condition |
@@ -181,3 +180,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | closeout        | State Bicycle Co. - Fly it High Beanie |
 |    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
 |    $12 | closeout        | #RS107- Serfas - UTM-30 Cosmo 30 Lumen Tail Light |
+|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Black |
+|    $11 | closeout        | State Bicycle Co. - Seat Post - 30.9mm / Black |
+|    $11 | closeout        | State Bicycle Co. - Seat Post - 31.6mm / Black |
+|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / White |
+|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Gold |
+|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Silver |
