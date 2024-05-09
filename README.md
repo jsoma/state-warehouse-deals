@@ -177,7 +177,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $15 | closeout        | #RS102 - PEARL iZUMi ELITE Gel Glove - Women's Size Large - Beach Glass |
 |    $15 | closeout        | #RS101 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Sreaming Red |
 |    $15 | closeout        | #RS98 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Beach Glass |
-|    $15 | closeout        | #RS96 - PEARL iZUMi ELITE Gel Glove - Women's Size Small - Black |
 |    $15 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Small |
 |    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Small |
 |    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Medium |
@@ -187,3 +186,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | closeout        | State Bicycle Co. - Fly it High Beanie |
 |    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
 |    $12 | closeout        | #RS107- Serfas - UTM-30 Cosmo 30 Lumen Tail Light |
+|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Black |
+|    $11 | closeout        | State Bicycle Co. - Seat Post - 30.9mm / Black |
+|    $11 | closeout        | State Bicycle Co. - Seat Post - 31.6mm / Black |
+|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / White |
+|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Gold |
+|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Silver |
