@@ -76,18 +76,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | closeout        | Pigeon - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $350 | closeout        | Pigeon - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $350 | closeout        | Pigeon - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
-|   $325 | closeout        | Delfin - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
-|   $350 | closeout        | Delfin - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
-|   $350 | closeout        | Delfin - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
-|   $325 | closeout        | Delfin - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Riser Bars |
-|   $350 | closeout        | Delfin - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Bullhorn Bars (Add $25) |
-|   $350 | closeout        | Delfin - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Drop Bars (Add $25) |
-|   $325 | closeout        | Delfin - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Riser Bars |
-|   $350 | closeout        | Delfin - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Bullhorn Bars (Add $25) |
-|   $350 | closeout        | Delfin - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Drop Bars (Add $25) |
-|   $325 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
-|   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
-|   $350 | closeout        | Delfin - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $195 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Small |
 |   $195 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Medium |
 |   $195 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Large |
@@ -192,3 +180,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / White |
 |    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Gold |
 |    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Silver |
+|     $9 | closeout        | April Fools / Not April Fools ? - Carbon Stem Cap |
