@@ -89,13 +89,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Large |
 |    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - X-Large |
 |    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - XX-Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - X-Small |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - Small |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - Medium |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - X-Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - XX-Large |
-|    $55 | Jerseys + Kits  | State Bicycle Co. x Taco Bell - Cycling Jersey - 3X-Large |
 |    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - X-Small |
 |    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Small |
 |    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Medium |
@@ -163,12 +156,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $15 | closeout        | #RS103- PEARL iZUMi ELITE Gel Glove - Women's Size Large - Beach Glass |
 |    $15 | closeout        | #RS102 - PEARL iZUMi ELITE Gel Glove - Women's Size Large - Beach Glass |
 |    $15 | closeout        | #RS101 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Sreaming Red |
-|    $15 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Small |
-|    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Small |
-|    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Medium |
-|    $25 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Large |
-|    $25 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Large |
-|    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - XX-Large |
 |    $14 | closeout        | State Bicycle Co. - Fly it High Beanie |
 |    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
 |    $12 | closeout        | #RS107- Serfas - UTM-30 Cosmo 30 Lumen Tail Light |
@@ -181,3 +168,5 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $9 | closeout        | April Fools / Not April Fools ? - Carbon Stem Cap |
 |     $8 | closeout        | #RS58 - Origin8 Single-Ring Chainring Bolts 5-Pack (CHROME) |
 |     $7 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
+|     $7 | closeout        | #RS23 - Serfas Gripshift Grips - Like-New Condition |
+|     $5 | closeout        | #RS105- Serfas - UTL-10 Apollo USB Compact LED Tail Light |
