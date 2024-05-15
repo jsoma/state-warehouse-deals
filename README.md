@@ -158,15 +158,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | closeout        | State Bicycle Co. - Fly it High Beanie |
 |    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
 |    $12 | closeout        | #RS107- Serfas - UTM-30 Cosmo 30 Lumen Tail Light |
-|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Black |
-|    $11 | closeout        | State Bicycle Co. - Seat Post - 30.9mm / Black |
-|    $11 | closeout        | State Bicycle Co. - Seat Post - 31.6mm / Black |
-|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / White |
-|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Gold |
-|    $11 | closeout        | State Bicycle Co. - Seat Post - 27.2 mm / Silver |
 |     $9 | closeout        | April Fools / Not April Fools ? - Carbon Stem Cap |
 |     $8 | closeout        | #RS58 - Origin8 Single-Ring Chainring Bolts 5-Pack (CHROME) |
 |     $7 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
 |     $7 | closeout        | #RS23 - Serfas Gripshift Grips - Like-New Condition |
 |     $5 | closeout        | #RS105- Serfas - UTL-10 Apollo USB Compact LED Tail Light |
 |     $5 | closeout        | #RS60 - Origin8 Cr-Mo Track Front Axle Nuts (BLACK) |
+|     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
