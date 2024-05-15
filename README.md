@@ -35,7 +35,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1164 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
-|   $675 | closeout        | #1094 - Undefeated Carbon Disc Road Frame & Fork Set - Size 45cm - Graphite Prism - Excellent / Used Condition |
 |   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 49 cm (Riders 5'0"-5'3") |
 |   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 52 cm (Riders 5'3"-5'6") |
 |   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 55 cm (Riders 5'6"-5'10") |
@@ -170,3 +169,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $7 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
 |     $7 | closeout        | #RS23 - Serfas Gripshift Grips - Like-New Condition |
 |     $5 | closeout        | #RS105- Serfas - UTL-10 Apollo USB Compact LED Tail Light |
+|     $5 | closeout        | #RS60 - Origin8 Cr-Mo Track Front Axle Nuts (BLACK) |
