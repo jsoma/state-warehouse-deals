@@ -48,6 +48,16 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $545 | closeout        | #1045 - 6061 All-Road - Black / Sunset- Frameset + Cockpit - Like-New Condition - Small - 51cm - ( Riders 5'6" - 5'10") |
 |   $545 | closeout        | #1045 - 6061 All-Road - Black / Sunset- Frameset + Cockpit - Like-New Condition - Medium - 54cm - ( Riders 5'9" - 6'1") |
 |   $545 | closeout        | #1045 - 6061 All-Road - Black / Sunset- Frameset + Cockpit - Like-New Condition - Large - 58cm - (Riders 6'0" - 6'3") |
+|   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - (8-Speed) - 49 cm (Riders 5'1"-5'4") / Urban Comfort Saddle |
+|   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - (8-Speed) - 49 cm (Riders 5'1"-5'4") / Brooks England B17 |
+|   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - (8-Speed) - 52 cm (Riders 5'4"-5'7") / Urban Comfort Saddle |
+|   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - (8-Speed) - 52 cm (Riders 5'4"-5'7") / Brooks England B17 |
+|   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - (8-Speed) - 55 cm (Riders 5'7"-5'11") / Urban Comfort Saddle |
+|   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - (8-Speed) - 55 cm (Riders 5'7"-5'11") / Brooks England B17 |
+|   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - (8-Speed) - 59 cm (Riders 5'11"-6'2) / Urban Comfort Saddle |
+|   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - (8-Speed) - 59 cm (Riders 5'11"-6'2) / Brooks England B17 |
+|   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - (8-Speed) - 62 cm (Riders 6'2"-6'6") / Urban Comfort Saddle |
+|   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - (8-Speed) - 62 cm (Riders 6'2"-6'6") / Brooks England B17 |
 |   $445 | closeout        | #PM - Klunker - Free & Easy Bike + Bag Combo - Like-New Condition |
 |   $365 | closeout        | #PM/OBI - Klunker - SBC x RIPNDIP - Klunker + Bag Combo - Like-New Condition (Photo Model / Media Sample) |
 |   $360 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
@@ -81,6 +91,18 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $165 | closeout        | #RS93- Bell z20 Aero Mips Road Helmet - State Bicycle Team Wrapped - Size Small - Like-New Condition |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $69 | closeout        | Black Label Series: Fixed Gear / Single Speed Crankset (Black) |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - Small |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - Medium |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - X-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - XX-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - 3X-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - Small |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - Medium |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - X-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - XX-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - 3X-Large |
 |    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - X-Small |
 |    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Small |
 |    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Medium |
@@ -105,6 +127,12 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - Large |
 |    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - X-Large |
 |    $59 | closeout        | State Bicycle Co. x Wu-Tang Clan - "W" Chain Jersey - Sustainable Clothing Collection - XX-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - Small |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - Medium |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - X-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - XX-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - 3X-Large |
 |    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - X-Small |
 |    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - Small |
 |    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - Medium |
@@ -170,7 +198,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Gold |
 |     $8 | closeout        | #RS58 - Origin8 Single-Ring Chainring Bolts 5-Pack (CHROME) |
 |     $7 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
-|     $7 | closeout        | #RS23 - Serfas Gripshift Grips - Like-New Condition |
-|     $5 | closeout        | #RS105- Serfas - UTL-10 Apollo USB Compact LED Tail Light |
-|     $5 | closeout        | #RS60 - Origin8 Cr-Mo Track Front Axle Nuts (BLACK) |
-|     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
