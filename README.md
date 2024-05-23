@@ -24,6 +24,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $949 | Undefeated      | Undefeated Track - Graphite / Prism - 55 cm (Riders 5'7"-5'11") |
 |   $949 | Undefeated      | Undefeated Track - Graphite / Prism - 58 cm (Riders 5'11"-6'2") |
 |   $949 | Undefeated      | Undefeated Track - Graphite / Prism - 61 cm (Riders 6'2"-6'5") |
+|   $775 | closeout        | #1101 - 4130 All-Road- Flat Bar - Raw / Phosphate - X-Small w/ 650b Wheels - Like-New Condition |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1164 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (add $389.99) |
@@ -36,6 +37,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1164 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
+|   $725 | closeout        | #1110 - 4130 All-Road Flat-Bar - Pacific Gold w/ 650b Wheels - Large - Like-New Condition |
 |   $720 | closeout        | #1111 - 6061 Black Label v3 (Fixed-Gear)   - Grey / Fuchsia - 58cm - Excellent Condition |
 |   $685 | closeout        | #1100 - 6061 Black Label v3 (Fixed-Gear)   - Grey / Fuchsia - 58cm - Excellent Condition |
 |   $585 | closeout        | #1113 - 6061 Black Label v3 (Fixed-Gear)   - Green / Gold - 55cm -Used / Good Condition |
@@ -187,5 +189,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $15 | closeout        | #RS102 - PEARL iZUMi ELITE Gel Glove - Women's Size Large - Beach Glass |
 |    $15 | closeout        | #RS101 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Sreaming Red |
 |    $14 | closeout        | State Bicycle Co. - Fly it High Beanie |
-|    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
-|    $12 | closeout        | #RS107- Serfas - UTM-30 Cosmo 30 Lumen Tail Light |
