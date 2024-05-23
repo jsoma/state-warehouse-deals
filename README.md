@@ -3,6 +3,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
+|  $1675 | closeout        | #1099 - Carbon All-Road - White Ember 700c w/ Upgrades - 57cm - Like-New Condition |
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 49 cm (Riders 5'0"-5'3") |
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 52 cm (Riders 5'3"-5'6") |
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 55 cm (Riders 5'6"-5'9") |
@@ -35,6 +36,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1164 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
+|   $685 | closeout        | #1111 - 6061 Black Label v3 (Fixed-Gear)   - Grey / Fuchsia - 58cm - Excellent Conditio |
+|   $685 | closeout        | #1100 - 6061 Black Label v3 (Fixed-Gear)   - Grey / Fuchsia - 58cm - Excellent Condition |
 |   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 49 cm (Riders 5'0"-5'3") |
 |   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 52 cm (Riders 5'3"-5'6") |
 |   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 55 cm (Riders 5'6"-5'10") |
@@ -186,15 +189,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
 |    $12 | closeout        | #RS107- Serfas - UTM-30 Cosmo 30 Lumen Tail Light |
 |     $9 | closeout        | April Fools / Not April Fools ? - Carbon Stem Cap |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Blue |
-|     $9 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - White |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Anode Red |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Maroon |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Silver |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Shockwave (Yellow & Green) |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Matte Black |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Pink |
-|     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Red |
-|     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Gold |
-|     $8 | closeout        | #RS58 - Origin8 Single-Ring Chainring Bolts 5-Pack (CHROME) |
-|     $7 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
