@@ -66,6 +66,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - (8-Speed) - 59 cm (Riders 5'11"-6'2) / Brooks England B17 |
 |   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - (8-Speed) - 62 cm (Riders 6'2"-6'6") / Urban Comfort Saddle |
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - (8-Speed) - 62 cm (Riders 6'2"-6'6") / Brooks England B17 |
+|   $475 | closeout        | #1107 - 4130 Fixed-Gear / Single-Speed - Navy & Gold - 49cm - Excellent Condition |
 |   $445 | closeout        | #PM - Klunker - Free & Easy Bike + Bag Combo - Like-New Condition |
 |   $395 | closeout        | #1103 - Klunker - Black & Metallic - Like-New Condition w/ All-Road Crank Upgade |
 |   $365 | closeout        | #PM/OBI - Klunker - SBC x RIPNDIP - Klunker + Bag Combo - Like-New Condition (Photo Model / Media Sample) |
@@ -97,6 +98,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $285 | closeout        | #1106 - Core-Line  - Rigby - Small (50cm) - Very-Good Condition |
 |   $275 | closeout        | #1104 - Core-Line  - Pigeon - Small (50cm) - Very-Good Condition |
 |   $265 | closeout        | #1105 - Core-Line  - Earthstone - Medium (54cm) - Good Condition |
+|   $225 | closeout        | #1109 - Core-Line  - Lucky Penny - X-Small (46cm) - Fair Condition |
 |   $195 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Small |
 |   $195 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Medium |
 |   $195 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Large |
@@ -172,16 +174,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - X-Large |
 |    $35 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - XX-Large |
 |    $35 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - 3X-Large |
-|    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Small |
-|    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Medium |
-|    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
-|    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
-|    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
-|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Black |
-|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - White |
-|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Red |
-|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Yellow |
-|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Green |
-|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
-|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
-|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
