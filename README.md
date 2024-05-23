@@ -9,6 +9,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 55 cm (Riders 5'6"-5'9") |
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 58 cm (Riders 5'9"-6'1") |
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 61 cm (Riders 6'2"-6'6") |
+|  $1095 | closeout        | #1102  - 6061 Black Label All-Road - Deep Pacific (700c) - Large (58cm) - Excellent Condition |
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 45 cm - (Riders 5'0"-5'4") |
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 48 cm - (Riders 5'4"-5'5") |
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 50 cm - (Riders 5'5"-5'7") |
@@ -24,6 +25,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $949 | Undefeated      | Undefeated Track - Graphite / Prism - 55 cm (Riders 5'7"-5'11") |
 |   $949 | Undefeated      | Undefeated Track - Graphite / Prism - 58 cm (Riders 5'11"-6'2") |
 |   $949 | Undefeated      | Undefeated Track - Graphite / Prism - 61 cm (Riders 6'2"-6'5") |
+|   $775 | closeout        | #1113  - 6061 Black Label All-Road - Copper Brown (650b) - Small (51cm) - Used / Fair Condition |
 |   $775 | closeout        | #1101 - 4130 All-Road- Flat Bar - Raw / Phosphate - X-Small w/ 650b Wheels - Like-New Condition |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
@@ -40,7 +42,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $725 | closeout        | #1110 - 4130 All-Road Flat-Bar - Pacific Gold w/ 650b Wheels - Large - Like-New Condition |
 |   $720 | closeout        | #1111 - 6061 Black Label v3 (Fixed-Gear)   - Grey / Fuchsia - 58cm - Excellent Condition |
 |   $685 | closeout        | #1100 - 6061 Black Label v3 (Fixed-Gear)   - Grey / Fuchsia - 58cm - Excellent Condition |
-|   $585 | closeout        | #1113 - 6061 Black Label v3 (Fixed-Gear)   - Green / Gold - 55cm -Used / Good Condition |
+|   $585 | closeout        | #1112 - 6061 Black Label v3 (Fixed-Gear)   - Green / Gold - 55cm -Used / Good Condition |
 |   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 49 cm (Riders 5'0"-5'3") |
 |   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 52 cm (Riders 5'3"-5'6") |
 |   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 55 cm (Riders 5'6"-5'10") |
@@ -187,5 +189,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $22 | Misc. Parts     | Vittoria Barzo  - Gravel / XC MTB Tire - 27.5 x 2.1" (Rigid) - Black |
 |    $15 | closeout        | #RS103- PEARL iZUMi ELITE Gel Glove - Women's Size Large - Beach Glass |
 |    $15 | closeout        | #RS102 - PEARL iZUMi ELITE Gel Glove - Women's Size Large - Beach Glass |
-|    $15 | closeout        | #RS101 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Sreaming Red |
-|    $14 | closeout        | State Bicycle Co. - Fly it High Beanie |
