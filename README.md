@@ -91,7 +91,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | closeout        | Pigeon - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $350 | closeout        | Pigeon - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $350 | closeout        | Pigeon - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
-|   $285 | closeout        | #1106 - Core-Line  - Rigby - Small (50cm) - Very-Good Condition |
 |   $195 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Small |
 |   $195 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Medium |
 |   $195 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Large |
@@ -185,3 +184,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $15 | closeout        | #RS103- PEARL iZUMi ELITE Gel Glove - Women's Size Large - Beach Glass |
 |    $15 | closeout        | #RS102 - PEARL iZUMi ELITE Gel Glove - Women's Size Large - Beach Glass |
 |    $15 | closeout        | #RS101 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Sreaming Red |
+|    $14 | closeout        | State Bicycle Co. - Fly it High Beanie |
