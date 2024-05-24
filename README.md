@@ -39,10 +39,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1164 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
-|   $725 | closeout        | #1110 - 4130 All-Road Flat-Bar - Pacific Gold w/ 650b Wheels - Large - Like-New Condition |
 |   $720 | closeout        | #1111 - 6061 Black Label v3 (Fixed-Gear)   - Grey / Fuchsia - 58cm - Excellent Condition |
 |   $685 | closeout        | #1100 - 6061 Black Label v3 (Fixed-Gear)   - Grey / Fuchsia - 58cm - Excellent Condition |
-|   $585 | closeout        | #1112 - 6061 Black Label v3 (Fixed-Gear)   - Green / Gold - 55cm -Used / Good Condition |
 |   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 49 cm (Riders 5'0"-5'3") |
 |   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 52 cm (Riders 5'3"-5'6") |
 |   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 55 cm (Riders 5'6"-5'10") |
@@ -174,3 +172,16 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - X-Large |
 |    $35 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - XX-Large |
 |    $35 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - 3X-Large |
+|    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Small |
+|    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Medium |
+|    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
+|    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
+|    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
+|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Black |
+|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - White |
+|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Red |
+|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Yellow |
+|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Green |
+|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
+|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
+|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
