@@ -94,7 +94,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $285 | closeout        | #1108 - Core-Line  - Ghoul - Medium (54cm) - Very-Good Condition |
 |   $285 | closeout        | #1106 - Core-Line  - Rigby - Small (50cm) - Very-Good Condition |
 |   $275 | closeout        | #1104 - Core-Line  - Pigeon - Small (50cm) - Very-Good Condition |
-|   $265 | closeout        | #1105 - Core-Line  - Earthstone - Medium (54cm) - Good Condition |
 |   $195 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Small |
 |   $195 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Medium |
 |   $195 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Large |
@@ -189,3 +188,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
 |    $25 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
 |    $24 | closeout        | Black Label Series:  Saddle |
+|    $22 | Misc. Parts     | Vittoria Barzo  - Gravel / XC MTB Tire - 27.5 x 2.1" (Rigid) - Black |
