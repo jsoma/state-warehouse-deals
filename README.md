@@ -25,7 +25,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $949 | Undefeated      | Undefeated Track - Graphite / Prism - 55 cm (Riders 5'7"-5'11") |
 |   $949 | Undefeated      | Undefeated Track - Graphite / Prism - 58 cm (Riders 5'11"-6'2") |
 |   $949 | Undefeated      | Undefeated Track - Graphite / Prism - 61 cm (Riders 6'2"-6'5") |
-|   $775 | closeout        | #1113  - 6061 Black Label All-Road - Copper Brown (650b) - Small (51cm) - Used / Fair Condition |
 |   $775 | closeout        | #1101 - 4130 All-Road- Flat Bar - Raw / Phosphate - X-Small w/ 650b Wheels - Like-New Condition |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
@@ -185,3 +184,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
+|    $25 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Small |
+|    $25 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Medium |
+|    $25 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
+|    $25 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - X-Large |
+|    $25 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - XX-Large |
