@@ -3,7 +3,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
-|  $1675 | closeout        | #1099 - Carbon All-Road - White Ember 700c w/ Upgrades - 57cm - Like-New Condition |
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 49 cm (Riders 5'0"-5'3") |
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 52 cm (Riders 5'3"-5'6") |
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 55 cm (Riders 5'6"-5'9") |
@@ -185,3 +184,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $15 | closeout        | #RS103- PEARL iZUMi ELITE Gel Glove - Women's Size Large - Beach Glass |
 |    $15 | closeout        | #RS102 - PEARL iZUMi ELITE Gel Glove - Women's Size Large - Beach Glass |
 |    $15 | closeout        | #RS101 - PEARL iZUMi ELITE Gel Glove - Women's Size Medium - Sreaming Red |
+|    $14 | closeout        | State Bicycle Co. - Fly it High Beanie |
