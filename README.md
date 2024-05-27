@@ -160,7 +160,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
-|    $27 | closeout        | #RS46 - Cane Creek - Reverse Brake Lever Set 200TT |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Black |
 |    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - White |
 |    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Red |
@@ -185,3 +184,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $12 | closeout        | #RS115- Serfas - Tubeless Sealant - SEAL-16 16oz Pouch |
 |    $12 | closeout        | #RS107- Serfas - UTM-30 Cosmo 30 Lumen Tail Light |
 |     $9 | closeout        | April Fools / Not April Fools ? - Carbon Stem Cap |
+|     $9 | closeout        | #RS56 - Origin 8 Single Classic V Brake Caliper |
