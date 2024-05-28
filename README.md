@@ -177,7 +177,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $22 | Misc. Parts     | Vittoria Barzo  - Gravel / XC MTB Tire - 27.5 x 2.1" (Rigid) - Black |
 |    $18 | closeout        | #RS117- Serfas - Serfas Vida Meo City Tire - 700 x 38c |
 |    $18 | closeout        | #RS116- Serfas - Serfas Vida Meo City Tire - 700 x 32c |
-|    $15 | closeout        | #RS103- PEARL iZUMi ELITE Gel Glove - Women's Size Large - Beach Glass |
 |    $15 | closeout        | #RS102 - PEARL iZUMi ELITE Gel Glove - Women's Size Large - Beach Glass |
 |    $14 | closeout        | State Bicycle Co. - Fly it High Beanie |
 |    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
@@ -185,3 +184,13 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $12 | closeout        | #RS107- Serfas - UTM-30 Cosmo 30 Lumen Tail Light |
 |     $9 | closeout        | April Fools / Not April Fools ? - Carbon Stem Cap |
 |     $9 | closeout        | #RS56 - Origin 8 Single Classic V Brake Caliper |
+|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Blue |
+|     $9 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - White |
+|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Anode Red |
+|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Maroon |
+|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Silver |
+|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Shockwave (Yellow & Green) |
+|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Matte Black |
+|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Pink |
+|     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Red |
+|     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Gold |
