@@ -23,18 +23,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $949 | Undefeated      | Undefeated Track - Graphite / Prism - 55 cm (Riders 5'7"-5'11") |
 |   $949 | Undefeated      | Undefeated Track - Graphite / Prism - 58 cm (Riders 5'11"-6'2") |
 |   $949 | Undefeated      | Undefeated Track - Graphite / Prism - 61 cm (Riders 6'2"-6'5") |
-|   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
-|   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
-|  $1164 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (add $389.99) |
-|   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
-|   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
-|  $1164 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Small ( Riders 5'5" - 5'10") / Both (add $389.99) |
-|   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
-|   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
-|  $1164 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Medium ( Riders 5'9" - 6'2") / Both (add $389.99) |
-|   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
-|   $775 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
-|  $1164 | closeout        | 4130 All-Road - Flat Bar - Matte Olive (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
 |   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 49 cm (Riders 5'0"-5'3") |
 |   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 52 cm (Riders 5'3"-5'6") |
 |   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 55 cm (Riders 5'6"-5'10") |
@@ -194,3 +182,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Pink |
 |     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Red |
 |     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Gold |
+|     $8 | closeout        | #RS53 - Brake Levers Clarks V |
