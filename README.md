@@ -160,7 +160,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $22 | Misc. Parts     | Vittoria Barzo  - Gravel / XC MTB Tire - 27.5 x 2.1" (Rigid) - Black |
 |    $18 | closeout        | #RS117- Serfas - Serfas Vida Meo City Tire - 700 x 38c |
 |    $18 | closeout        | #RS116- Serfas - Serfas Vida Meo City Tire - 700 x 32c |
-|    $15 | closeout        | #RS102 - PEARL iZUMi ELITE Gel Glove - Women's Size Large - Beach Glass |
 |    $14 | closeout        | State Bicycle Co. - Fly it High Beanie |
 |    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
 |    $12 | closeout        | #RS115- Serfas - Tubeless Sealant - SEAL-16 16oz Pouch |
@@ -179,3 +178,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Gold |
 |     $8 | closeout        | #RS53 - Brake Levers Clarks V |
 |     $8 | closeout        | #RS52 - Pedros Multi Spoke Wrench |
+|     $7 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
