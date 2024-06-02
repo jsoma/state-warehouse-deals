@@ -18,7 +18,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Small (49cm - Riders 5'3"-5'7") |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
-|   $695 | closeout        | #1115 - 4130 All-Road- Copper Brown - Smalll w/ 700c Wheels - Excellent Condition |
 |   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 49 cm (Riders 5'0"-5'3") |
 |   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 52 cm (Riders 5'3"-5'6") |
 |   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 55 cm (Riders 5'6"-5'10") |
@@ -179,3 +178,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Gold |
 |     $8 | closeout        | #RS53 - Brake Levers Clarks V |
 |     $8 | closeout        | #RS52 - Pedros Multi Spoke Wrench |
+|     $7 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
