@@ -72,7 +72,21 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $195 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Large |
 |   $165 | closeout        | #RS94- Bell z20 Aero Mips Road Helmet - State Bicycle Team Wrapped - Size Medium - Like-New Condition |
 |   $165 | closeout        | #RS93- Bell z20 Aero Mips Road Helmet - State Bicycle Team Wrapped - Size Small - Like-New Condition |
+|    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - X-Small |
+|    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - Small |
+|    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - Medium |
+|    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - Large |
+|    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - X-Large |
+|    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - XX-Large |
+|    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - 3X-Large |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
+|    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - X-Small |
+|    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - Small |
+|    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - Medium |
+|    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - Large |
+|    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - X-Large |
+|    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - XX-Large |
+|    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - 3X-Large |
 |    $69 | closeout        | Black Label Series: Fixed Gear / Single Speed Crankset (Black) |
 |    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - Small |
 |    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - Medium |
@@ -177,5 +191,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Gold |
 |     $8 | closeout        | #RS53 - Brake Levers Clarks V |
 |     $8 | closeout        | #RS52 - Pedros Multi Spoke Wrench |
-|     $7 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
-|     $7 | closeout        | #RS23 - Serfas Gripshift Grips - Like-New Condition |
