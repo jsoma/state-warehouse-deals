@@ -21,6 +21,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
 |   $999 | closeout        | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
 |   $735 | closeout        | #1118 - 4130 All-Road- Copper Brown - Large w/ 700c Wheels - Excellent Condition |
+|   $685 | closeout        | #1121 - 4130 All-Road Flat-Bar - Rust Fade w/ 700c Wheels - Medium - Very-Good Condition |
 |   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 49 cm (Riders 5'0"-5'3") |
 |   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 52 cm (Riders 5'3"-5'6") |
 |   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 55 cm (Riders 5'6"-5'10") |
@@ -42,6 +43,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - (8-Speed) - 62 cm (Riders 6'2"-6'6") / Urban Comfort Saddle |
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - (8-Speed) - 62 cm (Riders 6'2"-6'6") / Brooks England B17 |
 |   $445 | closeout        | #PM - Klunker - Free & Easy Bike + Bag Combo - Like-New Condition |
+|   $395 | closeout        | #RC - Undefeated Disc Road - Frameset - Tie-Dye/ Pearl - 55cm - Used Condition |
 |   $365 | closeout        | #PM/OBI - Klunker - SBC x RIPNDIP - Klunker + Bag Combo - Like-New Condition (Photo Model / Media Sample) |
 |   $360 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
@@ -178,5 +180,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | closeout        | State Bicycle Co. - Fly it High Beanie |
 |    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
 |    $12 | closeout        | #RS115- Serfas - Tubeless Sealant - SEAL-16 16oz Pouch |
-|    $12 | closeout        | #RS107- Serfas - UTM-30 Cosmo 30 Lumen Tail Light |
-|     $9 | closeout        | April Fools / Not April Fools ? - Carbon Stem Cap |
