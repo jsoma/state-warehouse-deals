@@ -3,6 +3,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
+|  $2650 | closeout        | #1116 - Carbon All-Road - White Ember 650b w/ Rival AXS XPLR Upgrade - 57cm- Excellent Condition |
+|  $1550 | closeout        | #1117 - Carbon All-Road - White Ember 700c - 59cm- Excellent Condition |
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 49 cm (Riders 5'0"-5'3") |
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 52 cm (Riders 5'3"-5'6") |
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 55 cm (Riders 5'6"-5'9") |
@@ -187,5 +189,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Red |
 |     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Gold |
 |     $8 | closeout        | #RS53 - Brake Levers Clarks V |
-|     $8 | closeout        | #RS52 - Pedros Multi Spoke Wrench |
-|     $7 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
