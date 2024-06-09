@@ -56,7 +56,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $360 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
-|   $329 | closeout        | #1119 - Core-Line  - Wulf - Medium (54cm) - Like-New Condition |
 |   $325 | closeout        | Pigeon - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $350 | closeout        | Pigeon - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
 |   $350 | closeout        | Pigeon - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
@@ -180,3 +179,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $12 | closeout        | #RS115- Serfas - Tubeless Sealant - SEAL-16 16oz Pouch |
 |    $12 | closeout        | #RS107- Serfas - UTM-30 Cosmo 30 Lumen Tail Light |
 |     $9 | closeout        | April Fools / Not April Fools ? - Carbon Stem Cap |
+|     $9 | closeout        | #RS56 - Origin 8 Single Classic V Brake Caliper |
