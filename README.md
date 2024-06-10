@@ -67,9 +67,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | closeout        | Pigeon - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $350 | closeout        | Pigeon - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $350 | closeout        | Pigeon - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
-|   $195 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Small |
-|   $195 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Medium |
-|   $195 | Misc. Accessori | Giro Aries Spherical Helmet - Matte Black - Black / Large |
 |   $165 | closeout        | #RS94- Bell z20 Aero Mips Road Helmet - State Bicycle Team Wrapped - Size Medium - Like-New Condition |
 |   $165 | closeout        | #RS93- Bell z20 Aero Mips Road Helmet - State Bicycle Team Wrapped - Size Small - Like-New Condition |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - X-Small |
@@ -189,3 +186,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Pink |
 |     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Red |
 |     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Gold |
+|     $8 | closeout        | #RS53 - Brake Levers Clarks V |
