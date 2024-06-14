@@ -10,6 +10,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 55 cm (Riders 5'6"-5'9") |
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 58 cm (Riders 5'9"-6'1") |
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 61 cm (Riders 6'2"-6'6") |
+|  $1095 | closeout        | #1123  - 6061 Black Label All-Road - Deep Pacific (700c) - Medium (54cm) - Excellent Condition |
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 45 cm - (Riders 5'0"-5'4") |
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 48 cm - (Riders 5'4"-5'5") |
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 50 cm - (Riders 5'5"-5'7") |
@@ -41,6 +42,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - (8-Speed) - 62 cm (Riders 6'2"-6'6") / Urban Comfort Saddle |
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - (8-Speed) - 62 cm (Riders 6'2"-6'6") / Brooks England B17 |
 |   $445 | closeout        | #PM - Klunker - Free & Easy Bike + Bag Combo - Like-New Condition |
+|   $395 | closeout        | #1124 - State Bicycle Co. x Rabbits by Carrots “29in. Big BMX” Cruiser - Excellent Condition |
 |   $395 | closeout        | #RC - Undefeated Disc Road - Frameset - Tie-Dye/ Pearl - 55cm - Used Condition |
 |   $365 | closeout        | #PM/OBI - Klunker - SBC x RIPNDIP - Klunker + Bag Combo - Like-New Condition (Photo Model / Media Sample) |
 |   $360 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
@@ -176,14 +178,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $12 | closeout        | #RS107- Serfas - UTM-30 Cosmo 30 Lumen Tail Light |
 |     $9 | closeout        | April Fools / Not April Fools ? - Carbon Stem Cap |
 |     $9 | closeout        | #RS56 - Origin 8 Single Classic V Brake Caliper |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Blue |
-|     $9 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - White |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Anode Red |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Maroon |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Silver |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Shockwave (Yellow & Green) |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Matte Black |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Pink |
-|     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Red |
-|     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Gold |
-|     $8 | closeout        | #RS53 - Brake Levers Clarks V |
