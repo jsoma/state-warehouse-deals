@@ -4,7 +4,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |price|type|name|
 |---|---|---|
 |  $2650 | closeout        | #1116 - Carbon All-Road - White Ember 650b w/ Rival AXS XPLR Upgrade - 57cm- Excellent Condition |
-|  $1625 | closeout        | #1117 - Carbon All-Road - White Ember 700c - 59cm- Excellent Condition |
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 49 cm (Riders 5'0"-5'3") |
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 52 cm (Riders 5'3"-5'6") |
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 55 cm (Riders 5'6"-5'9") |
@@ -178,3 +177,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $24 | closeout        | Black Label Series:  Saddle |
 |    $22 | Misc. Parts     | Vittoria Barzo  - Gravel / XC MTB Tire - 27.5 x 2.1" (Rigid) - Black |
 |    $18 | closeout        | #RS117- Serfas - Serfas Vida Meo City Tire - 700 x 38c |
+|    $18 | closeout        | #RS116- Serfas - Serfas Vida Meo City Tire - 700 x 32c |
