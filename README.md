@@ -42,7 +42,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - (8-Speed) - 62 cm (Riders 6'2"-6'6") / Urban Comfort Saddle |
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - (8-Speed) - 62 cm (Riders 6'2"-6'6") / Brooks England B17 |
 |   $475 | closeout        | #1128 - 4130 Fixed-Gear / Single-Speed  - Purple Reign - 55cm - Brand New Open Box |
-|   $475 | closeout        | #1127 - 4130 Fixed-Gear / Single-Speed  - Purple Reign - 49cm - Excellent Condition |
 |   $475 | closeout        | #1129- 4130 Road+ - Bob Marley Rasta Stripe Tan (8-speed) - 55cm - Like-New Condition |
 |   $445 | closeout        | #1126- 4130 Road - Black & Metallic (8-speed) - 55cm - Excellent Condition |
 |   $445 | closeout        | #PM - Klunker - Free & Easy Bike + Bag Combo - Like-New Condition |
@@ -178,3 +177,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $18 | closeout        | #RS117- Serfas - Serfas Vida Meo City Tire - 700 x 38c |
 |    $18 | closeout        | #RS116- Serfas - Serfas Vida Meo City Tire - 700 x 32c |
 |    $14 | closeout        | State Bicycle Co. - Fly it High Beanie |
+|    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
