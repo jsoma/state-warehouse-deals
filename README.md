@@ -41,7 +41,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - (8-Speed) - 59 cm (Riders 5'11"-6'2) / Brooks England B17 |
 |   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - (8-Speed) - 62 cm (Riders 6'2"-6'6") / Urban Comfort Saddle |
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - (8-Speed) - 62 cm (Riders 6'2"-6'6") / Brooks England B17 |
-|   $475 | closeout        | #1129- 4130 Road+ - Bob Marley Rasta Stripe Tan (8-speed) - 55cm - Like-New Condition |
 |   $445 | closeout        | #PM - Klunker - Free & Easy Bike + Bag Combo - Like-New Condition |
 |   $395 | closeout        | #RC - Undefeated Disc Road - Frameset - Tie-Dye/ Pearl - 55cm - Used Condition |
 |   $365 | closeout        | #PM/OBI - Klunker - SBC x RIPNDIP - Klunker + Bag Combo - Like-New Condition (Photo Model / Media Sample) |
@@ -178,3 +177,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
 |    $12 | closeout        | #RS115- Serfas - Tubeless Sealant - SEAL-16 16oz Pouch |
 |    $12 | closeout        | #RS107- Serfas - UTM-30 Cosmo 30 Lumen Tail Light |
+|     $9 | closeout        | April Fools / Not April Fools ? - Carbon Stem Cap |
