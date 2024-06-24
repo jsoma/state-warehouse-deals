@@ -162,6 +162,13 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
+|    $25 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Small |
+|    $25 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Small |
+|    $25 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Medium |
+|    $25 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - Large |
+|    $25 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - X-Large |
+|    $25 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - XX-Large |
+|    $25 | closeout        | State Bicycle Co. - Celines Lines - All-Road  Tech-T Jersey - Sustainable Clothing Collection - 3X-Large |
 |    $25 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Small |
 |    $25 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Medium |
 |    $25 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
@@ -177,13 +184,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $12 | closeout        | #RS115- Serfas - Tubeless Sealant - SEAL-16 16oz Pouch |
 |     $9 | closeout        | April Fools / Not April Fools ? - Carbon Stem Cap |
 |     $9 | closeout        | #RS56 - Origin 8 Single Classic V Brake Caliper |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Blue |
-|     $9 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - White |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Anode Red |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Maroon |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Silver |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Shockwave (Yellow & Green) |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Matte Black |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Pink |
-|     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Red |
-|     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Gold |
