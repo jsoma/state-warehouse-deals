@@ -55,18 +55,18 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $360 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
-|   $325 | closeout        | Pigeon - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
-|   $350 | closeout        | Pigeon - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
-|   $350 | closeout        | Pigeon - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
-|   $325 | closeout        | Pigeon - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Riser Bars |
-|   $350 | closeout        | Pigeon - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Bullhorn Bars (Add $25) |
-|   $350 | closeout        | Pigeon - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Drop Bars (Add $25) |
-|   $325 | closeout        | Pigeon - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Riser Bars |
-|   $350 | closeout        | Pigeon - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Bullhorn Bars (Add $25) |
-|   $350 | closeout        | Pigeon - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Drop Bars (Add $25) |
-|   $325 | closeout        | Pigeon - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
-|   $350 | closeout        | Pigeon - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
-|   $350 | closeout        | Pigeon - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
+|   $325 | closeout        | Core-Line - Pigeon - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
+|   $350 | closeout        | Core-Line - Pigeon - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
+|   $350 | closeout        | Core-Line - Pigeon - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
+|   $325 | closeout        | Core-Line - Pigeon - Small (50 cm- Riders 5'4"-5'7") / Riser Bars |
+|   $350 | closeout        | Core-Line - Pigeon - Small (50 cm- Riders 5'4"-5'7") / Bullhorn Bars (Add $25) |
+|   $350 | closeout        | Core-Line - Pigeon - Small (50 cm- Riders 5'4"-5'7") / Drop Bars (Add $25) |
+|   $325 | closeout        | Core-Line - Pigeon - Medium (54 cm- Riders 5'7"-5'11") / Riser Bars |
+|   $350 | closeout        | Core-Line - Pigeon - Medium (54 cm- Riders 5'7"-5'11") / Bullhorn Bars (Add $25) |
+|   $350 | closeout        | Core-Line - Pigeon - Medium (54 cm- Riders 5'7"-5'11") / Drop Bars (Add $25) |
+|   $325 | closeout        | Core-Line - Pigeon - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
+|   $350 | closeout        | Core-Line - Pigeon - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
+|   $350 | closeout        | Core-Line - Pigeon - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $165 | closeout        | #RS94- Bell z20 Aero Mips Road Helmet - State Bicycle Team Wrapped - Size Medium - Like-New Condition |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - X-Small |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - Small |
