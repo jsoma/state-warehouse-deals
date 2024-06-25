@@ -121,12 +121,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - X-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - XX-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - 3X-Large |
-|    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - X-Small |
-|    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - Small |
-|    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - Medium |
-|    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - Large |
-|    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - X-Large |
-|    $45 | closeout        | State Bicycle Team x Endura - 2023 Tech-T - XX-Large |
 |    $42 | Handlebars      | Salsa - Cowchipper Drop Handlebar - 44cm |
 |    $42 | Handlebars      | Salsa - Cowchipper Drop Handlebar - 46cm |
 |    $39 | closeout        | #RS37 - Shimano XC1 Mountain Bike Shoes - Women's Size 38 |
@@ -187,3 +181,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Red |
 |     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Gold |
 |     $8 | closeout        | #RS53 - Brake Levers Clarks V |
+|     $8 | closeout        | #RS52 - Pedros Multi Spoke Wrench |
