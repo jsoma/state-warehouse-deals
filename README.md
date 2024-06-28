@@ -167,7 +167,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
 |    $12 | closeout        | #RS115- Serfas - Tubeless Sealant - SEAL-16 16oz Pouch |
 |     $9 | closeout        | April Fools / Not April Fools ? - Carbon Stem Cap |
-|     $9 | closeout        | #RS56 - Origin 8 Single Classic V Brake Caliper |
 |    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Blue |
 |     $9 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - White |
 |    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Anode Red |
@@ -182,3 +181,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $8 | closeout        | #RS52 - Pedros Multi Spoke Wrench |
 |     $7 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
 |     $7 | closeout        | #RS23 - Serfas Gripshift Grips - Like-New Condition |
+|     $5 | closeout        | #RS105- Serfas - UTL-10 Apollo USB Compact LED Tail Light |
