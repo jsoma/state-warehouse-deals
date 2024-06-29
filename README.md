@@ -3,7 +3,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
-|  $2650 | closeout        | #1116 - Carbon All-Road - White Ember 650b w/ Rival AXS XPLR Upgrade - 57cm- Excellent Condition |
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 49 cm (Riders 5'0"-5'3") |
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 52 cm (Riders 5'3"-5'6") |
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 55 cm (Riders 5'6"-5'9") |
@@ -182,3 +181,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $7 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
 |     $7 | closeout        | #RS23 - Serfas Gripshift Grips - Like-New Condition |
 |     $5 | closeout        | #RS105- Serfas - UTL-10 Apollo USB Compact LED Tail Light |
+|     $5 | closeout        | #RS60 - Origin8 Cr-Mo Track Front Axle Nuts (BLACK) |
