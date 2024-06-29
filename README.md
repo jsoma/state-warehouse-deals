@@ -11,7 +11,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1250 | closeout        | 6061 - eBike Commuter - Matte Black - Small (49cm - Riders 5'3"-5'7") |
 |  $1250 | closeout        | 6061 - eBike Commuter - Matte Black - Medium (53cm - Riders 5'7"-5'10") |
 |  $1250 | closeout        | 6061 - eBike Commuter - Matte Black - Large (57cm - Riders 5'10"-6'2") |
-|  $1095 | closeout        | #1123  - 6061 Black Label All-Road - Deep Pacific (700c) - Medium (54cm) - Excellent Condition |
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 45 cm - (Riders 5'0"-5'4") |
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 48 cm - (Riders 5'4"-5'5") |
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 50 cm - (Riders 5'5"-5'7") |
@@ -182,3 +181,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $7 | closeout        | #RS23 - Serfas Gripshift Grips - Like-New Condition |
 |     $5 | closeout        | #RS105- Serfas - UTL-10 Apollo USB Compact LED Tail Light |
 |     $5 | closeout        | #RS60 - Origin8 Cr-Mo Track Front Axle Nuts (BLACK) |
+|     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
