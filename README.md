@@ -26,17 +26,17 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 58 cm - (Riders 5'9"-6'1") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 62 cm - (Riders 6'2"-6'6") |
 |   $525 | closeout        | #1131- 4130 Road+ - Bob Marley Rasta Stripe Black (8-speed) - 55cm - Like-New Condition |
+|   $399 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 49 cm (Riders 5'1"-5'4") / Urban Comfort Saddle |
+|   $450 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 49 cm (Riders 5'1"-5'4") / Brooks England B17 |
+|   $399 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 52 cm (Riders 5'4"-5'7") / Urban Comfort Saddle |
+|   $450 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 52 cm (Riders 5'4"-5'7") / Brooks England B17 |
+|   $399 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 55 cm (Riders 5'7"-5'11") / Urban Comfort Saddle |
+|   $450 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 55 cm (Riders 5'7"-5'11") / Brooks England B17 |
+|   $399 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 59 cm (Riders 5'11"-6'2) / Urban Comfort Saddle |
+|   $450 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 59 cm (Riders 5'11"-6'2) / Brooks England B17 |
+|   $399 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Urban Comfort Saddle |
+|   $450 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Brooks England B17 |
 |   $395 | closeout        | #RC - Undefeated Disc Road - Frameset - Tie-Dye/ Pearl - 55cm - Used Condition |
-|   $381 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 49 cm (Riders 5'1"-5'4") / Urban Comfort Saddle |
-|   $495 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 49 cm (Riders 5'1"-5'4") / Brooks England B17 |
-|   $381 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 52 cm (Riders 5'4"-5'7") / Urban Comfort Saddle |
-|   $495 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 52 cm (Riders 5'4"-5'7") / Brooks England B17 |
-|   $381 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 55 cm (Riders 5'7"-5'11") / Urban Comfort Saddle |
-|   $495 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 55 cm (Riders 5'7"-5'11") / Brooks England B17 |
-|   $381 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 59 cm (Riders 5'11"-6'2) / Urban Comfort Saddle |
-|   $495 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 59 cm (Riders 5'11"-6'2) / Brooks England B17 |
-|   $381 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Urban Comfort Saddle |
-|   $495 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Brooks England B17 |
 |   $360 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
