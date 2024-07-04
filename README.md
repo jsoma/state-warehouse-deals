@@ -151,7 +151,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $17 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
 |    $17 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $17 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
-|    $15 | closeout        | #RS103- PEARL iZUMi ELITE Gel Glove - Women's Size Large - Beach Glass |
 |    $15 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Small |
 |    $15 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Medium |
 |    $15 | closeout        | State Bicycle Co. - All-Road Tech-T (420 Edition) - Sustainable Clothing Collection - Large |
@@ -180,3 +179,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
 |     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
 |     $0 | closeout        | Patch: Hell Ride High Noon - Vol 2. (2015) |
+|     $0 | closeout        | Patch: Phoenix to Tucson (Volume 1) |
