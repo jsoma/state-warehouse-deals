@@ -61,9 +61,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | closeout        | Core-Line - Pigeon - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $350 | closeout        | Core-Line - Pigeon - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $350 | closeout        | Core-Line - Pigeon - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
-|   $295 | Bicycles        | #1134: Wulf - Core-Line - Size: Medium (54cm) - Very Good Condition |
+|   $285 | Bicycles        | #1134: Wulf - Core-Line - Size: Medium (54cm) - Good Condition |
 |   $245 | closeout        | #1133 - Core-Line - SBC x RIPNDIP - Size Large (58cm) - Fair Condition |
 |   $225 | closeout        | #1132 - 4130 Fixed-Gear / Single Speed - Matte Olive - 49cm - Good Condition |
+|   $195 | closeout        | #1135 - Core-Line  - Lucky Penny - Medium (54cm) - Used / Fair Condition |
 |   $165 | closeout        | #RS94- Bell z20 Aero Mips Road Helmet - State Bicycle Team Wrapped - Size Medium - Like-New Condition |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $83 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - X-Small |
@@ -179,4 +180,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $5 | closeout        | #RS60 - Origin8 Cr-Mo Track Front Axle Nuts (BLACK) |
 |     $4 | closeout        | April Fools / Not April Fools ? - Carbon Stem Cap |
 |     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
-|     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
