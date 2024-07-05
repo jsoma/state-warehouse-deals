@@ -16,6 +16,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 56 cm - (Riders 5'10"-6'0") |
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 58 cm - (Riders 6'0"-6'3") |
 |   $685 | closeout        | #1138 - 4130 All-Road Flat-Bar - Rust Fade w/ 700c Wheels - Small (47cm) - Very-Good Condition |
+|   $625 | closeout        | #1142 - Undefeated Carbon Disc Road Frame & Fork Set - Size 55cm - Graphite Prism - Excellent / Used Condition |
 |   $555 | closeout        | #1139 - 6061 Black Label v3 (Fixed-Gear)   - Grey / Fuchsia - 49cm - Fair Condition |
 |   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 49 cm (Riders 5'0"-5'3") |
 |   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 52 cm (Riders 5'3"-5'6") |
@@ -29,6 +30,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 62 cm - (Riders 6'2"-6'6") |
 |   $525 | closeout        | #1131- 4130 Road+ - Bob Marley Rasta Stripe Black (8-speed) - 55cm - Like-New Condition |
 |   $475 | closeout        | #1136 - 4130 Fixed-Gear / Single Speed -Black / Mirror - 55cm - Like-New Condition |
+|   $425 | closeout        | #1141MF - Undefeated Carbon Disc Road Frame & Fork Set - Size 54cm - Black Prism - Good / Used Condition |
 |   $399 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 49 cm (Riders 5'1"-5'4") / Urban Comfort Saddle |
 |   $450 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 49 cm (Riders 5'1"-5'4") / Brooks England B17 |
 |   $399 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 52 cm (Riders 5'4"-5'7") / Urban Comfort Saddle |
@@ -178,5 +180,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Pink |
 |     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Red |
 |     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Gold |
-|     $8 | closeout        | #RS52 - Pedros Multi Spoke Wrench |
-|     $7 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
