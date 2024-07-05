@@ -26,6 +26,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 58 cm - (Riders 5'9"-6'1") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 62 cm - (Riders 6'2"-6'6") |
 |   $525 | closeout        | #1131- 4130 Road+ - Bob Marley Rasta Stripe Black (8-speed) - 55cm - Like-New Condition |
+|   $475 | closeout        | #1136 - 4130 Fixed-Gear / Single Speed -Black / Mirror - 55cm - Like-New Condition |
 |   $399 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 49 cm (Riders 5'1"-5'4") / Urban Comfort Saddle |
 |   $450 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 49 cm (Riders 5'1"-5'4") / Brooks England B17 |
 |   $399 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 52 cm (Riders 5'4"-5'7") / Urban Comfort Saddle |
@@ -61,6 +62,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | closeout        | Core-Line - Pigeon - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $350 | closeout        | Core-Line - Pigeon - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $350 | closeout        | Core-Line - Pigeon - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
+|   $285 | closeout        | #1137 - Core-Line  - Ghoul - Medium (54cm) - Very-Good Condition |
 |   $285 | Bicycles        | #1134: Wulf - Core-Line - Size: Medium (54cm) - Good Condition |
 |   $245 | closeout        | #1133 - Core-Line - SBC x RIPNDIP - Size Large (58cm) - Fair Condition |
 |   $225 | closeout        | #1132 - 4130 Fixed-Gear / Single Speed - Matte Olive - 49cm - Good Condition |
@@ -178,5 +180,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $7 | closeout        | #RS23 - Serfas Gripshift Grips - Like-New Condition |
 |     $5 | closeout        | #RS105- Serfas - UTL-10 Apollo USB Compact LED Tail Light |
 |     $5 | closeout        | #RS60 - Origin8 Cr-Mo Track Front Axle Nuts (BLACK) |
-|     $4 | closeout        | April Fools / Not April Fools ? - Carbon Stem Cap |
-|     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
