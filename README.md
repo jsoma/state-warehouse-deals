@@ -69,7 +69,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $285 | closeout        | #1140 - City Bike  - Black & Tan 3-Speed - 53cm (Medium) - Very-Good Condition |
 |   $285 | Bicycles        | #1134: Wulf - Core-Line - Size: Medium (54cm) - Good Condition |
 |   $245 | closeout        | #1133 - Core-Line - SBC x RIPNDIP - Size Large (58cm) - Fair Condition |
-|   $225 | closeout        | #1132 - 4130 Fixed-Gear / Single Speed - Matte Olive - 49cm - Good Condition |
 |   $195 | closeout        | #1135 - Core-Line  - Lucky Penny - Medium (54cm) - Used / Fair Condition |
 |   $165 | closeout        | #RS94- Bell z20 Aero Mips Road Helmet - State Bicycle Team Wrapped - Size Medium - Like-New Condition |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
@@ -180,3 +179,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Red |
 |     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Gold |
 |     $8 | closeout        | #RS52 - Pedros Multi Spoke Wrench |
+|     $7 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
