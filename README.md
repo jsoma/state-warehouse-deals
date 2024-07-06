@@ -67,7 +67,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $350 | closeout        | Core-Line - Pigeon - Pigeon / Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $350 | closeout        | Core-Line - Pigeon - Pigeon / Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $285 | closeout        | #1140 - City Bike  - Black & Tan 3-Speed - 53cm (Medium) - Very-Good Condition |
-|   $285 | closeout        | #1137 - Core-Line  - Ghoul - Medium (54cm) - Very-Good Condition |
 |   $285 | Bicycles        | #1134: Wulf - Core-Line - Size: Medium (54cm) - Good Condition |
 |   $245 | closeout        | #1133 - Core-Line - SBC x RIPNDIP - Size Large (58cm) - Fair Condition |
 |   $225 | closeout        | #1132 - 4130 Fixed-Gear / Single Speed - Matte Olive - 49cm - Good Condition |
@@ -180,3 +179,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Pink |
 |     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Red |
 |     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Gold |
+|     $8 | closeout        | #RS52 - Pedros Multi Spoke Wrench |
