@@ -65,7 +65,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $325 | closeout        | Core-Line - Pigeon - Pigeon / Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $350 | closeout        | Core-Line - Pigeon - Pigeon / Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $350 | closeout        | Core-Line - Pigeon - Pigeon / Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
-|   $285 | closeout        | #1140 - City Bike  - Black & Tan 3-Speed - 53cm (Medium) - Very-Good Condition |
 |   $285 | Bicycles        | #1134: Wulf - Core-Line - Size: Medium (54cm) - Good Condition |
 |   $245 | closeout        | #1133 - Core-Line - SBC x RIPNDIP - Size Large (58cm) - Fair Condition |
 |   $165 | closeout        | #RS94- Bell z20 Aero Mips Road Helmet - State Bicycle Team Wrapped - Size Medium - Like-New Condition |
@@ -180,3 +179,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $7 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
 |     $7 | closeout        | #RS23 - Serfas Gripshift Grips - Like-New Condition |
 |     $5 | closeout        | #RS105- Serfas - UTL-10 Apollo USB Compact LED Tail Light |
+|     $5 | closeout        | #RS60 - Origin8 Cr-Mo Track Front Axle Nuts (BLACK) |
