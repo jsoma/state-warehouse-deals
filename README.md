@@ -67,7 +67,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $350 | closeout        | Core-Line - Pigeon - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $350 | closeout        | Core-Line - Pigeon - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $285 | Bicycles        | #1134: Wulf - Core-Line - Size: Medium (54cm) - Good Condition |
-|   $245 | closeout        | #1133 - Core-Line - SBC x RIPNDIP - Size Large (58cm) - Fair Condition |
 |   $165 | closeout        | #RS94- Bell z20 Aero Mips Road Helmet - State Bicycle Team Wrapped - Size Medium - Like-New Condition |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - X-Small |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - Small |
@@ -180,3 +179,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $8 | closeout        | #RS52 - Pedros Multi Spoke Wrench |
 |     $7 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
 |     $7 | closeout        | #RS23 - Serfas Gripshift Grips - Like-New Condition |
+|     $5 | closeout        | #RS105- Serfas - UTL-10 Apollo USB Compact LED Tail Light |
