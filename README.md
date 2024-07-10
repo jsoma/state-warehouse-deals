@@ -175,8 +175,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Pink |
 |     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Red |
 |     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Gold |
-|     $8 | closeout        | #RS52 - Pedros Multi Spoke Wrench |
 |     $7 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
 |     $7 | closeout        | #RS23 - Serfas Gripshift Grips - Like-New Condition |
 |     $5 | closeout        | #RS105- Serfas - UTL-10 Apollo USB Compact LED Tail Light |
 |     $5 | closeout        | #RS60 - Origin8 Cr-Mo Track Front Axle Nuts (BLACK) |
+|     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
