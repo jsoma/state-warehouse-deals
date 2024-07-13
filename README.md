@@ -18,7 +18,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 58 cm - (Riders 6'0"-6'3") |
 |   $685 | closeout        | #1138 - 4130 All-Road Flat-Bar - Rust Fade w/ 700c Wheels - Small (47cm) - Very-Good Condition |
 |   $625 | closeout        | #1142 - Undefeated Carbon Disc Road Frame & Fork Set - Size 56cm - Graphite Prism - Excellent / Used Condition |
-|   $555 | closeout        | #1139 - 6061 Black Label v3 (Fixed-Gear)   - Grey / Fuchsia - 49cm - Fair Condition |
 |   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 49 cm (Riders 5'0"-5'3") |
 |   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 52 cm (Riders 5'3"-5'6") |
 |   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 55 cm (Riders 5'6"-5'10") |
@@ -180,3 +179,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
 |     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
 |     $0 | closeout        | Patch: Hell Ride High Noon - Vol 2. (2015) |
+|     $0 | closeout        | Patch: Phoenix to Tucson (Volume 1) |
