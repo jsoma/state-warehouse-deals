@@ -121,8 +121,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $37 | Misc. Parts     | Vittoria Terreno Zero - Gravel / All-Road Tire - 700 x 38c - Tan |
 |    $37 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 650 x 47c - Black |
 |    $37 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 650 x 47c - Tan |
-|    $35 | Misc. Parts     | Panaracer Gravel King SK All-Road Tire - 27.5 (650b) x 1.9" - Black |
-|    $35 | Misc. Parts     | Panaracer Gravel King SK All-Road Tire - 27.5 (650b) x 1.9" - Tan |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 46 tooth |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 48 tooth |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 49 tooth |
