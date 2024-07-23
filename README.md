@@ -57,7 +57,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - X-Large |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - XX-Large |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - 3X-Large |
-|    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - X-Small |
 |    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - Small |
 |    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - Medium |
