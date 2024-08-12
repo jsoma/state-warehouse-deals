@@ -47,6 +47,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $360 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
+|   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - X-Small |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - Small |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - Medium |
@@ -54,6 +55,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - X-Large |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - XX-Large |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - 3X-Large |
+|    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - X-Small |
 |    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - Small |
 |    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - Medium |
@@ -61,6 +63,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - X-Large |
 |    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - XX-Large |
 |    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - 3X-Large |
+|    $85 | closeout        | #607 - All Road Wheel 650b - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $69 | closeout        | Black Label Series: Fixed Gear / Single Speed Crankset (Black) |
 |    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - Small |
 |    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - Medium |
