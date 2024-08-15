@@ -140,6 +140,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $14 | closeout        | State Bicycle Co. - Fly it High Beanie |
 |    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
 |    $12 | closeout        | #RS115- Serfas - Tubeless Sealant - SEAL-16 16oz Pouch |
+|    $11 | closeout        | #RS114 - Maxxis Pursuer Road Bicycle Tire 700 x 25C - NEW IN BOX |
 |     $9 | closeout        | April Fools / Not April Fools ? - Carbon Stem Cap |
 |    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Blue |
 |     $9 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - White |
