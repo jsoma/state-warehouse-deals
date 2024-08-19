@@ -66,6 +66,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - 3X-Large |
 |    $85 | closeout        | #607 - All Road Wheel 650b - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $69 | closeout        | Black Label Series: Fixed Gear / Single Speed Crankset (Black) |
+|    $57 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 700 x 47c - Black |
+|    $57 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 700 x 47c - Tan |
 |    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - Small |
 |    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - Medium |
 |    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - Large |
@@ -99,8 +101,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - 3X-Large |
 |    $42 | Handlebars      | Salsa - Cowchipper Drop Handlebar - 44cm |
 |    $42 | Handlebars      | Salsa - Cowchipper Drop Handlebar - 46cm |
-|    $37 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 700 x 47c - Black |
-|    $37 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 700 x 47c - Tan |
 |    $37 | Misc. Parts     | Vittoria Terreno Zero - Gravel / All-Road Tire - 700 x 38c - Black |
 |    $37 | Misc. Parts     | Vittoria Terreno Zero - Gravel / All-Road Tire - 700 x 38c - Tan |
 |    $37 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 650 x 47c - Black |
