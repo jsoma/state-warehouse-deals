@@ -99,6 +99,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - 3X-Large |
 |    $42 | Handlebars      | Salsa - Cowchipper Drop Handlebar - 44cm |
 |    $42 | Handlebars      | Salsa - Cowchipper Drop Handlebar - 46cm |
+|    $37 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 700 x 47c - Black |
+|    $37 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 700 x 47c - Tan |
 |    $37 | Misc. Parts     | Vittoria Terreno Zero - Gravel / All-Road Tire - 700 x 38c - Black |
 |    $37 | Misc. Parts     | Vittoria Terreno Zero - Gravel / All-Road Tire - 700 x 38c - Tan |
 |    $37 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 650 x 47c - Black |
