@@ -15,11 +15,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 54 cm - (Riders 5'9"-5'10") |
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 56 cm - (Riders 5'10"-6'0") |
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 58 cm - (Riders 6'0"-6'3") |
-|   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 49 cm (Riders 5'0"-5'3") |
-|   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 52 cm (Riders 5'3"-5'6") |
-|   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 55 cm (Riders 5'6"-5'10") |
-|   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 58 cm (Riders 5'11"-6'2") |
-|   $549 | Frame / Fork    | Undefeated Track Frame & Fork Set - Graphite / Prism - 61 cm (Riders 6'2"-6'5") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 49 cm - (Riders 5'0"-5'3") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 52 cm - (Riders 5'3"-5'6") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 55 cm - (Riders 5'6"-5'9") |
