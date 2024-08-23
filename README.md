@@ -150,7 +150,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $7 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
 |     $7 | closeout        | #RS23 - Serfas Gripshift Grips - Like-New Condition |
 |     $5 | closeout        | #RS105- Serfas - UTL-10 Apollo USB Compact LED Tail Light |
-|     $1 | closeout        | Patch: Phoenix to Tucson (2020) |
 |     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
 |     $0 | closeout        | Patch: Hell Ride High Noon - Vol 2. (2015) |
 |     $0 | closeout        | Patch: Phoenix to Tucson (Volume 1) |
