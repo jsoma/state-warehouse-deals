@@ -183,6 +183,20 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Extra Large |
 |    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - XX-Large |
 |    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - 3X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - X-Small / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - X-Small / X-Small |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - Small / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - Small / Small |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - Medium / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - Medium / Medium |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - Large / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - Large / Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - X-Large / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - X-Large / X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - 2X-Large / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - 2X-Large / 2X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - 3X-Large / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - 3X-Large / 3X-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - Small |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - Medium |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - Large |
@@ -237,4 +251,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $18 | closeout        | #RS117- Serfas - Serfas Vida Meo City Tire - 700 x 38c |
 |    $18 | closeout        | #RS116- Serfas - Serfas Vida Meo City Tire - 700 x 32c |
 |    $18 | Misc. Parts     | Vittoria Barzo  - Gravel / XC MTB Tire - 27.5 x 2.1" (Rigid) - Black |
-|    $17 | Handlebars      | State Bicycle Co. x RIPNDIP  - "FU" Bar Tape |
