@@ -3,6 +3,30 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
+|  $1250 | 6061 All Road   | 6061 Black Label All-Road - Copper Brown (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
+|  $1250 | 6061 All Road   | 6061 Black Label All-Road - Copper Brown (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
+|  $1599 | 6061 All Road   | 6061 Black Label All-Road - Copper Brown (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / Both (add $349.99) |
+|  $1250 | 6061 All Road   | 6061 Black Label All-Road - Copper Brown (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 650b |
+|  $1250 | 6061 All Road   | 6061 Black Label All-Road - Copper Brown (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 700c |
+|  $1599 | 6061 All Road   | 6061 Black Label All-Road - Copper Brown (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / Both (add $349.99) |
+|  $1250 | 6061 All Road   | 6061 Black Label All-Road - Copper Brown (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 650b |
+|  $1250 | 6061 All Road   | 6061 Black Label All-Road - Copper Brown (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 700c |
+|  $1599 | 6061 All Road   | 6061 Black Label All-Road - Copper Brown (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / Both (add $349.99) |
+|  $1250 | 6061 All Road   | 6061 Black Label All-Road - Copper Brown (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
+|  $1250 | 6061 All Road   | 6061 Black Label All-Road - Copper Brown (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
+|  $1599 | 6061 All Road   | 6061 Black Label All-Road - Copper Brown (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (add $349.99) |
+|  $1250 | 6061 All Road   | 6061 Black Label All-Road - Matte Olive (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
+|  $1250 | 6061 All Road   | 6061 Black Label All-Road - Matte Olive (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
+|  $1599 | 6061 All Road   | 6061 Black Label All-Road - Matte Olive (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / Both (add $349.99) |
+|  $1250 | 6061 All Road   | 6061 Black Label All-Road - Matte Olive (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 650b |
+|  $1250 | 6061 All Road   | 6061 Black Label All-Road - Matte Olive (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / 700c |
+|  $1599 | 6061 All Road   | 6061 Black Label All-Road - Matte Olive (650b / 700c) - Small - 51cm - ( Riders 5'6" - 5'10") / Both (add $349.99) |
+|  $1250 | 6061 All Road   | 6061 Black Label All-Road - Matte Olive (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 650b |
+|  $1250 | 6061 All Road   | 6061 Black Label All-Road - Matte Olive (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / 700c |
+|  $1599 | 6061 All Road   | 6061 Black Label All-Road - Matte Olive (650b / 700c) - Medium - 54cm - ( Riders 5'9" - 6'1") / Both (add $349.99) |
+|  $1250 | 6061 All Road   | 6061 Black Label All-Road - Matte Olive (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 650b |
+|  $1250 | 6061 All Road   | 6061 Black Label All-Road - Matte Olive (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / 700c |
+|  $1599 | 6061 All Road   | 6061 Black Label All-Road - Matte Olive (650b / 700c) - Large - 58cm - (Riders 6'0" - 6'3") / Both (add $349.99) |
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 49 cm (Riders 5'0"-5'3") |
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 52 cm (Riders 5'3"-5'6") |
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 55 cm (Riders 5'6"-5'9") |
@@ -206,5 +230,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $7 | closeout        | #RS23 - Serfas Gripshift Grips - Like-New Condition |
 |     $5 | closeout        | #RS105- Serfas - UTL-10 Apollo USB Compact LED Tail Light |
 |     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
-|     $0 | closeout        | Patch: Hell Ride High Noon - Vol 2. (2015) |
-|     $0 | closeout        | Patch: Phoenix to Tucson (Volume 1) |
