@@ -63,6 +63,16 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
+|   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 49 cm (Riders 5'1" - 5'5") / Compact Drops |
+|   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 49 cm (Riders 5'1" - 5'5") / Wide Riser w/ Vans Grips |
+|   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 52 cm (Riders 5'4" - 5'9") / Compact Drops |
+|   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 52 cm (Riders 5'4" - 5'9") / Wide Riser w/ Vans Grips |
+|   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 55 cm (Riders 5'8" - 5'11") / Wide Riser w/ Vans Grips |
+|   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 55 cm (Riders 5'8" - 5'11") / Compact Drops |
+|   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 58 cm (Riders 5'10-6'2") / Compact Drops |
+|   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 58 cm (Riders 5'10-6'2") / Wide Riser w/ Vans Grips |
+|   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 61 cm (Riders 6'1" - 6'5") / Compact Drops |
+|   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 61 cm (Riders 6'1" - 6'5") / Wide Riser w/ Vans Grips |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 49 cm - (Riders 5'0"-5'3") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 52 cm - (Riders 5'3"-5'6") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 55 cm - (Riders 5'6"-5'9") |
@@ -121,7 +131,13 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $350 | Klunker         | State Bicycle Co. x RIPNDIP - Klunker + Bag Combo - FU Edition |
+|   $250 | Misc. Parts     | FSA - K-Force Compact Carbon Handlebar  (40/42/44cm) - 40mm |
+|   $250 | Misc. Parts     | FSA - K-Force Compact Carbon Handlebar  (40/42/44cm) - 42mm |
+|   $250 | Misc. Parts     | FSA - K-Force Compact Carbon Handlebar  (40/42/44cm) - 44mm |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
+|    $99 | Misc. Parts     | FSA - VAS (Vibration Absorbing Stem) Stem - 80mm |
+|    $99 | Misc. Parts     | FSA - VAS (Vibration Absorbing Stem) Stem - 90mm |
+|    $99 | Misc. Parts     | FSA - VAS (Vibration Absorbing Stem) Stem - 100mm |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - X-Small |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - Small |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - Medium |
@@ -227,6 +243,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Red |
 |     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Gold |
 |     $7 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
-|     $7 | closeout        | #RS23 - Serfas Gripshift Grips - Like-New Condition |
-|     $5 | closeout        | #RS105- Serfas - UTL-10 Apollo USB Compact LED Tail Light |
-|     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
