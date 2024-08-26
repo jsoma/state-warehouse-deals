@@ -30,6 +30,30 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 59 cm (Riders 5'11"-6'2) / Brooks England B17 |
 |   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Urban Comfort Saddle |
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Brooks England B17 |
+|   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 46 cm (Riders 5'3"-5'6") / All-Road Drop Bars |
+|   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 46 cm (Riders 5'3"-5'6") / Wide Riser Bars |
+|   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 49 cm (Riders 5'5"-5'8") / All-Road Drop Bars |
+|   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 49 cm (Riders 5'5"-5'8") / Wide Riser Bars |
+|   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 52 cm (Riders 5'7"-5'10") / All-Road Drop Bars |
+|   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 52 cm (Riders 5'7"-5'10") / Wide Riser Bars |
+|   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 55 cm (Riders 5'9"-6'0") / All-Road Drop Bars |
+|   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 55 cm (Riders 5'9"-6'0") / Wide Riser Bars |
+|   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 59 cm (Riders 5'11"-6'3") / All-Road Drop Bars |
+|   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 59 cm (Riders 5'11"-6'3") / Wide Riser Bars |
+|   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'7") / All-Road Drop Bars |
+|   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'7") / Wide Riser Bars |
+|   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
+|   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars |
+|   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars |
+|   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Small (50 cm- Riders 5'4"-5'7") / Riser Bars |
+|   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Small (50 cm- Riders 5'4"-5'7") / Bullhorn Bars |
+|   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Small (50 cm- Riders 5'4"-5'7") / Drop Bars |
+|   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Medium (54 cm- Riders 5'7"-5'11") / Riser Bars |
+|   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Medium (54 cm- Riders 5'7"-5'11") / Bullhorn Bars |
+|   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Medium (54 cm- Riders 5'7"-5'11") / Drop Bars |
+|   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
+|   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars |
+|   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Large (58 cm- Riders 5'11"-6'2") / Drop Bars |
 |   $360 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
