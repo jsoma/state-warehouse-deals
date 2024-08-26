@@ -15,11 +15,40 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 54 cm - (Riders 5'9"-5'10") |
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 56 cm - (Riders 5'10"-6'0") |
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 58 cm - (Riders 6'0"-6'3") |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
+|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (add $389.99) |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
+|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / Both (add $389.99) |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
+|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Medium ( Riders 5'9" - 6'2") / Both (add $389.99) |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
+|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
+|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (add $389.99) |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
+|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / Both (add $389.99) |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
+|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Medium ( Riders 5'9" - 6'2") / Both (add $389.99) |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
+|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 49 cm - (Riders 5'0"-5'3") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 52 cm - (Riders 5'3"-5'6") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 55 cm - (Riders 5'6"-5'9") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 58 cm - (Riders 5'9"-6'1") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 62 cm - (Riders 6'2"-6'6") |
+|   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 49 cm (Riders 5'1"-5'4") |
+|   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 52 cm (Riders 5'4"-5'7") |
+|   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 55 cm (Riders 5'7"-5'11") |
+|   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 59 cm (Riders 5'11"-6'2) |
+|   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 62 cm (Riders 6'2"-6'6") |
 |   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 49 cm (Riders 5'1"-5'4") / Urban Comfort Saddle |
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 49 cm (Riders 5'1"-5'4") / Brooks England B17 |
 |   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 52 cm (Riders 5'4"-5'7") / Urban Comfort Saddle |
@@ -42,6 +71,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 59 cm (Riders 5'11"-6'3") / Wide Riser Bars |
 |   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'7") / All-Road Drop Bars |
 |   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'7") / Wide Riser Bars |
+|   $375 | Klunker         | State Bicycle Co. x The Beatles - Klunker - Yellow Submarine Edition |
 |   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars |
 |   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars |
@@ -66,6 +96,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $360 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
+|   $350 | Klunker         | State Bicycle Co. x RIPNDIP - Klunker + Bag Combo - FU Edition |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - X-Small |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - Small |
