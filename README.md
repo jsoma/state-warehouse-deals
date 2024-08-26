@@ -183,6 +183,34 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Extra Large |
 |    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - XX-Large |
 |    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - 3X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - X-Small / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - X-Small / X-Small |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - Small / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - Small / Small |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - Medium / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - Medium / Medium |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - Large / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - Large / Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - X-Large / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - X-Large / X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - 2X-Large / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - 2X-Large / 2X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - 3X-Large / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - 3X-Large / 3X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - X-Small / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - X-Small / X-Small |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - Small / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - Small / Small |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - Medium / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - Medium / Medium |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - Large / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - Large / Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - X-Large / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - X-Large / X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - 2X-Large / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - 2X-Large / 2X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - 3X-Large / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - 3X-Large / 3X-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - X-Small / No Bibs |
 |    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - X-Small / X-Small |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - Small / No Bibs |
@@ -197,6 +225,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - 2X-Large / 2X-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - 3X-Large / No Bibs |
 |    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - 3X-Large / 3X-Large |
+|    $45 | Accessories     | State Bicycle Co. x RIPNDIP - FU Klunker Frame Bag |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - Small |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - Medium |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - Large |
@@ -225,6 +254,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
+|    $25 | Accessories     | State Bicycle Co. x RIPNDIP - FU All-Road Bar Bag |
 |    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - Small |
 |    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - Medium |
 |    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - Large |
@@ -247,7 +277,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Urban Comfort Saddle |
 |    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Core-Line Saddle |
 |    $22 | Handlebars      | Selle Italia - Smart Tape Handlebar Tape (Black) |
-|    $19 | Bicycles        | State Bicycle Co. 38c Tire (Black) - Black |
-|    $18 | closeout        | #RS117- Serfas - Serfas Vida Meo City Tire - 700 x 38c |
-|    $18 | closeout        | #RS116- Serfas - Serfas Vida Meo City Tire - 700 x 32c |
-|    $18 | Misc. Parts     | Vittoria Barzo  - Gravel / XC MTB Tire - 27.5 x 2.1" (Rigid) - Black |
