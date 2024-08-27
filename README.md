@@ -131,9 +131,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $350 | Klunker         | State Bicycle Co. x RIPNDIP - Klunker + Bag Combo - FU Edition |
-|   $250 | Misc. Parts     | FSA - K-Force Compact Carbon Handlebar  (40/42/44cm) - 40mm |
-|   $250 | Misc. Parts     | FSA - K-Force Compact Carbon Handlebar  (40/42/44cm) - 42mm |
-|   $250 | Misc. Parts     | FSA - K-Force Compact Carbon Handlebar  (40/42/44cm) - 44mm |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $99 | Misc. Parts     | FSA - VAS (Vibration Absorbing Stem) Stem - 80mm |
 |    $99 | Misc. Parts     | FSA - VAS (Vibration Absorbing Stem) Stem - 90mm |
@@ -273,3 +270,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Core-Line Saddle |
 |    $22 | Handlebars      | Selle Italia - Smart Tape Handlebar Tape (Black) |
 |    $19 | Bicycles        | State Bicycle Co. 38c Tire (Black) - Black |
+|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Small |
+|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Medium |
+|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Large |
+|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Extra Large |
+|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - 2X-Large |
