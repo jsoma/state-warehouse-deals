@@ -146,7 +146,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $350 | Klunker         | State Bicycle Co. x RIPNDIP - Klunker + Bag Combo - FU Edition |
 |   $325 | closeout        | #1151 - Core-Line - SBC x RIPNDIP - Size Small (50cm) - Excellent Condition |
-|   $325 | closeout        | #1152 - State Bicycle Co. - City Bike | "Black & Tan" (53cm, 3-Speed, Good Condition) |
 |   $289 | closeout        | #1168 - Core-Line - Lavender Haze w/ Riser Bars - Size Small (50cm) - Good Condition |
 |   $270 | closeout        | #1159 - Core-Line - Ghoul w/ Bullhorn Bars - Size X-Small (46cm) - Fair Condition |
 |   $269 | closeout        | #1157 - State Bicycle Co. - City Bike | "Bubble Gum" (43cm, 3-Speed, Fair Condition) |
@@ -200,3 +199,17 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Extra Large |
 |    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - XX-Large |
 |    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - 3X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - X-Small / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - X-Small / X-Small |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - Small / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - Small / Small |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - Medium / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - Medium / Medium |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - Large / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - Large / Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - X-Large / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - X-Large / X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - 2X-Large / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - 2X-Large / 2X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - 3X-Large / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - 3X-Large / 3X-Large |
