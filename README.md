@@ -130,7 +130,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars |
 |   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Large (58 cm- Riders 5'11"-6'2") / Drop Bars |
-|   $365 | closeout        | #1169 - Klunker - Black & Metallic - Very-Good Condition |
 |   $360 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
@@ -244,3 +243,5 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - X-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - XX-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - 3X-Large |
+|    $42 | Handlebars      | Salsa - Cowchipper Drop Handlebar - 44cm |
+|    $42 | Handlebars      | Salsa - Cowchipper Drop Handlebar - 46cm |
