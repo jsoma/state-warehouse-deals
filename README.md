@@ -149,7 +149,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $350 | Klunker         | State Bicycle Co. x RIPNDIP - Klunker + Bag Combo - FU Edition |
-|   $335 | closeout        | #1156 - Core-Line - Rigby w/ Bullhorn Bars - Size Large (58cm) - Very-Good Condition |
 |   $325 | closeout        | #1151 - Core-Line - SBC x RIPNDIP - Size Small (50cm) - Excellent Condition |
 |   $325 | closeout        | #1152 - State Bicycle Co. - City Bike | "Black & Tan" (53cm, 3-Speed, Good Condition) |
 |   $289 | closeout        | #1168 - Core-Line - Lavender Haze w/ Riser Bars - Size Small (50cm) - Good Condition |
@@ -178,3 +177,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - XX-Large |
 |    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - 3X-Large |
 |    $85 | closeout        | #607 - All Road Wheel 650b - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
+|    $69 | closeout        | Black Label Series: Fixed Gear / Single Speed Crankset (Black) |
