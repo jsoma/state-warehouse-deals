@@ -83,8 +83,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 61 cm (Riders 6'1" - 6'5") / Wide Riser w/ Vans Grips |
 |   $675 | closeout        | #1150 - 6061 Black Label v3 (Fixed-Gear)   - Volt / Matte Black - 55cm - Excellent Condition (Photo Model) |
 |   $655 | closeout        | #1163 - 6061 Black Label v3 (Fixed-Gear)   - Green / Gold - 55cm - Very Good Condition |
-|   $625 | closeout        | #1167 - 6061 Black Label v3 (Fixed-Gear)   - Purple / White - 49cm - Good Condition |
-|   $585 | closeout        | #1149 - 6061 Black Label v3 (Fixed-Gear)   - Black / Mirror - 52cm - Good Condition |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 49 cm - (Riders 5'0"-5'3") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 52 cm - (Riders 5'3"-5'6") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 55 cm - (Riders 5'6"-5'9") |
@@ -179,3 +177,15 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $69 | closeout        | Black Label Series: Fixed Gear / Single Speed Crankset (Black) |
 |    $57 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 700 x 47c - Black |
 |    $57 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 700 x 47c - Tan |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - Small |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - Medium |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - X-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - XX-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - 3X-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - Small |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - Medium |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - X-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - XX-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - 3X-Large |
