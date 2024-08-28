@@ -67,7 +67,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
 |   $795 | closeout        | #1158 - 4130 All-Road | "Turquoise Fade" (Small, 650b, Very Good Condition) |
-|   $775 | closeout        | #1166 - 4130 All-Road  - Copper Brown - Medium w/ 650b Wheels - Excellent Condition |
 |   $765 | closeout        | #1147 - 4130 All-Road Flat Bar  - Raw Phosphate - Medium w/ 650b Wheels - Excellent Condition |
 |   $745 | closeout        | #1148 - 4130 All-Road  - Copper Brown - Large w/ 650b Wheels - Very-Good |
 |   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 49 cm (Riders 5'1" - 5'5") / Compact Drops |
@@ -239,3 +238,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - 3X-Large / No Bibs |
 |    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - 3X-Large / 3X-Large |
 |    $45 | Accessories     | State Bicycle Co. x RIPNDIP - FU Klunker Frame Bag |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - Small |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - Medium |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - X-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - XX-Large |
+|    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - 3X-Large |
