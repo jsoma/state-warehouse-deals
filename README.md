@@ -150,7 +150,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $289 | closeout        | #1168 - Core-Line - Lavender Haze w/ Riser Bars - Size Small (50cm) - Good Condition |
 |   $270 | closeout        | #1159 - Core-Line - Ghoul w/ Bullhorn Bars - Size X-Small (46cm) - Fair Condition |
 |   $269 | closeout        | #1157 - State Bicycle Co. - City Bike | "Bubble Gum" (43cm, 3-Speed, Fair Condition) |
-|   $265 | closeout        | #1161 - Core-Line - Ghoul w/ Riser Bars - Size Large (58cm) - Fair Condition |
 |   $265 | closeout        | #1160 - Core-Line - Rigby w/ Riser Bars - Size Medium (54cm) - Fair Condition |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $99 | Misc. Parts     | FSA - VAS (Vibration Absorbing Stem) Stem - 80mm |
@@ -194,3 +193,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Large |
 |    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - X-Large |
 |    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - XX-Large |
+|    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - X-Small |
+|    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Small |
+|    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Medium |
+|    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Large |
+|    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Extra Large |
+|    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - XX-Large |
+|    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - 3X-Large |
