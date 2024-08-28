@@ -150,7 +150,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $350 | Klunker         | State Bicycle Co. x RIPNDIP - Klunker + Bag Combo - FU Edition |
-|   $335 | closeout        | #1162 - Core-Line - Rigby w/ Bullhorn Bars - Size Medium (54cm) - Very-Good Condition |
 |   $335 | closeout        | #1156 - Core-Line - Rigby w/ Bullhorn Bars - Size Large (58cm) - Very-Good Condition |
 |   $325 | closeout        | #1151 - Core-Line - SBC x RIPNDIP - Size Small (50cm) - Excellent Condition |
 |   $325 | closeout        | #1152 - State Bicycle Co. - City Bike | "Black & Tan" (53cm, 3-Speed, Good Condition) |
@@ -172,3 +171,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - 3X-Large |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $89 | Bicycle Saddles | Fi'zi:k Arione Saddle - K:IUM Rails - Black Road Saddle |
+|    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - X-Small |
+|    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - Small |
+|    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - Medium |
+|    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - Large |
+|    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - X-Large |
+|    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - XX-Large |
+|    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - 3X-Large |
