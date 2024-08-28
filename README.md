@@ -66,7 +66,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
-|   $795 | closeout        | #1164 - 4130 All-Road | "Matte Olive" (Medium, Drops, Excellent Condition) |
 |   $795 | closeout        | #1158 - 4130 All-Road | "Turquoise Fade" (Small, 650b, Very Good Condition) |
 |   $775 | closeout        | #1166 - 4130 All-Road  - Copper Brown - Medium w/ 650b Wheels - Excellent Condition |
 |   $765 | closeout        | #1147 - 4130 All-Road Flat Bar  - Raw Phosphate - Medium w/ 650b Wheels - Excellent Condition |
@@ -189,3 +188,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - X-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - XX-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - 3X-Large |
+|    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - X-Small |
+|    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Small |
+|    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Medium |
+|    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Large |
+|    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - X-Large |
+|    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - XX-Large |
