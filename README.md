@@ -120,7 +120,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $465 | closeout        | #1143 - 4130 Road (8-Speed)  - Hunter - 52cm - Very-Good Condition |
 |   $445 | closeout        | #1170 - 4130 Single Speed | "Purple Reign" (46cm, Drops, Excellent Condition) |
 |   $425 | closeout        | #1165 - State Bicycle Co. x Bob Marley - 4130 Road+ | "Rasta Stripe Black" (62cm, Good Condition) |
-|   $425 | closeout        | #1153 - 4130 Single-Speed / Fixed-Gear | "Black Mirror" (59cm, Risers, Very Good Condition) |
 |   $415 | closeout        | #1144 - Klunker + Bag Combo - State Bicycle Co. x Bob Marley Edition - Excellent Condition |
 |   $395 | closeout        | #1155 - Klunker - Black & Metallic - Very-Good Condition |
 |   $375 | Klunker         | State Bicycle Co. x The Beatles - Klunker - Yellow Submarine Edition |
@@ -172,3 +171,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - XX-Large |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - 3X-Large |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
+|    $89 | Bicycle Saddles | Fi'zi:k Arione Saddle - K:IUM Rails - Black Road Saddle |
