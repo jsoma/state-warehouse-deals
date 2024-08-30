@@ -142,7 +142,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $350 | Klunker         | State Bicycle Co. x RIPNDIP - Klunker + Bag Combo - FU Edition |
-|   $325 | closeout        | #1151 - Core-Line - SBC x RIPNDIP - Size Small (50cm) - Excellent Condition |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $99 | Misc. Parts     | FSA - VAS (Vibration Absorbing Stem) Stem - 80mm |
 |    $99 | Misc. Parts     | FSA - VAS (Vibration Absorbing Stem) Stem - 90mm |
@@ -247,3 +246,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $37 | Misc. Parts     | Vittoria Terreno Zero - Gravel / All-Road Tire - 700 x 38c - Tan |
 |    $37 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 650 x 47c - Black |
 |    $37 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 650 x 47c - Tan |
+|    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 46 tooth |
+|    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 48 tooth |
+|    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 49 tooth |
+|    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
