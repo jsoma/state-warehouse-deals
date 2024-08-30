@@ -42,30 +42,30 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 56 cm - (Riders 5'10"-6'0") |
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 58 cm - (Riders 6'0"-6'3") |
 |   $879 | closeout        | #1154 - 4130 All-Road | "Turquoise" (Large, 650b, Brand New Condition) |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Turquoise Fade / Extra Small ( Riders 5'1" - 5'6") / 650b |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Turquoise Fade / Extra Small ( Riders 5'1" - 5'6") / 700c |
-|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Turquoise Fade / Extra Small ( Riders 5'1" - 5'6") / Both (add $389.99) |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Turquoise Fade / Small ( Riders 5'5" - 5'10") / 650b |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Turquoise Fade / Small ( Riders 5'5" - 5'10") / 700c |
-|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Turquoise Fade / Small ( Riders 5'5" - 5'10") / Both (add $389.99) |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Turquoise Fade / Medium ( Riders 5'9" - 6'2") / 650b |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Turquoise Fade / Medium ( Riders 5'9" - 6'2") / 700c |
-|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Turquoise Fade / Medium ( Riders 5'9" - 6'2") / Both (add $389.99) |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Turquoise Fade / Large (Riders 6'1" - 6'5") / 650b |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Turquoise Fade / Large (Riders 6'1" - 6'5") / 700c |
-|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Turquoise Fade / Large (Riders 6'1" - 6'5") / Both (add $389.99) |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Rust Fade / Extra Small ( Riders 5'1" - 5'6") / 650b |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Rust Fade / Extra Small ( Riders 5'1" - 5'6") / 700c |
-|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Rust Fade / Extra Small ( Riders 5'1" - 5'6") / Both (add $389.99) |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Rust Fade / Small ( Riders 5'5" - 5'10") / 650b |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Rust Fade / Small ( Riders 5'5" - 5'10") / 700c |
-|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Rust Fade / Small ( Riders 5'5" - 5'10") / Both (add $389.99) |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Rust Fade / Medium ( Riders 5'9" - 6'2") / 650b |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Rust Fade / Medium ( Riders 5'9" - 6'2") / 700c |
-|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Rust Fade / Medium ( Riders 5'9" - 6'2") / Both (add $389.99) |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Rust Fade / Large (Riders 6'1" - 6'5") / 650b |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Rust Fade / Large (Riders 6'1" - 6'5") / 700c |
-|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Rust Fade / Large (Riders 6'1" - 6'5") / Both (add $389.99) |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
+|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (add $389.99) |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
+|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / Both (add $389.99) |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
+|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Medium ( Riders 5'9" - 6'2") / Both (add $389.99) |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
+|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
+|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (add $389.99) |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
+|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / Both (add $389.99) |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
+|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Medium ( Riders 5'9" - 6'2") / Both (add $389.99) |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
+|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
+|  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
 |   $795 | closeout        | #1158 - 4130 All-Road | "Turquoise Fade" (Small, 650b, Very Good Condition) |
 |   $745 | closeout        | #1148 - 4130 All-Road  - Copper Brown - Large w/ 650b Wheels - Very-Good |
 |   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 49 cm (Riders 5'1" - 5'5") / Compact Drops |
