@@ -113,7 +113,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 59 cm (Riders 5'11"-6'3") / Wide Riser Bars |
 |   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'7") / All-Road Drop Bars |
 |   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'7") / Wide Riser Bars |
-|   $445 | closeout        | #1170 - 4130 Single Speed | "Purple Reign" (46cm, Drops, Excellent Condition) |
 |   $425 | closeout        | #1165 - State Bicycle Co. x Bob Marley - 4130 Road+ | "Rasta Stripe Black" (62cm, Good Condition) |
 |   $415 | closeout        | #1144 - Klunker + Bag Combo - State Bicycle Co. x Bob Marley Edition - Excellent Condition |
 |   $395 | closeout        | #1155 - Klunker - Black & Metallic - Very-Good Condition |
@@ -246,3 +245,5 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $42 | Handlebars      | Salsa - Cowchipper Drop Handlebar - 46cm |
 |    $37 | Misc. Parts     | Vittoria Terreno Zero - Gravel / All-Road Tire - 700 x 38c - Black |
 |    $37 | Misc. Parts     | Vittoria Terreno Zero - Gravel / All-Road Tire - 700 x 38c - Tan |
+|    $37 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 650 x 47c - Black |
+|    $37 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 650 x 47c - Tan |
