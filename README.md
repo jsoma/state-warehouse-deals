@@ -67,7 +67,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
 |   $795 | closeout        | #1158 - 4130 All-Road | "Turquoise Fade" (Small, 650b, Very Good Condition) |
-|   $745 | closeout        | #1148 - 4130 All-Road  - Copper Brown - Large w/ 650b Wheels - Very-Good |
 |   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 49 cm (Riders 5'1" - 5'5") / Compact Drops |
 |   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 49 cm (Riders 5'1" - 5'5") / Wide Riser w/ Vans Grips |
 |   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 52 cm (Riders 5'4" - 5'9") / Compact Drops |
@@ -256,3 +255,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - X-Large |
 |    $35 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - XX-Large |
 |    $35 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - 3X-Large |
+|    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Small |
+|    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Medium |
+|    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
+|    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
+|    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
