@@ -113,7 +113,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'7") / Wide Riser Bars |
 |   $425 | closeout        | #1165 - State Bicycle Co. x Bob Marley - 4130 Road+ | "Rasta Stripe Black" (62cm, Good Condition) |
 |   $415 | closeout        | #1144 - Klunker + Bag Combo - State Bicycle Co. x Bob Marley Edition - Excellent Condition |
-|   $395 | closeout        | #1155 - Klunker - Black & Metallic - Very-Good Condition |
 |   $375 | Klunker         | State Bicycle Co. x The Beatles - Klunker - Yellow Submarine Edition |
 |   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars |
@@ -260,3 +259,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
+|    $25 | Accessories     | State Bicycle Co. x RIPNDIP - FU All-Road Bar Bag |
