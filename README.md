@@ -98,18 +98,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 59 cm (Riders 5'11"-6'2) / Brooks England B17 |
 |   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Urban Comfort Saddle |
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Brooks England B17 |
-|   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 46 cm (Riders 5'3"-5'6") / All-Road Drop Bars |
-|   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 46 cm (Riders 5'3"-5'6") / Wide Riser Bars |
-|   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 49 cm (Riders 5'5"-5'8") / All-Road Drop Bars |
-|   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 49 cm (Riders 5'5"-5'8") / Wide Riser Bars |
-|   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 52 cm (Riders 5'7"-5'10") / All-Road Drop Bars |
-|   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 52 cm (Riders 5'7"-5'10") / Wide Riser Bars |
-|   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 55 cm (Riders 5'9"-6'0") / All-Road Drop Bars |
-|   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 55 cm (Riders 5'9"-6'0") / Wide Riser Bars |
-|   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 59 cm (Riders 5'11"-6'3") / All-Road Drop Bars |
-|   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 59 cm (Riders 5'11"-6'3") / Wide Riser Bars |
-|   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'7") / All-Road Drop Bars |
-|   $475 | 4130 Core-Line  | 4130 - Windbreaker – (Fixed Gear / Single-Speed) - 62 cm (Riders 6'2"-6'7") / Wide Riser Bars |
 |   $425 | closeout        | #1165 - State Bicycle Co. x Bob Marley - 4130 Road+ | "Rasta Stripe Black" (62cm, Good Condition) |
 |   $415 | closeout        | #1144 - Klunker + Bag Combo - State Bicycle Co. x Bob Marley Edition - Excellent Condition |
 |   $375 | Klunker         | State Bicycle Co. x The Beatles - Klunker - Yellow Submarine Edition |
@@ -264,3 +252,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - Large |
 |    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - X-Large |
 |    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - XX-Large |
+|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Black |
+|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - White |
+|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Red |
+|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Yellow |
+|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Green |
+|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
+|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
+|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
