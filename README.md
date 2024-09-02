@@ -76,7 +76,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 58 cm (Riders 5'10-6'2") / Wide Riser w/ Vans Grips |
 |   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 61 cm (Riders 6'1" - 6'5") / Compact Drops |
 |   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 61 cm (Riders 6'1" - 6'5") / Wide Riser w/ Vans Grips |
-|   $675 | closeout        | #1150 - 6061 Black Label v3 (Fixed-Gear)   - Volt / Matte Black - 55cm - Excellent Condition (Photo Model) |
 |   $655 | closeout        | #1163 - 6061 Black Label v3 (Fixed-Gear)   - Green / Gold - 55cm - Very Good Condition |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 49 cm - (Riders 5'0"-5'3") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 52 cm - (Riders 5'3"-5'6") |
@@ -260,3 +259,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
+|    $24 | closeout        | Black Label Series:  Saddle |
