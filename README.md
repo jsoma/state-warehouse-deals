@@ -66,16 +66,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
 |   $795 | closeout        | #1158 - 4130 All-Road | "Turquoise Fade" (Small, 650b, Very Good Condition) |
-|   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 49 cm (Riders 5'1" - 5'5") / Compact Drops |
-|   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 49 cm (Riders 5'1" - 5'5") / Wide Riser w/ Vans Grips |
-|   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 52 cm (Riders 5'4" - 5'9") / Compact Drops |
-|   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 52 cm (Riders 5'4" - 5'9") / Wide Riser w/ Vans Grips |
-|   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 55 cm (Riders 5'8" - 5'11") / Wide Riser w/ Vans Grips |
-|   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 55 cm (Riders 5'8" - 5'11") / Compact Drops |
-|   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 58 cm (Riders 5'10-6'2") / Compact Drops |
-|   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 58 cm (Riders 5'10-6'2") / Wide Riser w/ Vans Grips |
-|   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 61 cm (Riders 6'1" - 6'5") / Compact Drops |
-|   $675 | 6061 Black Labe | 6061 Black Label v3 - Green / Gold - 61 cm (Riders 6'1" - 6'5") / Wide Riser w/ Vans Grips |
 |   $655 | closeout        | #1163 - 6061 Black Label v3 (Fixed-Gear)   - Green / Gold - 55cm - Very Good Condition |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 49 cm - (Riders 5'0"-5'3") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 52 cm - (Riders 5'3"-5'6") |
@@ -233,13 +223,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 48 tooth |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 49 tooth |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
-|    $35 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - X-Small |
-|    $35 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Small |
-|    $35 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Medium |
-|    $35 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - Large |
-|    $35 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - X-Large |
-|    $35 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - XX-Large |
-|    $35 | closeout        | State Bicycle Co. - Skull Kid - All-Road Long-Sleeve Tech-T Jersey - 3X-Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Small |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Medium |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
@@ -260,3 +243,5 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
 |    $24 | closeout        | Black Label Series:  Saddle |
+|    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Urban Comfort Saddle |
+|    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Core-Line Saddle |
