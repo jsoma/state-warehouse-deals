@@ -4,7 +4,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |price|type|name|
 |---|---|---|
 |  $2500 | closeout        | #1146 - Carbon All-Road - White Ember 700c w/ Apex XPLR Upgrade - X-Small 50cm - Used  / Good-Condition |
-|  $1695 | closeout        | #1145 - 6061 All-Road - Matte Olive - w/ Apex XPLR AXS -(700c) - Size Medium (54cm) - Demo Model |
 |  $1250 | 6061 All Road   | 6061 Black Label All-Road - Copper Brown (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 650b |
 |  $1250 | 6061 All Road   | 6061 Black Label All-Road - Copper Brown (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / 700c |
 |  $1599 | 6061 All Road   | 6061 Black Label All-Road - Copper Brown (650b / 700c) - X-Small - 48cm - ( Riders 5'3" - 5'7") / Both (add $349.99) |
@@ -245,3 +244,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $24 | closeout        | Black Label Series:  Saddle |
 |    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Urban Comfort Saddle |
 |    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Core-Line Saddle |
+|    $22 | Handlebars      | Selle Italia - Smart Tape Handlebar Tape (Black) |
