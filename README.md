@@ -132,7 +132,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - X-Large |
 |    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - XX-Large |
 |    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - 3X-Large |
-|    $85 | closeout        | #607 - All Road Wheel 650b - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $69 | closeout        | Black Label Series: Fixed Gear / Single Speed Crankset (Black) |
 |    $57 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 700 x 47c - Black |
 |    $57 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 700 x 47c - Tan |
@@ -249,3 +248,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Large |
 |    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Extra Large |
 |    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - 2X-Large |
+|    $18 | closeout        | #RS117- Serfas - Serfas Vida Meo City Tire - 700 x 38c |
