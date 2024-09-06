@@ -85,7 +85,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 59 cm (Riders 5'11"-6'2) / Brooks England B17 |
 |   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Urban Comfort Saddle |
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Brooks England B17 |
-|   $425 | closeout        | #1165 - State Bicycle Co. x Bob Marley - 4130 Road+ | "Rasta Stripe Black" (62cm, Good Condition) |
 |   $375 | Klunker         | State Bicycle Co. x The Beatles - Klunker - Yellow Submarine Edition |
 |   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars |
@@ -249,3 +248,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Extra Large |
 |    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - 2X-Large |
 |    $18 | closeout        | #RS117- Serfas - Serfas Vida Meo City Tire - 700 x 38c |
+|    $18 | closeout        | #RS116- Serfas - Serfas Vida Meo City Tire - 700 x 32c |
