@@ -65,6 +65,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
 |   $795 | closeout        | #1158 - 4130 All-Road | "Turquoise Fade" (Small, 650b, Very Good Condition) |
+|   $675 | closeout        | #1182 - Black Label v3 Fixed-Gear / Single-Speed | "Volt" (49cm, Risers, Excellent Condition) |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 49 cm - (Riders 5'0"-5'3") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 52 cm - (Riders 5'3"-5'6") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 55 cm - (Riders 5'6"-5'9") |
@@ -85,6 +86,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 59 cm (Riders 5'11"-6'2) / Brooks England B17 |
 |   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Urban Comfort Saddle |
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Brooks England B17 |
+|   $345 | closeout        | #1184 - 4130 8-Speed | "Hunter Green" (59cm, Like-New Condition) |
 |   $419 | closeout        | #1181 -4130 Road 8-Speed | "The Beatles Abbey Road Edition" (49cm, Good Condition) |
 |   $375 | Klunker         | State Bicycle Co. x The Beatles - Klunker - Yellow Submarine Edition |
 |   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
@@ -113,6 +115,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $350 | closeout        | #1175 - Klunker | "Bob Marley Edition" (Fair Condition) |
 |   $350 | Klunker         | State Bicycle Co. x RIPNDIP - Klunker + Bag Combo - FU Edition |
+|   $345 | closeout        | #1183 - Core Line | "Earth Stone" (54cm- Medium), Bullhorns, Excellent Condition) |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $99 | Misc. Parts     | FSA - VAS (Vibration Absorbing Stem) Stem - 80mm |
 |    $99 | Misc. Parts     | FSA - VAS (Vibration Absorbing Stem) Stem - 90mm |
@@ -242,10 +245,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $24 | closeout        | Black Label Series:  Saddle |
 |    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Urban Comfort Saddle |
 |    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Core-Line Saddle |
-|    $22 | Handlebars      | Selle Italia - Smart Tape Handlebar Tape (Black) |
-|    $19 | Bicycles        | State Bicycle Co. 38c Tire (Black) - Black |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Small |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Medium |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Large |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Extra Large |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - 2X-Large |
