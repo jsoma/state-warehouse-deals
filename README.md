@@ -66,6 +66,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
 |   $795 | closeout        | #1158 - 4130 All-Road | "Turquoise Fade" (Small, 650b, Very Good Condition) |
+|   $765 | closeout        | #1187 - 4130 All-Road | "Raw Phosphate" (X-Small 43cm, Drop Bars, 700c, Like-New Condition) |
 |   $675 | closeout        | #1182 - Black Label v3 Fixed-Gear / Single-Speed | "Volt" (49cm, Risers, Excellent Condition) |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 49 cm - (Riders 5'0"-5'3") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 52 cm - (Riders 5'3"-5'6") |
@@ -244,4 +245,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
-|    $24 | closeout        | Black Label Series:  Saddle |
