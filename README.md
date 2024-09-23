@@ -88,7 +88,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 59 cm (Riders 5'11"-6'2) / Brooks England B17 |
 |   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Urban Comfort Saddle |
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Brooks England B17 |
-|   $485 | closeout        | #1184 - 4130 8-Speed | "Hunter Green" (59cm, Like-New Condition) |
 |   $445 | closeout        | #1185 - 4130 Single Speed | "Matte Olive" (62cm, Risers, Excellent Condition) |
 |   $419 | closeout        | #1181 -4130 Road 8-Speed | "The Beatles Abbey Road Edition" (49cm, Good Condition) |
 |   $375 | Klunker         | State Bicycle Co. x The Beatles - Klunker - Yellow Submarine Edition |
@@ -116,7 +115,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $360 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
-|   $350 | closeout        | #1175 - Klunker | "Bob Marley Edition" (Fair Condition) |
 |   $350 | Klunker         | State Bicycle Co. x RIPNDIP - Klunker + Bag Combo - FU Edition |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $99 | Misc. Parts     | FSA - VAS (Vibration Absorbing Stem) Stem - 80mm |
@@ -245,3 +243,5 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
 |    $24 | closeout        | Black Label Series:  Saddle |
+|    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Urban Comfort Saddle |
+|    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Core-Line Saddle |
