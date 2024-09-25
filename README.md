@@ -90,18 +90,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Brooks England B17 |
 |   $445 | closeout        | #1185 - 4130 Single Speed | "Matte Olive" (62cm, Risers, Excellent Condition) |
 |   $375 | Klunker         | State Bicycle Co. x The Beatles - Klunker - Yellow Submarine Edition |
-|   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
-|   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars |
-|   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars |
-|   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Small (50 cm- Riders 5'4"-5'7") / Riser Bars |
-|   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Small (50 cm- Riders 5'4"-5'7") / Bullhorn Bars |
-|   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Small (50 cm- Riders 5'4"-5'7") / Drop Bars |
-|   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Medium (54 cm- Riders 5'7"-5'11") / Riser Bars |
-|   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Medium (54 cm- Riders 5'7"-5'11") / Bullhorn Bars |
-|   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Medium (54 cm- Riders 5'7"-5'11") / Drop Bars |
-|   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
-|   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars |
-|   $375 | Core-Line       | State Bicycle Co. x RIPNDIP Core-Line - Lord Nermal - Large (58 cm- Riders 5'11"-6'2") / Drop Bars |
 |   $360 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
@@ -249,3 +237,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Large |
 |    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Extra Large |
 |    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - 2X-Large |
+|    $18 | closeout        | #RS117- Serfas - Serfas Vida Meo City Tire - 700 x 38c |
