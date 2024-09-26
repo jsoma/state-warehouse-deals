@@ -33,7 +33,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 55 cm (Riders 5'6"-5'9") |
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 58 cm (Riders 5'9"-6'1") |
 |  $1250 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 61 cm (Riders 6'2"-6'6") |
-|  $1050 | closeout        | #1186 - 6061 All-Road | "Deep Forest Green" (Large -58cm, 650b, Excellent Condition) |
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 45 cm - (Riders 5'0"-5'4") |
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 48 cm - (Riders 5'4"-5'5") |
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 50 cm - (Riders 5'5"-5'7") |
@@ -238,3 +237,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Extra Large |
 |    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - 2X-Large |
 |    $18 | closeout        | #RS117- Serfas - Serfas Vida Meo City Tire - 700 x 38c |
+|    $18 | closeout        | #RS116- Serfas - Serfas Vida Meo City Tire - 700 x 32c |
