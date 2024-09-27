@@ -91,7 +91,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Urban Comfort Saddle |
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Brooks England B17 |
 |   $445 | closeout        | #1195 -4130 Road 8-Speed | "The Beatles Abbey Road Edition" (62cm, Very Good Condition) |
-|   $445 | closeout        | #1185 - 4130 Single Speed | "Matte Olive" (62cm, Risers, Excellent Condition) |
 |   $425 | closeout        | #1189 - Klunker + Bag Combo | "Bob Marley Edition" (N/A, Brand New / Open Box) |
 |   $399 | closeout        | #1197 - City Bike (3-Speed) | "Bubble Gum" (Small - 43cm, Excellent Condition) |
 |   $395 | closeout        | #1188 -4130 Road 8-Speed | "The Beatles Abbey Road Edition" (52cm, Fair Condition) |
@@ -216,3 +215,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $37 | Misc. Parts     | Vittoria Terreno Zero - Gravel / All-Road Tire - 700 x 38c - Tan |
 |    $37 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 650 x 47c - Black |
 |    $37 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 650 x 47c - Tan |
+|    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 46 tooth |
+|    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 48 tooth |
+|    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 49 tooth |
+|    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
