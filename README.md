@@ -40,6 +40,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 54 cm - (Riders 5'9"-5'10") |
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 56 cm - (Riders 5'10"-6'0") |
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 58 cm - (Riders 6'0"-6'3") |
+|   $799 | closeout        | #1193 - 4130 All-Road | "Raw - Phosphate" (Large 55cm, Flat Bar, Brand New / Open Box) |
 |   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (add $389.99) |
@@ -105,8 +106,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $350 | Klunker         | State Bicycle Co. x RIPNDIP - Klunker + Bag Combo - FU Edition |
-|   $335 | closeout        | #1192 - Core Line | "Wulf" (58cm, Flat Bar, Like-New Condition) |
 |   $335 | closeout        | #1191 - Core Line | "Wulf" (58cm, Bullhorns, Like-New Condition) |
+|   $325 | closeout        | #1194 - City Bike (3-Speed) | "Bubble Gum" (Medium - 48cm, Very Good Condition) |
+|   $325 | closeout        | #1192 - Core Line | "Wulf" (58cm, Flat Bar, Excekkebt Condition) |
 |   $295 | closeout        | #1190 - Core Line | "Wu-Tang Edition" (46cm, Bullhorns, Good Condition) |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $99 | Misc. Parts     | FSA - VAS (Vibration Absorbing Stem) Stem - 80mm |
@@ -225,12 +227,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - Large |
 |    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - X-Large |
 |    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - XX-Large |
-|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Black |
-|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - White |
-|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Red |
-|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Yellow |
-|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Green |
-|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
-|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
-|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
-|    $24 | closeout        | Black Label Series:  Saddle |
