@@ -74,6 +74,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 55 cm - (Riders 5'6"-5'9") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 58 cm - (Riders 5'9"-6'1") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 62 cm - (Riders 6'2"-6'6") |
+|   $539 | closeout        | #1198 - 6061 Black Label v3 | "Black Mirror" (52cm, Drop Bar, Mechanically Excellent / Appearance: Used Condition) |
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 49 cm (Riders 5'1"-5'4") |
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 52 cm (Riders 5'4"-5'7") |
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 55 cm (Riders 5'7"-5'11") |
@@ -92,6 +93,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $445 | closeout        | #1195 -4130 Road 8-Speed | "The Beatles Abbey Road Edition" (62cm, Very Good Condition) |
 |   $445 | closeout        | #1185 - 4130 Single Speed | "Matte Olive" (62cm, Risers, Excellent Condition) |
 |   $425 | closeout        | #1189 - Klunker + Bag Combo | "Bob Marley Edition" (N/A, Brand New / Open Box) |
+|   $399 | closeout        | #1197 - City Bike (3-Speed) | "Bubble Gum" (Small - 43cm, Excellent Condition) |
 |   $395 | closeout        | #1188 -4130 Road 8-Speed | "The Beatles Abbey Road Edition" (52cm, Fair Condition) |
 |   $375 | Klunker         | State Bicycle Co. x The Beatles - Klunker - Yellow Submarine Edition |
 |   $360 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
@@ -108,7 +110,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $350 | Klunker         | State Bicycle Co. x RIPNDIP - Klunker + Bag Combo - FU Edition |
 |   $335 | closeout        | #1191 - Core Line | "Wulf" (58cm, Bullhorns, Like-New Condition) |
-|   $325 | closeout        | #1197 - City Bike (3-Speed) | "Bubble Gum" (Small - 43cm, Excellent Condition) |
 |   $325 | closeout        | #1196 - City Bike (Single Speed) | "Bubble Gum" (Small -43cm, Excellent Condition) |
 |   $325 | closeout        | #1194 - City Bike (3-Speed) | "Bubble Gum" (Medium - 48cm, Very Good Condition) |
 |   $325 | closeout        | #1192 - Core Line | "Wulf" (58cm, Flat Bar, Excekkebt Condition) |
@@ -215,7 +216,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $37 | Misc. Parts     | Vittoria Terreno Zero - Gravel / All-Road Tire - 700 x 38c - Tan |
 |    $37 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 650 x 47c - Black |
 |    $37 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 650 x 47c - Tan |
-|    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 46 tooth |
-|    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 48 tooth |
-|    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 49 tooth |
-|    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
