@@ -73,7 +73,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 55 cm - (Riders 5'6"-5'9") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 58 cm - (Riders 5'9"-6'1") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 62 cm - (Riders 6'2"-6'6") |
-|   $539 | closeout        | #1198 - 6061 Black Label v3 | "Black Mirror" (52cm, Drop Bar, Mechanically Excellent / Appearance: Used Condition) |
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 49 cm (Riders 5'1"-5'4") |
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 52 cm (Riders 5'4"-5'7") |
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 55 cm (Riders 5'7"-5'11") |
@@ -227,3 +226,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - Large |
 |    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - X-Large |
 |    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - XX-Large |
+|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Black |
+|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - White |
+|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Red |
+|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Yellow |
+|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Green |
+|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
+|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
+|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
