@@ -93,18 +93,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $399 | closeout        | #1197 - City Bike (3-Speed) | "Bubble Gum" (Small - 43cm, Excellent Condition) |
 |   $395 | closeout        | #1188 -4130 Road 8-Speed | "The Beatles Abbey Road Edition" (52cm, Fair Condition) |
 |   $375 | Klunker         | State Bicycle Co. x The Beatles - Klunker - Yellow Submarine Edition |
-|   $360 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
-|   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
-|   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
-|   $360 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Riser Bars |
-|   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Bullhorn Bars (Add $25) |
-|   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Small (50 cm- Riders 5'4"-5'7") / Drop Bars (Add $25) |
-|   $360 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Riser Bars |
-|   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Bullhorn Bars (Add $25) |
-|   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Medium (54 cm- Riders 5'7"-5'11") / Drop Bars (Add $25) |
-|   $360 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
-|   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
-|   $385 | closeout        | State Bicycle Co. x Wu-Tang Clan - Core-Line - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $350 | Klunker         | State Bicycle Co. x RIPNDIP - Klunker + Bag Combo - FU Edition |
 |   $325 | closeout        | #1196 - City Bike (Single Speed) | "Bubble Gum" (Small -43cm, Excellent Condition) |
 |   $325 | closeout        | #1194 - City Bike (3-Speed) | "Bubble Gum" (Medium - 48cm, Very Good Condition) |
@@ -234,3 +222,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
+|    $24 | closeout        | Black Label Series:  Saddle |
