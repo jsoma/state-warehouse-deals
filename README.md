@@ -64,7 +64,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
-|   $765 | closeout        | #1187 - 4130 All-Road | "Raw Phosphate" (X-Small 43cm, Drop Bars, 700c, Like-New Condition) |
 |   $685 | closeout        | #HF0926 - Undefeated Carbon Disc Road Frame & Fork Set - Size 54cm - Graphite Prism - Excellent / Used Condition |
 |   $675 | closeout        | #1182 - Black Label v3 Fixed-Gear / Single-Speed | "Volt" (49cm, Risers, Excellent Condition) |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 49 cm - (Riders 5'0"-5'3") |
@@ -223,3 +222,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Urban Comfort Saddle |
 |    $22 | Handlebars      | Selle Italia - Smart Tape Handlebar Tape (Black) |
 |    $19 | Bicycles        | State Bicycle Co. 38c Tire (Black) - Black |
+|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Small |
+|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Medium |
+|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Large |
+|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Extra Large |
+|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - 2X-Large |
