@@ -68,6 +68,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $765 | closeout        | #1201 - 4130 All-Road | "Matte Olive" (M, Drops, 700c, Very Good Condition) |
 |   $745 | closeout        | #1202 - 4130 All-Road | "Turquoise Fade" (Small, 650b, Excellent Condition) |
 |   $675 | closeout        | #1182 - Black Label v3 Fixed-Gear / Single-Speed | "Volt" (49cm, Risers, Excellent Condition) |
+|   $639 | closeout        | #1204 - 6061 Black Label V3 | "Black Mirror" (58cm, Risers, Excellent / Used Condition) |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 49 cm - (Riders 5'0"-5'3") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 52 cm - (Riders 5'3"-5'6") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 55 cm - (Riders 5'6"-5'9") |
@@ -88,6 +89,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 59 cm (Riders 5'11"-6'2) / Brooks England B17 |
 |   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Urban Comfort Saddle |
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Brooks England B17 |
+|   $469 | closeout        | #12-6 - 4130 Fixed/Gear Single Speed | "Matte Black / Mirror" (46cm, Riser Bars, Like-New Condition) (Copy) |
+|   $469 | closeout        | #1205 - 4130 Fixed/Gear Single Speed | "Matte Olive" (52cm, Drop Bars, Like-New Condition) |
 |   $455 | closeout        | #1199 - 4130 Road+  8-Speed | "Bob Marley Edition-Black" (55cm, Good Condition |
 |   $445 | closeout        | #1195 -4130 Road 8-Speed | "The Beatles Abbey Road Edition" (62cm, Very Good Condition) |
 |   $350 | Klunker         | State Bicycle Co. x RIPNDIP - Klunker + Bag Combo - FU Edition |
@@ -220,10 +223,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
 |    $24 | closeout        | Black Label Series:  Saddle |
 |    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Urban Comfort Saddle |
-|    $22 | Handlebars      | Selle Italia - Smart Tape Handlebar Tape (Black) |
-|    $19 | Bicycles        | State Bicycle Co. 38c Tire (Black) - Black |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Small |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Medium |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Large |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Extra Large |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - 2X-Large |
