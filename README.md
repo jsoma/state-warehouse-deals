@@ -67,6 +67,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
 |   $765 | closeout        | #1201 - 4130 All-Road | "Matte Olive" (M, Drops, 700c, Very Good Condition) |
 |   $745 | closeout        | #1202 - 4130 All-Road | "Turquoise Fade" (Small, 650b, Excellent Condition) |
+|   $699 | closeout        | #1208 - 6061 eBike Commuter | (Medium 53cm, Refurbished Condition) |
+|   $679 | closeout        | #1207 - 6061 Black Label V3 | "Black Mirror" (55cm, Drop Bars, Like-New Condition) |
 |   $675 | closeout        | #1182 - Black Label v3 Fixed-Gear / Single-Speed | "Volt" (49cm, Risers, Excellent Condition) |
 |   $639 | closeout        | #1204 - 6061 Black Label V3 | "Black Mirror" (58cm, Risers, Excellent / Used Condition) |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 49 cm - (Riders 5'0"-5'3") |
@@ -89,7 +91,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 59 cm (Riders 5'11"-6'2) / Brooks England B17 |
 |   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Urban Comfort Saddle |
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Brooks England B17 |
-|   $469 | closeout        | #12-6 - 4130 Fixed/Gear Single Speed | "Matte Black / Mirror" (46cm, Riser Bars, Like-New Condition) (Copy) |
+|   $469 | closeout        | #1206 - 4130 Fixed/Gear Single Speed | "Matte Black / Mirror" (46cm, Riser Bars, Like-New Condition) (Copy) |
 |   $469 | closeout        | #1205 - 4130 Fixed/Gear Single Speed | "Matte Olive" (52cm, Drop Bars, Like-New Condition) |
 |   $455 | closeout        | #1199 - 4130 Road+  8-Speed | "Bob Marley Edition-Black" (55cm, Good Condition |
 |   $445 | closeout        | #1195 -4130 Road 8-Speed | "The Beatles Abbey Road Edition" (62cm, Very Good Condition) |
@@ -221,5 +223,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
-|    $24 | closeout        | Black Label Series:  Saddle |
-|    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Urban Comfort Saddle |
