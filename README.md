@@ -92,6 +92,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $445 | closeout        | #1195 -4130 Road 8-Speed | "The Beatles Abbey Road Edition" (62cm, Very Good Condition) |
 |   $350 | Klunker         | State Bicycle Co. x RIPNDIP - Klunker + Bag Combo - FU Edition |
 |   $325 | closeout        | #1196 - City Bike (Single Speed) | "Bubble Gum" (Small -43cm, Excellent Condition) |
+|   $215 | closeout        | #1203 - Core Line | "Lucky Penny" (46cm, Bullhorns, Fair Condition) |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $99 | Misc. Parts     | FSA - VAS (Vibration Absorbing Stem) Stem - 80mm |
 |    $99 | Misc. Parts     | FSA - VAS (Vibration Absorbing Stem) Stem - 90mm |
@@ -226,4 +227,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Large |
 |    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Extra Large |
 |    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - 2X-Large |
-|    $18 | closeout        | #RS117- Serfas - Serfas Vida Meo City Tire - 700 x 38c |
