@@ -85,6 +85,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 59 cm (Riders 5'11"-6'2) / Brooks England B17 |
 |   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Urban Comfort Saddle |
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Brooks England B17 |
+|   $455 | closeout        | #1199 - 4130 Road+  8-Speed | "Bob Marley Edition-Black" (55cm, Good Condition |
 |   $445 | closeout        | #1195 -4130 Road 8-Speed | "The Beatles Abbey Road Edition" (62cm, Very Good Condition) |
 |   $350 | Klunker         | State Bicycle Co. x RIPNDIP - Klunker + Bag Combo - FU Edition |
 |   $325 | closeout        | #1196 - City Bike (Single Speed) | "Bubble Gum" (Small -43cm, Excellent Condition) |
@@ -226,4 +227,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $18 | closeout        | #RS116- Serfas - Serfas Vida Meo City Tire - 700 x 32c |
 |    $18 | Misc. Parts     | Vittoria Barzo  - Gravel / XC MTB Tire - 27.5 x 2.1" (Rigid) - Black |
 |    $17 | Handlebars      | State Bicycle Co. x RIPNDIP  - "FU" Bar Tape |
-|    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
