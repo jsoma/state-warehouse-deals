@@ -92,7 +92,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Urban Comfort Saddle |
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Brooks England B17 |
 |   $469 | closeout        | #1206 - 4130 Fixed/Gear Single Speed | "Matte Black / Mirror" (46cm, Riser Bars, Like-New Condition) (Copy) |
-|   $469 | closeout        | #1205 - 4130 Fixed/Gear Single Speed | "Matte Olive" (52cm, Drop Bars, Like-New Condition) |
 |   $455 | closeout        | #1199 - 4130 Road+  8-Speed | "Bob Marley Edition-Black" (55cm, Good Condition |
 |   $445 | closeout        | #1195 -4130 Road 8-Speed | "The Beatles Abbey Road Edition" (62cm, Very Good Condition) |
 |   $350 | Klunker         | State Bicycle Co. x RIPNDIP - Klunker + Bag Combo - FU Edition |
@@ -223,3 +222,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
+|    $24 | closeout        | Black Label Series:  Saddle |
