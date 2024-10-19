@@ -96,7 +96,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $445 | closeout        | #1195 -4130 Road 8-Speed | "The Beatles Abbey Road Edition" (62cm, Very Good Condition) |
 |   $350 | Klunker         | State Bicycle Co. x RIPNDIP - Klunker + Bag Combo - FU Edition |
 |   $325 | closeout        | #1196 - City Bike (Single Speed) | "Bubble Gum" (Small -43cm, Excellent Condition) |
-|   $215 | closeout        | #1203 - Core Line | "Lucky Penny" (46cm, Bullhorns, Fair Condition) |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $99 | Misc. Parts     | FSA - VAS (Vibration Absorbing Stem) Stem - 80mm |
 |    $99 | Misc. Parts     | FSA - VAS (Vibration Absorbing Stem) Stem - 90mm |
@@ -223,3 +222,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
 |    $24 | closeout        | Black Label Series:  Saddle |
+|    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Urban Comfort Saddle |
