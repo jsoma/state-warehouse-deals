@@ -67,7 +67,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
 |   $765 | closeout        | #1201 - 4130 All-Road | "Matte Olive" (M, Drops, 700c, Very Good Condition) |
 |   $745 | closeout        | #1202 - 4130 All-Road | "Turquoise Fade" (Small, 650b, Excellent Condition) |
-|   $699 | closeout        | #1208 - 6061 eBike Commuter | (Medium 53cm, Refurbished Condition) |
 |   $675 | closeout        | #1182 - Black Label v3 Fixed-Gear / Single-Speed | "Volt" (49cm, Risers, Excellent Condition) |
 |   $639 | closeout        | #1204 - 6061 Black Label V3 | "Black Mirror" (58cm, Risers, Excellent / Used Condition) |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 49 cm - (Riders 5'0"-5'3") |
@@ -223,3 +222,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $24 | closeout        | Black Label Series:  Saddle |
 |    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Urban Comfort Saddle |
 |    $22 | Handlebars      | Selle Italia - Smart Tape Handlebar Tape (Black) |
+|    $19 | Bicycles        | State Bicycle Co. 38c Tire (Black) - Black |
