@@ -68,7 +68,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $765 | closeout        | #1201 - 4130 All-Road | "Matte Olive" (M, Drops, 700c, Very Good Condition) |
 |   $745 | closeout        | #1202 - 4130 All-Road | "Turquoise Fade" (Small, 650b, Excellent Condition) |
 |   $675 | closeout        | #1182 - Black Label v3 Fixed-Gear / Single-Speed | "Volt" (49cm, Risers, Excellent Condition) |
-|   $639 | closeout        | #1204 - 6061 Black Label V3 | "Black Mirror" (58cm, Risers, Excellent / Used Condition) |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 49 cm - (Riders 5'0"-5'3") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 52 cm - (Riders 5'3"-5'6") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 55 cm - (Riders 5'6"-5'9") |
@@ -223,3 +222,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Urban Comfort Saddle |
 |    $22 | Handlebars      | Selle Italia - Smart Tape Handlebar Tape (Black) |
 |    $19 | Bicycles        | State Bicycle Co. 38c Tire (Black) - Black |
+|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Small |
+|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Medium |
+|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Large |
+|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Extra Large |
+|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - 2X-Large |
