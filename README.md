@@ -188,6 +188,12 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - X-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - XX-Large |
 |    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - 3X-Large |
+|    $45 | Jerseys + Kits  | Mystery Bibs - Extra Small |
+|    $45 | Jerseys + Kits  | Mystery Bibs - Small |
+|    $45 | Jerseys + Kits  | Mystery Bibs - Medium |
+|    $45 | Jerseys + Kits  | Mystery Bibs - Large |
+|    $45 | Jerseys + Kits  | Mystery Bibs - Extra Large |
+|    $45 | Jerseys + Kits  | Mystery Bibs - XXL |
 |    $42 | Handlebars      | Salsa - Cowchipper Drop Handlebar - 44cm |
 |    $42 | Handlebars      | Salsa - Cowchipper Drop Handlebar - 46cm |
 |    $37 | Misc. Parts     | Vittoria Terreno Zero - Gravel / All-Road Tire - 700 x 38c - Black |
@@ -227,8 +233,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Urban Comfort Saddle |
 |    $22 | Handlebars      | Selle Italia - Smart Tape Handlebar Tape (Black) |
 |    $19 | Bicycles        | State Bicycle Co. 38c Tire (Black) - Black |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Small |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Medium |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Large |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Extra Large |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - 2X-Large |
