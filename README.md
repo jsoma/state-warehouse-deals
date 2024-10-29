@@ -203,6 +203,12 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
+|    $29 | Jerseys + Kits  | State Bicycle Co. - Mystery Jersey / Tech-T - Extra Small |
+|    $29 | Jerseys + Kits  | State Bicycle Co. - Mystery Jersey / Tech-T - Small |
+|    $29 | Jerseys + Kits  | State Bicycle Co. - Mystery Jersey / Tech-T - Medium |
+|    $29 | Jerseys + Kits  | State Bicycle Co. - Mystery Jersey / Tech-T - Large |
+|    $29 | Jerseys + Kits  | State Bicycle Co. - Mystery Jersey / Tech-T - Extra Large |
+|    $29 | Jerseys + Kits  | State Bicycle Co. - Mystery Jersey / Tech-T - XXL |
 |    $25 | Accessories     | State Bicycle Co. x RIPNDIP - FU All-Road Bar Bag |
 |    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - Small |
 |    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - Medium |
@@ -226,4 +232,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Large |
 |    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Extra Large |
 |    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - 2X-Large |
-|    $18 | closeout        | #RS117- Serfas - Serfas Vida Meo City Tire - 700 x 38c |
