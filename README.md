@@ -153,6 +153,20 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - 2X-Large / 2X-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - 3X-Large / No Bibs |
 |    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - 3X-Large / 3X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - X-Small / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - X-Small / X-Small |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - Small / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - Small / Small |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - Medium / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - Medium / Medium |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - Large / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - Large / Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - X-Large / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - X-Large / X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - 2X-Large / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - 2X-Large / 2X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - 3X-Large / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Leaf Kit - 3X-Large / 3X-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - X-Small / No Bibs |
 |    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - X-Small / X-Small |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - Small / No Bibs |
@@ -219,8 +233,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Urban Comfort Saddle |
 |    $22 | Handlebars      | Selle Italia - Smart Tape Handlebar Tape (Black) |
 |    $19 | Bicycles        | State Bicycle Co. 38c Tire (Black) - Black |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Small |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Medium |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Large |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Extra Large |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - 2X-Large |
