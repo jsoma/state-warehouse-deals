@@ -209,12 +209,12 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
-|    $29 | Jerseys + Kits  | State Bicycle Co. - Mystery Jersey / Tech-T - Extra Small |
-|    $29 | Jerseys + Kits  | State Bicycle Co. - Mystery Jersey / Tech-T - Small |
-|    $29 | Jerseys + Kits  | State Bicycle Co. - Mystery Jersey / Tech-T - Medium |
-|    $29 | Jerseys + Kits  | State Bicycle Co. - Mystery Jersey / Tech-T - Large |
-|    $29 | Jerseys + Kits  | State Bicycle Co. - Mystery Jersey / Tech-T - Extra Large |
-|    $29 | Jerseys + Kits  | State Bicycle Co. - Mystery Jersey / Tech-T - XXL |
+|    $29 | Jerseys + Kits  | State Bicycle Co. - Mystery Jersey or Tech-T - Extra Small |
+|    $29 | Jerseys + Kits  | State Bicycle Co. - Mystery Jersey or Tech-T - Small |
+|    $29 | Jerseys + Kits  | State Bicycle Co. - Mystery Jersey or Tech-T - Medium |
+|    $29 | Jerseys + Kits  | State Bicycle Co. - Mystery Jersey or Tech-T - Large |
+|    $29 | Jerseys + Kits  | State Bicycle Co. - Mystery Jersey or Tech-T - Extra Large |
+|    $29 | Jerseys + Kits  | State Bicycle Co. - Mystery Jersey or Tech-T - XXL |
 |    $25 | Accessories     | State Bicycle Co. x RIPNDIP - FU All-Road Bar Bag |
 |    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - Small |
 |    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - Medium |
