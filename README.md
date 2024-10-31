@@ -41,6 +41,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 54 cm - (Riders 5'9"-5'10") |
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 56 cm - (Riders 5'10"-6'0") |
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 58 cm - (Riders 6'0"-6'3") |
+|   $799 | closeout        | #1212 - 6061 eBike Commuter | (Medium 53cm, Fair Condition) |
+|   $799 | closeout        | #1209 - 6061 eBike Commuter | (Medium 53cm, Fair Condition) |
 |   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (add $389.99) |
@@ -231,9 +233,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $24 | closeout        | Black Label Series:  Saddle |
 |    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Urban Comfort Saddle |
 |    $22 | Handlebars      | Selle Italia - Smart Tape Handlebar Tape (Black) |
-|    $19 | Bicycles        | State Bicycle Co. 38c Tire (Black) - Black |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Small |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Medium |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Large |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Extra Large |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - 2X-Large |
