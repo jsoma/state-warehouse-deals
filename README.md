@@ -41,7 +41,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 56 cm - (Riders 5'10"-6'0") |
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 58 cm - (Riders 6'0"-6'3") |
 |   $799 | closeout        | #1212 - 6061 eBike Commuter | (Medium 53cm, Fair Condition) |
-|   $799 | closeout        | #1209 - 6061 eBike Commuter | (Medium 53cm, Fair Condition) |
 |   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (add $389.99) |
@@ -237,3 +236,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Large |
 |    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Extra Large |
 |    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - 2X-Large |
+|    $18 | closeout        | #RS117- Serfas - Serfas Vida Meo City Tire - 700 x 38c |
