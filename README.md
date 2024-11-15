@@ -74,7 +74,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 52 cm (Riders 5'4"-5'7") |
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 55 cm (Riders 5'7"-5'11") |
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 59 cm (Riders 5'11"-6'2) |
-|   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 62 cm (Riders 6'2"-6'6") |
+|   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 62 cm (Riders 6'2"-6'6") - Estimated Shipping Early-December |
 |   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 49 cm (Riders 5'1"-5'4") / Urban Comfort Saddle |
 |   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 49 cm (Riders 5'1"-5'4") / Brooks England B17 |
 |   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 52 cm (Riders 5'4"-5'7") / Urban Comfort Saddle |
