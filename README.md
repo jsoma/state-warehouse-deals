@@ -75,16 +75,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 55 cm (Riders 5'7"-5'11") |
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 59 cm (Riders 5'11"-6'2) |
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 62 cm (Riders 6'2"-6'6") - Estimated Shipping Early-December |
-|   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 49 cm (Riders 5'1"-5'4") / Urban Comfort Saddle |
-|   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 49 cm (Riders 5'1"-5'4") / Brooks England B17 |
-|   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 52 cm (Riders 5'4"-5'7") / Urban Comfort Saddle |
-|   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 52 cm (Riders 5'4"-5'7") / Brooks England B17 |
-|   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 55 cm (Riders 5'7"-5'11") / Urban Comfort Saddle |
-|   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 55 cm (Riders 5'7"-5'11") / Brooks England B17 |
-|   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 59 cm (Riders 5'11"-6'2) / Urban Comfort Saddle |
-|   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 59 cm (Riders 5'11"-6'2) / Brooks England B17 |
-|   $499 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Urban Comfort Saddle |
-|   $649 | 4130 Road       | State Bicycle Co. x The Beatles - 4130 Road - Abbey Road Edition - 62 cm (Riders 6'2"-6'6") / Brooks England B17 |
 |   $350 | Klunker         | State Bicycle Co. x RIPNDIP - Klunker + Bag Combo - FU Edition |
 |   $325 | closeout        | #1196 - City Bike (Single Speed) | "Bubble Gum" (Small -43cm, Excellent Condition) |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
@@ -217,3 +207,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Large |
 |    $25 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Large |
 |    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - XX-Large |
+|    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
