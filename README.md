@@ -39,42 +39,42 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 54 cm - (Riders 5'9"-5'10") |
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 56 cm - (Riders 5'10"-6'0") |
 |   $999 | Frame / Fork    | Undefeated Carbon Disc Road Frame & Fork Set - Graphite / Prism - 58 cm - (Riders 6'0"-6'3") |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
+|   $899 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
+|   $899 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (add $389.99) |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
+|   $899 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
+|   $899 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
 |  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / Both (add $389.99) |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
+|   $899 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
+|   $899 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
 |  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Medium ( Riders 5'9" - 6'2") / Both (add $389.99) |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
+|   $899 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
+|   $899 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
+|   $899 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
+|   $899 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / Both (add $389.99) |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
+|   $899 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
+|   $899 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
 |  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / Both (add $389.99) |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
+|   $899 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
+|   $899 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
 |  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Medium ( Riders 5'9" - 6'2") / Both (add $389.99) |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
-|   $799 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
+|   $899 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
+|   $899 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |  $1189 | 4130 All Road   | 4130 All-Road - Flat Bar - Rust Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / Both (add $389.99) |
 |   $745 | closeout        | #1202 - 4130 All-Road | "Turquoise Fade" (Small, 650b, Excellent Condition) |
 |   $675 | closeout        | #1182 - Black Label v3 Fixed-Gear / Single-Speed | "Volt" (49cm, Risers, Excellent Condition) |
+|   $589 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 49 cm (Riders 5'1"-5'4") |
+|   $589 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 52 cm (Riders 5'4"-5'7") |
+|   $589 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 55 cm (Riders 5'7"-5'11") |
+|   $589 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 59 cm (Riders 5'11"-6'2) |
+|   $589 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 62 cm (Riders 6'2"-6'6") - Estimated Shipping Early-December |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 49 cm - (Riders 5'0"-5'3") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 52 cm - (Riders 5'3"-5'6") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 55 cm - (Riders 5'6"-5'9") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 58 cm - (Riders 5'9"-6'1") |
 |   $545 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 62 cm - (Riders 6'2"-6'6") |
-|   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 49 cm (Riders 5'1"-5'4") |
-|   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 52 cm (Riders 5'4"-5'7") |
-|   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 55 cm (Riders 5'7"-5'11") |
-|   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 59 cm (Riders 5'11"-6'2) |
-|   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 62 cm (Riders 6'2"-6'6") - Estimated Shipping Early-December |
 |   $350 | Klunker         | State Bicycle Co. x RIPNDIP - Klunker + Bag Combo - FU Edition |
 |   $325 | closeout        | #1196 - City Bike (Single Speed) | "Bubble Gum" (Small -43cm, Excellent Condition) |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
