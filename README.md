@@ -89,8 +89,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 48 tooth |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 49 tooth |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
-|    $33 | Handlebars      | Salsa - Cowchipper Drop Handlebar - 44cm |
-|    $33 | Handlebars      | Salsa - Cowchipper Drop Handlebar - 46cm |
 |    $30 | Misc. Parts     | Vittoria Terreno Zero - Gravel / All-Road Tire - 700 x 38c - Black |
 |    $30 | Misc. Parts     | Vittoria Terreno Zero - Gravel / All-Road Tire - 700 x 38c - Tan |
 |    $30 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 650 x 47c - Black |
@@ -162,3 +160,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $4 | closeout        | April Fools / Not April Fools ? - Carbon Stem Cap |
 |     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
 |     $0 | closeout        | Patch: Hell Ride High Noon - Vol 2. (2015) |
+|     $0 | closeout        | Patch: Phoenix to Tucson (Volume 1) |
