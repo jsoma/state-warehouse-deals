@@ -50,20 +50,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $44 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Extra Large |
 |    $52 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - XX-Large |
 |    $52 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - 3X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - X-Small / No Bibs |
-|    $79 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - X-Small / X-Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - Small / No Bibs |
-|    $79 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - Small / Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - Medium / No Bibs |
-|    $79 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - Medium / Medium |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - Large / No Bibs |
-|    $79 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - Large / Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - X-Large / No Bibs |
-|    $79 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - X-Large / X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - 2X-Large / No Bibs |
-|    $79 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - 2X-Large / 2X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - 3X-Large / No Bibs |
-|    $79 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Nermal Purple-Camo Kit - 3X-Large / 3X-Large |
 |    $39 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - X-Small / No Bibs |
 |    $79 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - X-Small / X-Small |
 |    $39 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - Small / No Bibs |
