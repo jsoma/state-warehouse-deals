@@ -83,6 +83,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
+|    $34 | closeout        | Black Label Series:  Saddle |
 |    $25 | closeout        | #RS119 -  State Bicycle Co. - Klunker Frame Bag - Butterfinger Edition |
 |    $25 | closeout        | #RS118 -  State Bicycle Co. - Klunker Frame Bag - Crunch Edition |
 |    $25 | Accessories     | State Bicycle Co. x RIPNDIP - FU All-Road Bar Bag |
@@ -100,7 +101,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
 |    $24 | Handlebars      | Black Label Series: Compact Drop Handlebar (Black) |
-|    $24 | closeout        | Black Label Series:  Saddle |
 |    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Urban Comfort Saddle |
 |    $22 | Handlebars      | Selle Italia - Smart Tape Handlebar Tape (Black) |
 |    $19 | Bicycles        | State Bicycle Co. 38c Tire (Black) - Black |
