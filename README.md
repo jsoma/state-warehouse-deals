@@ -5,6 +5,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |---|---|---|
 |  $1985 | closeout        | #1214 - 4130 All-Road | Matte Olive / 650b (Size Small - 47cm, Used Condition) |
 |  $1095 | closeout        | #1216 - 6061 All-Road | Copper / 650b (Size Large - 58cm, Very Good Condition) |
+|   $745 | closeout        | #1218 - 4130 All-Road | Copper / 650b - with Upgrades (Size Medium - 51cm, Excellent Condition) |
 |   $745 | closeout        | #1217 - 4130 All-Road | Turquoise Fade / 650b (Size Small - 47cm, Very Good Condition) |
 |   $675 | closeout        | #1182 - Black Label v3 Fixed-Gear / Single-Speed | "Volt" (49cm, Risers, Excellent Condition) |
 |   $325 | closeout        | #1196 - City Bike (Single Speed) | "Bubble Gum" (Small -43cm, Excellent Condition) |
@@ -147,4 +148,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $5 | Bicycles        | State Bicycle Co. - 29.8mm Seat Post Clamp - Silver |
 |     $5 | closeout        | April Fools / Not April Fools ? - Carbon Stem Cap |
 |     $0 | closeout        | Patch:  Hell Ride, High Noon - Vol 3. (Mt. Humboldt) |
-|     $0 | closeout        | Patch: Hell Ride High Noon - Vol 2. (2015) |
