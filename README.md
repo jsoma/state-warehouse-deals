@@ -6,9 +6,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1985 | closeout        | #1214 - 4130 All-Road | Matte Olive / 650b (Size Small - 47cm, Used Condition) |
 |  $1095 | closeout        | #1216 - 6061 All-Road | Copper / 650b (Size Large - 58cm, Very Good Condition) |
 |   $845 | closeout        | #1218 - 4130 All-Road | Copper / 650b - with Upgrades (Size Medium - 51cm, Excellent Condition) |
-|   $795 | closeout        | #1219 - 6061 E-Bike | Large (Very-Good Condition) |
 |   $795 | closeout        | #1220 - 4130 All-Road | Copper / 650b (Size Medium - 51cm, Good Condition) |
 |   $745 | closeout        | #1217 - 4130 All-Road | Turquoise Fade / 650b (Size Small - 47cm, Very Good Condition) |
+|   $695 | closeout        | #1219 - 6061 - eBike Commuter - Matte Black | Large (57cm - Riders 5'10"-6'2") (Very-Good Condition) |
 |   $675 | closeout        | #1182 - Black Label v3 Fixed-Gear / Single-Speed | "Volt" (49cm, Risers, Excellent Condition) |
 |   $325 | closeout        | #1196 - City Bike (Single Speed) | "Bubble Gum" (Small -43cm, Excellent Condition) |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
