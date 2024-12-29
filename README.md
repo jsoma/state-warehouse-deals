@@ -11,7 +11,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $795 | closeout        | #1220 - 4130 All-Road | Copper / 650b (Size Medium - 51cm, Good Condition) |
 |   $745 | closeout        | #1217 - 4130 All-Road | Turquoise Fade / 650b (Size Small - 47cm, Very Good Condition) |
 |   $725 | closeout        | #1223 - 4130 All-Road | Copper / 650b (Size XS - 43cm, Very Good Condition) |
-|   $695 | closeout        | #1219 - 6061 - eBike Commuter - Matte Black | Large (57cm - Riders 5'10"-6'2") (Very-Good Condition) |
 |   $675 | closeout        | #1182 - Black Label v3 Fixed-Gear / Single-Speed | "Volt" (49cm, Risers, Excellent Condition) |
 |   $325 | closeout        | #1196 - City Bike (Single Speed) | "Bubble Gum" (Small -43cm, Excellent Condition) |
 |   $245 | closeout        | #1222 - City Bike | 3-Speed Black & Tan (Size Medium - 53cm, Fair Condition) |
@@ -137,3 +136,13 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $9 | Misc. Accessori | Ass Saver - Rain Fenders - Red |
 |     $9 | Misc. Accessori | Ass Saver - Rain Fenders - Yellow |
 |     $9 | Accessories     | State Bicycle Co. x RIPNDIP - Lord Nermal Headset Top Cap |
+|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Blue |
+|     $9 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - White |
+|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Anode Red |
+|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Maroon |
+|     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Silver |
+|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Shockwave (Yellow & Green) |
+|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Matte Black |
+|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Pink |
+|     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Red |
+|     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Gold |
