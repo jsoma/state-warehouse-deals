@@ -13,6 +13,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $795 | closeout        | #1224 - 6061 - eBike Commuter - Matte Black | Small (49cm - Riders 5'3"-5'7") (Very-Good Condition) |
 |   $745 | closeout        | #1217 - 4130 All-Road | Turquoise Fade / 650b (Size Small - 47cm, Very Good Condition) |
 |   $725 | closeout        | #1223 - 4130 All-Road | Copper / 650b (Size XS - 43cm, Very Good Condition) |
+|   $695 | closeout        | #1231 - 6061 - eBike Commuter - Matte Black | Medium (53cm - Riders 5'7"-5'11") (Good Condition) |
 |   $675 | closeout        | #1182 - Black Label v3 Fixed-Gear / Single-Speed | "Volt" (49cm, Risers, Excellent Condition) |
 |   $415 | closeout        | #1229 - 4130 Single Speed / Fixed-Gear | Satin Silver / Drop Bars (Size 59cm, Good Condition) |
 |   $375 | closeout        | #1225 - 4130 Single Speed / Fixed-Gear | Satin Silver / Risers (Size 55cm, Fair Condition) |
@@ -126,9 +127,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $18 | closeout        | #RS116- Serfas - Serfas Vida Meo City Tire - 700 x 32c |
 |    $18 | Misc. Parts     | Vittoria Barzo  - Gravel / XC MTB Tire - 27.5 x 2.1" (Rigid) - Black |
 |    $17 | Handlebars      | State Bicycle Co. x RIPNDIP  - "FU" Bar Tape |
-|    $15 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Small |
-|    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Small |
-|    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Medium |
-|    $25 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Large |
-|    $25 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Large |
-|    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - XX-Large |
