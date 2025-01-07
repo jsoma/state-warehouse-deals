@@ -4,6 +4,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |price|type|name|
 |---|---|---|
 |  $1985 | closeout        | #1214 - 4130 All-Road | Matte Olive / 650b (Size Small - 47cm, Used Condition) |
+|  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 49 cm (Riders 5'0"-5'3") |
+|  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 52 cm (Riders 5'3"-5'6") |
+|  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 55 cm (Riders 5'6"-5'9") |
+|  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 58 cm (Riders 5'9"-6'1") |
+|  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 61 cm (Riders 6'2"-6'6") |
 |  $1085 | closeout        | #1213 - Titanium All-Road Frame | Size Medium (Excellent Condition) |
 |   $975 | closeout        | #1230 - Undefeated Disc Road | Pearl (Size 55cm, Very Good Condition) |
 |   $899 | closeout        | #1221 - Undefeated Road | Graphite (Size 55cm, Good Condition) |
@@ -11,13 +16,38 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $795 | closeout        | #1228 - 4130 All-Road | Raw Phosphate / Drops / 700c (Size XS - Excellent Condition) |
 |   $795 | closeout        | #1227 - 4130 All-Road | Olive / Drops / 700c (Size XS - New Open Box) |
 |   $795 | closeout        | #1224 - 6061 - eBike Commuter - Matte Black | Small (49cm - Riders 5'3"-5'7") (Very-Good Condition) |
+|   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
+|   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
+|   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
+|   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
+|   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
+|   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
+|   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
+|   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |   $745 | closeout        | #1217 - 4130 All-Road | Turquoise Fade / 650b (Size Small - 47cm, Very Good Condition) |
 |   $725 | closeout        | #1223 - 4130 All-Road | Copper / 650b (Size XS - 43cm, Very Good Condition) |
 |   $695 | closeout        | #1231 - 6061 - eBike Commuter - Matte Black | Medium (53cm - Riders 5'7"-5'11") (Good Condition) |
 |   $675 | closeout        | #1182 - Black Label v3 Fixed-Gear / Single-Speed | "Volt" (49cm, Risers, Excellent Condition) |
 |   $625 | closeout        | #1232 - 6061 Black Label V3 | Black Mirror / Risers (Size 49cm, Very Good Condition) |
+|   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 49 cm (Riders 5'1"-5'4") |
+|   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 52 cm (Riders 5'4"-5'7") |
+|   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 55 cm (Riders 5'7"-5'11") |
+|   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 59 cm (Riders 5'11"-6'2) |
+|   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 62 cm (Riders 6'2"-6'6") |
 |   $415 | closeout        | #1229 - 4130 Single Speed / Fixed-Gear | Satin Silver / Drop Bars (Size 59cm, Good Condition) |
 |   $375 | closeout        | #1225 - 4130 Single Speed / Fixed-Gear | Satin Silver / Risers (Size 55cm, Fair Condition) |
+|   $350 | Core-Line       | Core-Line - Ghoul - Ghoul / Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
+|   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
+|   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
+|   $350 | Core-Line       | Core-Line - Ghoul - Ghoul / Small (50 cm- Riders 5'4"-5'7") / Riser Bars |
+|   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Small (50 cm- Riders 5'4"-5'7") / Bullhorn Bars (Add $25) |
+|   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Small (50 cm- Riders 5'4"-5'7") / Drop Bars (Add $25) |
+|   $350 | Core-Line       | Core-Line - Ghoul - Ghoul / Medium (54 cm- Riders 5'7"-5'11") / Riser Bars |
+|   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Medium (54 cm- Riders 5'7"-5'11") / Bullhorn Bars (Add $25) |
+|   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Medium (54 cm- Riders 5'7"-5'11") / Drop Bars (Add $25) |
+|   $350 | Core-Line       | Core-Line - Ghoul - Ghoul / Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
+|   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
+|   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $350 | Klunker         | State Bicycle Co. x RIPNDIP - Klunker + Bag Combo - FU Edition |
 |   $315 | closeout        | #1226 - Core Line | Earthstone / Risers (Size Small- 50cm, Very Good Condition) |
 |   $295 | closeout        | #1233 - 4130 Single-Speed / Fixed-Gear | Matte Olive / Risers (Size 59cm, Fair Condition) |
@@ -119,11 +149,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
 |    $24 | Handlebars      | Black Label Series: Compact Drop Handlebar (Black) |
-|    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Urban Comfort Saddle |
-|    $22 | Handlebars      | Selle Italia - Smart Tape Handlebar Tape (Black) |
-|    $19 | Bicycles        | State Bicycle Co. 38c Tire (Black) - Black |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Small |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Medium |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Large |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Extra Large |
-|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - 2X-Large |
