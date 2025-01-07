@@ -7,12 +7,13 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1085 | closeout        | #1213 - Titanium All-Road Frame | Size Medium (Excellent Condition) |
 |   $899 | closeout        | #1221 - Undefeated Road | Graphite (Size 55cm, Good Condition) |
 |   $845 | closeout        | #1218 - 4130 All-Road | Copper / 650b - with Upgrades (Size Medium - 51cm, Excellent Condition) |
+|   $795 | closeout        | #1227 - 4130 All-Road | Olive / Drops / 700c (Size XS - New Open Box) |
 |   $795 | closeout        | #1224 - 6061 - eBike Commuter - Matte Black | Small (49cm - Riders 5'3"-5'7") (Very-Good Condition) |
 |   $745 | closeout        | #1217 - 4130 All-Road | Turquoise Fade / 650b (Size Small - 47cm, Very Good Condition) |
 |   $725 | closeout        | #1223 - 4130 All-Road | Copper / 650b (Size XS - 43cm, Very Good Condition) |
 |   $675 | closeout        | #1182 - Black Label v3 Fixed-Gear / Single-Speed | "Volt" (49cm, Risers, Excellent Condition) |
-|   $375 | closeout        | #1226 - Core Line | Earthstone / Risers (Size Small- 50cm, Very Good Condition) |
 |   $375 | closeout        | #1225 - 4130 Single Speed / Fixed-Gear | Satin Silve / Risers (Size 55cm, Fair Condition) |
+|   $315 | closeout        | #1226 - Core Line | Earthstone / Risers (Size Small- 50cm, Very Good Condition) |
 |   $245 | closeout        | #1222 - City Bike | 3-Speed Black & Tan (Size Medium - 53cm, Fair Condition) |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - X-Small |
@@ -136,13 +137,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $9 | Misc. Accessori | Ass Saver - Rain Fenders - Red |
 |     $9 | Misc. Accessori | Ass Saver - Rain Fenders - Yellow |
 |     $9 | Accessories     | State Bicycle Co. x RIPNDIP - Lord Nermal Headset Top Cap |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Blue |
-|     $9 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - White |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Anode Red |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Maroon |
-|     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Silver |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Shockwave (Yellow & Green) |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Matte Black |
-|    $12 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Pink |
-|     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Red |
-|     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Gold |
