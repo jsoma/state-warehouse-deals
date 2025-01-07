@@ -7,7 +7,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1085 | closeout        | #1213 - Titanium All-Road Frame | Size Medium (Excellent Condition) |
 |   $899 | closeout        | #1221 - Undefeated Road | Graphite (Size 55cm, Good Condition) |
 |   $845 | closeout        | #1218 - 4130 All-Road | Copper / 650b - with Upgrades (Size Medium - 51cm, Excellent Condition) |
-|   $795 | closeout        | #1220 - 4130 All-Road | Copper / 650b (Size Medium - 51cm, Good Condition) |
 |   $745 | closeout        | #1217 - 4130 All-Road | Turquoise Fade / 650b (Size Small - 47cm, Very Good Condition) |
 |   $725 | closeout        | #1223 - 4130 All-Road | Copper / 650b (Size XS - 43cm, Very Good Condition) |
 |   $675 | closeout        | #1182 - Black Label v3 Fixed-Gear / Single-Speed | "Volt" (49cm, Risers, Excellent Condition) |
@@ -146,3 +145,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Red |
 |     $8 | Misc. Accessori | State Bicycle Co. - Water Bottle Cage (7+ colors) - Gold |
 |     $7 | closeout        | #RS24 - Serfas CNG-1 SR MTB Grips - Like-New Condition |
+|     $7 | closeout        | #RS23 - Serfas Gripshift Grips - Like-New Condition |
