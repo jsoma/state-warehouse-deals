@@ -5,6 +5,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |---|---|---|
 |  $1985 | closeout        | #1214 - 4130 All-Road | Matte Olive / 650b (Size Small - 47cm, Used Condition) |
 |  $1085 | closeout        | #1213 - Titanium All-Road Frame | Size Medium (Excellent Condition) |
+|   $975 | closeout        | #1230 - Undefeated Disc Road | Pearl (Size 55cm, Very Good Condition) |
 |   $899 | closeout        | #1221 - Undefeated Road | Graphite (Size 55cm, Good Condition) |
 |   $845 | closeout        | #1218 - 4130 All-Road | Copper / 650b - with Upgrades (Size Medium - 51cm, Excellent Condition) |
 |   $795 | closeout        | #1228 - 4130 All-Road | Raw Phosphate / Drops / 700c (Size XS - Excellent Condition) |
@@ -13,7 +14,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $745 | closeout        | #1217 - 4130 All-Road | Turquoise Fade / 650b (Size Small - 47cm, Very Good Condition) |
 |   $725 | closeout        | #1223 - 4130 All-Road | Copper / 650b (Size XS - 43cm, Very Good Condition) |
 |   $675 | closeout        | #1182 - Black Label v3 Fixed-Gear / Single-Speed | "Volt" (49cm, Risers, Excellent Condition) |
-|   $375 | closeout        | #1229 - 4130 Single Speed / Fixed-Gear | Satin Silver / Drop Bars (Size 52cm, Fair Condition) (Copy) |
+|   $415 | closeout        | #1229 - 4130 Single Speed / Fixed-Gear | Satin Silver / Drop Bars (Size 59cm, Good Condition) |
 |   $375 | closeout        | #1225 - 4130 Single Speed / Fixed-Gear | Satin Silver / Risers (Size 55cm, Fair Condition) |
 |   $315 | closeout        | #1226 - Core Line | Earthstone / Risers (Size Small- 50cm, Very Good Condition) |
 |   $245 | closeout        | #1222 - City Bike | 3-Speed Black & Tan (Size Medium - 53cm, Fair Condition) |
@@ -131,4 +132,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - Large |
 |    $25 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - X-Large |
 |    $19 | closeout        | State Bicycle Co. x Corona - All-Road Jersey / Tech-T - Sustainable Clothing Collection - XX-Large |
-|    $14 | closeout        | #NewOpenBoxItem - Maxxis Sierra - 700x23c Tire - Cream Color |
