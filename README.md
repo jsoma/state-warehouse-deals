@@ -7,6 +7,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1085 | closeout        | #1213 - Titanium All-Road Frame | Size Medium (Excellent Condition) |
 |   $899 | closeout        | #1221 - Undefeated Road | Graphite (Size 55cm, Good Condition) |
 |   $845 | closeout        | #1218 - 4130 All-Road | Copper / 650b - with Upgrades (Size Medium - 51cm, Excellent Condition) |
+|   $795 | closeout        | #1228 - 4130 All-Road | Raw Phosphate / Drops / 700c (Size XS - Excellent Condition) |
 |   $795 | closeout        | #1227 - 4130 All-Road | Olive / Drops / 700c (Size XS - New Open Box) |
 |   $795 | closeout        | #1224 - 6061 - eBike Commuter - Matte Black | Small (49cm - Riders 5'3"-5'7") (Very-Good Condition) |
 |   $745 | closeout        | #1217 - 4130 All-Road | Turquoise Fade / 650b (Size Small - 47cm, Very Good Condition) |
@@ -136,4 +137,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |     $9 | Misc. Accessori | Ass Saver - Rain Fenders - Gray |
 |     $9 | Misc. Accessori | Ass Saver - Rain Fenders - Red |
 |     $9 | Misc. Accessori | Ass Saver - Rain Fenders - Yellow |
-|     $9 | Accessories     | State Bicycle Co. x RIPNDIP - Lord Nermal Headset Top Cap |
