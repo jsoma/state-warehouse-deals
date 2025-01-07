@@ -15,6 +15,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $725 | closeout        | #1223 - 4130 All-Road | Copper / 650b (Size XS - 43cm, Very Good Condition) |
 |   $695 | closeout        | #1231 - 6061 - eBike Commuter - Matte Black | Medium (53cm - Riders 5'7"-5'11") (Good Condition) |
 |   $675 | closeout        | #1182 - Black Label v3 Fixed-Gear / Single-Speed | "Volt" (49cm, Risers, Excellent Condition) |
+|   $625 | closeout        | #1232 - 6061 Black Label V3 | Black Mirror / Risers (Size 49cm, Very Good Condition) |
 |   $415 | closeout        | #1229 - 4130 Single Speed / Fixed-Gear | Satin Silver / Drop Bars (Size 59cm, Good Condition) |
 |   $375 | closeout        | #1225 - 4130 Single Speed / Fixed-Gear | Satin Silver / Risers (Size 55cm, Fair Condition) |
 |   $315 | closeout        | #1226 - Core Line | Earthstone / Risers (Size Small- 50cm, Very Good Condition) |
@@ -126,4 +127,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $18 | closeout        | #RS117- Serfas - Serfas Vida Meo City Tire - 700 x 38c |
 |    $18 | closeout        | #RS116- Serfas - Serfas Vida Meo City Tire - 700 x 32c |
 |    $18 | Misc. Parts     | Vittoria Barzo  - Gravel / XC MTB Tire - 27.5 x 2.1" (Rigid) - Black |
-|    $17 | Handlebars      | State Bicycle Co. x RIPNDIP  - "FU" Bar Tape |
