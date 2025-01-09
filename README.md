@@ -60,6 +60,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - XX-Large |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - 3X-Large |
 |    $95 | closeout        | #568- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
+|    $85 | Misc. Parts     | FSA - SL-K SBS SB20 Carbon Seat Post - 350mm / 27.2 |
+|    $85 | Misc. Parts     | FSA - SL-K SBS SB20 Carbon Seat Post - 350mm / 31.6 |
 |    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - X-Small |
 |    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - Small |
 |    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - Medium |
@@ -69,6 +71,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - 3X-Large |
 |    $69 | Frame / Fork    | State Bicycle Co. x Free & Easy - Kids Balance Bike |
 |    $69 | closeout        | Black Label Series: Fixed Gear / Single Speed Crankset (Black) |
+|    $69 | Misc. Parts     | FSA - SL-K Stem (90/100/110/120mm) - 90mm |
+|    $69 | Misc. Parts     | FSA - SL-K Stem (90/100/110/120mm) - 100mm |
+|    $69 | Misc. Parts     | FSA - SL-K Stem (90/100/110/120mm) - 110mm |
+|    $69 | Misc. Parts     | FSA - SL-K Stem (90/100/110/120mm) - 120mm |
 |    $57 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 700 x 47c - Black |
 |    $57 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 700 x 47c - Tan |
 |    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - Small |
@@ -147,5 +153,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
-|    $24 | Handlebars      | Black Label Series: Compact Drop Handlebar (Black) |
-|    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Urban Comfort Saddle |
