@@ -77,6 +77,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $69 | Misc. Parts     | FSA - SL-K Stem (90/100/110/120mm) - 120mm |
 |    $57 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 700 x 47c - Black |
 |    $57 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 700 x 47c - Tan |
+|    $55 | Bags & Packs    | State Bicycle Co. - Commuter Rolltop Backpack |
 |    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - Small |
 |    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - Medium |
 |    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - Large |
@@ -137,19 +138,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
 |    $34 | closeout        | Black Label Series:  Saddle |
+|    $25 | Bags & Packs    | State Bicycle Co. Commuter Sling / Hip Bag |
 |    $25 | closeout        | #RS119 -  State Bicycle Co. - Klunker Frame Bag - Butterfinger Edition |
 |    $25 | closeout        | #RS118 -  State Bicycle Co. - Klunker Frame Bag - Crunch Edition |
 |    $25 | Accessories     | State Bicycle Co. x RIPNDIP - FU All-Road Bar Bag |
-|    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - Small |
-|    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - Medium |
-|    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - Large |
-|    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - X-Large |
-|    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - XX-Large |
-|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Black |
-|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - White |
-|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Red |
-|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Yellow |
-|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Green |
-|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
-|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
-|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
