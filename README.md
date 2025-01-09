@@ -61,7 +61,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $350 | Klunker         | State Bicycle Co. x RIPNDIP - Klunker + Bag Combo - FU Edition |
 |   $315 | closeout        | #1226 - Core Line | Earthstone / Risers (Size Small- 50cm, Very Good Condition) |
-|   $295 | closeout        | #1244 - State Bicycle Co. x Bob Marley Klunker (Good Condition) |
 |   $285 | closeout        | #1234 - Core Line | Earthstone / Risers (Size Medium 54cm, Very Good Condition) |
 |   $275 | closeout        | #1245 - 4130 Single Speed / Fixed-Gear | Satin Silver / Drops (Size 52cm, Fair Condition) |
 |   $245 | closeout        | #1222 - City Bike | 3-Speed Black & Tan (Size Medium - 53cm, Fair Condition) |
@@ -99,3 +98,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - X-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - XX-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - 3X-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - Small |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - Medium |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - X-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - XX-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - 3X-Large |
