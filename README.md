@@ -31,7 +31,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $745 | closeout        | #1217 - 4130 All-Road | Turquoise Fade / 650b (Size Small - 47cm, Very Good Condition) |
 |   $725 | closeout        | #1223 - 4130 All-Road | Copper / 650b (Size XS - 43cm, Very Good Condition) |
 |   $695 | closeout        | #1243 - 6061 - eBike Commuter - Matte Black | Small (49cm - Riders 5'3"-5'7") (Good Condition) |
-|   $695 | closeout        | #1231 - 6061 - eBike Commuter - Matte Black | Medium (53cm - Riders 5'7"-5'11") (Good Condition) |
 |   $675 | closeout        | #1237 - 6061 Black Label V3 | Volt / Drops (Size 61cm, Excellent Condition) |
 |   $675 | closeout        | #1182 - Black Label v3 Fixed-Gear / Single-Speed | "Volt" (49cm, Risers, Excellent Condition) |
 |   $625 | closeout        | #1232 - 6061 Black Label V3 | Black Mirror / Risers (Size 49cm, Very Good Condition) |
@@ -94,3 +93,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $57 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 700 x 47c - Black |
 |    $57 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 700 x 47c - Tan |
 |    $55 | Bags & Packs    | State Bicycle Co. - Commuter Rolltop Backpack |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - Small |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - Medium |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - X-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - XX-Large |
+|    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - 3X-Large |
