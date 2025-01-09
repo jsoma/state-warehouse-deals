@@ -14,6 +14,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $975 | closeout        | #1230 - Undefeated Disc Road | Pearl (Size 55cm, Very Good Condition) |
 |   $899 | closeout        | #1221 - Undefeated Road | Graphite (Size 55cm, Good Condition) |
 |   $845 | closeout        | #1218 - 4130 All-Road | Copper / 650b - with Upgrades (Size Medium - 51cm, Excellent Condition) |
+|   $795 | closeout        | Item: #1248 - Titanium All-Road w/ Upgrades / 700c (Size Medium - 52cm, Like-New / Pre-Production Sample) |
+|   $795 | closeout        | #1247 - 4130 All-Road | Black Canyon / 700c (Size Medium - 51cm, Like-New / Open Box) |
 |   $795 | closeout        | #1228 - 4130 All-Road | Raw Phosphate / Drops / 700c (Size XS - Excellent Condition) |
 |   $795 | closeout        | #1227 - 4130 All-Road | Olive / Drops / 700c (Size XS - New Open Box) |
 |   $795 | closeout        | #1224 - 6061 - eBike Commuter - Matte Black | Small (49cm - Riders 5'3"-5'7") (Very-Good Condition) |
@@ -102,16 +104,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - X-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - XX-Large |
 |    $55 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - 3X-Large |
-|    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - X-Small |
-|    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Small |
-|    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Medium |
-|    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Large |
-|    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - X-Large |
-|    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - XX-Large |
-|    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - X-Small |
-|    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Small |
-|    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Medium |
-|    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Large |
-|    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Extra Large |
-|    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - XX-Large |
-|    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - 3X-Large |
