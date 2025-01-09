@@ -50,6 +50,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $350 | Klunker         | State Bicycle Co. x RIPNDIP - Klunker + Bag Combo - FU Edition |
 |   $315 | closeout        | #1226 - Core Line | Earthstone / Risers (Size Small- 50cm, Very Good Condition) |
+|   $285 | closeout        | #1234 - Core Line | Earthstone / Risers (Size Medium 54cm, Very Good Condition) |
 |   $245 | closeout        | #1222 - City Bike | 3-Speed Black & Tan (Size Medium - 53cm, Fair Condition) |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - X-Small |
@@ -141,4 +142,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | Bags & Packs    | State Bicycle Co. Commuter Sling / Hip Bag |
 |    $25 | closeout        | #RS119 -  State Bicycle Co. - Klunker Frame Bag - Butterfinger Edition |
 |    $25 | closeout        | #RS118 -  State Bicycle Co. - Klunker Frame Bag - Crunch Edition |
-|    $25 | Accessories     | State Bicycle Co. x RIPNDIP - FU All-Road Bar Bag |
