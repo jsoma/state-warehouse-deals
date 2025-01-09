@@ -3,6 +3,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
+|  $2499 | closeout        | #1248 - Titanium All-Road w/ Upgrades / 700c (Size Medium - 52cm, Like-New / Pre-Production Sample) |
 |  $1985 | closeout        | #1214 - 4130 All-Road | Matte Olive / 650b (Size Small - 47cm, Used Condition) |
 |  $1350 | closeout        | #1241 - 6061 All-Road | Dune Tan / 700c (Size Large - 58cm, Excellent Condition) |
 |  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 49 cm (Riders 5'0"-5'3") |
@@ -14,7 +15,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $975 | closeout        | #1230 - Undefeated Disc Road | Pearl (Size 55cm, Very Good Condition) |
 |   $899 | closeout        | #1221 - Undefeated Road | Graphite (Size 55cm, Good Condition) |
 |   $845 | closeout        | #1218 - 4130 All-Road | Copper / 650b - with Upgrades (Size Medium - 51cm, Excellent Condition) |
-|   $795 | closeout        | Item: #1248 - Titanium All-Road w/ Upgrades / 700c (Size Medium - 52cm, Like-New / Pre-Production Sample) |
 |   $795 | closeout        | #1247 - 4130 All-Road | Black Canyon / 700c (Size Medium - 51cm, Like-New / Open Box) |
 |   $795 | closeout        | #1228 - 4130 All-Road | Raw Phosphate / Drops / 700c (Size XS - Excellent Condition) |
 |   $795 | closeout        | #1227 - 4130 All-Road | Olive / Drops / 700c (Size XS - New Open Box) |
