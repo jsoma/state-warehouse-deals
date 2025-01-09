@@ -28,12 +28,14 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $725 | closeout        | #1223 - 4130 All-Road | Copper / 650b (Size XS - 43cm, Very Good Condition) |
 |   $695 | closeout        | #1231 - 6061 - eBike Commuter - Matte Black | Medium (53cm - Riders 5'7"-5'11") (Good Condition) |
 |   $675 | closeout        | #1182 - Black Label v3 Fixed-Gear / Single-Speed | "Volt" (49cm, Risers, Excellent Condition) |
+|   $625 | closeout        | #1237 - 6061 Black Label V3 | Volt / Drops (Size 61cm, Excellent Condition) |
 |   $625 | closeout        | #1232 - 6061 Black Label V3 | Black Mirror / Risers (Size 49cm, Very Good Condition) |
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 49 cm (Riders 5'1"-5'4") |
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 52 cm (Riders 5'4"-5'7") |
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 55 cm (Riders 5'7"-5'11") |
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 59 cm (Riders 5'11"-6'2) |
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 62 cm (Riders 6'2"-6'6") |
+|   $465 | closeout        | #1236 - 4130 Single Speed / Fixed Gear | Matte Black / Mirror / Risers (Size 52cm, Very Good Condition) |
 |   $415 | closeout        | #1229 - 4130 Single Speed / Fixed-Gear | Satin Silver / Drop Bars (Size 59cm, Good Condition) |
 |   $375 | closeout        | #1225 - 4130 Single Speed / Fixed-Gear | Satin Silver / Risers (Size 55cm, Fair Condition) |
 |   $350 | Core-Line       | Core-Line - Ghoul - Ghoul / Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
@@ -140,5 +142,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
 |    $34 | closeout        | Black Label Series:  Saddle |
 |    $25 | Bags & Packs    | State Bicycle Co. Commuter Sling / Hip Bag |
-|    $25 | closeout        | #RS119 -  State Bicycle Co. - Klunker Frame Bag - Butterfinger Edition |
-|    $25 | closeout        | #RS118 -  State Bicycle Co. - Klunker Frame Bag - Crunch Edition |
