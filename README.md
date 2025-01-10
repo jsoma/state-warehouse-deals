@@ -32,7 +32,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $695 | closeout        | #1243 - 6061 - eBike Commuter - Matte Black | Small (49cm - Riders 5'3"-5'7") (Good Condition) |
 |   $675 | closeout        | #1237 - 6061 Black Label V3 | Volt / Drops (Size 61cm, Excellent Condition) |
 |   $675 | closeout        | #1182 - Black Label v3 Fixed-Gear / Single-Speed | "Volt" (49cm, Risers, Excellent Condition) |
-|   $625 | closeout        | #1232 - 6061 Black Label V3 | Black Mirror / Risers (Size 49cm, Very Good Condition) |
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 49 cm (Riders 5'1"-5'4") |
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 52 cm (Riders 5'4"-5'7") |
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 55 cm (Riders 5'7"-5'11") |
@@ -109,3 +108,10 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - Large |
 |    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - X-Large |
 |    $55 | closeout        | State Bicycle Team x Endura - 2023 Road Jersey - XX-Large |
+|    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - X-Small |
+|    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Small |
+|    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Medium |
+|    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Large |
+|    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Extra Large |
+|    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - XX-Large |
+|    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - 3X-Large |
