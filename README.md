@@ -40,7 +40,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $495 | closeout        | #1249 - 4130 Single Speed / Fixed-Gear | Matte Olive / Drops (Size 46cm, Open-Box / Like-New) |
 |   $479 | closeout        | #1240 - 4130 Road 8-Speed | Hunter Green (Size 49cm, Very Good Condition) |
 |   $465 | closeout        | #1236 - 4130 Single Speed / Fixed Gear | Matte Black / Mirror / Risers (Size 52cm, Very Good Condition) |
-|   $450 | closeout        | #1242 - 4130 Fixed-Gear / Single-Speed | Tropical Red / Risers (Size 55cm, Very Good Condition) |
 |   $415 | closeout        | #1229 - 4130 Single Speed / Fixed-Gear | Satin Silver / Drop Bars (Size 59cm, Good Condition) |
 |   $385 | closeout        | #1238 - 4130 Single-Speed / Fixed-Gear | Navy / Gold / Drops (Size 55cm, Used / Very Good Condition) |
 |   $375 | closeout        | #1225 - 4130 Single Speed / Fixed-Gear | Satin Silver / Risers (Size 55cm, Fair Condition) |
@@ -138,3 +137,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 48 tooth |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 49 tooth |
 |    $35 | closeout        | Black Label Series: Chainring - 46t , 48t , 49t , 52t (Black) - 52 tooth |
+|    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Small |
+|    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Medium |
+|    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
+|    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
+|    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
