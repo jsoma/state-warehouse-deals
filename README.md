@@ -58,7 +58,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $350 | Klunker         | State Bicycle Co. x RIPNDIP - Klunker + Bag Combo - FU Edition |
-|   $315 | closeout        | #1226 - Core Line | Earthstone / Risers (Size Small- 50cm, Very Good Condition) |
 |   $285 | closeout        | #1234 - Core Line | Earthstone / Risers (Size Medium 54cm, Very Good Condition) |
 |   $275 | closeout        | #1245 - 4130 Single Speed / Fixed-Gear | Satin Silver / Drops (Size 52cm, Fair Condition) |
 |   $175 | closeout        | #1246 - City Bike | Black & Tan 1-Speed (Size Large - 58cm, Fair Condition) |
@@ -128,3 +127,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - 2X-Large / 2X-Large |
 |    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - 3X-Large / No Bibs |
 |    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - 3X-Large / 3X-Large |
+|    $45 | Accessories     | State Bicycle Co. x RIPNDIP - FU Klunker Frame Bag |
