@@ -61,7 +61,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $315 | closeout        | #1226 - Core Line | Earthstone / Risers (Size Small- 50cm, Very Good Condition) |
 |   $285 | closeout        | #1234 - Core Line | Earthstone / Risers (Size Medium 54cm, Very Good Condition) |
 |   $275 | closeout        | #1245 - 4130 Single Speed / Fixed-Gear | Satin Silver / Drops (Size 52cm, Fair Condition) |
-|   $245 | closeout        | #1222 - City Bike | 3-Speed Black & Tan (Size Medium - 53cm, Fair Condition) |
 |   $175 | closeout        | #1246 - City Bike | Black & Tan 1-Speed (Size Large - 58cm, Fair Condition) |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |    $99 | Jerseys + Kits  | State Bicycle Team x Castelli - 2024 Team Bib Shorts - X-Small |
@@ -115,3 +114,17 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $55 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - Extra Large |
 |    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - XX-Large |
 |    $65 | closeout        | State Bicycle Co. - Skull Kid - Fleece-Lined Winter Jersey / Jacket - 3X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - X-Small / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - X-Small / X-Small |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - Small / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - Small / Small |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - Medium / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - Medium / Medium |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - Large / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - Large / Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - X-Large / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - X-Large / X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - 2X-Large / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - 2X-Large / 2X-Large |
+|    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - 3X-Large / No Bibs |
+|    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - 3X-Large / 3X-Large |
