@@ -35,7 +35,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 55 cm (Riders 5'7"-5'11") |
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 59 cm (Riders 5'11"-6'2) |
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 62 cm (Riders 6'2"-6'6") |
-|   $495 | closeout        | #1250 - 4130 Single Speed / Fixed-Gear | Matte Black - Mirror / Drops (Size 46cm, Open-Box / Like-New) |
 |   $495 | closeout        | #1249 - 4130 Single Speed / Fixed-Gear | Matte Olive / Drops (Size 46cm, Open-Box / Like-New) |
 |   $479 | closeout        | #1240 - 4130 Road 8-Speed | Hunter Green (Size 49cm, Very Good Condition) |
 |   $465 | closeout        | #1236 - 4130 Single Speed / Fixed Gear | Matte Black / Mirror / Risers (Size 52cm, Very Good Condition) |
@@ -142,3 +141,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
 |    $34 | closeout        | Black Label Series:  Saddle |
+|    $25 | Bags & Packs    | State Bicycle Co. Commuter Sling / Hip Bag |
