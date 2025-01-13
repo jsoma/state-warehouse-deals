@@ -14,7 +14,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $975 | closeout        | #1230 - Undefeated Disc Road | Pearl (Size 55cm, Very Good Condition) |
 |   $899 | closeout        | #1221 - Undefeated Road | Graphite (Size 55cm, Good Condition) |
 |   $845 | closeout        | #1218 - 4130 All-Road | Copper / 650b - with Upgrades (Size Medium - 51cm, Excellent Condition) |
-|   $795 | closeout        | #1228 - 4130 All-Road | Raw Phosphate / Drops / 700c (Size XS - Excellent Condition) |
 |   $795 | closeout        | #1224 - 6061 - eBike Commuter - Matte Black | Small (49cm - Riders 5'3"-5'7") (Very-Good Condition) |
 |   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
@@ -146,3 +145,11 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - Large |
 |    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - X-Large |
 |    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - XX-Large |
+|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Black |
+|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - White |
+|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Red |
+|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Yellow |
+|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Green |
+|    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
+|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
+|    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
