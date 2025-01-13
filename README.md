@@ -37,7 +37,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $495 | closeout        | #1249 - 4130 Single Speed / Fixed-Gear | Matte Olive / Drops (Size 46cm, Open-Box / Like-New) |
 |   $479 | closeout        | #1240 - 4130 Road 8-Speed | Hunter Green (Size 49cm, Very Good Condition) |
 |   $465 | closeout        | #1236 - 4130 Single Speed / Fixed Gear | Matte Black / Mirror / Risers (Size 52cm, Very Good Condition) |
-|   $415 | closeout        | #1229 - 4130 Single Speed / Fixed-Gear | Satin Silver / Drop Bars (Size 59cm, Good Condition) |
 |   $375 | closeout        | #1225 - 4130 Single Speed / Fixed-Gear | Satin Silver / Risers (Size 55cm, Fair Condition) |
 |   $350 | Core-Line       | Core-Line - Ghoul - Ghoul / Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
@@ -142,3 +141,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | Bags & Packs    | State Bicycle Co. Commuter Sling / Hip Bag |
 |    $25 | closeout        | #RS119 -  State Bicycle Co. - Klunker Frame Bag - Butterfinger Edition |
 |    $25 | closeout        | #RS118 -  State Bicycle Co. - Klunker Frame Bag - Crunch Edition |
+|    $25 | Accessories     | State Bicycle Co. x RIPNDIP - FU All-Road Bar Bag |
