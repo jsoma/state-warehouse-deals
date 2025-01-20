@@ -34,7 +34,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 59 cm (Riders 5'11"-6'2) |
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 62 cm (Riders 6'2"-6'6") |
 |   $495 | closeout        | #1249 - 4130 Single Speed / Fixed-Gear | Matte Olive / Drops (Size 46cm, Open-Box / Like-New) |
-|   $479 | closeout        | #1240 - 4130 Road 8-Speed | Hunter Green (Size 49cm, Very Good Condition) |
 |   $350 | Core-Line       | Core-Line - Ghoul - Ghoul / Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
 |   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
@@ -160,3 +159,5 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage -  Shadow Chrome (Black / Silver) - 2- Cages (save $10) |
 |    $19 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage -  Glacier (Blue / Silver) - 1- Cage |
 |    $29 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage -  Glacier (Blue / Silver) - 2- Cages (Save $10) |
+|    $19 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage - "Mr. Stark" (Red / Gold) - 1- Cage |
+|    $29 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage - "Mr. Stark" (Red / Gold) - 2- Cages (Save $10) |
