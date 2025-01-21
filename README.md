@@ -66,7 +66,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - XX-Large |
 |    $85 | closeout        | State Bicycle Team x Castelli - 2024 Strada Jersey - 3X-Large |
 |    $69 | Frame / Fork    | State Bicycle Co. x Free & Easy - Kids Balance Bike |
-|    $69 | closeout        | Black Label Series: Fixed Gear / Single Speed Crankset (Black) |
 |    $69 | Misc. Parts     | FSA - SL-K Stem (90/100/110/120mm) - 90mm |
 |    $69 | Misc. Parts     | FSA - SL-K Stem (90/100/110/120mm) - 100mm |
 |    $69 | Misc. Parts     | FSA - SL-K Stem (90/100/110/120mm) - 110mm |
@@ -161,3 +160,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage -  Glacier (Blue / Silver) - 2- Cages (Save $10) |
 |    $19 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage - "Mr. Stark" (Red / Gold) - 1- Cage |
 |    $29 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage - "Mr. Stark" (Red / Gold) - 2- Cages (Save $10) |
+|    $19 | Bicycles        | State Bicycle Co. 38c Tire (Black) - Black |
