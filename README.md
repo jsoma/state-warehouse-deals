@@ -134,6 +134,9 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
+|    $29 | Crank           | State Bicycle Co.  All-Road 1 - Drop Bar Shifter / Brake Lever (11-speed) - Left (Brake Lever Only) |
+|    $39 | Crank           | State Bicycle Co.  All-Road 1 - Drop Bar Shifter / Brake Lever (11-speed) - Right (Lever / 11-Speed Shifter) |
+|    $69 | Crank           | State Bicycle Co.  All-Road 1 - Drop Bar Shifter / Brake Lever (11-speed) - Left & Right Set |
 |    $25 | Bags & Packs    | State Bicycle Co. Commuter Sling / Hip Bag |
 |    $25 | closeout        | #RS119 -  State Bicycle Co. - Klunker Frame Bag - Butterfinger Edition |
 |    $25 | closeout        | #RS118 -  State Bicycle Co. - Klunker Frame Bag - Crunch Edition |
@@ -162,4 +165,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage -  Glacier (Blue / Silver) - 2- Cages (Save $10) |
 |    $19 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage - "Mr. Stark" (Red / Gold) - 1- Cage |
 |    $29 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage - "Mr. Stark" (Red / Gold) - 2- Cages (Save $10) |
-|    $19 | Bicycles        | State Bicycle Co. 38c Tire (Black) - Black |
