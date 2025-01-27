@@ -21,7 +21,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |   $745 | closeout        | #1217 - 4130 All-Road | Turquoise Fade / 650b (Size Small - 47cm, Very Good Condition) |
-|   $675 | closeout        | #1237 - 6061 Black Label V3 | Volt / Drops (Size 61cm, Excellent Condition) |
 |   $675 | closeout        | #1182 - Black Label v3 Fixed-Gear / Single-Speed | "Volt" (49cm, Risers, Excellent Condition) |
 |   $575 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 49 cm - (Riders 5'0"-5'3") |
 |   $575 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 52 cm - (Riders 5'3"-5'6") |
@@ -161,3 +160,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage - "Mr. Stark" (Red / Gold) - 1- Cage |
 |    $29 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage - "Mr. Stark" (Red / Gold) - 2- Cages (Save $10) |
 |    $19 | Bicycles        | State Bicycle Co. 38c Tire (Black) - Black |
+|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Small |
+|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Medium |
+|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Large |
+|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - Extra Large |
+|    $19 | Shirts          | State Bicycle Co. - "Quality Bicycles" - T-Shirt - 2X-Large |
