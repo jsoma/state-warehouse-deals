@@ -134,6 +134,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
+|    $29 | Misc. Parts     | KMC X12 Chain - 12 Speed |
+|    $29 | Misc. Parts     | YBN - 11 Speed Chain |
 |    $29 | Crank           | State Bicycle Co.  All-Road 1 - Drop Bar Shifter / Brake Lever (11-speed) - Left (Brake Lever Only) |
 |    $39 | Crank           | State Bicycle Co.  All-Road 1 - Drop Bar Shifter / Brake Lever (11-speed) - Right (Lever / 11-Speed Shifter) |
 |    $69 | Crank           | State Bicycle Co.  All-Road 1 - Drop Bar Shifter / Brake Lever (11-speed) - Left & Right Set |
@@ -161,7 +163,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage - Trailblazer Red (Red / Black) - 2- Cages (Save $10) |
 |    $19 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage -  Shadow Chrome (Black / Silver) - 1- Cage |
 |    $29 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage -  Shadow Chrome (Black / Silver) - 2- Cages (save $10) |
-|    $19 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage -  Glacier (Blue / Silver) - 1- Cage |
-|    $29 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage -  Glacier (Blue / Silver) - 2- Cages (Save $10) |
-|    $19 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage - "Mr. Stark" (Red / Gold) - 1- Cage |
-|    $29 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage - "Mr. Stark" (Red / Gold) - 2- Cages (Save $10) |
