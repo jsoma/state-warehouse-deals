@@ -46,6 +46,12 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $350 | Klunker         | State Bicycle Co. x RIPNDIP - Klunker + Bag Combo - FU Edition |
+|   $299 | Wheels          | All-Road Wheel Set 11-Speed Bundle - (650b / 700c) - 650b w/  Vittoria Terreno Dry 47c (Black) |
+|   $299 | Wheels          | All-Road Wheel Set 11-Speed Bundle - (650b / 700c) - 700c w/ Vittoria Terreno Zero 38c (Tan Wall) |
+|   $299 | Wheels          | All-Road Wheel Set 11-Speed Bundle - (650b / 700c) - 700c w/ Vittoria Terreno Zero 38c (Black) |
+|   $299 | Wheels          | All-Road Wheel Set 11-Speed Bundle - (650b / 700c) - 650b w/  Vittoria Terreno Dry 47c (Tan Wall) |
+|   $299 | Wheels          | All-Road Wheel Set 11-Speed Bundle - (650b / 700c) - 650b w/  Vittoria Barzo 2.1" (Black) |
+|   $189 | Wheels          | All-Road Wheel Set v1 (700c) - 700c |
 |   $135 | closeout        | #595- All Road Wheel 700c - Front only - with Tire, Tube & Rotor - Brand New Take-Offs |
 |   $119 | Crank           | All-Road 1 Crankset w/ BSA Bottom Bracket - 165mm |
 |   $119 | Crank           | All-Road 1 Crankset w/ BSA Bottom Bracket - 170mm |
@@ -160,7 +166,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $22 | Handlebars      | Selle Italia - Smart Tape Handlebar Tape (Black) |
 |    $19 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage - Trailblazer Red (Red / Black) - 1- Cage |
 |    $29 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage - Trailblazer Red (Red / Black) - 2- Cages (Save $10) |
-|    $19 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage -  Shadow Chrome (Black / Silver) - 1- Cage |
-|    $29 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage -  Shadow Chrome (Black / Silver) - 2- Cages (save $10) |
-|    $19 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage -  Glacier (Blue / Silver) - 1- Cage |
-|    $29 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage -  Glacier (Blue / Silver) - 2- Cages (Save $10) |
