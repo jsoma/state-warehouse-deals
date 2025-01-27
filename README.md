@@ -144,6 +144,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Crank           | State Bicycle Co.  All-Road 1 - Drop Bar Shifter / Brake Lever (11-speed) - Left (Brake Lever Only) |
 |    $39 | Crank           | State Bicycle Co.  All-Road 1 - Drop Bar Shifter / Brake Lever (11-speed) - Right (Lever / 11-Speed Shifter) |
 |    $69 | Crank           | State Bicycle Co.  All-Road 1 - Drop Bar Shifter / Brake Lever (11-speed) - Left & Right Set |
+|    $25 | Crank           | State Bicycle Co.  All-Road 1 - 11 speed Trigger Shifter |
 |    $25 | Bags & Packs    | State Bicycle Co. Commuter Sling / Hip Bag |
 |    $25 | closeout        | #RS119 -  State Bicycle Co. - Klunker Frame Bag - Butterfinger Edition |
 |    $25 | closeout        | #RS118 -  State Bicycle Co. - Klunker Frame Bag - Crunch Edition |
@@ -164,5 +165,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $24 | Handlebars      | Black Label Series: Compact Drop Handlebar (Black) |
 |    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Urban Comfort Saddle |
 |    $22 | Handlebars      | Selle Italia - Smart Tape Handlebar Tape (Black) |
-|    $19 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage - Trailblazer Red (Red / Black) - 1- Cage |
-|    $29 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage - Trailblazer Red (Red / Black) - 2- Cages (Save $10) |
