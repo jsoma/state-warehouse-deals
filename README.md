@@ -33,8 +33,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 59 cm (Riders 5'11"-6'2) |
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 62 cm (Riders 6'2"-6'6") |
 |   $495 | closeout        | #1249 - 4130 Single Speed / Fixed-Gear | Matte Olive / Drops (Size 46cm, Open-Box / Like-New) |
-|   $379 | Crank           | State Bicycle Co.  All-Road 2 Group-Set (12-speed) - 165mm |
-|   $379 | Crank           | State Bicycle Co.  All-Road 2 Group-Set (12-speed) - 170mm |
+|   $389 | Crank           | State Bicycle Co.  All-Road 2 Group-Set (12-speed) - 165mm |
+|   $389 | Crank           | State Bicycle Co.  All-Road 2 Group-Set (12-speed) - 170mm |
 |   $350 | Core-Line       | Core-Line - Ghoul - Ghoul / Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
 |   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
