@@ -12,6 +12,22 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 58 cm (Riders 5'9"-6'1") |
 |  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 61 cm (Riders 6'2"-6'6") |
 |   $975 | closeout        | #1230 - Undefeated Disc Road | Pearl (Size 55cm, Very Good Condition) |
+|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
+|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
+|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
+|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
+|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
+|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
+|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
+|   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
+|   $849 | 4130 All Road   | 4130 All-Road - Raw Phosphate (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
+|   $849 | 4130 All Road   | 4130 All-Road - Raw Phosphate (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
+|   $849 | 4130 All Road   | 4130 All-Road - Raw Phosphate (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
+|   $849 | 4130 All Road   | 4130 All-Road - Raw Phosphate (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
+|   $849 | 4130 All Road   | 4130 All-Road - Raw Phosphate (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
+|   $849 | 4130 All Road   | 4130 All-Road - Raw Phosphate (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
+|   $849 | 4130 All Road   | 4130 All-Road - Raw Phosphate (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
+|   $849 | 4130 All Road   | 4130 All-Road - Raw Phosphate (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
@@ -33,8 +49,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 59 cm (Riders 5'11"-6'2) |
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 62 cm (Riders 6'2"-6'6") |
 |   $495 | closeout        | #1249 - 4130 Single Speed / Fixed-Gear | Matte Olive / Drops (Size 46cm, Open-Box / Like-New) |
-|   $389 | Crank           | State Bicycle Co.  All-Road 2 Group-Set (12-speed) - 165mm |
-|   $389 | Crank           | State Bicycle Co.  All-Road 2 Group-Set (12-speed) - 170mm |
 |   $350 | Core-Line       | Core-Line - Ghoul - Ghoul / Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
 |   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
@@ -167,4 +181,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
-|    $24 | Handlebars      | Black Label Series: Compact Drop Handlebar (Black) |
