@@ -5,7 +5,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |---|---|---|
 |  $2499 | closeout        | #1248 - Titanium All-Road w/ Upgrades / 700c (Size Medium - 52cm, Like-New / Pre-Production Sample) |
 |  $1985 | closeout        | #1214 - 4130 All-Road | Matte Olive / 650b (Size Small - 47cm, Used Condition) |
-|  $1450 | closeout        | #1256 - Core Line | Rigby / Bullhorn Bars (Size 58cm, Very Good Condition) |
 |  $1450 | closeout        | #1255 - Carbon All-Road | Black Ember / 700c (Size Medium - 55cm, Open-Box / Like-New) |
 |  $1350 | closeout        | #1241 - 6061 All-Road | Dune Tan / 700c (Size Large - 58cm, Excellent Condition) |
 |  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 49 cm (Riders 5'0"-5'3") |
@@ -72,6 +71,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $299 | Wheels          | All-Road Wheel Set 11-Speed Bundle - (650b / 700c) - 700c w/ Vittoria Terreno Zero 38c (Black) |
 |   $299 | Wheels          | All-Road Wheel Set 11-Speed Bundle - (650b / 700c) - 650b w/  Vittoria Terreno Dry 47c (Tan Wall) |
 |   $299 | Wheels          | All-Road Wheel Set 11-Speed Bundle - (650b / 700c) - 650b w/  Vittoria Barzo 2.1" (Black) |
+|   $289 | closeout        | #1256 - Core Line | Rigby / Bullhorn Bars (Size 58cm, Good Condition) |
 |   $275 | Crank           | State Bicycle Co.  All-Road 1 Group-Set (11-speed) - 165mm |
 |   $275 | Crank           | State Bicycle Co.  All-Road 1 Group-Set (11-speed) - 170mm |
 |   $275 | Crank           | State Bicycle Co.  All-Road 1 Group-Set (11-speed) - 175mm |
