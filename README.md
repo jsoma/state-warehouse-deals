@@ -5,6 +5,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |---|---|---|
 |  $2499 | closeout        | #1248 - Titanium All-Road w/ Upgrades / 700c (Size Medium - 52cm, Like-New / Pre-Production Sample) |
 |  $1985 | closeout        | #1214 - 4130 All-Road | Matte Olive / 650b (Size Small - 47cm, Used Condition) |
+|  $1450 | closeout        | #1256 - Core Line | Rigby / Bullhorn Bars (Size 58cm, Very Good Condition) |
+|  $1450 | closeout        | #1255 - Carbon All-Road | Black Ember / 700c (Size Medium - 55cm, Open-Box / Like-New) |
 |  $1350 | closeout        | #1241 - 6061 All-Road | Dune Tan / 700c (Size Large - 58cm, Excellent Condition) |
 |  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 49 cm (Riders 5'0"-5'3") |
 |  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 52 cm (Riders 5'3"-5'6") |
@@ -168,5 +170,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $69 | Crank           | State Bicycle Co.  All-Road 1 - Drop Bar Shifter / Brake Lever (11-speed) - Left & Right Set |
 |    $25 | Crank           | State Bicycle Co.  All-Road 1 - 11 speed Trigger Shifter |
 |    $25 | Bags & Packs    | State Bicycle Co. Commuter Sling / Hip Bag |
-|    $25 | closeout        | #RS119 -  State Bicycle Co. - Klunker Frame Bag - Butterfinger Edition |
-|    $25 | closeout        | #RS118 -  State Bicycle Co. - Klunker Frame Bag - Crunch Edition |
