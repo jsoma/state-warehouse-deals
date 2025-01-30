@@ -14,6 +14,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 61 cm (Riders 6'2"-6'6") |
 |   $975 | closeout        | #1230 - Undefeated Disc Road | Pearl (Size 55cm, Very Good Condition) |
 |   $899 | closeout        | #1252 - 4130 All-Road | Matte Olive / 700c (Size Medium - 51cm, Open-Box / Like-New) |
+|   $875 | closeout        | #1215 - 4130 All-Road | Raw Phosphate (12-Speed / UHD) / Drops / 650b (Size Small - 47cm, Excellent Condition) |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
@@ -71,7 +72,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $299 | Wheels          | All-Road Wheel Set 11-Speed Bundle - (650b / 700c) - 700c w/ Vittoria Terreno Zero 38c (Black) |
 |   $299 | Wheels          | All-Road Wheel Set 11-Speed Bundle - (650b / 700c) - 650b w/  Vittoria Terreno Dry 47c (Tan Wall) |
 |   $299 | Wheels          | All-Road Wheel Set 11-Speed Bundle - (650b / 700c) - 650b w/  Vittoria Barzo 2.1" (Black) |
-|   $289 | closeout        | #1215 - 4130 All-Road | Raw Phosphate / Drops / 650b (Size Small - 47cm, Very Good Condition) |
 |   $289 | closeout        | #1256 - Core Line | Rigby / Bullhorn Bars (Size 58cm, Good Condition) |
 |   $275 | Crank           | State Bicycle Co.  All-Road 1 Group-Set (11-speed) - 165mm |
 |   $275 | Crank           | State Bicycle Co.  All-Road 1 Group-Set (11-speed) - 170mm |
