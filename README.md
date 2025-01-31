@@ -3,7 +3,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
-|  $2250 | closeout        | #1248 - Titanium All-Road w/ Upgrades / 700c (Size Medium - 52cm, Like-New / Pre-Production Sample) |
 |  $1985 | closeout        | #1214 - 4130 All-Road | Matte Olive / 650b (Size Small - 47cm, Used Condition) |
 |  $1450 | closeout        | #1255 - Carbon All-Road | Black Ember / 700c (Size Medium - 55cm, Open-Box / Like-New) |
 |  $1350 | closeout        | #1241 - 6061 All-Road | Dune Tan / 700c (Size Large - 58cm, Excellent Condition) |
@@ -170,3 +169,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Crank           | State Bicycle Co.  All-Road 1 - Drop Bar Shifter / Brake Lever (11-speed) - Right (Lever / 11-Speed Shifter) |
 |    $69 | Crank           | State Bicycle Co.  All-Road 1 - Drop Bar Shifter / Brake Lever (11-speed) - Left & Right Set |
 |    $25 | Crank           | State Bicycle Co.  All-Road 1 - 11 speed Trigger Shifter |
+|    $25 | Bags & Packs    | State Bicycle Co. Commuter Sling / Hip Bag |
