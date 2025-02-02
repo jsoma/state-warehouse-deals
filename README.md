@@ -12,7 +12,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 58 cm (Riders 5'9"-6'1") |
 |  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 61 cm (Riders 6'2"-6'6") |
 |   $975 | closeout        | #1230 - Undefeated Disc Road | Pearl (Size 55cm, Very Good Condition) |
-|   $875 | closeout        | #1215 - 4130 All-Road | Raw Phosphate (12-Speed / UHD) / Drops / 650b (Size Small - 47cm, Excellent Condition) |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
@@ -170,3 +169,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | Crank           | State Bicycle Co.  All-Road 1 - 11 speed Trigger Shifter |
 |    $25 | Bags & Packs    | State Bicycle Co. Commuter Sling / Hip Bag |
 |    $25 | closeout        | #RS119 -  State Bicycle Co. - Klunker Frame Bag - Butterfinger Edition |
+|    $25 | closeout        | #RS118 -  State Bicycle Co. - Klunker Frame Bag - Crunch Edition |
