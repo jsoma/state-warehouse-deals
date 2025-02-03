@@ -69,7 +69,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $299 | Wheels          | All-Road Wheel Set 11-Speed Bundle - (650b / 700c) - 700c w/ Vittoria Terreno Zero 38c (Black) |
 |   $299 | Wheels          | All-Road Wheel Set 11-Speed Bundle - (650b / 700c) - 650b w/  Vittoria Terreno Dry 47c (Tan Wall) |
 |   $299 | Wheels          | All-Road Wheel Set 11-Speed Bundle - (650b / 700c) - 650b w/  Vittoria Barzo 2.1" (Black) |
-|   $289 | closeout        | #1256 - Core Line | Rigby / Bullhorn Bars (Size 58cm, Good Condition) |
 |   $275 | Crank           | State Bicycle Co.  All-Road 1 Group-Set (11-speed) - 165mm |
 |   $275 | Crank           | State Bicycle Co.  All-Road 1 Group-Set (11-speed) - 170mm |
 |   $275 | Crank           | State Bicycle Co.  All-Road 1 Group-Set (11-speed) - 175mm |
@@ -170,3 +169,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | Bags & Packs    | State Bicycle Co. Commuter Sling / Hip Bag |
 |    $25 | closeout        | #RS119 -  State Bicycle Co. - Klunker Frame Bag - Butterfinger Edition |
 |    $25 | closeout        | #RS118 -  State Bicycle Co. - Klunker Frame Bag - Crunch Edition |
+|    $25 | Accessories     | State Bicycle Co. x RIPNDIP - FU All-Road Bar Bag |
