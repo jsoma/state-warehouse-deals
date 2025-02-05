@@ -29,6 +29,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $849 | 4130 All Road   | 4130 All-Road - Raw Phosphate (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
 |   $849 | 4130 All Road   | 4130 All-Road - Raw Phosphate (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $849 | 4130 All Road   | 4130 All-Road - Raw Phosphate (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
+|   $795 | closeout        | #1264 - 6061 - eBike Commuter - Matte Black | Small 50cm (Excellent Condition) |
+|   $795 | closeout        | #1260 - 6061 - eBike Commuter - Matte Black | Medium 53cm (Good Condition) |
 |   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
@@ -70,6 +72,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $299 | Wheels          | All-Road Wheel Set 11-Speed Bundle - (650b / 700c) - 700c w/ Vittoria Terreno Zero 38c (Black) |
 |   $299 | Wheels          | All-Road Wheel Set 11-Speed Bundle - (650b / 700c) - 650b w/  Vittoria Terreno Dry 47c (Tan Wall) |
 |   $299 | Wheels          | All-Road Wheel Set 11-Speed Bundle - (650b / 700c) - 650b w/  Vittoria Barzo 2.1" (Black) |
+|   $275 | closeout        | #1259 - Core Line | Wulf / Risers (Size 54cm, Very Good Condition) |
 |   $275 | Crank           | State Bicycle Co.  All-Road 1 Group-Set (11-speed) - 165mm |
 |   $275 | Crank           | State Bicycle Co.  All-Road 1 Group-Set (11-speed) - 170mm |
 |   $275 | Crank           | State Bicycle Co.  All-Road 1 Group-Set (11-speed) - 175mm |
@@ -167,6 +170,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | Crank           | State Bicycle Co.  All-Road 1 - Drop Bar Shifter / Brake Lever (11-speed) - Right (Lever / 11-Speed Shifter) |
 |    $69 | Crank           | State Bicycle Co.  All-Road 1 - Drop Bar Shifter / Brake Lever (11-speed) - Left & Right Set |
 |    $25 | Crank           | State Bicycle Co.  All-Road 1 - 11 speed Trigger Shifter |
-|    $25 | Bags & Packs    | State Bicycle Co. Commuter Sling / Hip Bag |
-|    $25 | closeout        | #RS119 -  State Bicycle Co. - Klunker Frame Bag - Butterfinger Edition |
-|    $25 | closeout        | #RS118 -  State Bicycle Co. - Klunker Frame Bag - Crunch Edition |
