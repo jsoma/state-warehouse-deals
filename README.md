@@ -13,6 +13,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 61 cm (Riders 6'2"-6'6") |
 |   $975 | closeout        | #1230 - Undefeated Disc Road | Pearl (Size 55cm, Very Good Condition) |
 |   $945 | closeout        | #1258 - Undefeated Disc Road | 55cm (Very Good Condition) |
+|   $850 | closeout        | #1264 - 6061 - eBike Commuter - Matte Black | Small 50cm (Very-Good Condition) |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
@@ -29,7 +30,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $849 | 4130 All Road   | 4130 All-Road - Raw Phosphate (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
 |   $849 | 4130 All Road   | 4130 All-Road - Raw Phosphate (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $849 | 4130 All Road   | 4130 All-Road - Raw Phosphate (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
-|   $795 | closeout        | #1264 - 6061 - eBike Commuter - Matte Black | Small 50cm (Excellent Condition) |
 |   $795 | closeout        | #1260 - 6061 - eBike Commuter - Matte Black | Medium 53cm (Good Condition) |
 |   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
@@ -40,6 +40,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |   $745 | closeout        | #1217 - 4130 All-Road | Turquoise Fade / 650b (Size Small - 47cm, Very Good Condition) |
+|   $675 | closeout        | #1263 - Undefeated Disc Road | 58cm (Excellent Condition) |
+|   $675 | closeout        | #1262 - 6061 Black Label v3 | Le Mans / Risers (Size 49cm, Very Good Condition) |
 |   $675 | closeout        | #1182 - Black Label v3 Fixed-Gear / Single-Speed | "Volt" (49cm, Risers, Excellent Condition) |
 |   $575 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 49 cm - (Riders 5'0"-5'3") |
 |   $575 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 52 cm - (Riders 5'3"-5'6") |
@@ -72,6 +74,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $299 | Wheels          | All-Road Wheel Set 11-Speed Bundle - (650b / 700c) - 700c w/ Vittoria Terreno Zero 38c (Black) |
 |   $299 | Wheels          | All-Road Wheel Set 11-Speed Bundle - (650b / 700c) - 650b w/  Vittoria Terreno Dry 47c (Tan Wall) |
 |   $299 | Wheels          | All-Road Wheel Set 11-Speed Bundle - (650b / 700c) - 650b w/  Vittoria Barzo 2.1" (Black) |
+|   $275 | closeout        | #1261 - Core Line | Lucky Penny / Risers (Size 46cm, Fair Condition) |
 |   $275 | closeout        | #1259 - Core Line | Wulf / Risers (Size 54cm, Very Good Condition) |
 |   $275 | Crank           | State Bicycle Co.  All-Road 1 Group-Set (11-speed) - 165mm |
 |   $275 | Crank           | State Bicycle Co.  All-Road 1 Group-Set (11-speed) - 170mm |
@@ -165,8 +168,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - X-Large |
 |    $35 | closeout        | State Bicycle Co. - 420 Cycling Jersey  - Sustainable Clothing Collection - XX-Large |
-|    $29 | Misc. Parts     | YBN - 11 Speed Chain |
-|    $29 | Crank           | State Bicycle Co.  All-Road 1 - Drop Bar Shifter / Brake Lever (11-speed) - Left (Brake Lever Only) |
-|    $39 | Crank           | State Bicycle Co.  All-Road 1 - Drop Bar Shifter / Brake Lever (11-speed) - Right (Lever / 11-Speed Shifter) |
-|    $69 | Crank           | State Bicycle Co.  All-Road 1 - Drop Bar Shifter / Brake Lever (11-speed) - Left & Right Set |
-|    $25 | Crank           | State Bicycle Co.  All-Road 1 - 11 speed Trigger Shifter |
