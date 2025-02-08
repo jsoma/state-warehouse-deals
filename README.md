@@ -10,7 +10,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 55 cm (Riders 5'6"-5'9") |
 |  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 58 cm (Riders 5'9"-6'1") |
 |  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 61 cm (Riders 6'2"-6'6") |
-|   $999 | closeout        | #1263 - Undefeated Disc Road | 58cm (Excellent Condition) |
 |   $975 | closeout        | #1230 - Undefeated Disc Road | Pearl (Size 55cm, Very Good Condition) |
 |   $945 | closeout        | #1258 - Undefeated Disc Road | 55cm (Very Good Condition) |
 |   $850 | closeout        | #1264 - 6061 - eBike Commuter - Matte Black | Small 50cm (Very-Good Condition) |
@@ -170,3 +169,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Crank           | State Bicycle Co.  All-Road 1 - Drop Bar Shifter / Brake Lever (11-speed) - Left (Brake Lever Only) |
 |    $39 | Crank           | State Bicycle Co.  All-Road 1 - Drop Bar Shifter / Brake Lever (11-speed) - Right (Lever / 11-Speed Shifter) |
 |    $69 | Crank           | State Bicycle Co.  All-Road 1 - Drop Bar Shifter / Brake Lever (11-speed) - Left & Right Set |
+|    $25 | Crank           | State Bicycle Co.  All-Road 1 - 11 speed Trigger Shifter |
