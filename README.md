@@ -52,7 +52,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 59 cm (Riders 5'11"-6'2) |
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 62 cm (Riders 6'2"-6'6") |
 |   $495 | closeout        | #1249 - 4130 Single Speed / Fixed-Gear | Matte Olive / Drops (Size 46cm, Open-Box / Like-New) |
-|   $450 | closeout        | #1251 - 4130 Single Speed | Matte Black - Mirror / Drops (Size 55cm, Very Good Condition) |
 |   $350 | Core-Line       | Core-Line - Ghoul - Ghoul / Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
 |   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
 |   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
@@ -170,3 +169,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $69 | Crank           | State Bicycle Co.  All-Road 1 - Drop Bar Shifter / Brake Lever (11-speed) - Left & Right Set |
 |    $25 | Crank           | State Bicycle Co.  All-Road 1 - 11 speed Trigger Shifter |
 |    $25 | Bags & Packs    | State Bicycle Co. Commuter Sling / Hip Bag |
+|    $25 | closeout        | #RS119 -  State Bicycle Co. - Klunker Frame Bag - Butterfinger Edition |
