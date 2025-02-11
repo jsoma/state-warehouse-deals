@@ -64,7 +64,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
 |   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $350 | Klunker         | State Bicycle Co. x RIPNDIP - Klunker + Bag Combo - FU Edition |
-|   $315 | closeout        | #1253 - Core Line | Wulf / Bullhorn Bars (Size 46cm, Very Good Condition) |
 |   $299 | Wheels          | All-Road Wheel Set 11-Speed Bundle - (650b / 700c) - 650b w/  Vittoria Terreno Dry 47c (Black) |
 |   $299 | Wheels          | All-Road Wheel Set 11-Speed Bundle - (650b / 700c) - 700c w/ Vittoria Terreno Zero 38c (Tan Wall) |
 |   $299 | Wheels          | All-Road Wheel Set 11-Speed Bundle - (650b / 700c) - 700c w/ Vittoria Terreno Zero 38c (Black) |
@@ -165,3 +164,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | #RS119 -  State Bicycle Co. - Klunker Frame Bag - Butterfinger Edition |
 |    $25 | closeout        | #RS118 -  State Bicycle Co. - Klunker Frame Bag - Crunch Edition |
 |    $25 | Accessories     | State Bicycle Co. x RIPNDIP - FU All-Road Bar Bag |
+|    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - Small |
+|    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - Medium |
+|    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - Large |
+|    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - X-Large |
+|    $25 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - Collab T-Shirt - XX-Large |
