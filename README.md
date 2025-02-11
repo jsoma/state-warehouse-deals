@@ -131,24 +131,18 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $49 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - 3X-Large / No Bibs |
 |    $99 | Jerseys + Kits  | State Bicycle Co. x RIPNDIP - FU Kit - 3X-Large / 3X-Large |
 |    $45 | Accessories     | State Bicycle Co. x RIPNDIP - FU Klunker Frame Bag |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - Small |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - Medium |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - X-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - XX-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - 3X-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - Small |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - Medium |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - X-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - XX-Large |
-|    $45 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - 3X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - Small |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - Medium |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - X-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - XX-Large |
-|    $39 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour - All-Road Jersey / Tech-T - 3X-Large |
+|    $37 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - Small |
+|    $37 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - Medium |
+|    $37 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - Large |
+|    $37 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - X-Large |
+|    $37 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - XX-Large |
+|    $37 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Retro Style Wool Cycling Jersey - 3X-Large |
+|    $37 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - Small |
+|    $37 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - Medium |
+|    $37 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - Large |
+|    $37 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - X-Large |
+|    $37 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - XX-Large |
+|    $37 | Jerseys + Kits  | State Bicycle Co. x The Beatles - Magical Mystery Tour Cycling Jersey - 3X-Large |
 |    $37 | Misc. Parts     | Vittoria Terreno Zero - Gravel / All-Road Tire - 700 x 38c - Black |
 |    $37 | Misc. Parts     | Vittoria Terreno Zero - Gravel / All-Road Tire - 700 x 38c - Tan |
 |    $37 | Misc. Parts     | Vittoria Terreno Dry - Gravel / All-Road Tire - 650 x 47c - Black |
@@ -170,3 +164,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | Bags & Packs    | State Bicycle Co. Commuter Sling / Hip Bag |
 |    $25 | closeout        | #RS119 -  State Bicycle Co. - Klunker Frame Bag - Butterfinger Edition |
 |    $25 | closeout        | #RS118 -  State Bicycle Co. - Klunker Frame Bag - Crunch Edition |
+|    $25 | Accessories     | State Bicycle Co. x RIPNDIP - FU All-Road Bar Bag |
