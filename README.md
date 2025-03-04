@@ -19,14 +19,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
-|   $849 | 4130 All Road   | 4130 All-Road - Raw Phosphate (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
-|   $849 | 4130 All Road   | 4130 All-Road - Raw Phosphate (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
-|   $849 | 4130 All Road   | 4130 All-Road - Raw Phosphate (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
-|   $849 | 4130 All Road   | 4130 All-Road - Raw Phosphate (650b / 700c) - Small ( Riders 5'5" - 5'10") / 700c |
-|   $849 | 4130 All Road   | 4130 All-Road - Raw Phosphate (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 650b |
-|   $849 | 4130 All Road   | 4130 All-Road - Raw Phosphate (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
-|   $849 | 4130 All Road   | 4130 All-Road - Raw Phosphate (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
-|   $849 | 4130 All Road   | 4130 All-Road - Raw Phosphate (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
 |   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
@@ -181,3 +173,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $24 | Handlebars      | Black Label Series: Compact Drop Handlebar (Black) |
 |    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Urban Comfort Saddle |
 |    $22 | Handlebars      | Selle Italia - Smart Tape Handlebar Tape (Black) |
+|    $19 | Misc. Parts     | State Bicycle Co. - Urban Comfort Saddle - Black |
+|    $19 | Misc. Parts     | State Bicycle Co. - Urban Comfort Saddle - Brown |
+|    $19 | Misc. Parts     | State Bicycle Co. - Urban Comfort Saddle - White |
