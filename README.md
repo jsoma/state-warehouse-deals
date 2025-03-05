@@ -145,8 +145,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $29 | Crank           | State Bicycle Co.  All-Road 1 - Drop Bar Shifter / Brake Lever (11-speed) - Left (Brake Lever Only) |
 |    $39 | Crank           | State Bicycle Co.  All-Road 1 - Drop Bar Shifter / Brake Lever (11-speed) - Right (Lever / 11-Speed Shifter) |
 |    $69 | Crank           | State Bicycle Co.  All-Road 1 - Drop Bar Shifter / Brake Lever (11-speed) - Left & Right Set |
+|    $29 | Bags & Packs    | State Bicycle Co. Commuter Sling / Hip Bag |
 |    $25 | Crank           | State Bicycle Co.  All-Road 1 - 11 speed Trigger Shifter |
-|    $25 | Bags & Packs    | State Bicycle Co. Commuter Sling / Hip Bag |
 |    $25 | closeout        | #RS119 -  State Bicycle Co. - Klunker Frame Bag - Butterfinger Edition |
 |    $25 | closeout        | #RS118 -  State Bicycle Co. - Klunker Frame Bag - Crunch Edition |
 |    $25 | Accessories     | State Bicycle Co. x RIPNDIP - FU All-Road Bar Bag |
