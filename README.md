@@ -3,7 +3,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
-|  $1985 | closeout        | #1214 - 4130 All-Road | Matte Olive / 650b (Size Small - 47cm, Used Condition) |
 |  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 49 cm (Riders 5'0"-5'3") |
 |  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 52 cm (Riders 5'3"-5'6") |
 |  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 55 cm (Riders 5'6"-5'9") |
@@ -176,3 +175,7 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Misc. Parts     | State Bicycle Co. - Urban Comfort Saddle - Black |
 |    $19 | Misc. Parts     | State Bicycle Co. - Urban Comfort Saddle - Brown |
 |    $19 | Misc. Parts     | State Bicycle Co. - Urban Comfort Saddle - White |
+|    $19 | Misc. Parts     | All-Road 1 - Chain Ring (38t , 40t, 42t, 44t) - 38 tooth |
+|    $19 | Misc. Parts     | All-Road 1 - Chain Ring (38t , 40t, 42t, 44t) - 40 tooth |
+|    $19 | Misc. Parts     | All-Road 1 - Chain Ring (38t , 40t, 42t, 44t) - 42 tooth |
+|    $19 | Misc. Parts     | All-Road 1 - Chain Ring (38t , 40t, 42t, 44t) - 44 tooth |
