@@ -172,10 +172,8 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $24 | Handlebars      | Black Label Series: Compact Drop Handlebar (Black) |
 |    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Urban Comfort Saddle |
 |    $22 | Handlebars      | Selle Italia - Smart Tape Handlebar Tape (Black) |
+|    $19 | Handlebars      | State Bicycle Co. - 25.4mm / 42cm Drop Bars (Black / Silver) - Black |
+|    $19 | Handlebars      | State Bicycle Co. - 25.4mm / 42cm Drop Bars (Black / Silver) - Silver |
 |    $19 | Misc. Parts     | State Bicycle Co. - Urban Comfort Saddle - Black |
 |    $19 | Misc. Parts     | State Bicycle Co. - Urban Comfort Saddle - Brown |
 |    $19 | Misc. Parts     | State Bicycle Co. - Urban Comfort Saddle - White |
-|    $19 | Misc. Parts     | All-Road 1 - Chain Ring (38t , 40t, 42t, 44t) - 38 tooth |
-|    $19 | Misc. Parts     | All-Road 1 - Chain Ring (38t , 40t, 42t, 44t) - 40 tooth |
-|    $19 | Misc. Parts     | All-Road 1 - Chain Ring (38t , 40t, 42t, 44t) - 42 tooth |
-|    $19 | Misc. Parts     | All-Road 1 - Chain Ring (38t , 40t, 42t, 44t) - 44 tooth |
