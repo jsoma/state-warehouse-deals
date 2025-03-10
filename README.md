@@ -37,18 +37,18 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 55 cm (Riders 5'7"-5'11") |
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 59 cm (Riders 5'11"-6'2) |
 |   $499 | 4130 Road       | 4130 Road - Americana - (8-Speed) - 62 cm (Riders 6'2"-6'6") |
-|   $350 | Core-Line       | Core-Line - Ghoul - Ghoul / Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
-|   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
-|   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
-|   $350 | Core-Line       | Core-Line - Ghoul - Ghoul / Small (50 cm- Riders 5'4"-5'7") / Riser Bars |
-|   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Small (50 cm- Riders 5'4"-5'7") / Bullhorn Bars (Add $25) |
-|   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Small (50 cm- Riders 5'4"-5'7") / Drop Bars (Add $25) |
-|   $350 | Core-Line       | Core-Line - Ghoul - Ghoul / Medium (54 cm- Riders 5'7"-5'11") / Riser Bars |
-|   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Medium (54 cm- Riders 5'7"-5'11") / Bullhorn Bars (Add $25) |
-|   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Medium (54 cm- Riders 5'7"-5'11") / Drop Bars (Add $25) |
-|   $350 | Core-Line       | Core-Line - Ghoul - Ghoul / Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
-|   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
-|   $375 | Core-Line       | Core-Line - Ghoul - Ghoul / Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
+|   $350 | Core-Line       | Core-Line - Ghoul - Extra Small (46 cm- Riders 5'0"-5'4") / Riser Bars |
+|   $375 | Core-Line       | Core-Line - Ghoul - Extra Small (46 cm- Riders 5'0"-5'4") / Bullhorn Bars (Add $25) |
+|   $375 | Core-Line       | Core-Line - Ghoul - Extra Small (46 cm- Riders 5'0"-5'4") / Drop Bars (Add $25) |
+|   $350 | Core-Line       | Core-Line - Ghoul - Small (50 cm- Riders 5'4"-5'7") / Riser Bars |
+|   $375 | Core-Line       | Core-Line - Ghoul - Small (50 cm- Riders 5'4"-5'7") / Bullhorn Bars (Add $25) |
+|   $375 | Core-Line       | Core-Line - Ghoul - Small (50 cm- Riders 5'4"-5'7") / Drop Bars (Add $25) |
+|   $350 | Core-Line       | Core-Line - Ghoul - Medium (54 cm- Riders 5'7"-5'11") / Riser Bars |
+|   $375 | Core-Line       | Core-Line - Ghoul - Medium (54 cm- Riders 5'7"-5'11") / Bullhorn Bars (Add $25) |
+|   $375 | Core-Line       | Core-Line - Ghoul - Medium (54 cm- Riders 5'7"-5'11") / Drop Bars (Add $25) |
+|   $350 | Core-Line       | Core-Line - Ghoul - Large (58 cm- Riders 5'11"-6'2") / Riser Bars |
+|   $375 | Core-Line       | Core-Line - Ghoul - Large (58 cm- Riders 5'11"-6'2") / Bullhorn Bars (Add $25) |
+|   $375 | Core-Line       | Core-Line - Ghoul - Large (58 cm- Riders 5'11"-6'2") / Drop Bars (Add $25) |
 |   $350 | Klunker         | State Bicycle Co. x RIPNDIP - Klunker + Bag Combo - FU Edition |
 |   $299 | Wheels          | All-Road Wheel Set 11-Speed Bundle - (650b / 700c) - 650b w/  Vittoria Terreno Dry 47c (Black) |
 |   $299 | Wheels          | All-Road Wheel Set 11-Speed Bundle - (650b / 700c) - 700c w/ Vittoria Terreno Zero 38c (Tan Wall) |
