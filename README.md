@@ -9,7 +9,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 58 cm (Riders 5'9"-6'1") |
 |  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 61 cm (Riders 6'2"-6'6") |
 |   $999 | closeout        | #OBI - Undefeated Disc Road | 58cm (Excellent Condition) |
-|   $975 | closeout        | #1230 - Undefeated Disc Road | Pearl (Size 55cm, Very Good Condition) |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
@@ -180,3 +179,5 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $19 | Misc. Parts     | All-Road 1 - Chain Ring (38t , 40t, 42t, 44t) - 40 tooth |
 |    $19 | Misc. Parts     | All-Road 1 - Chain Ring (38t , 40t, 42t, 44t) - 42 tooth |
 |    $19 | Misc. Parts     | All-Road 1 - Chain Ring (38t , 40t, 42t, 44t) - 44 tooth |
+|    $19 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage - Trailblazer Red (Red / Black) - 1- Cage |
+|    $29 | Misc. Parts     | State Bicycle Co. - Metallic Series Bottle Cage - Trailblazer Red (Red / Black) - 2- Cages (Save $10) |
