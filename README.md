@@ -3,11 +3,36 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 
 |price|type|name|
 |---|---|---|
+|  $1799 | Carbon All-Road | Carbon All-Road - Black / Ember (650b / 700c) - X-Small - 50cm - (Riders 5'1" - 5'6") / 700c |
+|  $1799 | Carbon All-Road | Carbon All-Road - Black / Ember (650b / 700c) - X-Small - 50cm - (Riders 5'1" - 5'6") / 650b |
+|  $1799 | Carbon All-Road | Carbon All-Road - Black / Ember (650b / 700c) - Small - 53cm - ( Riders 5'5" - 5'9") / 700c |
+|  $1799 | Carbon All-Road | Carbon All-Road - Black / Ember (650b / 700c) - Small - 53cm - ( Riders 5'5" - 5'9") / 650b |
+|  $1799 | Carbon All-Road | Carbon All-Road - Black / Ember (650b / 700c) - Medium - 55cm - ( Riders 5'8" - 5'11") / 700c |
+|  $1799 | Carbon All-Road | Carbon All-Road - Black / Ember (650b / 700c) - Medium - 55cm - ( Riders 5'8" - 5'11") / 650b |
+|  $1799 | Carbon All-Road | Carbon All-Road - Black / Ember (650b / 700c) - Large - 57cm - (Riders 5'10" - 6'2") / 700c |
+|  $1799 | Carbon All-Road | Carbon All-Road - Black / Ember (650b / 700c) - Large - 57cm - (Riders 5'10" - 6'2") / 650b |
+|  $1799 | Carbon All-Road | Carbon All-Road - Black / Ember (650b / 700c) - X-Large - 59cm - (Riders 6'1" - 6'4") / 700c |
+|  $1799 | Carbon All-Road | Carbon All-Road - Black / Ember (650b / 700c) - X-Large - 59cm - (Riders 6'1" - 6'4") / 650b |
+|  $1750 | Carbon All-Road | Carbon All-Road - White / Ember (650b / 700c) - X-Small - 50cm - (Riders 5'1" - 5'6") / 700c |
+|  $1750 | Carbon All-Road | Carbon All-Road - White / Ember (650b / 700c) - X-Small - 50cm - (Riders 5'1" - 5'6") / 650b |
+|  $1750 | Carbon All-Road | Carbon All-Road - White / Ember (650b / 700c) - Small - 53cm - ( Riders 5'5" - 5'9") / 700c |
+|  $1750 | Carbon All-Road | Carbon All-Road - White / Ember (650b / 700c) - Small - 53cm - ( Riders 5'5" - 5'9") / 650b |
+|  $1750 | Carbon All-Road | Carbon All-Road - White / Ember (650b / 700c) - Medium - 55cm - ( Riders 5'8" - 5'11") / 700c |
+|  $1750 | Carbon All-Road | Carbon All-Road - White / Ember (650b / 700c) - Medium - 55cm - ( Riders 5'8" - 5'11") / 650b |
+|  $1750 | Carbon All-Road | Carbon All-Road - White / Ember (650b / 700c) - Large - 57cm - (Riders 5'10" - 6'2") / 700c |
+|  $1750 | Carbon All-Road | Carbon All-Road - White / Ember (650b / 700c) - Large - 57cm - (Riders 5'10" - 6'2") / 650b |
+|  $1750 | Carbon All-Road | Carbon All-Road - White / Ember (650b / 700c) - X-Large - 59cm - (Riders 6'1" - 6'4") / 700c |
+|  $1750 | Carbon All-Road | Carbon All-Road - White / Ember (650b / 700c) - X-Large - 59cm - (Riders 6'1" - 6'4") / 650b |
 |  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 49 cm (Riders 5'0"-5'3") |
 |  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 52 cm (Riders 5'3"-5'6") |
 |  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 55 cm (Riders 5'6"-5'9") |
 |  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 58 cm (Riders 5'9"-6'1") |
 |  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 61 cm (Riders 6'2"-6'6") |
+|  $1075 | Frame / Fork    | Carbon All-Road Frame & Fork Set - Black / Ember - X-Small - 50cm - (Riders 5'1" - 5'6") |
+|  $1075 | Frame / Fork    | Carbon All-Road Frame & Fork Set - Black / Ember - Small - 53cm - ( Riders 5'5" - 5'9") |
+|  $1075 | Frame / Fork    | Carbon All-Road Frame & Fork Set - Black / Ember - Medium - 55cm - ( Riders 5'8" - 5'11") |
+|  $1075 | Frame / Fork    | Carbon All-Road Frame & Fork Set - Black / Ember - Large - 57cm - (Riders 5'10" - 6'2") |
+|  $1075 | Frame / Fork    | Carbon All-Road Frame & Fork Set - Black / Ember - X-Large - 59cm - (Riders 6'1" - 6'4") |
 |   $999 | closeout        | #OBI - Undefeated Disc Road | 58cm (Excellent Condition) |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
@@ -175,9 +200,3 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
 |    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Urban Comfort Saddle |
-|    $22 | Handlebars      | Selle Italia - Smart Tape Handlebar Tape (Black) |
-|    $19 | Handlebars      | State Bicycle Co. - 25.4mm / 42cm Drop Bars (Black / Silver) - Black |
-|    $19 | Handlebars      | State Bicycle Co. - 25.4mm / 42cm Drop Bars (Black / Silver) - Silver |
-|    $19 | Misc. Parts     | State Bicycle Co. - Urban Comfort Saddle - Black |
-|    $19 | Misc. Parts     | State Bicycle Co. - Urban Comfort Saddle - Brown |
-|    $19 | Misc. Parts     | State Bicycle Co. - Urban Comfort Saddle - White |
