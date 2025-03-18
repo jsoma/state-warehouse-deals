@@ -40,7 +40,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1075 | Frame / Fork    | Carbon All-Road Frame & Fork Set - Black / Ember - Medium - 55cm - ( Riders 5'8" - 5'11") |
 |  $1075 | Frame / Fork    | Carbon All-Road Frame & Fork Set - Black / Ember - Large - 57cm - (Riders 5'10" - 6'2") |
 |  $1075 | Frame / Fork    | Carbon All-Road Frame & Fork Set - Black / Ember - X-Large - 59cm - (Riders 6'1" - 6'4") |
-|   $999 | closeout        | #OBI - Undefeated Disc Road | 58cm (Excellent Condition) |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 650b |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Extra Small ( Riders 5'1" - 5'6") / 700c |
 |   $849 | 4130 All Road   | 4130 All-Road - Flat Bar - Raw Phosphate (650b / 700c) - Small ( Riders 5'5" - 5'10") / 650b |
@@ -206,3 +205,4 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
+|    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Urban Comfort Saddle |
