@@ -13,16 +13,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |  $1799 | Carbon All-Road | Carbon All-Road - Black / Ember (650b / 700c) - Large - 57cm - (Riders 5'10" - 6'2") / 650b |
 |  $1799 | Carbon All-Road | Carbon All-Road - Black / Ember (650b / 700c) - X-Large - 59cm - (Riders 6'1" - 6'4") / 700c |
 |  $1799 | Carbon All-Road | Carbon All-Road - Black / Ember (650b / 700c) - X-Large - 59cm - (Riders 6'1" - 6'4") / 650b |
-|  $1750 | Carbon All-Road | Carbon All-Road - White / Ember (650b / 700c) - X-Small - 50cm - (Riders 5'1" - 5'6") / 700c |
-|  $1750 | Carbon All-Road | Carbon All-Road - White / Ember (650b / 700c) - X-Small - 50cm - (Riders 5'1" - 5'6") / 650b |
-|  $1750 | Carbon All-Road | Carbon All-Road - White / Ember (650b / 700c) - Small - 53cm - ( Riders 5'5" - 5'9") / 700c |
-|  $1750 | Carbon All-Road | Carbon All-Road - White / Ember (650b / 700c) - Small - 53cm - ( Riders 5'5" - 5'9") / 650b |
-|  $1750 | Carbon All-Road | Carbon All-Road - White / Ember (650b / 700c) - Medium - 55cm - ( Riders 5'8" - 5'11") / 700c |
-|  $1750 | Carbon All-Road | Carbon All-Road - White / Ember (650b / 700c) - Medium - 55cm - ( Riders 5'8" - 5'11") / 650b |
-|  $1750 | Carbon All-Road | Carbon All-Road - White / Ember (650b / 700c) - Large - 57cm - (Riders 5'10" - 6'2") / 700c |
-|  $1750 | Carbon All-Road | Carbon All-Road - White / Ember (650b / 700c) - Large - 57cm - (Riders 5'10" - 6'2") / 650b |
-|  $1750 | Carbon All-Road | Carbon All-Road - White / Ember (650b / 700c) - X-Large - 59cm - (Riders 6'1" - 6'4") / 700c |
-|  $1750 | Carbon All-Road | Carbon All-Road - White / Ember (650b / 700c) - X-Large - 59cm - (Riders 6'1" - 6'4") / 650b |
 |  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 49 cm (Riders 5'0"-5'3") |
 |  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 52 cm (Riders 5'3"-5'6") |
 |  $1195 | Undefeated      | Undefeated Disc Road - Graphite / Prism - 55 cm (Riders 5'6"-5'9") |
@@ -56,7 +46,6 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Medium ( Riders 5'9" - 6'2") / 700c |
 |   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 650b |
 |   $779 | 4130 All Road   | 4130 All-Road - Flat Bar - Turquoise Fade (650b / 700c) - Large (Riders 6'1" - 6'5") / 700c |
-|   $745 | closeout        | #1217 - 4130 All-Road | Turquoise Fade / 650b (Size Small - 47cm, Very Good Condition) |
 |   $575 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 49 cm - (Riders 5'0"-5'3") |
 |   $575 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 52 cm - (Riders 5'3"-5'6") |
 |   $575 | Frame / Fork    | Undefeated Disc Road Frame & Fork Set - Graphite / Prism - 55 cm - (Riders 5'6"-5'9") |
@@ -206,3 +195,5 @@ https://www.statebicycle.com/collections/sale?sort_by=price-descending
 |    $25 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Blue |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Purple |
 |    $39 | closeout        | State Bicycle Co. 23c Tire Set (2 Tires) - Orange |
+|    $22 | Misc. Parts     | State Bicycle Co. x RIPNDIP - Lord Nermal Urban Comfort Saddle |
+|    $22 | Handlebars      | Selle Italia - Smart Tape Handlebar Tape (Black) |
